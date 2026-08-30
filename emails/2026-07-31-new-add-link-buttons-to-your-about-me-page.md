@@ -1,0 +1,67 @@
+---
+type: email
+title: "New: Add Link Buttons to your about.me page"
+date: 2026-07-31
+thread_id: 19fbd4735bb45696
+source: gmail
+participants:
+  - support@team.about.me
+  - michael@qalzy.com
+---
+
+# New: Add Link Buttons to your about.me page
+
+Entities: [[people/michael]] [[companies/qalzy]]
+
+## 2026-07-31 23:55 — support@team.about.me to michael@qalzy.com
+
+Turn your profile into a home base for your most important links.
+
+about.me ( https://click.about.me/click?ZTJBRb5swFIX5LZbYU9hs4zgkUqTFJGlQEmibtdvyggxcGALbKZis67T_PlF1Wp_u1fdwjr6zUXX-Q0L7-Um2L7_GLif8jRRaoKzgZTYvmEc58z2WA_OyGZ96OS-nfsD8AvAcTVCOFoSROZ4HE2TRghIaTAn2AzJBA0GLGSf4j_PwT1JmZrAfFXxyTq9vqiCNRLhbbWJxXN_GSbTZiZttGN7uo71IdrFYr97incOVOE_vva_QmfdKoGTdvoLcaAvaLsfbmTcm1UXWlV5uOwCX4oceut6l2HMpPtS6cSkWg7VGj5D8HzCGn30L1kL3YSwcs6_LsAwPvHqBAg5ah9n-8fneKj1Lzxeaf13LDW6DIPIbwY_sHFjOowJE4lVnypptzpPhS3tTzfD9BT_2ND0lWfHNMNMYPS3au-fvZXI63rn-2qmkwoSs_g4Acmd4bed438 )
+
+Link Buttons on an about.me page ( https://click.about.me/click?ZTJBfb9owFEfzWSxlT2S1HWMCEtJwgBLxJ21Zu40X5MSXLEps08RhXad99ylVp_J0pfNwj35nocv8p4T6y7OsX3_3Li_-gzSaoEzxUzZWLKCchQHLgQXZiA-DnJ-GYcRCBXiMBihHE8LIGI-jAXJoQgmNhgSHERmgjqDJiBP813v8P1JmtnOfNdx0LTQ3oErn7d_YUcMxEfFqttiJ7fxulyaLlbhdxvHdOlmLdLUT89m7x9tciPd8HeACjb3eBlqW9RvIrXFg3LS_jX1nUp9lWZjpsgHwKX5soWl9igOf4k1pKp9i0TlnTQ_JR8kd_GprcA6aT72w_32Zxqd4w4tXULAxJs7WTy8PTpvR8XCm-be5XOA6ipKwEnzLDpHjPFEg0qA4UFYtc552X-vbYoQfzvippcd9mqnvltnKmqGq719-nNL99t4P514hNSZk9m8Ack82bd24e7 )
+
+Hi ,
+
+New: Add Link Buttons to your about.me page.
+
+Your about.me page can now do more than introduce you.
+
+With Link Buttons, you can add clear buttons to your page that send visitors wherever you want them to go.
+
+One profile. Every next step.
+
+Add links to your website, portfolio, booking page, newsletter, store, resume, social profiles, or anything else you want people to find.
+
+Want to see the idea in action? Check out Brad Feld’s about.me page at
+givefirst.me ( https://click.about.me/click?ZTJBfb5swFEf5LJbYU9hs4zgkUqTFJGlQ_tA2a7flBRm4MAS2UzCs67TvPjF1ap-udB7u0fltVJX9kNB8fpLNy6_R5YS_kUILlOa8SOc58yhnvscyYF4641Mv48XUD5ifA56jCcrQgjAyx_NggixaUEKDKcF-QCaoJ2gx4wT_cR7-R5bVAEXVdvajgk_OWaamt4mCJBLhbrU5ieP69hRHm5242Ybh7T7ai3h3EuvVq8I5DMR5et8-QGveZ4GSVfMPZEZb0HY53ta8Mqmusir1ctsCuBQ_dNB2LsWeS_Gh0rVLseitNXqE5G3EE_zsGrAW2g-jcPw9LMMiPPDyBXI4aB2m-8fne6v0LLlcafZ1LTe4CYLIrwU_sktgOY9yELFXXiirtxmP-y_NTTnD91f82NHkHKf5N8NMbfQ0b-6evxfx-Xjn-munlAoTsvo7AAeo2f820f26 ).
+His page brings together his blog, books, author profile, films, company links, and social profiles in one simple place.
+
+That is what Link Buttons are for. Your profile should not just tell people who you are. It should help them take the next step.
+
+Link Buttons are free to use and available now.
+
+And if you want your page to go further, about.me Standard and Pro add Virtual Twin and CRM, so visitors can ask questions, become leads, and give you more context before you follow up.
+
+Start with your links. Then build the kind of profile that works harder for you.
+
+Cheers
+
+The good people at about.me
+
+Add your most important links in a few minutes.
+
+Add Link Buttons ( https://click.about.me/click?ZTJBfb9owFEfzWSxlT2S1HWMCEtJwgBLxJ21Zu40X5MSXLEps08RhXad99ylVp_J0pfNwj35nocv8p4T6y7OsX3_3Li_-gzSaoEzxUzZWLKCchQHLgQXZiA-DnJ-GYcRCBXiMBihHE8LIGI-jAXJoQgmNhgSHERmgjqDJiBP813v8P1JmtnOfNdx0LTQ3oErn7d_YUcMxEfFqttiJ7fxulyaLlbhdxvHdOlmLdLUT89m7x9tciPd8HeACjb3eBlqW9RvIrXFg3LS_jX1nUp9lWZjpsgHwKX5soWl9igOf4k1pKp9i0TlnTQ_JR8kd_GprcA6aT72w_32Zxqd4w4tXULAxJs7WTy8PTpvR8XCm-be5XOA6ipKwEnzLDpHjPFEg0qA4UFYtc552X-vbYoQfzvippcd9mqnvltnKmqGq719-nNL99t4P514hNSZk9m8Ack82bd24e7 )
+
+Want a more interactive profile with Virtual Twin and CRM?
+
+See Standard and Pro ( https://click.about.me/click?ZTJBfb5swFEf5LJbYU9hs4zgkUqTFJGlQ_tA2a7flJTLmhiGwTcFkXad994mq0_p0pfNwj85vpUv1Q0L9-UnWL78Glxf_RhrNUJbzSzbNWUA5CwOmgAXZhI8DxS_jMGJhDniKRkihGWFkiqfRCDk0o4RGY4LDiIxQT9Bswgn-4z38i5SZ7d1HDZ-atlSlKbzjKzlrOCci3ixWB7Ff3h7SZLURN-s4vt0mW5FuDmK5eLN4uyvxnt7nX6G178tAy7J-BcoaB8bNh9vaNyZ1I8vCzNctgE_xQwdt51Mc-BTvSlP5FIveOWsGSP7veICfXQ3OQfthEA6_r_P4Eu948QI57IyJs-3j873TZnI-NVR9XcoVrqMoCSvB9-wUOc6THEQaFCfKqrXiaf-lvikm-L7Bjx09H9Ms_2aZrawZ5_Xd8_dLetzf-eHSK6TGhCz-DgA4m75579b5b )
+
+Standard and Pro include Virtual Twin and CRM.
+
+Terms ( https://click.about.me/click?ZTJDRbpswFED5FkvsKWy2cRwSKdJikjQoCbTN2m15QQYuDIHtFEzWddq_T1Sd1ifL5-Gee-5G1fkPCe3nJ9m-_BpdTvgbKbRAWcHLbF4wj3LmeywH5mUzPvVyXk79gPkF4DmaoBwtCCNzPA8myKIFJTSYEuwHZIIGghYzTvAf5-FfpMzMYD8q-DTu1jun13-qII1EuFttYnFc38ZJtNmJm20Y3u6jvUh2sViv3hzO4Uqcp_fxV-jM-y5Qsm5fQW60BW2X49uZNybVRdaVXm47AJfihx663qXYcyk-1LpxKRaDtUaPkPy_Ygw_-xashe7DKBxnX5dhGR549QIFHLQOs_3j871VepaeLzT_upYb3AZB5DeCH9k5sJxHBYjEq86UNducJ8OX9qaa4fsLfuxpekqy4pthpjF6WrR3z9_L5HS8c_21U0mFCVn9HQA1veb94f15e ) |
+Unsubscribe ( https://click.about.me/click?ZTJFfj5pMGEf5LCS-V8u7MwOMYLJJBXUVQVz_640Z4IEiMCAMVm363RuabbpXk5yLOTnPb1yk4XcG-bcry5-PziXZP-VCHshBROPAjDSFUE1VtBA0JehTXQlprKuGpkaATPlFDuUB1rCJTONFFvKAYGLoGKkGfpFbLA_6FKNf0vZvJKuq_xMQN6jLzvXa8qYNmrBOA3itaoihBh5C8wrO_aKxS9H4zvLZGGLtPeqLZ3qP_YY5-9tkp1ts5zxiS9kUzPVvdYAPJ2N_4o6yptcsy530kGOF5fqDFXp12Db34g5HNkxGbro65gRANw3MKIsjncYRQxBjxohBUERA7UtrFpStOBdwnln2dDheWN5oufBn46n1PrHt5Xw2t_zpwhoNP-sl94al69dZusivF4eCpfkfEJZcABdv3VuXn4wVFUsT_japAXoEbRuomx5BSo8gN-VZjyCrFaLkHcT_9l3AjyYHIaD-rxN2f9_e7Nh2afKECFzO7WC-u69EwfvnU0XC_YiNUW4YMzWzqKedDEHpLALLV5IT0bJJSP12k78nfbSq0K4h57UfRIdSK7OS61H-cT_G_tr76KkjKWEFwnj4ewA4n66e38d5f ) |
+Privacy ( https://click.about.me/click?ZTJBfb9owFEfzWSxlT2SzHWMCEtJwgBLxJ21Zu40X5DiXLCK2aeJkbad99ylVp_J0pfNwj85voUv1S0L19UlWry-9y4v_II0mKMv5KRvnLKCchQFTwIJsxIeB4qdhGLEwBzxGA6TQhDAyxuNogByaUEKjIcFhRAaoJWgy4gT_9R7-R8rMtu6zhi-XuuykevH2b-So4ZiIeDVb7MR2frtLk8VK3Czj-HadrEW62on57N3ibTriPV3nd1Db6zLQsqzegLLGgXHT_tb2nUl9kWVhpssawKf4oYG68SkOfIo3pTn7FIvWOWt6SD523MHvpgLnoP7UC_vf3TQ-xRtevEIOG2PibP34fO-0GR0PF6q-z-UCV1GUhGfBt-wQOc6THEQaFAfKzkvF0_ZbdVOM8P0FPzb0uE-z_Idl9mzNMK_unn-e0v32zg_nXiE1JmT2bwAfu8ae06a29 ) |
+Account ( https://click.about.me/click?ZTJBfb9owFEfzWSxlT2S1HWMCEtJwgBLxJ21Zu40X5MSXLEps08RhXad99ylVp_J0pfNwj35nocv8p4T6y7OsX3_3Li_-gzSaoEzxUzZWLKCchQHLgQXZiA-DnJ-GYcRCBXiMBihHE8LIGI-jAXJoQgmNhgSHERmgjqDJiBP813v8P1JmtnOfNdx0LTQ3oErn7d_YUcMxEfFqttiJ7fxulyaLlbhdxvHdOlmLdLUT89m7x9tciPd8HeACjb3eBlqW9RvIrXFg3LS_jX1nUp9lWZjpsgHwKX5soWl9igOf4k1pKp9i0TlnTQ_JR8kd_GprcA6aT72w_32Zxqd4w4tXULAxJs7WTy8PTpvR8XCm-be5XOA6ipKwEnzLDpHjPFEg0qA4UFYtc552X-vbYoQfzvippcd9mqnvltnKmqGq719-nNL99t4P514hNSZk9m8Ack82bd24e7 )
+
+27 South Park, Suite 200 | San Francisco, CA 94107

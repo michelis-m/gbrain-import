@@ -1,0 +1,62 @@
+---
+type: email
+title: "Did you know about.me comes with CRM?"
+date: 2026-06-09
+thread_id: 19eaef9d692c45f0
+source: gmail
+participants:
+  - support@team.about.me
+  - michael@qalzy.com
+---
+
+# Did you know about.me comes with CRM?
+
+Entities: [[people/michael]] [[companies/qalzy]]
+
+## 2026-06-09 23:58 — support@team.about.me to michael@qalzy.com
+
+Your about.me page can now help capture and organize leads.
+
+about.me ( https://click.about.me/click?ZTJDdbptAEIV5lpXolWl3h7-1JUsNaxwj25DiJK18gxaYUGRgHVicNlXfvSJKFV_N6EhzPn0TtnXxU2Lz9Vk2r78nliH-kJYsCJQuuo7tWjK3c8vh8GTN5byw5nNwgfLSB98mM1KQBXOo63OYEU0WwIC7jNqczcjIyML3GP1rPPyXlLka9ecWvxiHtzVrMYsCsbkJ42C_uouTKNwEt2sh7rbRNkg2cbC6ea83dhdmPF97X7BX10rYyrp5CwrVaez0cpq9es9ke5Z11S3XPaIJ9GHAfjCBinRvArVMoOF0bwJlH9-L8WVoUGvsP020qfiyFE9i51WvWOKu60S-ffyV6rbzs-MZiu8rGdKG88g-Bd7eOXLteVGJQWJVR3BO68JLxvvmtvJpeqaPA2SHJC9_KEedVOeWTfoS3a8P-2-mvTIqWddqrP4NAA7s85c9e606 )
+
+about.me CRM and Virtual Twin lead capture ( https://click.about.me/click?ZTJDbbptAEED5lpXok2l3h9vakqWGNY6RL6R2klZ-sRaYUGTYJbA4bar-e0WUKn4a6UgzR2fipsp_Sqy_Psv69ffossQf0pAZgcJH33N9R2Zu5ngcnpypnObOdAo-UF6EELpkQnIyYx71Qw4TYsgMGHCfUZezCRkYmYUBo3-th_-RMtOD-dzgl7ar8kqV1uGNnBo8JZFY3cS7aLu426VJvIpul0LcrZN1lK520eLm3WJtLsx6vs6_YKevy7CRVf0Gcq0MKjMfZ6ffmWxaWZVqvuwQbaAPPXa9DVTstzZQxwYaj_s2UPbxxB2-9DUag92n0TYevszFk9gE5SsWuFFKZOvHX3vTqPB0bCH_vpAxrTlP3HMUbL0jN0GQFBilTnkE77zMg3S4r2_LkO5b-tjD6ZBmxQ_t6bNWflHvX5L75WH7zXYXVimrSg_lvwEA8i08623dc5 )
+
+Hi ,
+
+Did you know about.me comes with CRM?
+
+Most people know about.me as a simple personal profile page.
+
+But with Standard and Pro, your about.me account also includes CRM and Virtual Twin.
+
+That means your profile can do more than introduce you. It can help capture leads, organize contacts, and keep track of the people who want to connect with you.
+
+When someone visits your profile and chats with your Virtual Twin, they can ask questions about you, your work, your services, or how to reach you.
+
+If they share their name and phone number, a contact can be created in your CRM along with the history of the conversation. You are notified when a new lead comes in, so you can follow up with context.
+
+Your about.me page can become more than a profile. It can become a simple lead capture system.
+
+Want to understand how it works before upgrading? You can talk to Ami, the about.me Virtual Twin guide, at
+aboutami.me ( https://click.about.me/click?ZTJDbbptAEIZ5lpXolWl3h9PakqWGNY6RD6R2kla-QQtMKDLLOrA4baq-e0WUKr4azS_NfPr-WNXFT4nN12fZvP4eWZb4QxSZESh99D3Xd2Tu5o7H4cmZymnhTKfgA-VlCKFLJqQgM-ZRP-QwIYbMgAH3GXU5m5CBkVkYMPrXevgvKXM9GKnqzwq_WIe3LVOYJZFY3cS7aLu426VJvIpul0LcrZN1lK520eLmnWBtLsx6vla_YKevrVDJunkLCt0abM18nJ1-z6Q6y7pq58sO0Qb60GPX20DFfmsDdWyg8XhvA2UfBe7wpW_QGOw-jbTx8WUunsQmqF6xxE3binz9-GtvVBtmxzMU3xcypg3niXuKgq135CYIkhKj1KmO4J2WRZAO981tFdL9mT72kB3SvPyhPX3SrV82-5fkfnnYfrPdhVXJutZD9W8A4j37edb448 ).
+
+CRM and Virtual Twin are included with about.me Standard and Pro.
+
+Cheers
+
+The good people at about.me
+
+Get CRM and Virtual Twin with Standard or Pro.
+
+Get CRM and Virtual Twin ( https://click.about.me/click?ZTJDbbptAEED5lpXok2l3h9vakqWGNY6RL6R2klZ-sRaYUGTYJbA4bar-e0WUKn4a6UgzR2fipsp_Sqy_Psv69ffossQf0pAZgcJH33N9R2Zu5ngcnpypnObOdAo-UF6EELpkQnIyYx71Qw4TYsgMGHCfUZezCRkYmYUBo3-th_-RMtOD-dzgl7ar8kqV1uGNnBo8JZFY3cS7aLu426VJvIpul0LcrZN1lK520eLm3WJtLsx6vs6_YKevy7CRVf0Gcq0MKjMfZ6ffmWxaWZVqvuwQbaAPPXa9DVTstzZQxwYaj_s2UPbxxB2-9DUag92n0TYevszFk9gE5SsWuFFKZOvHX3vTqPB0bCH_vpAxrTlP3HMUbL0jN0GQFBilTnkE77zMg3S4r2_LkO5b-tjD6ZBmxQ_t6bNWflHvX5L75WH7zXYXVimrSg_lvwEA8i08623dc5 )
+
+Questions first?
+Talk to Ami ( https://click.about.me/click?ZTJDbbptAEIZ5lpXolWl3h9PakqWGNY6RD6R2kla-QQtMKDLLOrA4baq-e0WUKr4azS_NfPr-WNXFT4nN12fZvP4eWZb4QxSZESh99D3Xd2Tu5o7H4cmZymnhTKfgA-VlCKFLJqQgM-ZRP-QwIYbMgAH3GXU5m5CBkVkYMPrXevgvKXM9GKnqzwq_WIe3LVOYJZFY3cS7aLu426VJvIpul0LcrZN1lK520eLmnWBtLsx6vla_YKevrVDJunkLCt0abM18nJ1-z6Q6y7pq58sO0Qb60GPX20DFfmsDdWyg8XhvA2UfBe7wpW_QGOw-jbTx8WUunsQmqF6xxE3binz9-GtvVBtmxzMU3xcypg3niXuKgq135CYIkhKj1KmO4J2WRZAO981tFdL9mT72kB3SvPyhPX3SrV82-5fkfnnYfrPdhVXJutZD9W8A4j37edb448 )
+and ask how CRM and Virtual Twin work together.
+
+Terms ( https://click.about.me/click?ZTJDdbptAEEZ5lpXolWl3h7-1JUsNaxwj25DiJK18gxaYUGRgHVicNlXfvSJKFV-N5pNmzpwJ27r4KbH5-iyb198TyxB_SEsWBEoXXcd2LZnbueVweLLmcl5Y8zm4QHnpg2-TGSnIgjnU9TnMiCYLYMBdRm3OZmRkZOF7jP41Hv5LylyN-nOLX6bbBuPw1mctZlEgNjdhHOxXd3EShZvgdi3E3TbaBskmDlY37wxjd2HG87X8BXt17YWtrJu3oFCdxk4vp9qr90y2Z1lX3XLdI5pAHwbsBxOoSPcmUMsEGk7zJlD28cIYX4YGtcb-00SbFl-W4knsvOoVS9x1nci3j79S3XZ-djxD8X0lQ9pwHtmnwNs7R649LyoxSKzqCM5pXXjJeN_cVj5Nz_RxgOyQ5OUP5aiT6tyySV-i-_Vh_820V0Yl61qN1b8BAA3l42f1901e ) |
+Unsubscribe ( https://click.about.me/click?ZTJFbj6JMEIb5LSR8V_LZ3ZxaE5MVxBEVcRQPy41poGRRaJCDo272v2_YzGbnqpI3qXry1GvnafSDQfbtxrLXs2MJ1k8xF4ciiTXQVEWTWaiEskrJWR6wQSQPBkQjiMYGMRSxJ0biEKtIMyjpiY04JJhQDSOF4p7YYnFo6Bj9EnZ_JVlZ_p9Ac4eq6Fj9ltdtWEdVGkK_rOAMFfAI6j7MHxeVXfLam69fNW227rO6uAP3efDZ_HCf7jWT7efPsyn7OVt69yrEx4AeAj6Xt_qN20f8fD9qCz8PtM2ufuQP-M7GiTXDDx9HoYqpgagSG2qshyE96wZlkaETZqi6QoQtC4u2OeVwckxrNrZXpjtZrzzHnplvU8taL5yF6c1W5mT8aS4s71i4fa2kE_z6bchZmv0JooI3wJtRN6viM2N5ydKEj6YVgETQroaqlgiyNq5EkCwRZHf7EkH4X7Er-KgzaBqo_uto3eH7yDpbSz15QQxLzq1wsX9smpwbp6Ak0WHCbJRR6ihXU3fVgDa67sRgenISEPU6jXSv9bO3xECbEu1rctp6YXws1OJacC3ONh-OP92675IyERKWpkWb_B4A4v32b29f76 ) |
+Privacy ( https://click.about.me/click?ZTJDbbptAEED5lpXok2l3h9vakqWGNY6RL6R2klZ-QQtMKDKwBBbSpOq_V0Sp6qeRjjRzdCasy-ynxOrrs6zeXieXIX6TmiwI5C66ju1aMrVTy-HwZM3lPLPmc3CB8twH3yYzkpEFc6jrc5gRTRbAgLuM2pzNyMDIwvcY_WM8_IuUqRr05xq_tF05yuzVOL2TpMYkCsTmJjwE-9XdIY7CTXC7FuJuG22DeHMIVjcfFmM3MuP5On_ETl2XYS3L6h1kqtHY6OU0O_XBZN3KsmiW6w7RBPrQY9ebQMVxbwK1TKDhtG8CZf-feMCXvkKtsfs02abD41I8iZ1XvGGOu6YR6fbx11HXjZ-cW8i-r2RIK84j-xJ4e-fMtedFOQaxVZzBuawzLx7uq9vCp8eWPvaQnOI0_6EcdVGNm1fHl-h-fdp_M-2VUciyVEPxdwA2v73a067a4 ) |
+Account ( https://click.about.me/click?ZTJDdbptAEIV5lpXolWl2h7-1JUsNaxwj25DiJK18gxaYUGRgHVicNlXfvSJKVV-N9ElzPp0TtnXxQ2Lz5UU2b78mlyF-k5YsCJQuuo7tWjK3c8vh8GzN5byw5nNwgfLSB98mM1KQBXOo63OYEU0WwIC7jNqczcjIyML3GP1jPP4rKXM16s8t3owD9jdY1to4vLOsxSwKxOY2jIP96j5OonAT3K2FuN9G2yDZxMHq9sNj7C7MeLke4IK9uu6Graybd1CoTmOnl9Pt1QeT7VnWVbdc94gm0McB-8EEKtK9CdQygYbTvwmU_Z8xxtehQa2x_zTZpuDLUjyLnVe9YYm7rhP59ulnqtvOz45nKL6tZEgbziP7FHh758i150UlBolVHcE5rQsvGR-au8qn6Zk-DZAdkrz8rhx1Up1bNulr9LA-7L-a9sqoZF2rsfo7AA2nbd6403bc )
+
+27 South Park, Suite 200 | San Francisco, CA 94107
