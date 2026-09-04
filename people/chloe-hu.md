@@ -1,3 +1,3 @@
 # Chloe Hu
-Role: Portless Representative.
-Context: Account manager or logistics contact for Qalzy. Handles tracking, reshipments, and warehouse coordination (e.g., DDP tax issues, tracking lost packages).
+**Role:** Customer Success Manager at Portless
+**Context:** Manages Qalzy's account for shipping and fulfillment.
