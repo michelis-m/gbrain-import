@@ -1,0 +1,14 @@
+# Redo
+- **Category:** Returns Management, Reverse Logistics & Shipping Protection
+- **Website:** [getredo.com](https://getredo.com)
+- **Key Contacts:**
+  - [[people/alec]] (Support / Technical Onboarding)
+  - Parker & Conner (Salt Lake Warehouse Operations)
+- **Role in Qalzy Stack:**
+  - Handles customer return requests, return label generation, and warranty claims for [[companies/qalzy]].
+  - Warehouses:
+    - **US:** Salt Lake City, Utah (handling domestic return inspection and refulfillment).
+    - **EU:** Qalzy c/o Redo, Stuartweg 8a, Vianen, Utrecht 4131 NJ, Netherlands (for European RTS / return batches).
+- **Logistics Notes:**
+  - "Refulfillment" enables shipping refurbished/returned units directly out of the Salt Lake warehouse.
+  - Returns only register as available inventory once physically assigned to a bin in receiving.
