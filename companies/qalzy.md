@@ -22,7 +22,8 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Registered as QALZY LTD, UK company number 14914986, at 128 City Road, London, EC1V 2NX (`File your confirmation statement now for QALZY LTD 14914986`, `Qalzy Landing Page`).
 - Raised a $330k pre-seed, covered by Athletech News in May 2026 under the headline "Qalzy banks $330k pre-seed for AI kitchen scale, joining rise of ambient wellness devices" (`Re: AI nutrition startup raises $330k pre-seed`). Michael confirmed to a returns vendor in May that "we've raised Venture Capital and we are launching in June" (`Qalzy & ReturnBear`). An unsolicited cold email attributes the round to Jenson Ventures and puts Kickstarter pre-orders at nearly €204,000 (`Qalzy + Jenson Ventures + Runway Visibility`); neither founder confirms either figure in the corpus.
 - Funded pre-orders through Kickstarter, with Pledgebox used to collect backer shipping fees. 1,300 pre-orders as of 19 May 2026 (`Qalzy & ReturnBear`); 577 backer orders with completed shipping details synced into Shopify by 10 July 2026 (`Expecting to send Qalzy White tomorrow`).
-- Product line and SKUs: scale in white (QZ-01-WHT) and black (QZ-01-BLK), carrying case (QZ-CC-01), plates (QZ-PL-01) and chargers (QZ-CHG-EU, QZ-CHG-US), each with its own barcode (`Portless & Qalzy Onboarding Recap and Next Steps`). Retail price quoted at $239 in August 2026 (`Response re: your HARO inquiry`).
+- Product line and SKUs: scale in white (QZ-01-WHT) and black (QZ-01-BLK), carrying case (QZ-CC-01), plates (QZ-PL-01) and chargers (QZ-CHG-EU, QZ-CHG-US), each with its own barcode (`Portless & Qalzy Onboarding Recap and Next Steps`). Retail price quoted at $239–$249 in August/September 2026 (`Response re: your HARO inquiry`).
+- Unit Economics: Breakeven CPA is ~$175 (supersedes earlier meeting discussions citing $140–$145). Target CPA is ~$100–$120.
 - Sells through Shopify at qalzy.com. Key markets are US, CA, EU, UK, AU and NZ (`Portless & Qalzy Onboarding Recap and Next Steps`).
 - Manufacturing is in China across at least three suppliers, one of them Dongguan Brilliant Packaging Co., Ltd and one North Star Sales for carry cases. Assembly line was being finalised in May 2026 (`Re: AI nutrition startup raises $330k pre-seed`, `Portless & Qalzy Onboarding Recap and Next Steps`).
 - Fulfilment runs through [[companies/portless]], shipping direct from Chinese non-bonded and bonded warehouses, integrated to Shopify via Pipe17. OpenBorder handles international duties and taxes (`Qalzy + OpenBorder Onboarding`). Returns partners were being evaluated with Redo/ReturnBear and Loop Returns.
@@ -43,9 +44,10 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - `Response re: your HARO inquiry` — a review unit was requested by FemFounder for a gift guide; not confirmed sent.
 - Email marketing capability is impaired: Brevo suspended the sending account and asked Qalzy to clean unengaged contacts before reinstatement (`Suspended`).
 
-## Confirmed by Michael, 2026-08-15
+## Confirmed by Michael
 
-- Kostas Koukoravas is CEO and co-founder. Michael Michelis is co-founder and COO. See [[people/kostas-koukoravas]].
+- 2026-09-08: Breakeven CPA is ~$175 (supersedes earlier meeting discussions citing $140–$145). Target CPA is ~$100–$120.
+- 2026-08-15: Kostas Koukoravas is CEO and co-founder. Michael Michelis is co-founder and COO. See [[people/kostas-koukoravas]].
 - Nutrioscale Ltd was the original company name, later rebranded to Qalzy Ltd. It is NOT a separate legal entity. Any nutrioscale.com domain or address is legacy Qalzy.
 - Qalzy raised a 330k USD seed round from Jenson Ventures. Earlier corpus references calling this a pre-seed, sourced only to a cold emailer, are superseded by this.
 
