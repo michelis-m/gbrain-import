@@ -14,3 +14,4 @@ Primary point of contact and media buyer managing Qalzy's paid media and creativ
 - **2026-09-08 Creative QA Feedback:** Qalzy founders identified significant editing errors in recently delivered video batches:
   - Subtitles placed directly across the phone screen/potion size interface in Stella's video ad.
   - Video hooks poorly synchronized with music cuts.
+- **2026-09-09 Contract Termination Notice:** [[people/michael-michelis]] delivered formal 30-day notice ending Blazer Agency's media buying contract at the end of September / Oct 8th. Ronaldas accepted and committed to delivering the final month's scheduled creative assets: founder story V2 revisions, retargeting exclusion fixes, UGC British woman ad, and diabetes angle ads.
