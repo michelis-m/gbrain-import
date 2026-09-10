@@ -1,0 +1,18 @@
+# Social Paradigm Group (SPG)
+
+**Category:** DTC Growth, Performance Marketing & Creative Production Agency  
+**Key Contacts:**
+- [[people/charlie-williams]] (Co-CEO, Sales & Growth)
+- [[people/jess-brown]] (Head of People)
+- [[people/sean-greenspan]]
+
+**Services & Proposal (Qalzy - September 2026):**
+- **Retainer:** £2,500/month + VAT (90-day initial term recommended).
+- **Deliverables:**
+  - 80 creative assets per month (20 new assets/week repurposing raw UGC, varied hooks, Reels-native cuts).
+  - Full Meta Ads and Google Ads management.
+- **Core Methodology & Strategy:**
+  - Advocates CBO (Advantage Campaign Budget) and ASC over manual ABO ad sets.
+  - Advised against manual killing of volume-driving ads at 1x target CPA; recommends Meta Cost Caps ($250 cap) to work with algorithm dynamics.
+  - Focuses on TikTok/Reels-native UGC to capitalize on lower CPMs and CPCs.
+  - Strong emphasis on Partnership Ads (whitelisting) and advertorial/listicle pre-sale pages before sending traffic to the main product page.
