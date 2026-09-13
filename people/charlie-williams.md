@@ -14,5 +14,7 @@ Charlie co-leads Social Paradigm Group (SPG), a growth and creative agency speci
 - **2026-09-08 Account Audit Presentation:** Presented Qalzy's audit to Michael and Kostas:
   - Strong advocate of letting Meta's algorithm optimize; strictly advises against turning ads off manually at 1x target CPA.
   - Recommends shifting from ABO to CBO/ASC, introducing partnership ads/whitelisting to lower CPMs/CPCs, and inserting advertorial/listicle pre-sale pages.
-  - Co-founder Will leads performance media buying; Head of People is Jess Brown.
-  - Scheduled follow-up team review on 2026-09-11 with Qalzy to introduce the dedicated pod before agreement finalization.
+- **2026-09-11 Team Alignment & Signing:**
+  - Led the SPG pod introduction meeting with Qalzy founders, introducing [[people/syed-hussain]] (media buyer), Sol (creative), Leanne (email), and [[people/jess-brown]] (onboarding).
+  - Sent the formal agreement and onboarding pack via PandaDoc and Stripe.
+  - Confirmed immediate takeover of Meta media buying upon contract execution, agreeing that Blazer will cease media buying immediately and focus solely on creative asset fulfillment.

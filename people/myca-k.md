@@ -8,3 +8,4 @@ UGC creator commissioned by [[people/michael-michelis]] for [[companies/qalzy]] 
 
 ## Facts & Notes
 - Delivered completed UGC video ad order on 2026-09-10 for review.
+- Delivered revised video creative on 2026-09-12 addressing review feedback.
