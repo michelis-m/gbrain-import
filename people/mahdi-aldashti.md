@@ -17,3 +17,7 @@ Met with [[people/michael-michelis]] on 2026-09-04 to discuss acquiring exclusiv
   - Mahdi countered with an expanded initial order of 250 units at $70/unit, proposing an intended retail price of ~$120 in Kuwait (high volume, lower margin).
   - After Michael looped in [[people/kostas-koukoravas]] to evaluate factory availability, Mahdi proposed meeting in the middle at $85/unit EXW.
   - Inquired about sending a sample unit directly to his brother, who is currently in China until Thursday, September 17.
+- **2026-09-14 Pricing & Negotiation Review:**
+  - In internal daily standup, [[people/kostas-koukoravas]] strongly objected to Mahdi's proposal to retail at ~$120, noting that selling at $120 while global retail is $199–$250 damages Qalzy's brand credibility and price integrity.
+  - Founders aligned that $85 EXW is acceptable only if retail price in Kuwait is capped at a minimum of $169–$170, or under an enforceable geo-restricted retail model.
+  - [[people/michael-michelis]] emailed Mahdi proposing a video call on Thursday or Friday (Sep 17–18) to align on pricing and commercial terms.

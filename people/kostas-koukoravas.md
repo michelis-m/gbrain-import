@@ -10,3 +10,9 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
   - Followed up on OpenBorder August invoice and pressed for urgent EU Kickstarter VAT/duty calculations to mitigate regulatory penalties.
   - Scheduled Redo Returns workflow optimization session with Frank Marino for Monday Sep 14 (18:30 GMT+3).
   - Confirmed reshipment tracking (9212290411389201115861) for Portless RTS order PBID007753159.
+- **2026-09-14 Operations, Pricing & Growth:**
+  - Standardized Qalzy scale retail price at $199 and terminated the 5-day A/B test ($169/$239).
+  - Adjusted Shopify base COGS to $28.24 and configured US weight-based shipping profile across Shopify, Sellerboard, and Triple Whale.
+  - Agreed to scale daily Meta ad spend toward $1,200/day following weekend blended ROAS recovery (2.2 and 2.6).
+  - Logged engineering ticket for the scale "System Busy" freeze bug after testing father's returned unit.
+  - Rejected Mahdi Aldashti's Kuwait $120 retail pricing proposal; insisted on maintaining brand pricing integrity ($169+ retail).
