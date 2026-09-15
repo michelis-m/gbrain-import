@@ -41,7 +41,7 @@ Blended AOV, Aug + Sep MTD (Sellerboard, total sales ÷ orders): $235.12. – Au
 
 *AOV x Gross Margin % = Breakeven CPA*
 
-~$152. $235.12 AOV × 64.5% contribution margin = $152. On the more generous Sellerboard COGS basis it is $163. Right now we have the price test running with three price points $169/$199/$239 so that is likely to change depending on the price point we land.
+$140 breakeven CPA target on the standardized $199 retail price point (compared to $157 at the previous $239 price point). (Historically estimated at ~$152 based on early blended AOV of $235.12 × 64.5% contribution margin).
 
 ### What is your breakeven Blended ROAS?
 

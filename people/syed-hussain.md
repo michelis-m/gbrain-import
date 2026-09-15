@@ -11,3 +11,4 @@
 - Proposed shifting Qalzy's ad account structure from ABO to CBO, setting up audience exclusions and custom reporting segments.
 - Advocated reviving top-performing ad angles previously turned off prematurely (including insulin management and GLP-1 weight loss).
 - Focuses heavily on the 50+ age demographic (Qalzy's highest-converting cohort) paired with congruent pre-sale advertorials and landing page CRO.
+- 2026-09-15: Michael communicated that with the $199 price locked in, Qalzy's breakeven CPA is $140 (compared to $157 at the $239 price point), and $140 is the target for breakeven on paid media.
