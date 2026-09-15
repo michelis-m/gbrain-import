@@ -24,6 +24,7 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Funded pre-orders through Kickstarter, with Pledgebox used to collect backer shipping fees. 1,300 pre-orders as of 19 May 2026 (`Qalzy & ReturnBear`); 577 backer orders with completed shipping details synced into Shopify by 10 July 2026 (`Expecting to send Qalzy White tomorrow`).
 - Product line and SKUs: scale in white (QZ-01-WHT) and black (QZ-01-BLK), carrying case (QZ-CC-01), plates (QZ-PL-01) and chargers (QZ-CHG-EU, QZ-CHG-US), each with its own barcode (`Portless & Qalzy Onboarding Recap and Next Steps`). Standard retail price locked at $199 following the September 2026 pricing test.
 - Unit Economics: Breakeven CPA on the $199 price point is $135 ($135.19 based on $218 AOV minus $82.81 variable costs, superseding the earlier $140 estimate; $157 at the $239 price point). Target CPA for profitable scale remains ~$100–$120.
+  - US Duties & Tariffs: $3.42 for the AI Scale standalone; $6.16 blended per order ($3.42 × 1.8 units/order average attach rate). Billed and collected directly via [[companies/portless]]. (Corrects earlier assumptions that US orders are under de minimis threshold and tax/duty free).
 - Sells through Shopify at qalzy.com. Key markets are US, CA, EU, UK, AU and NZ (`Portless & Qalzy Onboarding Recap and Next Steps`).
 - Manufacturing is in China across at least three suppliers, one of them Dongguan Brilliant Packaging Co., Ltd and one North Star Sales for carry cases. Assembly line was being finalised in May 2026 (`Re: AI nutrition startup raises $330k pre-seed`, `Portless & Qalzy Onboarding Recap and Next Steps`).
 - Fulfilment runs through [[companies/portless]], shipping direct from Chinese non-bonded and bonded warehouses, integrated to Shopify via Pipe17. OpenBorder handles international duties and taxes (`Qalzy + OpenBorder Onboarding`). Returns partners were being evaluated with Redo/ReturnBear and Loop Returns.
@@ -46,6 +47,7 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 
 ## Confirmed by Michael
 
+- 2026-09-15: US duties for Qalzy are $3.42 for the scale standalone, and $6.16 ($3.42 × 1.8) on a blended basis per order (factoring in the ~1.8 units/order accessory attach rate). Billed and collected directly via Portless. Corrects earlier team assumptions that US shipments were under de minimis threshold and tax/duty-free.
 - 2026-09-15: Updated unit economics on the $199 price point: breakeven CPA is $135 ($135.19 based on $218 AOV minus $82.81 variable costs, factoring in customer shipping and subsidies), superseding the earlier $140 estimate.
 - 2026-09-08: Breakeven CPA was estimated at ~$175 (historical baseline prior to final $199 pricing standardization). Target CPA is ~$100–$120.
 - 2026-08-15: Kostas Koukoravas is CEO and co-founder. Michael Michelis is co-founder and COO. See [[people/kostas-koukoravas]].

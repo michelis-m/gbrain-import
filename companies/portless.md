@@ -36,9 +36,16 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Kostas' 12 August request for working carrier tracking numbers and contact details for every carrier used, not just DPD, is not answered in the corpus.
 - Michael's standing request that Portless proactively surface any other orders failing for missing phone numbers so Qalzy can warn those customers is acknowledged but not yet delivered.
 
+## Pricing & Duties
+
+- **US Duties & Tariffs:** Portless collects and bills US duties directly.
+  - Scale standalone: $3.42 per Qalzy AI scale.
+  - Blended: $6.16 per order ($3.42 × 1.8 units/order average attach rate).
+  - Note: This supersedes earlier preliminary assumptions that US shipments were under de minimis threshold and tax/duty-free.
+
 ## Gaps
 
-- Contract terms, pricing, SLA or volume commitments. Nothing in the corpus.
+- Specific freight contract terms, SLA, or volume commitments beyond verified per-unit US duties ($3.42 scale, $6.16 blended).
 - Daily shipping capacity. Kostas asked twice ("how many orders can you ship per day?") and was never given a number.
 - Where Portless is headquartered and how its US, Chinese and support operations are organised.
 - Whether a formal account manager is assigned. Shane behaves like the commercial owner but is never described as one.

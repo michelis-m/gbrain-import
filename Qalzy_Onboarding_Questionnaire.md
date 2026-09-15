@@ -29,7 +29,7 @@ All figures below are Shopify and Sellerboard only. We opened DTC in July 2026; 
 
 *Total Revenue minus Variable Costs, divided by Total Revenue x 100*
 
-~65% From Sellerboard's P&L, Aug 2026 + Sep 1–14 2026 combined on $59,250 of sales: – Cost of goods: $10,616 (Shopify basis, 17.9% of sales) – Shipping: $7,968 — ~$32 per order – Payment fees: $2,254 (3.8%) – Tax: $196 – Total variable cost: $21,034 → contribution $38,216 = 64.5%
+~65% From Sellerboard's P&L, Aug 2026 + Sep 1–14 2026 combined on $59,250 of sales: – Cost of goods: $10,616 (Shopify basis, 17.9% of sales) – Shipping: $7,968 — ~$32 per order – Payment fees: $2,254 (3.8%) – Tax: $196 – Total variable cost: $21,034 → contribution $38,216 = 64.5%. (Note: US customs duties collected via Portless are $3.42 per AI scale standalone, or $6.16 blended per order based on 1.8 units/order attach rate).
 
 ### What is your Average Order Value (AOV)?
 
