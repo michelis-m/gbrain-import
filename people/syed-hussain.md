@@ -11,4 +11,4 @@
 - Proposed shifting Qalzy's ad account structure from ABO to CBO, setting up audience exclusions and custom reporting segments.
 - Advocated reviving top-performing ad angles previously turned off prematurely (including insulin management and GLP-1 weight loss).
 - Focuses heavily on the 50+ age demographic (Qalzy's highest-converting cohort) paired with congruent pre-sale advertorials and landing page CRO.
-- 2026-09-15: Michael confirmed updated unit economics for the $199 price point: breakeven CPA is ~$150 ($149.62) factoring in customer-paid $15 shipping subsidizing the ~$32 courier cost down to ~$17 net (~$135 if shipping is fully subsidized, superseding the earlier $140 estimate).
+- 2026-09-15: Michael confirmed updated unit economics for the $199 price point: breakeven CPA is $135 ($135.19 based on $218 AOV minus $82.81 variable costs), superseding the earlier $140 estimate.
