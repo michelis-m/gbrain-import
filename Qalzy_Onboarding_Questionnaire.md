@@ -41,7 +41,7 @@ Blended AOV, Aug + Sep MTD (Sellerboard, total sales ÷ orders): $235.12. – Au
 
 *AOV x Gross Margin % = Breakeven CPA*
 
-$140 breakeven CPA target on the standardized $199 retail price point (compared to $157 at the previous $239 price point). (Historically estimated at ~$152 based on early blended AOV of $235.12 × 64.5% contribution margin).
+~$150 ($149.62) breakeven CPA on the standardized $199 retail price point (~$218 product AOV) with the customer paying $15 shipping (subsidizing total courier shipping of ~$32 down to ~$17 net). If shipping is fully subsidized (free shipping), breakeven CPA is ~$135 ($135.19). (Earlier estimated at $140 using a flat 64.5% contribution margin, compared to $157–$160 at the previous $239 price point).
 
 ### What is your breakeven Blended ROAS?
 
