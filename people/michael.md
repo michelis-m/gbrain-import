@@ -33,6 +33,7 @@ Co-founder and COO of Qalzy, the AI kitchen scale and nutrition tracking company
 - Nutritionist by background; serial entrepreneur, previously co-founded a blockchain-focused cybersecurity startup that exited and an AI fashion startup that won multiple awards.
 - Built the largest calorie-counting community on Facebook.
 - Plays beach volleyball competitively, reads mainly autobiographies.
+- Family: Wife's phone number is 6970344314. Son is [[people/liam|Liam]] (born October 2023, turns 3 on 4 October 2026).
 - Holds that nutrition claims must rest on human studies rather than mechanism, and distrusts influencer claims.
 - Prefers direct, concise communication, no fluff, no em-dashes.
 
