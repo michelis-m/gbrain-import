@@ -12,4 +12,6 @@ Head of People at Social Paradigm Group (SPG). Manages talent and client onboard
 - Attended the SPG <> Qalzy team introduction meeting on 2026-09-11 alongside the dedicated growth and creative strategist pod.
 - Dispatched the onboarding pack on 2026-09-11 (PandaDoc contract, Stripe payment link, onboarding questionnaire).
 - Set up and invited Qalzy founders to the dedicated collaboration Slack channel `#qalzy-socialparadigmgroup`.
-- Scheduled the formal Qalzy x SPG Kick Off meeting for Thursday, Sept 17, 2026 (11:30–12:00 GMT+3). (Note: Qalzy requested rescheduling to Tuesday due to Kostas' travel).
+- Co-hosted the formal Qalzy x SPG Kick Off meeting on Thursday, Sept 17, 2026.
+- Established weekly reporting delivery (Mondays) and bi-weekly client syncs (Thursdays 10:30–11:00 GMT+3).
+- Coordinating SPG admin access for the Meta Klaviyo integration.
