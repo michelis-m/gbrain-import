@@ -29,3 +29,5 @@
 - Referenced in [Konnor Kah](../people/konnor-kah)
 - Referenced in [Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution](../meetings/2026-09-09_Redo_Returns_Fulfillment_Setup)
 - Referenced in [Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations](../meetings/2026-09-15_Qalzy_Standup_and_SPG_Black_Friday_Strategy)
+- Referenced in [Portless: RTS Orders Rerouting to Redo & Account Transition](../emails/2026-09-19-portless-redo-rts-transition-and-batch-handling)
+- Referenced in [Daily Email Summary: 2026-09-19](../emails/2026-09-19_daily_emails)

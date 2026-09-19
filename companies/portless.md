@@ -87,3 +87,5 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Ryan Torreta](../people/ryan-torreta)
 - Referenced in [Qalzy X Portless Bi-Weekly Operations Check-In](../meetings/2026-09-11_Qalzy_X_Portless_Check_In)
 - Referenced in [OpenBorder](../companies/openborder)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: RTS Orders Rerouting to Redo & Account Transition](../emails/2026-09-19-portless-redo-rts-transition-and-batch-handling)

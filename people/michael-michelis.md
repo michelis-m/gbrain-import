@@ -111,3 +111,7 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [2026-08-18 Impromptu Google Meet Meeting 1](../meetings/2026-08-18_Impromptu_Google_Meet_Meeting_1)
 - Referenced in [QALZY X BLAZER Ad Sync](../meetings/2026-09-04_QALZY_X_BLAZER)
 - Referenced in [Intelistyle](../companies/intelistyle)
+- Referenced in [Brevo Alert: Transactional Email Credit Limit Reached (Critical)](../emails/2026-09-19-brevo-transactional-email-credit-limit-exceeded)
+- Referenced in [Mahdi Aldashti: Sample Unit Shipping Address (Hong Kong Forwarder)](../emails/2026-09-19-mahdi-aldashti-sample-unit-shipping-address)
+- Referenced in [Buffer Alert: Instagram Business Account Authorization Expired](../emails/2026-09-19-buffer-instagram-connection-authorization-expired)
+- Referenced in [Meta Ad Creation Standard & Defaults](../Meta_Ad_Creation_Standard.md)

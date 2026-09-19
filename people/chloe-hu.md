@@ -29,3 +29,4 @@
 - Referenced in [Qalzy X Portless Check In](../meetings/2026-08-31_Qalzy_X_Portless_Check_In)
 - Referenced in [Qalzy x Portless Sync](../meetings/2026-08-26_Qalzy_x_Portless_Sync)
 - Referenced in [Qalzy X Portless Bi-Weekly Operations Check-In](../meetings/2026-09-11_Qalzy_X_Portless_Check_In)
+- Referenced in [Portless: RTS Orders Rerouting to Redo & Account Transition](../emails/2026-09-19-portless-redo-rts-transition-and-batch-handling)
