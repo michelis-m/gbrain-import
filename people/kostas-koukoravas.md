@@ -177,3 +177,6 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Mahdi Aldashti: Sample Unit Shipping Address (Hong Kong Forwarder)](../emails/2026-09-19-mahdi-aldashti-sample-unit-shipping-address)
 - Referenced in [Daily Email Summary: 2026-09-19](../emails/2026-09-19_daily_emails)
 - Referenced in [Meta Ad Creation Standard & Defaults](../Meta_Ad_Creation_Standard.md)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
