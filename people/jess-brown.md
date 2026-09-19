@@ -15,3 +15,13 @@ Head of People at Social Paradigm Group (SPG). Manages talent and client onboard
 - Co-hosted the formal Qalzy x SPG Kick Off meeting on Thursday, Sept 17, 2026.
 - Established weekly reporting delivery (Mondays) and bi-weekly client syncs (Thursdays 10:30–11:00 GMT+3).
 - Coordinating SPG admin access for the Meta Klaviyo integration.
+
+## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-09-14](../emails/2026-09-14_daily_emails)
+- Referenced in [Social Paradigm Group: Kick Off Meeting Invitation](../emails/2026-09-14-spg-kickoff-meeting-invitation)
+- Referenced in [SPG: Contract Execution, Payment & Onboarding Kickoff](../emails/2026-09-11-spg-contract-signing-and-onboarding)
+- Referenced in [Daily Email Summary: 2026-09-11](../emails/2026-09-11_daily_emails)
+- Referenced in [Charlie Williams](../people/charlie-williams)
+- Referenced in [Qalzy x SPG Kick Off Meeting](../meetings/2026-09-17_Qalzy_x_SPG_Kick_Off)
+- Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)

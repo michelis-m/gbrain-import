@@ -6,3 +6,8 @@
 
 ## Facts & Notes
 - On 2026-09-17, sent email confirmation that the AI for Founders podcast episode featuring Kostas Koukoravas and Qalzy will publish shortly.
+
+## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-09-13](../emails/2026-09-13_daily_emails)
+- Referenced in [Daily Email Summary: 2026-09-17](../emails/2026-09-17_daily_emails)

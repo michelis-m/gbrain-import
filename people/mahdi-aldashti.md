@@ -25,3 +25,12 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
   - Proposed selling at $120–$150 USD (max $169) and buying wholesale at $90/unit for an initial 250-unit order with a 6-month performance exclusivity window.
   - Kostas and Michael strongly countered with a retail price floor of **$169 USD** and wholesale pricing closer to **$100 USD**, citing live test data proving $199 generates higher profit than $169.
   - Requested 1 sample unit immediately; checking direct battery-line freight into Kuwait or routing via Mahdi's international mailboxes in Australia, Canada, or the US.
+
+## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-09-14](../emails/2026-09-14_daily_emails)
+- Referenced in [Mahdi Aldashti: Kuwait Wholesale Distribution Offer (250 Units @ $85)](../emails/2026-09-11-mahdi-kuwait-wholesale-distribution-offer)
+- Referenced in [Daily Email Summary: 2026-09-11](../emails/2026-09-11_daily_emails)
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Retail Distribution Strategy](../meetings/2026-09-18_Mahdi_Aldashti_Kuwait_Retail_Distribution)
+- Referenced in [Mahdi Aldashti - Kuwait Distribution Discussion](../meetings/2026-09-04_Mahdi_Aldashti_Kuwait_Distribution)
+- Referenced in [Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment](../meetings/2026-09-14_Qalzy_Standup_Pricing_AB_Test_and_Operations)

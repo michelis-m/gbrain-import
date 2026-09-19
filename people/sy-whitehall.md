@@ -17,3 +17,7 @@ Met with [[people/kostas-koukoravas]] and [[people/michael-michelis]] on 2026-09
   - Month 3: Definitive ROAS validation for scaling.
 - Commercial structure: 12.5% performance commission on attributed sales; optional £85/hr creative marketing retainer for organic brand building (Google Business, SEO blogs, social banners).
 - Full client ownership of all creative assets, including raw source files across Photoshop, video suites, and AI generation tools (Higgsfield).
+
+## Referenced by
+
+- Referenced in [Strategy Session: Kostas Koukoravas, Michael Michelis & Sy Whitehall (Socialproof Media)](../meetings/2026-09-04_Kostas_Koukoravas_and_Sy_Whitehall)

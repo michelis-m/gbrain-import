@@ -38,3 +38,6 @@ A marketing agency pitching Qalzy on a PR program under its Uproar brand. The on
 - [[companies/qalzy]]
 - [[people/michael]]
 
+## Referenced by
+
+- Referenced in [Uproar PR for Qalzy](../emails/2026-08-13-uproar-pr-for-qalzy)

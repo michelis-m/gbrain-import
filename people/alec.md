@@ -7,3 +7,8 @@
   - Confirmed Order #1923 was stuck in receiving because inventory only reflects once assigned to a bin.
   - Worked with warehouse team members Parker and Conner to enable refulfillment out of the Salt Lake warehouse.
   - Confirmed Redo EU return warehouse address in Vianen, Netherlands.
+
+## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-09-05](../emails/2026-09-05_daily_emails)
+- Referenced in [Redo Refulfillment Enabled & EU RTS Warehouse Address Confirmed](../emails/2026-09-05-redo-refulfillment-enabled-and-rts-address)

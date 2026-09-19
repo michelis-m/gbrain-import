@@ -18,3 +18,13 @@ Charlie co-leads Social Paradigm Group (SPG), a growth and creative agency speci
   - Led the SPG pod introduction meeting with Qalzy founders, introducing [[people/syed-hussain]] (media buyer), Sol (creative), Leanne (email), and [[people/jess-brown]] (onboarding).
   - Sent the formal agreement and onboarding pack via PandaDoc and Stripe.
   - Confirmed immediate takeover of Meta media buying upon contract execution, agreeing that Blazer will cease media buying immediately and focus solely on creative asset fulfillment.
+
+## Referenced by
+
+- Referenced in [Social Paradigm Group: Kick Off Meeting Invitation](../emails/2026-09-14-spg-kickoff-meeting-invitation)
+- Referenced in [SPG Proposal & Ad Account Audit Deliverables](../emails/2026-09-08-spg-growth-proposal-and-audit-links)
+- Referenced in [SPG: Contract Execution, Payment & Onboarding Kickoff](../emails/2026-09-11-spg-contract-signing-and-onboarding)
+- Referenced in [Daily Email Summary: 2026-09-11](../emails/2026-09-11_daily_emails)
+- Referenced in [SPG <> Qalzy Growth Roadmap](../meetings/2026-09-08_SPG_Qalzy_Growth_Roadmap)
+- Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
+- Referenced in [SPG <> Qalzy Quick Chat](../meetings/2026-09-03_SPG-Qalzy-Chat)

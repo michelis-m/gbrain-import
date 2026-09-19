@@ -5,3 +5,7 @@
 - Runs weekly performance syncs with Michael and Kostas.
 - Recommended Hyros for tracking.
 - Advises on ad creatives, UGC, and landing page optimization (e.g., Microsoft Clarity, split testing).
+
+## Referenced by
+
+- Referenced in [QALZY X BLAZER | WEEKLY](../meetings/2026-08-25_qalzy_x_blazer_weekly)

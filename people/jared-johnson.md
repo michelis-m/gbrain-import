@@ -9,3 +9,7 @@ Host of the Healthcare Rap podcast covering consumer digital health, patient exp
 
 ## Facts & Notes
 - On 2026-09-15, provided his mailing address to [[people/michael-michelis]] to receive a Qalzy AI scale unit for product testing ahead of a podcast guest feature discussing "Building the OURA of nutrition tracking".
+
+## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-09-15](../emails/2026-09-15_daily_emails)

@@ -20,3 +20,8 @@ Growth representative at performance creative and influencer marketing agency Ky
   - **Micro-Creators vs. Celebrities:** Micro-influencers (<10k followers) consistently outperform high-profile celebrities (e.g. unpolished customer seeding video outperformed Kris Jenner 6x for a Kardashian-owned brand).
 - Connecting Qalzy to Nick at The Grounded Company for nimble, cost-effective creative/UGC/AI production.
 - Invited Kostas and Michael to Kynship's private London brand summit in October 2026.
+
+## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-09-15](../emails/2026-09-15_daily_emails)
+- Referenced in [Kynship Strategy Session: Cut Your CAC by 50%](../meetings/2026-09-18_Kynship_Strategy_Session_CAC_Reduction)

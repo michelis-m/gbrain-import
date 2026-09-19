@@ -10,3 +10,7 @@ Founder of Greenspan Consulting and FULLCIRCLE ("Make Health Social"), providing
 
 ## Facts & Notes
 - Followed up with Michael Michelis on 2026-09-08 to reschedule an intro discovery call on podcast advertising and social ad synergy via [Calendly](https://calendly.com/greenspanconsulting/greenspan-consulting-discovery-call).
+
+## Referenced by
+
+- Referenced in [Social Paradigm Group (SPG)](../companies/social-paradigm-group)

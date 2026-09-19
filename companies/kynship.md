@@ -12,3 +12,7 @@ High-growth DTC agency specializing in high-volume creative production, product 
 - Recommended scale threshold for engagement is when brand media spend reaches $60k–$70k/month.
 - Media buying philosophy: runs ad accounts exclusively on Meta cost controls (cost per result / cost cap) with 2,000–2,500 active ads per account. Avoids simultaneous lowest-cost campaigns to eliminate auction cannibalization.
 - Seeding philosophy: systematic seeding funnel (500 outreaches -> 100 free units -> 35-40 organic posts -> 80% free ad usage rights granted post-factum). Micro-creators (<10k followers) consistently outperform celebrity/macro-influencer content.
+
+## Referenced by
+
+- Referenced in [Kynship Strategy Session: Cut Your CAC by 50%](../meetings/2026-09-18_Kynship_Strategy_Session_CAC_Reduction)

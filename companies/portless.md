@@ -58,3 +58,32 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - [[people/kostas-koukoravas]]
 - [[people/michael]]
 
+## Referenced by
+
+- Referenced in [Portless & Qalzy Onboarding Recap and Next Steps](../emails/2026-07-20-portless-qalzy-onboarding-recap-and-next-steps)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless RTS Order: Customer Tax ID Required (PBID007771348-1)](../emails/2026-09-15-portless-rts-customs-tax-id-pbid007771348-1)
+- Referenced in [Portless Invoices 1085260901 & 1085260825 Marked Paid](../emails/2026-09-12-portless-invoices-paid-1085260901-1085260825)
+- Referenced in [Action Needed | QALZY | Shipment Issue | #PBID007771351](../emails/2026-08-08-action-needed-qalzy-shipment-issue-pbid007771351)
+- Referenced in [Invitation: Portless sync @ Wed 27 May 2026 1pm - 1:25pm (GMT+3) (michael@qalzy.com)](../emails/2026-05-27-invitation-portless-sync-wed-27-may-2026-1pm-1-25pm-gmt-3-mi)
+- Referenced in [OpenBorder: Kickstarter Order Tax Remittance & VAT Reconciliation](../emails/2026-09-10-openborder-kickstarter-vat-tax-update)
+- Referenced in [ACTION NEEDED | QALZY | Shipment & Delivery Issues](../emails/2026-08-10-action-needed-qalzy-shipment-delivery-issues)
+- Referenced in [Expecting to send Qalzy White tomorrow](../emails/2026-07-20-expecting-to-send-qalzy-white-tomorrow)
+- Referenced in [Re: Can I ask about orders PBID007833471, PBID007771348, PBID007753301,...](../emails/2026-08-12-can-i-ask-about-orders-pbid007833471-pbid007771348-pbid00775)
+- Referenced in [Portless Customs Issue: Order PBID007752929 Returning to Overseas Warehouse](../emails/2026-09-13-portless-customs-order-return-pbid007752929)
+- Referenced in [ACTION NEEDED | QALZY | Shipment Issues](../emails/2026-08-14-action-needed-qalzy-shipment-issues)
+- Referenced in [Portless Overdue Invoice #1085260908](../emails/2026-09-15-portless-overdue-invoice-1085260908)
+- Referenced in [Portless Orders Status and Account Transition](../emails/2026-09-16-portless-orders-status-and-account-transition)
+- Referenced in [Portless Support Updates: Order Reshipment & Wrong Address Escalation](../emails/2026-09-07-portless-order-reshipment-and-address-issues)
+- Referenced in [Portless Notice: China Golden Week Deadlines & Inventory Planning](../emails/2026-09-05-portless-golden-week-inventory-replenishment)
+- Referenced in [Problems with multiple orders in Greece](../emails/2026-08-14-problems-with-multiple-orders-in-greece)
+- Referenced in [Order PBID007833592](../emails/2026-08-13-order-pbid007833592)
+- Referenced in [URGENT: Return to sender - Multiple issues with orders without contact info](../emails/2026-08-13-urgent-return-to-sender-multiple-issues-with-orders-without)
+- Referenced in [Portless: RTS Reshipment Confirmation & Kickstarter Batch 8](../emails/2026-09-10-portless-order-reshipment-and-kickstarter-batch8)
+- Referenced in [Customs Issues | Qalzy](../emails/2026-08-13-customs-issues-qalzy)
+- Referenced in [ACTION NEEDED | QALZY | Delivery Issues](../emails/2026-08-14-action-needed-qalzy-delivery-issues)
+- Referenced in [Chloe Hu](../people/chloe-hu)
+- Referenced in [Harteg Singh](../people/harteg-singh)
+- Referenced in [Ryan Torreta](../people/ryan-torreta)
+- Referenced in [Qalzy X Portless Bi-Weekly Operations Check-In](../meetings/2026-09-11_Qalzy_X_Portless_Check_In)
+- Referenced in [OpenBorder](../companies/openborder)
