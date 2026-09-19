@@ -25,9 +25,16 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
   - Proposed selling at $120–$150 USD (max $169) and buying wholesale at $90/unit for an initial 250-unit order with a 6-month performance exclusivity window.
   - Kostas and Michael strongly countered with a retail price floor of **$169 USD** and wholesale pricing closer to **$100 USD**, citing live test data proving $199 generates higher profit than $169.
   - Requested 1 sample unit immediately; checking direct battery-line freight into Kuwait or routing via Mahdi's international mailboxes in Australia, Canada, or the US.
+- **2026-09-18 Sample Unit Address:**
+  - Provided Hong Kong freight forwarding address for sample unit dispatch:
+    - Recipient: Mohammed Sarkhouh, Aramex HK LTD – SNS
+    - Address: Unit 1, 1/F, Goodman Interlink, 39 Tsing Yi Road, KWI 45170, Tsing Yi, New Territories, 999077, Hong Kong
+    - Phone: `+852 3556 7000`
 
 ## Referenced by
 
+- Referenced in [Mahdi Aldashti: Sample Unit Shipping Address](../emails/2026-09-19-mahdi-aldashti-sample-unit-shipping-address)
+- Referenced in [Daily Email Summary: 2026-09-19](../emails/2026-09-19_daily_emails)
 - Referenced in [Daily Email Summary: 2026-09-14](../emails/2026-09-14_daily_emails)
 - Referenced in [Mahdi Aldashti: Kuwait Wholesale Distribution Offer (250 Units @ $85)](../emails/2026-09-11-mahdi-kuwait-wholesale-distribution-offer)
 - Referenced in [Daily Email Summary: 2026-09-11](../emails/2026-09-11_daily_emails)
