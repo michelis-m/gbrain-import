@@ -115,3 +115,6 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Mahdi Aldashti: Sample Unit Shipping Address (Hong Kong Forwarder)](../emails/2026-09-19-mahdi-aldashti-sample-unit-shipping-address)
 - Referenced in [Buffer Alert: Instagram Business Account Authorization Expired](../emails/2026-09-19-buffer-instagram-connection-authorization-expired)
 - Referenced in [Meta Ad Creation Standard & Defaults](../Meta_Ad_Creation_Standard.md)
+- Referenced in [CalDesk AI: Photo Food Logging Partnership Inquiry](../emails/2026-09-20-caldesk-ai-photo-logging-partnership-inquiry)
+- Referenced in [Brevo Alert: Transactional Email Credit Limit Reached (Critical - Follow-up)](../emails/2026-09-20-brevo-transactional-email-credit-limit-exceeded)
+- Referenced in [Laura Greene](../people/laura-greene)

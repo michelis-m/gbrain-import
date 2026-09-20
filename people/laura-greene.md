@@ -11,3 +11,4 @@ Reached out to [[people/michael-michelis]] in September 2026 proposing partnersh
 
 ## Referenced by
 - Referenced in [CalDesk AI: Photo Food Logging Partnership Inquiry](../emails/2026-09-20-caldesk-ai-photo-logging-partnership-inquiry)
+- Referenced in [Daily Email Summary: 2026-09-20](../emails/2026-09-20_daily_emails)
