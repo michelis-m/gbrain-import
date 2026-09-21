@@ -15,4 +15,5 @@ High-growth DTC agency specializing in high-volume creative production, product 
 
 ## Referenced by
 
+- [[Kynship_DTC_Playbook]] (Complete DTC Performance Marketing Playbook & Blog Archive Synthesis)
 - Referenced in [Kynship Strategy Session: Cut Your CAC by 50%](../meetings/2026-09-18_Kynship_Strategy_Session_CAC_Reduction)
