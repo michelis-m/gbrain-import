@@ -25,3 +25,4 @@ Growth representative at performance creative and influencer marketing agency Ky
 
 - Referenced in [Daily Email Summary: 2026-09-15](../emails/2026-09-15_daily_emails)
 - Referenced in [Kynship Strategy Session: Cut Your CAC by 50%](../meetings/2026-09-18_Kynship_Strategy_Session_CAC_Reduction)
+- Referenced in [The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce](../Kynship_DTC_Playbook.md)

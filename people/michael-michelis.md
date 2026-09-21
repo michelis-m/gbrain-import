@@ -118,3 +118,4 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [CalDesk AI: Photo Food Logging Partnership Inquiry](../emails/2026-09-20-caldesk-ai-photo-logging-partnership-inquiry)
 - Referenced in [Brevo Alert: Transactional Email Credit Limit Reached (Critical - Follow-up)](../emails/2026-09-20-brevo-transactional-email-credit-limit-exceeded)
 - Referenced in [Laura Greene](../people/laura-greene)
+- Referenced in [The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce](../Kynship_DTC_Playbook.md)
