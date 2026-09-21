@@ -119,3 +119,5 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Brevo Alert: Transactional Email Credit Limit Reached (Critical - Follow-up)](../emails/2026-09-20-brevo-transactional-email-credit-limit-exceeded)
 - Referenced in [Laura Greene](../people/laura-greene)
 - Referenced in [The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce](../Kynship_DTC_Playbook.md)
+- Referenced in [Meta Developers: Hermes Integration App Review Submitted](../emails/2026-09-21-meta-hermes-integration-app-review-submitted)
+- Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)

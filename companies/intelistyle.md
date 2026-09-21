@@ -22,3 +22,5 @@
 - Referenced in [Intelistyle Annual Accounts & Going Concern Review](../meetings/2026-09-18_Intelistyle_Annual_Accounts_and_Going_Concern)
 - Referenced in [Intelistyle Daily Standup & Qalzy Ad Formats Review](../meetings/2026-09-09_Intelistyle_Standup_and_Qalzy_Ad_Formats_Review)
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-18_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
+- Referenced in [Theoni](../people/theoni)
+- Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
