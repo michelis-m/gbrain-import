@@ -15,8 +15,11 @@ Primary point of contact and media buyer managing Qalzy's paid media and creativ
   - Subtitles placed directly across the phone screen/potion size interface in Stella's video ad.
   - Video hooks poorly synchronized with music cuts.
 - **2026-09-09 Contract Termination Notice:** [[people/michael-michelis]] delivered formal 30-day notice ending Blazer Agency's media buying contract at the end of September / Oct 8th. Ronaldas accepted and committed to delivering the final month's scheduled creative assets: founder story V2 revisions, retargeting exclusion fixes, UGC British woman ad, and diabetes angle ads.
+- **2026-09-21 Creative Dispute:** Delivered an unrequested diabetes angle video instead of the required edits/angles; [[people/kostas-koukoravas]] rejected the delivery and requested either contractually agreed edits or raw project files.
 
 ## Referenced by
+
+- Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 
 - Referenced in [Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment](../meetings/2026-09-14_Qalzy_Standup_Pricing_AB_Test_and_Operations)
 - Referenced in [Qalzy Daily Sync: Ads Performance & Healthcare Outreach](../meetings/2026-09-08_Qalzy_Daily_Sync_Ads_and_Outreach)

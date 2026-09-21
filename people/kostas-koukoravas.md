@@ -161,6 +161,7 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Impromptu Google Meet (Dev & Content Pipeline)](../meetings/2026-09-03_Impromptu-Google-Meet-Dev)
 - Referenced in [Qalzy_Sync_1](../meetings/2026-08-20_Qalzy_Sync_1)
 - Referenced in [Qalzy x Portless Sync](../meetings/2026-08-26_Qalzy_x_Portless_Sync)
+- Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-18_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 - Referenced in [Qalzy X Portless Bi-Weekly Operations Check-In](../meetings/2026-09-11_Qalzy_X_Portless_Check_In)
 - Referenced in [SPG <> Qalzy Quick Chat](../meetings/2026-09-03_SPG-Qalzy-Chat)
