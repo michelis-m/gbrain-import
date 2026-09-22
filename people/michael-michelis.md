@@ -121,3 +121,7 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce](../Kynship_DTC_Playbook.md)
 - Referenced in [Meta Developers: Hermes Integration App Review Submitted](../emails/2026-09-21-meta-hermes-integration-app-review-submitted)
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
+- Referenced in [Customer Support: 1-Star Trustpilot Review (Michael J. Fuchs)](../emails/2026-09-22-trustpilot-1-star-review-michael-fuchs)
+- Referenced in [Fred Fishkin: Techstination Podcast Review Agreement](../emails/2026-09-22-fred-fishkin-techstination-podcast-review-agreement)
+- Referenced in [Fred Fishkin](../people/fred-fishkin)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)

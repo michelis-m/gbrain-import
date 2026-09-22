@@ -18,3 +18,4 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [OpenBorder vs. Portless Invoice Duty Reconciliation Status](../emails/2026-09-18-openborder-portless-invoice-duty-reconciliation)
 - Referenced in [Richard Hong](../people/richard-hong)
 - Referenced in [Chelsea Hartanto](../people/chelsea-hartanto)
+- Referenced in [OpenBorder vs. Portless Duty Tariff Reconciliation Update](../emails/2026-09-22-openborder-portless-tariff-billing-reconciliation)

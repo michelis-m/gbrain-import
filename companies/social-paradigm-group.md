@@ -32,3 +32,4 @@
 - Referenced in [Intelistyle Daily Standup & Qalzy Operations and Strategy](../meetings/2026-09-17_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 - Referenced in [Qalzy x SPG Kick Off Meeting](../meetings/2026-09-17_Qalzy_x_SPG_Kick_Off)
 - Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)

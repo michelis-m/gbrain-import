@@ -94,3 +94,7 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless Support: Order #2196 (Ray Porter) APO Hold & Address Reroute](../emails/2026-09-21-portless-order-2196-ray-porter-military-apo-hold-and-reroute)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [OpenBorder vs. Portless Duty Tariff Reconciliation Update](../emails/2026-09-22-openborder-portless-tariff-billing-reconciliation)
+- Referenced in [Portless Invoicing: Overdue Notice (1085260915) & New Invoice Issued (1085260922)](../emails/2026-09-22-portless-invoices-overdue-and-new-issued)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)

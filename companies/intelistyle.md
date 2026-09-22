@@ -24,3 +24,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-18_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 - Referenced in [Theoni](../people/theoni)
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)
