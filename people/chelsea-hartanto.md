@@ -10,8 +10,11 @@ Chief of Staff at OpenBorder assisting executive leadership ([[people/richard-ho
 ## Facts & Notes
 - On 2026-09-18, responded to [[people/kostas-koukoravas]] regarding disputed tariff double-charges on August 2026 Invoice 5091.
 - Coordinating between OpenBorder and Portless account managers to align billing data, expecting resolution by early next week.
+- On 2026-09-22, provided an update that OpenBorder believes their tariff billing is correct (orders above de minimis or via Asendia HK), but is awaiting Portless confirmation to ensure no duplicate billing; call scheduled with Portless for Thursday.
 
 ## Referenced by
 
 - Referenced in [Daily Email Summary: 2026-09-18](../emails/2026-09-18_daily_emails)
 - Referenced in [OpenBorder vs. Portless Invoice Duty Reconciliation Status](../emails/2026-09-18-openborder-portless-invoice-duty-reconciliation)
+- Referenced in [Daily Email Summary: 2026-09-22](../emails/2026-09-22_daily_emails)
+- Referenced in [OpenBorder vs. Portless Duty Tariff Reconciliation Update](../emails/2026-09-22-openborder-portless-tariff-billing-reconciliation)
