@@ -16,8 +16,20 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
   - Agreed to scale daily Meta ad spend toward $1,200/day following weekend blended ROAS recovery (2.2 and 2.6).
   - Logged engineering ticket for the scale "System Busy" freeze bug after testing father's returned unit.
   - Rejected Mahdi Aldashti's Kuwait $120 retail pricing proposal; insisted on maintaining brand pricing integrity ($169+ retail).
+- **2026-09-23 Operations, Redo Outage & Media Buying:**
+  - Escalated critical Redo Checkout+ failure to Redo support and engineering after discovering return protection fees were not applied during checkout and zero orders were registered as covered.
+  - Dispatched Kickstarter Import Batch 9 to Portless Implementations for manual WMS ingestion and coordinated pending refund claims spreadsheet.
+  - Coordinated with OpenBorder (Chelsea Hartanto) on cross-checking August invoice customs duties against Portless records.
+  - Provisioned Google Merchant Center access to Social Paradigm Group for shopping feed and campaign scaling.
+  - Analyzed Meta ad performance (CPM dropped to $85–$86) and 5-day attribution window with Michael; agreed on monthly reporting cadence shift to month-end.
 
 ## Referenced by
+
+- Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
+- Referenced in [Intelistyle Standup & Trustpilot Review Dispute](../meetings/2026-09-23_Intelistyle_Standup_and_Trustpilot_Review_Dispute)
+- Referenced in [Redo: Checkout+ Outage & Engineering Escalation](../emails/2026-09-23-redo-checkout-plus-outage-and-engineering-fix)
+- Referenced in [Portless: Kickstarter Import Batch 9 & Refund Claims Tracking](../emails/2026-09-23-portless-kickstarter-batch-9-and-refund-spreadsheet)
+- Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
 
 - Referenced in [Fwd: Trending stability issues for 2026-08-01 – Android com.qalzy.app](../emails/2026-08-02-trending-stability-issues-for-2026-08-01-android-com-qalzy-a)
 - Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)

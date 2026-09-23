@@ -4,6 +4,10 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 
 ## Referenced by
 
+- Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
+- Referenced in [Intelistyle Standup & Trustpilot Review Dispute](../meetings/2026-09-23_Intelistyle_Standup_and_Trustpilot_Review_Dispute)
+- Referenced in [Redo: Checkout+ Outage & Engineering Escalation](../emails/2026-09-23-redo-checkout-plus-outage-and-engineering-fix)
+- Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
 - Referenced in [Social Paradigm Group: Kick Off Meeting Invitation](../emails/2026-09-14-spg-kickoff-meeting-invitation)
 - Referenced in [Portless: Kickstarter Import Batch 8 & Multiple RTS Reshipment Escalations](../emails/2026-09-09-portless-rts-escalation-and-kickstarter-batch-8)
 - Referenced in [Redo: SKU Mapping Fix & Re-fulfillment Setup](../emails/2026-09-09-redo-sku-mapping-and-fulfillment-setup)
