@@ -213,3 +213,8 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Namzi Growing: Creator Outreach Refund Escalation Demand](../emails/2026-09-22-namzi-growing-refund-escalation-demand)
 - Referenced in [OpenBorder vs. Portless Duty Tariff Reconciliation Update](../emails/2026-09-22-openborder-portless-tariff-billing-reconciliation)
 - Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Google Merchant Center: Social Paradigm Group Access Granted](../emails/2026-09-23-google-merchant-center-spg-access-granted)
+- Referenced in [OpenBorder: Portless August Duties Reconciliation Investigation](../emails/2026-09-23-openborder-portless-august-duties-investigation)

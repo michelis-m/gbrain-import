@@ -24,3 +24,6 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Daily Email Summary: 2026-09-18](../emails/2026-09-18_daily_emails)
 - Referenced in [Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution](../meetings/2026-09-09_Redo_Returns_Fulfillment_Setup)
 - Referenced in [Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations](../meetings/2026-09-15_Qalzy_Standup_and_SPG_Black_Friday_Strategy)
+- Referenced in [Redo: Checkout+ Outage & Engineering Escalation](../emails/2026-09-23-redo-checkout-plus-outage-and-engineering-fix)
+- Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
+- Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)

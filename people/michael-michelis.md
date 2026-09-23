@@ -129,3 +129,4 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Fred Fishkin: Techstination Podcast Review Agreement](../emails/2026-09-22-fred-fishkin-techstination-podcast-review-agreement)
 - Referenced in [Fred Fishkin](../people/fred-fishkin)
 - Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)
+- Referenced in [Google Merchant Center: Social Paradigm Group Access Granted](../emails/2026-09-23-google-merchant-center-spg-access-granted)

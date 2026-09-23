@@ -33,3 +33,6 @@
 - Referenced in [Qalzy x SPG Kick Off Meeting](../meetings/2026-09-17_Qalzy_x_SPG_Kick_Off)
 - Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
 - Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)
+- Referenced in [Google Merchant Center: Social Paradigm Group Access Granted](../emails/2026-09-23-google-merchant-center-spg-access-granted)
+- Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
+- Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
