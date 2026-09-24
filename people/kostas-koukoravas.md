@@ -22,6 +22,12 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
   - Coordinated with OpenBorder (Chelsea Hartanto) on cross-checking August invoice customs duties against Portless records.
   - Provisioned Google Merchant Center access to Social Paradigm Group for shopping feed and campaign scaling.
   - Analyzed Meta ad performance (CPM dropped to $85–$86) and 5-day attribution window with Michael; agreed on monthly reporting cadence shift to month-end.
+- **2026-09-24 Creative Strategy, Influencer Operations & Logistics:**
+  - Led discussions on structuring customer personas from 40k data points, deploying open-text exit surveys, and customer interviews.
+  - Resolved to escalate contract breach and demand full $5,000 refund from Namzy over zero creator delivery.
+  - Rejected Rolandas's (Blazer) generic ChatGPT GLP-1 video scripts and misstated discount numbers; mandated founder pre-approval on scripts.
+  - Established "movie trailer" standard for static ads (2–3 punchy words) and planned internal Figma copy revisions.
+  - Verified Redo's Checkout+ bug fix and confirmed Portless's release of Kickstarter Batch 9 for fulfillment.
 
 ## Referenced by
 
@@ -218,3 +224,11 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
 - Referenced in [Google Merchant Center: Social Paradigm Group Access Granted](../emails/2026-09-23-google-merchant-center-spg-access-granted)
 - Referenced in [OpenBorder: Portless August Duties Reconciliation Investigation](../emails/2026-09-23-openborder-portless-august-duties-investigation)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Portless: Kickstarter Import Batch 9 Created & Released for Fulfillment](../emails/2026-09-24-portless-kickstarter-batch-9-fulfilled)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Redo: Checkout+ Free Returns Bug Resolved](../emails/2026-09-24-redo-checkout-plus-bug-resolved)
+- Referenced in [Jake Smedley](../people/jake-smedley)
+- Referenced in [Qalzy Creative Review: Static Ad Copy & Video Formats](../meetings/2026-09-24_Qalzy_Creative_Review_Static_Ad_Copy_and_Video_Formats)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Influencer Strategy](../meetings/2026-09-24_Intelistyle_Standup_and_Qalzy_Creative_and_Influencer_Strategy)

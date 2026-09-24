@@ -34,3 +34,6 @@
 - Referenced in [Redo: Checkout+ Outage & Engineering Escalation](../emails/2026-09-23-redo-checkout-plus-outage-and-engineering-fix)
 - Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
 - Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
+- Referenced in [Redo: Checkout+ Free Returns Bug Resolved](../emails/2026-09-24-redo-checkout-plus-bug-resolved)
+- Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
+- Referenced in [Jake Smedley](../people/jake-smedley)

@@ -14,6 +14,7 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - In the 2026-09-17 standup, reported completing Epiculent new IDs and remaining Guess new IDs; proceeding through the Guess re-approvals queue.
 - In the 2026-09-21 standup, reported completing Guess reapprovals on Friday, processing The Cuba, Ipeco, and Twiss; clarified with [[people/theoni]] that Intelistyle workflow does not require Complete the Look for Bigotti.
 - In the 2026-09-23 standup, reported completing image quality checks for Guess and Guess Shop-the-Look; completed new product IDs mapping and continuing with Guess re-approvals.
+- In the 2026-09-24 standup, reported completing category mapping, Guess Shop-the-Look, and Guess reapprovals; focused on new IDs for Cuba and Guess (~100 new IDs/day released by Guess).
 
 ## Referenced by
 
@@ -27,3 +28,4 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - Referenced in [Intelistyle Daily Standup & Qalzy Operations and Strategy](../meetings/2026-09-17_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-18_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
 - Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Influencer Strategy](../meetings/2026-09-24_Intelistyle_Standup_and_Qalzy_Creative_and_Influencer_Strategy)

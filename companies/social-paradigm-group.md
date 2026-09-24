@@ -36,3 +36,5 @@
 - Referenced in [Google Merchant Center: Social Paradigm Group Access Granted](../emails/2026-09-23-google-merchant-center-spg-access-granted)
 - Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
 - Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
+- Referenced in [Qalzy Creative Review: Static Ad Copy & Video Formats](../meetings/2026-09-24_Qalzy_Creative_Review_Static_Ad_Copy_and_Video_Formats)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Influencer Strategy](../meetings/2026-09-24_Intelistyle_Standup_and_Qalzy_Creative_and_Influencer_Strategy)

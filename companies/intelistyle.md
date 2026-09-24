@@ -27,3 +27,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Creative and Seeding Strategy](../meetings/2026-09-22_Intelistyle_Standup_and_Qalzy_Creative_and_Seeding_Strategy)
 - Referenced in [Intelistyle Standup & Trustpilot Review Dispute](../meetings/2026-09-23_Intelistyle_Standup_and_Trustpilot_Review_Dispute)
 - Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
+- Referenced in [Intelistyle Standup & Qalzy Creative and Influencer Strategy](../meetings/2026-09-24_Intelistyle_Standup_and_Qalzy_Creative_and_Influencer_Strategy)

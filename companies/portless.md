@@ -103,3 +103,7 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Daily Email Summary: 2026-09-23](../emails/2026-09-23_daily_emails)
 - Referenced in [OpenBorder: Portless August Duties Reconciliation Investigation](../emails/2026-09-23-openborder-portless-august-duties-investigation)
 - Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
+- Referenced in [Portless: Kickstarter Import Batch 9 Created & Released for Fulfillment](../emails/2026-09-24-portless-kickstarter-batch-9-fulfilled)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Fulfillment Invoices 1085260915 & 1085260908 Marked Paid](../emails/2026-09-24-portless-invoices-paid-1085260915-1085260908)
+- Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
