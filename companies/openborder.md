@@ -20,3 +20,6 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [Chelsea Hartanto](../people/chelsea-hartanto)
 - Referenced in [OpenBorder vs. Portless Duty Tariff Reconciliation Update](../emails/2026-09-22-openborder-portless-tariff-billing-reconciliation)
 - Referenced in [OpenBorder: Portless August Duties Reconciliation Investigation](../emails/2026-09-23-openborder-portless-august-duties-investigation)
+- Referenced in [OpenBorder & Portless Billing Error Confirmed & Tariff Reconciliation](../emails/2026-09-25-openborder-portless-billing-error-resolved)
+- Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
+- Referenced in [Craig Shaver](../people/craig-shaver)

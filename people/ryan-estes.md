@@ -11,3 +11,5 @@
 
 - Referenced in [Daily Email Summary: 2026-09-13](../emails/2026-09-13_daily_emails)
 - Referenced in [Daily Email Summary: 2026-09-17](../emails/2026-09-17_daily_emails)
+- Referenced in [Micro-Influencer Outreach, Media & Creative Deliverables](../emails/2026-09-25-influencer-outreach-one2one-diabetes-and-podcast)
+- Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)

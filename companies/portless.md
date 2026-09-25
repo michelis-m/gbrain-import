@@ -107,3 +107,8 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless: Fulfillment Invoices 1085260915 & 1085260908 Marked Paid](../emails/2026-09-24-portless-invoices-paid-1085260915-1085260908)
 - Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
+- Referenced in [OpenBorder & Portless Billing Error Confirmed & Tariff Reconciliation](../emails/2026-09-25-openborder-portless-billing-error-resolved)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless Support Escalations & Bi-Weekly Check-In Scheduling](../emails/2026-09-25-portless-support-orders-and-biweekly-checkin)
+- Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
+- Referenced in [Craig Shaver](../people/craig-shaver)

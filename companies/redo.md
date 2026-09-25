@@ -37,3 +37,6 @@
 - Referenced in [Redo: Checkout+ Free Returns Bug Resolved](../emails/2026-09-24-redo-checkout-plus-bug-resolved)
 - Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
 - Referenced in [Jake Smedley](../people/jake-smedley)
+- Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
+- Referenced in [Redo Managed Returns Inventory Sync Issue & Influencer Allocation](../emails/2026-09-25-redo-returns-inventory-sync-issue)
+- Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)

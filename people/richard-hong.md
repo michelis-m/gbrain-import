@@ -17,3 +17,4 @@ Co-founder at OpenBorder handling international trade compliance, VAT filings, a
 - Referenced in [Daily Email Summary: 2026-09-17](../emails/2026-09-17_daily_emails)
 - Referenced in [OpenBorder vs. Portless Invoice Duty Reconciliation Status](../emails/2026-09-18-openborder-portless-invoice-duty-reconciliation)
 - Referenced in [Chelsea Hartanto](../people/chelsea-hartanto)
+- Referenced in [OpenBorder & Portless Billing Error Confirmed & Tariff Reconciliation](../emails/2026-09-25-openborder-portless-billing-error-resolved)
