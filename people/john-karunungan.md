@@ -15,8 +15,11 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - In the 2026-09-21 standup, reported completing Guess reapprovals on Friday, processing The Cuba, Ipeco, and Twiss; clarified with [[people/theoni]] that Intelistyle workflow does not require Complete the Look for Bigotti.
 - In the 2026-09-23 standup, reported completing image quality checks for Guess and Guess Shop-the-Look; completed new product IDs mapping and continuing with Guess re-approvals.
 - In the 2026-09-24 standup, reported completing category mapping, Guess Shop-the-Look, and Guess reapprovals; focused on new IDs for Cuba and Guess (~100 new IDs/day released by Guess).
+- In the 2026-09-25 standup, reported completing image quality for Guess and Cuba, Guess and Cuba Shop the Look, started Guess reapprovals, and mapped Funky Buddha arrivals (5–6 IDs); addressed Ipek Yol 73% alert with [[people/kostas-koukoravas]].
 
 ## Referenced by
+
+- Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
 
 - Referenced in [Intelistyle Standup & Trustpilot Review Dispute](../meetings/2026-09-23_Intelistyle_Standup_and_Trustpilot_Review_Dispute)
 

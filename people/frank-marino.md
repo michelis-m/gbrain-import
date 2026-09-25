@@ -12,6 +12,7 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - On 2026-09-14, scheduled onboarding/operations review with Michael and Kostas for Tuesday, Sept 15 (18:00–18:30 GMT+3) to review Shopify inventory, return grading, and fulfillment workflows. Confirmed return items for Order #1923 were shelved at Redo.
 - On 2026-09-15, confirmed Redo's pick and pack fulfillment fee is $2.00 per unit. Outlined action items: ingesting offline (Kickstarter) orders, training warehouse team on the set-aside process for 2 quality grades, establishing an influencer order fulfillment workflow, and requesting written product testing instructions from Qalzy. Rescheduled review call to Friday, Sept 18 (18:00–18:30 GMT+3).
 - On 2026-09-18, received the formal returns grading SOP document from [[people/kostas-koukoravas]] for operational implementation across Redo warehouse staff. Held follow-up agenda on Kickstarter offline order ingestion and grading protocols.
+- On 2026-09-25, received follow-up from [[people/michael-michelis]] regarding 3 newly processed returns (#2082, #2026, #2076) failing to sync to Shopify inventory, required for dispatching to creators.
 
 ## Referenced by
 
@@ -29,3 +30,5 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
 - Referenced in [Redo: Checkout+ Free Returns Bug Resolved](../emails/2026-09-24-redo-checkout-plus-bug-resolved)
 - Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
+- Referenced in [Redo Managed Returns Inventory Sync Issue & Influencer Allocation](../emails/2026-09-25-redo-returns-inventory-sync-issue)
+- Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
