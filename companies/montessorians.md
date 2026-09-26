@@ -12,10 +12,10 @@ aliases:
 Montessori school located in Anoixi, Greece.
 
 ## Leadership & Operations
-- Run and managed by [[people/michael|Michael Michelis]]'s wife.
-- Contact / Administration: totalschool.io (nantia_ceni@yahoo.com).
+- Run and managed by [[people/ilda-prifti|Ilda Prifti]] ([[people/michael|Michael Michelis]]'s wife).
+- Contact: phone +306970344314, totalschool.io.
 - Instagram: `@montessori_community_school_gr`.
-- Related: Michael collaborates with Ilda Prifti on `montessori-website`.
+- Collaborates with Michael on `montessori-website`.
 
 ## Referenced by
 
