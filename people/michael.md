@@ -33,7 +33,7 @@ Co-founder and COO of Qalzy, the AI kitchen scale and nutrition tracking company
 - Nutritionist by background; serial entrepreneur, previously co-founded a blockchain-focused cybersecurity startup that exited and an AI fashion startup that won multiple awards.
 - Built the largest calorie-counting community on Facebook.
 - Plays beach volleyball competitively, reads mainly autobiographies.
-- Family: Wife's phone number is 6970344314. Son is [[people/liam|Liam]] (born October 2023, turns 3 on 4 October 2026).
+- Family: Wife runs and manages the [[companies/montessorians|Montessorians]] Montessori school in Anoixi, Greece (contact phone: 6970344314, totalschool.io: nantia_ceni@yahoo.com, IG: @montessori_community_school_gr). Son is [[people/liam|Liam]] (born October 2023, turns 3 on 4 October 2026).
 - Holds that nutrition claims must rest on human studies rather than mechanism, and distrusts influencer claims.
 - Prefers direct, concise communication, no fluff, no em-dashes.
 
@@ -173,6 +173,13 @@ Co-founder and COO of Qalzy, the AI kitchen scale and nutrition tracking company
 - Referenced in [Review Your Freight Quote at Your Earliest Convenience](../emails/2026-07-14-review-your-freight-quote-at-your-earliest-convenience)
 - Referenced in [Freightos Custom Quote Request - #83f80069 -  Shenzhen, Guangdong Province, China > Los Angeles, CA, USA](../emails/2026-07-07-freightos-custom-quote-request-83f80069-shenzhen-guangdong-p)
 - Referenced in [Video editing tack](../emails/2026-06-08-video-editing-tack)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840](../emails/2026-07-01-v-trust-inspector-s-assigned-po-pi251127qal-mzw594840)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
+- Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
 - Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)

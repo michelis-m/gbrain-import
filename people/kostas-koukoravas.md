@@ -243,3 +243,6 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Redo Managed Returns Inventory Sync Issue & Influencer Allocation](../emails/2026-09-25-redo-returns-inventory-sync-issue)
 - Referenced in [Ioanna Kourgiantaki](../people/ioanna-kourgiantaki)
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)

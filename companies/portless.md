@@ -112,3 +112,4 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless Support Escalations & Bi-Weekly Check-In Scheduling](../emails/2026-09-25-portless-support-orders-and-biweekly-checkin)
 - Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
 - Referenced in [Craig Shaver](../people/craig-shaver)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)

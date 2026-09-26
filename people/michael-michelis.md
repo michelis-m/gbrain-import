@@ -1,6 +1,6 @@
 # Michael Michelis
 Role: Founder/Team at Qalzy and Intelistyle. Nutritionist.
-Context: Works extensively on marketing, ads (Reddit, Meta, Google), and development/ops (checking cron jobs like the Cuba job). Also has a background as a nutritionist.
+Context: Works extensively on marketing, ads (Reddit, Meta, Google), and development/ops. Background as a nutritionist. Wife runs and manages [[companies/montessorians|Montessorians]] Montessori school in Anoixi, Greece.
 
 ## Referenced by
 
