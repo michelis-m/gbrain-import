@@ -10,3 +10,7 @@ aliases:
 - **Relation:** Son of [[people/michael|Michael Michelis]].
 - **Born:** October 2023.
 - **Milestone:** Turning 3 on 4 October 2026 (celebration at Playspace Anfil, Anoixi).
+
+## Referenced by
+
+- Referenced in [Ilda Prifti](../people/ilda-prifti)

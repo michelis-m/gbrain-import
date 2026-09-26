@@ -24,3 +24,4 @@ Chief of Staff at OpenBorder assisting executive leadership ([[people/richard-ho
 - Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
 - Referenced in [OpenBorder & Portless Billing Error Confirmed & Tariff Reconciliation](../emails/2026-09-25-openborder-portless-billing-error-resolved)
 - Referenced in [Craig Shaver](../people/craig-shaver)
+- Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)

@@ -141,3 +141,7 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Redo Managed Returns Inventory Sync Issue & Influencer Allocation](../emails/2026-09-25-redo-returns-inventory-sync-issue)
 - Referenced in [Frank Marino](../people/frank-marino)
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
+- Referenced in [Customer Return: Lynnette Bauer (Subscription Confusion & Redo Return)](../emails/2026-09-26-lynnette-bauer-scale-return-subscription-friction)
+- Referenced in [Daily Email Summary: 2026-09-26](../emails/2026-09-26_daily_emails)
+- Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)
+- Referenced in [Stripe Sandbox Webhook Delivery Failure](../emails/2026-09-26-stripe-sandbox-webhook-failure)
