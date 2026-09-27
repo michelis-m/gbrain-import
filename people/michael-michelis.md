@@ -145,3 +145,6 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Daily Email Summary: 2026-09-26](../emails/2026-09-26_daily_emails)
 - Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)
 - Referenced in [Stripe Sandbox Webhook Delivery Failure](../emails/2026-09-26-stripe-sandbox-webhook-failure)
+- Referenced in [Briefchart Outreach: Qalzy Retention Angle & Nuyu Telehealth/Diagnostics Model](../emails/2026-09-27-daniela-briefchart-retention-nuyu-telehealth-model)
+- Referenced in [Buffer Publishing Failure: TikTok Media Processing Delay](../emails/2026-09-27-buffer-tiktok-publish-failure)
+- Referenced in [Firebase Alert: Missing dSYM for iOS v2.2.10 (4)](../emails/2026-09-27-firebase-ios-missing-dsym-v2-2-10)
