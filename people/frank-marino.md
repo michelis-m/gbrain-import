@@ -13,6 +13,7 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - On 2026-09-15, confirmed Redo's pick and pack fulfillment fee is $2.00 per unit. Outlined action items: ingesting offline (Kickstarter) orders, training warehouse team on the set-aside process for 2 quality grades, establishing an influencer order fulfillment workflow, and requesting written product testing instructions from Qalzy. Rescheduled review call to Friday, Sept 18 (18:00–18:30 GMT+3).
 - On 2026-09-18, received the formal returns grading SOP document from [[people/kostas-koukoravas]] for operational implementation across Redo warehouse staff. Held follow-up agenda on Kickstarter offline order ingestion and grading protocols.
 - On 2026-09-25, received follow-up from [[people/michael-michelis]] regarding 3 newly processed returns (#2082, #2026, #2076) failing to sync to Shopify inventory, required for dispatching to creators.
+- On 2026-09-28, responded to Kostas' escalation regarding delayed influencer order dispatches. Clarified that returns were processed within 3 days but had not been moved to bins. Formally notified Qalzy that Redo cannot support manual influencer orders or offline fulfillment flows under their D2C warehouse roadmap, concluding Redo is not a good fit for Qalzy and offering an offboarding review call.
 
 ## Referenced by
 
@@ -32,3 +33,5 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
 - Referenced in [Redo Managed Returns Inventory Sync Issue & Influencer Allocation](../emails/2026-09-25-redo-returns-inventory-sync-issue)
 - Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
+- Referenced in [Daily Email Summary: 2026-09-28](../emails/2026-09-28_daily_emails)
+- Referenced in [Redo: Breakdown in Influencer Order Support & Offboarding Notice](../emails/2026-09-28-redo-offboarding-and-influencer-order-support-breakdown)

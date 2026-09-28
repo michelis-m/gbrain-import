@@ -2,6 +2,7 @@
 - **Category:** Returns Management, Reverse Logistics & Shipping Protection
 - **Website:** [getredo.com](https://getredo.com)
 - **Key Contacts:**
+  - [[people/frank-marino]] (Sales Engineer / Logistics Specialist)
   - [[people/alec]] (Support / Technical Onboarding)
   - Parker & Conner (Salt Lake Warehouse Operations)
 - **Role in Qalzy Stack:**
@@ -12,6 +13,7 @@
 - **Logistics Notes:**
   - "Refulfillment" enables shipping refurbished/returned units directly out of the Salt Lake warehouse.
   - Returns only register as available inventory once physically assigned to a bin in receiving.
+  - **Status Update (2026-09-28):** Redo notified Qalzy that their platform and warehouse cannot support manual influencer dispatches or offline order fulfillment, stating they are not a good fit for Qalzy's operational model and proposed an offboarding review.
 
 ## Referenced by
 
@@ -42,3 +44,5 @@
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
 - Referenced in [Customer Return: Lynnette Bauer (Subscription Confusion & Redo Return)](../emails/2026-09-26-lynnette-bauer-scale-return-subscription-friction)
 - Referenced in [Daily Email Summary: 2026-09-26](../emails/2026-09-26_daily_emails)
+- Referenced in [Daily Email Summary: 2026-09-28](../emails/2026-09-28_daily_emails)
+- Referenced in [Redo: Breakdown in Influencer Order Support & Offboarding Notice](../emails/2026-09-28-redo-offboarding-and-influencer-order-support-breakdown)
