@@ -29,3 +29,4 @@
 - Referenced in [Qalzy Operations, Redo Bug, Creative Review & Unit Economics](../meetings/2026-09-23_Qalzy_Operations_Redo_Bug_Creative_Review_and_Unit_Economics)
 - Referenced in [Intelistyle Standup & Qalzy Creative and Influencer Strategy](../meetings/2026-09-24_Intelistyle_Standup_and_Qalzy_Creative_and_Influencer_Strategy)
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
+- Referenced in [Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting](../meetings/2026-09-28_Intelistyle_Standup_and_Qalzy_Operations_Redo_Returns_and_App_Troubleshooting)

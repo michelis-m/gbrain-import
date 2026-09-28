@@ -46,3 +46,4 @@
 - Referenced in [Daily Email Summary: 2026-09-26](../emails/2026-09-26_daily_emails)
 - Referenced in [Daily Email Summary: 2026-09-28](../emails/2026-09-28_daily_emails)
 - Referenced in [Redo: Breakdown in Influencer Order Support & Offboarding Notice](../emails/2026-09-28-redo-offboarding-and-influencer-order-support-breakdown)
+- Referenced in [Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting](../meetings/2026-09-28_Intelistyle_Standup_and_Qalzy_Operations_Redo_Returns_and_App_Troubleshooting)

@@ -118,3 +118,6 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless Support: Return-to-Origin vs Destruction Policy (PBID007771348)](../emails/2026-09-26-portless-customs-return-to-origin-pbid007771348)
 - Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Delivery Exception Dispute (Order PBID007833566-1) & 60+ Issues Escalation](../emails/2026-09-28-portless-order-pbid007833566-delivery-failure-dispute)
+- Referenced in [Portless: Military Order #2196 In Transit & PBID007752619 PODs Delivered](../emails/2026-09-28-portless-order-2196-shipped-and-pbid007752619-pods)
