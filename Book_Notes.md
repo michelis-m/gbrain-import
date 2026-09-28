@@ -15,6 +15,7 @@
 12. Fake till you make it.
 13. Define your success. For me excited to go to work and equally excited to come home
 14. Underpromise - overdeliver
+15. You can't control what's happening to you, but you can control how you react to it
 
 ## Structural Notes
 * Make it 7 (+-2) the things we can hold in memory
