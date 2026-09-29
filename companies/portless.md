@@ -121,3 +121,6 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless: Delivery Exception Dispute (Order PBID007833566-1) & 60+ Issues Escalation](../emails/2026-09-28-portless-order-pbid007833566-delivery-failure-dispute)
 - Referenced in [Portless: Military Order #2196 In Transit & PBID007752619 PODs Delivered](../emails/2026-09-28-portless-order-2196-shipped-and-pbid007752619-pods)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless Order Reshipment Inquiry (PBID007753159_1 / Cherokee Fuller)](../emails/2026-09-29-portless-order-pbid007753159-stalled-reshipment)
+- Referenced in [Portless Invoices: Overdue Notice & New Weekly Invoice Issued](../emails/2026-09-29-portless-invoices-overdue-and-new-issued)
