@@ -66,6 +66,7 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 
 ## See also
 
+- [[Qalzy_Personas]]
 - [[people/michael]]
 - [[people/kostas-koukoravas]]
 - [[companies/portless]]
