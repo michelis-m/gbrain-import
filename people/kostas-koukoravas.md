@@ -269,3 +269,6 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Namzi Growing Refund Refusal & Creator Round 1 Proposal](../emails/2026-09-29-namzi-growing-refund-refusal-and-creator-round-one)
 - Referenced in [Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync](../meetings/2026-09-29_Qalzy_Internal_Post_Meta_Debrief_and_CRO_Strategy)
 - Referenced in [Qalzy Meta Ads Consultation with Meta Marketing Pro](../meetings/2026-09-29_Qalzy_Meta_Marketing_Pro_Consultation)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
