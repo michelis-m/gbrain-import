@@ -41,3 +41,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
 - Referenced in [Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync](../meetings/2026-09-29_Qalzy_Internal_Post_Meta_Debrief_and_CRO_Strategy)
 - Referenced in [Qalzy Meta Ads Consultation with Meta Marketing Pro](../meetings/2026-09-29_Qalzy_Meta_Marketing_Pro_Consultation)
+- Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)

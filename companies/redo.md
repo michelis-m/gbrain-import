@@ -14,6 +14,7 @@
   - "Refulfillment" enables shipping refurbished/returned units directly out of the Salt Lake warehouse.
   - Returns only register as available inventory once physically assigned to a bin in receiving.
   - **Status Update (2026-09-28):** Redo notified Qalzy that their platform and warehouse cannot support manual influencer dispatches or offline order fulfillment, stating they are not a good fit for Qalzy's operational model and proposed an offboarding review.
+  - **Status Update (2026-09-30):** [[people/kostas-koukoravas]] proposed a workaround to list returned units on an "outlet" storefront where Qalzy can place orders directly to route them to creators without special handling. Also, Qalzy completely removed the conflicting $4.50 "Checkout Plus" return fee button from the Shopify checkout flow due to customer conversion friction.
 
 ## Referenced by
 
@@ -48,3 +49,4 @@
 - Referenced in [Redo: Breakdown in Influencer Order Support & Offboarding Notice](../emails/2026-09-28-redo-offboarding-and-influencer-order-support-breakdown)
 - Referenced in [Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting](../meetings/2026-09-28_Intelistyle_Standup_and_Qalzy_Operations_Redo_Returns_and_App_Troubleshooting)
 - Referenced in [Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync](../meetings/2026-09-29_Qalzy_Internal_Post_Meta_Debrief_and_CRO_Strategy)
+- Referenced in [Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal](../emails/2026-09-30_Redo_Returns_and_Influencer_Outlet_Workaround)

@@ -14,8 +14,11 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - On 2026-09-18, received the formal returns grading SOP document from [[people/kostas-koukoravas]] for operational implementation across Redo warehouse staff. Held follow-up agenda on Kickstarter offline order ingestion and grading protocols.
 - On 2026-09-25, received follow-up from [[people/michael-michelis]] regarding 3 newly processed returns (#2082, #2026, #2076) failing to sync to Shopify inventory, required for dispatching to creators.
 - On 2026-09-28, responded to Kostas' escalation regarding delayed influencer order dispatches. Clarified that returns were processed within 3 days but had not been moved to bins. Formally notified Qalzy that Redo cannot support manual influencer orders or offline fulfillment flows under their D2C warehouse roadmap, concluding Redo is not a good fit for Qalzy and offering an offboarding review call.
+- On 2026-09-30, received proposal from [[people/kostas-koukoravas]] suggesting an "outlet" storefront workaround to sell/route returned units internally to creators without requiring custom warehouse handling.
 
 ## Referenced by
+
+- Referenced in [Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal](../emails/2026-09-30_Redo_Returns_and_Influencer_Outlet_Workaround)
 
 - Referenced in [Daily Email Summary: 2026-09-14](../emails/2026-09-14_daily_emails)
 - Referenced in [Redo: Order #1923 Restock Sync & Optimization Meeting Scheduled](../emails/2026-09-10-redo-order-1923-and-onboarding-sync)

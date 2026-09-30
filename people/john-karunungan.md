@@ -16,8 +16,11 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - In the 2026-09-23 standup, reported completing image quality checks for Guess and Guess Shop-the-Look; completed new product IDs mapping and continuing with Guess re-approvals.
 - In the 2026-09-24 standup, reported completing category mapping, Guess Shop-the-Look, and Guess reapprovals; focused on new IDs for Cuba and Guess (~100 new IDs/day released by Guess).
 - In the 2026-09-25 standup, reported completing image quality for Guess and Cuba, Guess and Cuba Shop the Look, started Guess reapprovals, and mapped Funky Buddha arrivals (5–6 IDs); addressed Ipek Yol 73% alert with [[people/kostas-koukoravas]].
+- In the 2026-09-30 standup, reported completing category mapping and image quality for Epicure and Twist, and Twist/Epicure Shop the Look; coordinated with Michael and Kostas on Guess feed indexation timelines and outfit approval prerequisites.
 
 ## Referenced by
+
+- Referenced in [Intelistyle Standup & Qalzy Operations Review](../meetings/2026-09-30_Intelistyle_Standup_and_Qalzy_Operations)
 
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
 

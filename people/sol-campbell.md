@@ -16,3 +16,4 @@ Creative Strategist at Social Paradigm Group (SPG) leading creative ideation, vi
 ## Referenced by
 
 - Referenced in [Qalzy x SPG Kick Off Meeting](../meetings/2026-09-17_Qalzy_x_SPG_Kick_Off)
+- Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
