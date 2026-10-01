@@ -16,3 +16,5 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 ## Referenced by
 - Referenced in [Micro-Influencer Outreach, Media & Creative Deliverables](../emails/2026-09-25-influencer-outreach-one2one-diabetes-and-podcast)
 - Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)
+- Referenced in [Qalzy Influencer Pipeline: Agreements & Creator Outreach](../emails/2026-10-01_Influencer_Partnerships_and_Outreach)

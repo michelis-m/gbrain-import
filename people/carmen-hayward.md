@@ -16,3 +16,5 @@ Nutrition and fitness coach specializing in metabolic health, portion awareness,
 - Referenced in [Daily Email Summary: 2026-09-24](../emails/2026-09-24_daily_emails)
 - Referenced in [Daily Email Summary: 2026-09-28](../emails/2026-09-28_daily_emails)
 - Referenced in [Influencer Partnerships: Alexandrea Figueroa Rate Card & Carmen Hayward Campaign Sync](../emails/2026-09-28-influencer-partnerships-alexandrea-figueroa-and-carmen-hayward)
+- Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)
+- Referenced in [Qalzy Influencer Pipeline: Agreements & Creator Outreach](../emails/2026-10-01_Influencer_Partnerships_and_Outreach)

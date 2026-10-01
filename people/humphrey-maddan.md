@@ -12,3 +12,4 @@ Director at REMAKER (remaker.co.uk), coordinating strategic and design collabora
 
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-09-29](../emails/2026-09-29_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)

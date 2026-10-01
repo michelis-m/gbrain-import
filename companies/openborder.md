@@ -25,3 +25,4 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [Craig Shaver](../people/craig-shaver)
 - Referenced in [Daily Email Summary: 2026-09-26](../emails/2026-09-26_daily_emails)
 - Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)
+- Referenced in [Norway VOEC Registration & Portless / OpenBorder Duty Exclusion](../emails/2026-10-01_OpenBorder_Portless_Norway_VOEC)

@@ -127,3 +127,5 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless Support: Lost Shipment PBID007752619 & Address Refund Updates](../emails/2026-09-30_Portless_Support_Lost_Order_PBID007752619)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Norway VOEC Registration & Portless / OpenBorder Duty Exclusion](../emails/2026-10-01_OpenBorder_Portless_Norway_VOEC)

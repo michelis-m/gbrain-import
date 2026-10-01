@@ -20,3 +20,7 @@ Wife of [[people/michael|Michael Michelis]].
 - [[people/michael]]
 - [[people/liam]]
 - [[companies/montessorians]]
+
+## Referenced by
+
+- Referenced in [Qalzy CES 2027 Planning & Meta Creative Strategy](../meetings/2026-10-01_Qalzy_CES_Planning_and_Meta_Creative_Strategy)
