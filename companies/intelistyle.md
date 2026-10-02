@@ -31,3 +31,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns](../meetings/2026-09-25_Intelistyle_Standup_and_Qalzy_Creative_Fatigue_Scale_Guide_and_Returns)
 - Referenced in [Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting](../meetings/2026-09-28_Intelistyle_Standup_and_Qalzy_Operations_Redo_Returns_and_App_Troubleshooting)
 - Referenced in [Intelistyle Standup & Qalzy Operations Review](../meetings/2026-09-30_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Ad Demographics, Email Flows, and AI Creatives](../meetings/2026-10-02_Intelistyle_Standup_and_Qalzy_Ad_Strategy)
