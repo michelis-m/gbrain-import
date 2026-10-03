@@ -25,3 +25,5 @@
 - Referenced in [Namzi Growing Refund Escalation & Ultimatum](../emails/2026-09-25-namzi-growing-refund-escalation-and-ultimatum)
 - Referenced in [Namzi Growing Refund Refusal & Creator Update](../emails/2026-09-29-namzi-growing-refund-refusal-and-creator-round-one)
 - Referenced in [Daily Email Summary: 2026-09-29](../emails/2026-09-29_daily_emails)
+- Referenced in [Namzi Growing: Creator Shortlist Delivered](../emails/2026-10-03_Namzi_Creator_Shortlist_Delivered)
+- Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)

@@ -50,3 +50,5 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting](../meetings/2026-09-28_Intelistyle_Standup_and_Qalzy_Operations_Redo_Returns_and_App_Troubleshooting)
 - Referenced in [Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync](../meetings/2026-09-29_Qalzy_Internal_Post_Meta_Debrief_and_CRO_Strategy)
 - Referenced in [Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal](../emails/2026-09-30_Redo_Returns_and_Influencer_Outlet_Workaround)
+- Referenced in [Redo Managed Returns: Custom Outlet Website Integration](../emails/2026-10-03_Redo_Outlet_Store_Integration)
+- Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)

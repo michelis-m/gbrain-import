@@ -183,3 +183,5 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Iyanah Lewis](../people/iyanah-lewis)
 - Referenced in [Brodie Jacobs](../people/brodie-jacobs)
 - Referenced in [Humphrey Maddan](../people/humphrey-maddan)
+- Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)
+- Referenced in [Morgan H.S. Fowles](../people/morgan-fowles)
