@@ -185,3 +185,6 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Humphrey Maddan](../people/humphrey-maddan)
 - Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)
 - Referenced in [Morgan H.S. Fowles](../people/morgan-fowles)
+- Referenced in [Meta Ads Billing Receipt ($900.00)](../emails/2026-10-04_Meta_Ads_Billing_Receipt)
+- Referenced in [Daily Email Summary: 2026-10-04](../emails/2026-10-04_daily_emails)
+- Referenced in [Outbound PR & Podcast Outreach Campaigns](../emails/2026-10-04_PR_and_Podcast_Outbound_Campaigns)
