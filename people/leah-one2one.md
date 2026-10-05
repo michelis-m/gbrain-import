@@ -16,6 +16,7 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - Counter-offered a $250 flat fee (up from $150 initial offer) for a dedicated Reel demo along with 90-day partnership ad rights.
 - On 2026-10-01, received standard collaboration contract from Michael.
 - On 2026-10-02, fully executed contract was completed and exchanged. Leah provided her shipping address in Windsor, Colorado and stated she will send an invoice for the initial $125 payment shortly.
+- On 2026-10-05, sent Invoice #D112 / Order #2253 for the 50% upfront deposit ($125.00 USD). Michael paid the invoice, forwarded it to Xero, and confirmed the Qalzy scale unit has been dispatched to Colorado.
 
 ## Referenced by
 - Referenced in [Qalzy Creator Partnerships: One2One Diabetes & Iyanah Lewis](../emails/2026-10-02_Influencer_Partnerships_One2One_and_Iyanah_Lewis)
@@ -24,3 +25,4 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - Referenced in [Daily Email Summary: 2026-09-25](../emails/2026-09-25_daily_emails)
 - Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)
 - Referenced in [Qalzy Influencer Pipeline: Agreements & Creator Outreach](../emails/2026-10-01_Influencer_Partnerships_and_Outreach)
+- Referenced in [Qalzy Influencer Partnerships: One2One Diabetes Payment & Fit with Yasmin Invoice](../emails/2026-10-05_Influencer_Partnerships_One2One_Diabetes_and_Fit_with_Yasmin)

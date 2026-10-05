@@ -25,3 +25,5 @@ Head of People at Social Paradigm Group (SPG). Manages talent and client onboard
 - Referenced in [Charlie Williams](../people/charlie-williams)
 - Referenced in [Qalzy x SPG Kick Off Meeting](../meetings/2026-09-17_Qalzy_x_SPG_Kick_Off)
 - Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
+- Referenced in [Agency Operations: Namzi Creator Contract Enforcement & SPG Invoice Reconciliation](../emails/2026-10-05_Namzi_and_SPG_Operations)
+- Referenced in [Daily Email Summary: 2026-10-05](../emails/2026-10-05_daily_emails)

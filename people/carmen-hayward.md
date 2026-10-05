@@ -18,3 +18,4 @@ Nutrition and fitness coach specializing in metabolic health, portion awareness,
 - Referenced in [Influencer Partnerships: Alexandrea Figueroa Rate Card & Carmen Hayward Campaign Sync](../emails/2026-09-28-influencer-partnerships-alexandrea-figueroa-and-carmen-hayward)
 - Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)
 - Referenced in [Qalzy Influencer Pipeline: Agreements & Creator Outreach](../emails/2026-10-01_Influencer_Partnerships_and_Outreach)
+- Referenced in [Qalzy Influencer Partnerships: One2One Diabetes Payment & Fit with Yasmin Invoice](../emails/2026-10-05_Influencer_Partnerships_One2One_Diabetes_and_Fit_with_Yasmin)
