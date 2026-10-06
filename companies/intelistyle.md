@@ -34,3 +34,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Demographics, Email Flows, and AI Creatives](../meetings/2026-10-02_Intelistyle_Standup_and_Qalzy_Ad_Strategy)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and CRO A/B Testing](../meetings/2026-10-05_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Qalzy Strategy & Intelistyle Operations: Meta Ad Scale Skepticism, Creator Demographics, and BFCM Margins](../meetings/2026-10-05_Qalzy_Meta_Scaling_and_Intelistyle_Coverage)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Catalog Queues, Ad Disappointment, and Customer Expectations](../meetings/2026-10-06_Intelistyle_Standup_and_Qalzy_Operations)

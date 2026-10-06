@@ -27,3 +27,5 @@ Chief of Staff at OpenBorder assisting executive leadership ([[people/richard-ho
 - Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)
 - Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)
 - Referenced in [Norway VOEC Registration & Portless / OpenBorder Duty Exclusion](../emails/2026-10-01_OpenBorder_Portless_Norway_VOEC)
+- Referenced in [Daily Email Summary: 2026-10-06](../emails/2026-10-06_daily_emails)
+- Referenced in [Logistics & Supply Chain: Portless Invoices, Kickstarter Import 10 & Customs Delivery](../emails/2026-10-06_Portless_Invoices_and_Delivery_Fulfillment)

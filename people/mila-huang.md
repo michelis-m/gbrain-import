@@ -16,3 +16,5 @@ Undergraduate analyst at Harvard College studying psychology and sourcing early-
 ## Referenced by
 - Referenced in [Harvard Undergraduate Venture Capital Group Sourcing Interest](../emails/2026-10-05_Harvard_VCG_Sourcing_Interest)
 - Referenced in [Daily Email Summary: 2026-10-05](../emails/2026-10-05_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-06](../emails/2026-10-06_daily_emails)
+- Referenced in [Venture Capital Sourcing: Harvard VCG Pitch Meeting Confirmed](../emails/2026-10-06_Harvard_VCG_Meeting_Confirmed)

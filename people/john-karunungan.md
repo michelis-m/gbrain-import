@@ -39,3 +39,4 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - Referenced in [Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting](../meetings/2026-09-28_Intelistyle_Standup_and_Qalzy_Operations_Redo_Returns_and_App_Troubleshooting)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Demographics, Email Flows, and AI Creatives](../meetings/2026-10-02_Intelistyle_Standup_and_Qalzy_Ad_Strategy)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and CRO A/B Testing](../meetings/2026-10-05_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Catalog Queues, Ad Disappointment, and Customer Expectations](../meetings/2026-10-06_Intelistyle_Standup_and_Qalzy_Operations)

@@ -17,3 +17,5 @@ REMAKER is a connected fitness technology company developing "REMAKER Move" — 
 ## Referenced by
 - Referenced in [Qalzy <> REMAKER Strategic Partnership & Founder Exchange](../meetings/2026-10-02_Qalzy_x_REMAKER)
 - Referenced in [Investor Introduction: REMAKER <> Jenson Ventures](../emails/2026-10-02_REMAKER_Jenson_Ventures_Investor_Intro)
+- Referenced in [Morgan H.S. Fowles](../people/morgan-fowles)
+- Referenced in [Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange](../meetings/2026-10-06_Morgan_Fowles_Advisory_and_Strategy)

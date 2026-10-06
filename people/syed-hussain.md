@@ -31,3 +31,4 @@
 - Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
 - Referenced in [Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync](../meetings/2026-09-29_Qalzy_Internal_Post_Meta_Debrief_and_CRO_Strategy)
 - Referenced in [Qalzy Meta Ads Consultation with Meta Marketing Pro](../meetings/2026-09-29_Qalzy_Meta_Marketing_Pro_Consultation)
+- Referenced in [SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy](../meetings/2026-10-06_SPG_x_Qalzy_Strategy_and_Whitelisting)
