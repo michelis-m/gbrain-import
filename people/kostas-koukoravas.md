@@ -28,6 +28,9 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
   - Rejected Rolandas's (Blazer) generic ChatGPT GLP-1 video scripts and misstated discount numbers; mandated founder pre-approval on scripts.
   - Established "movie trailer" standard for static ads (2–3 punchy words) and planned internal Figma copy revisions.
   - Verified Redo's Checkout+ bug fix and confirmed Portless's release of Kickstarter Batch 9 for fulfillment.
+- In the 2026-10-06 Intelistyle standup, reviewed John Karunungan's progress on Guess catalog queue (~830 items pending), advised using a Turkish VPN for blocked Ipekyol access, and debriefed Qalzy daily ad performance and customer return psychology (Giselle return, GLP-1 magic pill expectations).
+- In the 2026-10-06 SPG sync with Syed Hussain, addressed Meta partnership ads profile setup, creator physical seeding timelines (China shipping + filming requiring ~3-4 weeks), creative ad angles (advocating dedicated 54+ demographic creatives with softer pacing and music), and scheduled Wednesday 10:00 AM weekly meetings.
+- On 2026-10-06, submitted Kickstarter Import batch 10 to Portless, provided corrected recipient details for German backer Boris Daake, and followed up with Frank Marino (Redo) regarding technical specs for building a custom outlet returns store.
 
 ## Referenced by
 
