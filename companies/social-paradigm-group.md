@@ -43,3 +43,4 @@
 - Referenced in [Qalzy Meta Ads Consultation with Meta Marketing Pro](../meetings/2026-09-29_Qalzy_Meta_Marketing_Pro_Consultation)
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
 - Referenced in [SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy](../meetings/2026-10-06_SPG_x_Qalzy_Strategy_and_Whitelisting)
+- Referenced in [SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics](../meetings/2026-10-07_SPG_x_Qalzy_Weekly_Call)

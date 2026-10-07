@@ -136,3 +136,4 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Logistics & Supply Chain: Portless Invoices, Kickstarter Import 10 & Customs Delivery](../emails/2026-10-06_Portless_Invoices_and_Delivery_Fulfillment)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)

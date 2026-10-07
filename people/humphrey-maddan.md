@@ -23,3 +23,4 @@ Founder and CEO of REMAKER (remaker.co.uk), a UK-based health tech hardware star
 - Referenced in [REMAKER](../companies/remaker)
 - Referenced in [Qalzy](../companies/qalzy)
 - Referenced in [Morgan H.S. Fowles](../people/morgan-fowles)
+- Referenced in [Daily Email Summary: 2026-10-07](../emails/2026-10-07_daily_emails)

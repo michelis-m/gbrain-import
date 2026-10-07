@@ -20,3 +20,4 @@ Truemed enables direct-to-consumer health and wellness merchants to accept pre-t
 ## Referenced by
 - Referenced in [Inbound Partnership: Truemed HSA/FSA Integration & Onboarding](../emails/2026-10-06_Truemed_HSA_FSA_Partnership_Onboarding)
 - Referenced in [Daily Email Summary: 2026-10-06](../emails/2026-10-06_daily_emails)
+- Referenced in [Truemed Partnership Alignment & Meeting Confirmed](../emails/2026-10-07_Truemed_Call_Booked_and_Strategy)
