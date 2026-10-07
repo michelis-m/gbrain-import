@@ -30,8 +30,13 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
     - Recipient: Mohammed Sarkhouh, Aramex HK LTD – SNS
     - Address: Unit 1, 1/F, Goodman Interlink, 39 Tsing Yi Road, KWI 45170, Tsing Yi, New Territories, 999077, Hong Kong
     - Phone: `+852 3556 7000`
+- **2026-10-07 Sample Received & Discussion Scheduled:**
+  - Mahdi confirmed safe delivery of the Qalzy sample device in Kuwait ("looks great").
+  - Scheduled a follow-up review call with [[people/michael-michelis]] and [[people/kostas-koukoravas]] for Monday, 12 October 2026 at 09:30 EEST (09:30 Kuwait time) to discuss product feedback and commercial distribution terms.
 
 ## Referenced by
+- Referenced in [Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled](../emails/2026-10-07_Mahdi_Aldashti_Kuwait_Call_Rescheduled)
+- Referenced in [Daily Email Summary: 2026-10-07](../emails/2026-10-07_daily_emails)
 
 - Referenced in [Mahdi Aldashti: Sample Unit Shipping Address](../emails/2026-09-19-mahdi-aldashti-sample-unit-shipping-address)
 - Referenced in [Daily Email Summary: 2026-09-19](../emails/2026-09-19_daily_emails)
