@@ -16,6 +16,8 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - On 2026-09-28, responded to Kostas' escalation regarding delayed influencer order dispatches. Clarified that returns were processed within 3 days but had not been moved to bins. Formally notified Qalzy that Redo cannot support manual influencer orders or offline fulfillment flows under their D2C warehouse roadmap, concluding Redo is not a good fit for Qalzy and offering an offboarding review call.
 - On 2026-09-30, received proposal from [[people/kostas-koukoravas]] suggesting an "outlet" storefront workaround to sell/route returned units internally to creators without requiring custom warehouse handling.
 - On 2026-10-06, received follow-up from [[people/kostas-koukoravas]] requesting technical documentation and API specifications to connect a Qalzy-built secondary Shopify outlet storefront to Redo's warehouse intake for returned/refurbished units.
+- On 2026-10-07, replied outlining two options: creating a brand-new Shopify outlet store with collaborator access, or placing returned items into a hidden collection on the existing store transformed to a new distinct SKU to separate DTC from creator inventory.
+- On 2026-10-08, received confirmation from [[people/kostas-koukoravas]] that Qalzy will use the existing store with an unlisted SKU for manual influencer orders, requesting operational instructions on how Redo handles transforming received units to the new SKU.
 
 ## Referenced by
 

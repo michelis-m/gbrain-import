@@ -9,6 +9,7 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 ## Engagements & Status
 - Manages tax remittance for EU and Canadian sales. (Portless directly bills and remits US duties: $3.42 standalone per scale, $6.16 blended per order).
 - Active reconciliation underway regarding European Kickstarter backer orders to clarify remitted VAT/duties and prevent double-taxation on reshipments.
+- On 2026-10-08, Openborder notified Qalzy of a new €2 Union Handling Fee per unique customs item (HS code + Country of Origin) on B2C imports clearing EU customs on or after 2026-11-01 (collected at checkout starting 2026-10-26), levied in addition to the July 1 €3 fee.
 
 ## Referenced by
 
