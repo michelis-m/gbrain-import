@@ -29,3 +29,4 @@ Primary point of contact and media buyer managing Qalzy's paid media and creativ
 - Referenced in [Qalzy Daily Sync: Blazer Performance Review & Ad Architecture Strategy](../meetings/2026-09-09_Qalzy_Daily_Sync_Blazer_Review_and_Ad_Strategy)
 - Referenced in [QALZY X BLAZER Ad Sync](../meetings/2026-09-04_QALZY_X_BLAZER)
 - Referenced in [Blazer Agency](../companies/blazer-agency)
+- Referenced in [Qalzy Influencer Review, Ad Creative Strategy & Hardware Stability](../meetings/2026-10-08_Qalzy_Influencer_Review_and_Creative_Strategy)

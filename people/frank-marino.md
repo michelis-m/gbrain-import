@@ -43,3 +43,6 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Redo: Breakdown in Influencer Order Support & Offboarding Notice](../emails/2026-09-28-redo-offboarding-and-influencer-order-support-breakdown)
 - Referenced in [Creator Operations: Carmen Hayward Contract Terms & Outbound Outreach](../emails/2026-10-06_Influencer_Outreach_and_Carmen_Hayward_Terms)
 - Referenced in [Daily Email Summary: 2026-10-06](../emails/2026-10-06_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
+- Referenced in [Redo Returns: Unlisted Shopify SKU Resolution for Influencer Orders](../emails/2026-10-08_Redo_Returns_Unlisted_Shopify_SKU_Resolution)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)

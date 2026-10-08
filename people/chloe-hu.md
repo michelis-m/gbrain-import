@@ -32,3 +32,5 @@
 - Referenced in [Qalzy X Portless Bi-Weekly Operations Check-In](../meetings/2026-09-11_Qalzy_X_Portless_Check_In)
 - Referenced in [Portless: RTS Orders Rerouting to Redo & Account Transition](../emails/2026-09-19-portless-redo-rts-transition-and-batch-handling)
 - Referenced in [Portless: Kickstarter Import Batch 9 & Refund Claims Tracking](../emails/2026-09-23-portless-kickstarter-batch-9-and-refund-spreadsheet)
+- Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
+- Referenced in [Portless: US Fulfillment Transition & Bulk Freight Modeling](../emails/2026-10-08_Portless_US_Warehouse_Transition_Modeling)

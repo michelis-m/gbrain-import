@@ -28,3 +28,5 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand](../emails/2026-09-26-openborder-portless-tariff-reconciliation-dispute)
 - Referenced in [Norway VOEC Registration & Portless / OpenBorder Duty Exclusion](../emails/2026-10-01_OpenBorder_Portless_Norway_VOEC)
 - Referenced in [Logistics & Supply Chain: Portless Invoices, Kickstarter Import 10 & Customs Delivery](../emails/2026-10-06_Portless_Invoices_and_Delivery_Fulfillment)
+- Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
+- Referenced in [Openborder & Portless: New €2 EU Union Handling Fee Effective Nov 1, 2026](../emails/2026-10-08_Openborder_and_Portless_EU_Handling_Fee_Notice)

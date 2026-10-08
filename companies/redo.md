@@ -52,3 +52,5 @@
 - Referenced in [Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal](../emails/2026-09-30_Redo_Returns_and_Influencer_Outlet_Workaround)
 - Referenced in [Redo Managed Returns: Custom Outlet Website Integration](../emails/2026-10-03_Redo_Outlet_Store_Integration)
 - Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)
+- Referenced in [Redo Returns: Unlisted Shopify SKU Resolution for Influencer Orders](../emails/2026-10-08_Redo_Returns_Unlisted_Shopify_SKU_Resolution)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
