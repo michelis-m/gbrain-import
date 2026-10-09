@@ -37,3 +37,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations: Catalog Queues, Ad Disappointment, and Customer Expectations](../meetings/2026-10-06_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo Returns, and CES Travel](../meetings/2026-10-07_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)

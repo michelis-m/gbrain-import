@@ -142,3 +142,6 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Openborder & Portless: New €2 EU Union Handling Fee Effective Nov 1, 2026](../emails/2026-10-08_Openborder_and_Portless_EU_Handling_Fee_Notice)
 - Referenced in [Portless: US Fulfillment Transition & Bulk Freight Modeling](../emails/2026-10-08_Portless_US_Warehouse_Transition_Modeling)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Urgent Escalation for Norway VOEC Declared Values](../emails/2026-10-09_Portless_Norway_VOEC_Declared_Value_Escalation)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)

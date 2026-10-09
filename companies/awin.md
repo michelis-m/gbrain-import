@@ -12,3 +12,5 @@ Global affiliate marketing network connecting merchants with editorial publisher
 
 - Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Awin: Affiliate Application Cancellation (Case 03190067)](../emails/2026-10-09_Awin_Affiliate_Application_Cancellation)
+- Referenced in [Daily Email Summary: 2026-10-09](../emails/2026-10-09_daily_emails)

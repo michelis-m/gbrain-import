@@ -18,8 +18,13 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - On 2026-10-06, received follow-up from [[people/kostas-koukoravas]] requesting technical documentation and API specifications to connect a Qalzy-built secondary Shopify outlet storefront to Redo's warehouse intake for returned/refurbished units.
 - On 2026-10-07, replied outlining two options: creating a brand-new Shopify outlet store with collaborator access, or placing returned items into a hidden collection on the existing store transformed to a new distinct SKU to separate DTC from creator inventory.
 - On 2026-10-08, received confirmation from [[people/kostas-koukoravas]] that Qalzy will use the existing store with an unlisted SKU for manual influencer orders, requesting operational instructions on how Redo handles transforming received units to the new SKU.
+- On 2026-10-09, confirmed that Redo will map and generate the transformed return SKUs internally; Kostas agreed to the naming convention `[original sku name]-redo`.
 
 ## Referenced by
+
+- Referenced in [Daily Email Summary: 2026-10-09](../emails/2026-10-09_daily_emails)
+- Referenced in [Redo Returns: SKU Naming Convention Agreement](../emails/2026-10-09_Redo_Returns_SKU_Naming_Convention_Agreement)
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
 
 - Referenced in [Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal](../emails/2026-09-30_Redo_Returns_and_Influencer_Outlet_Workaround)
 

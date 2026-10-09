@@ -33,8 +33,12 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
 - **2026-10-07 Sample Received & Discussion Scheduled:**
   - Mahdi confirmed safe delivery of the Qalzy sample device in Kuwait ("looks great").
   - Scheduled a follow-up review call with [[people/michael-michelis]] and [[people/kostas-koukoravas]] for Monday, 12 October 2026 at 09:30 EEST (09:30 Kuwait time) to discuss product feedback and commercial distribution terms.
+- **2026-10-09 Inventory & Dispatch Review:**
+  - Kostas and Michael noted in standup that Mahdi is eager to receive commercial units immediately; fulfillment is contingent on coordinating carrying case availability and air freight.
 
 ## Referenced by
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled](../emails/2026-10-07_Mahdi_Aldashti_Kuwait_Call_Rescheduled)
 - Referenced in [Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled](../emails/2026-10-07_Mahdi_Aldashti_Kuwait_Call_Rescheduled)
 - Referenced in [Daily Email Summary: 2026-10-07](../emails/2026-10-07_daily_emails)
 

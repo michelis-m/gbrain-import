@@ -54,3 +54,5 @@
 - Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)
 - Referenced in [Redo Returns: Unlisted Shopify SKU Resolution for Influencer Orders](../emails/2026-10-08_Redo_Returns_Unlisted_Shopify_SKU_Resolution)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Redo Returns: SKU Mapping & Naming Convention Agreement](../emails/2026-10-09_Redo_Returns_SKU_Naming_Convention_Agreement)
+- Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
