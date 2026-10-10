@@ -231,3 +231,8 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Fred Fishkin: Techstination Podcast Review & Interview Check-In](../emails/2026-10-09_Fred_Fishkin_Techstination_Podcast_and_Review_Followup)
 - Referenced in [Portless: Urgent Escalation for Norway VOEC Declared Values](../emails/2026-10-09_Portless_Norway_VOEC_Declared_Value_Escalation)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Daily Email Summary: 2026-10-10](../emails/2026-10-10_daily_emails)
+- Referenced in [Portless: Confirmation of Declared Values for Norway VOEC Orders](../emails/2026-10-10_Portless_Norway_VOEC_Declared_Value_Confirmation)
+- Referenced in [OpenBorder: Action Required - Onboarding for New Finance Portal](../emails/2026-10-10_OpenBorder_Finance_Portal_Onboarding_Reminder)
+- Referenced in [Buffer: TikTok Scheduled Post Publishing Failure](../emails/2026-10-10_Buffer_TikTok_Publishing_Failure)
+- Referenced in [TrackBee: Klaviyo Flow Optimization & Revenue Lift Pitch](../emails/2026-10-10_TrackBee_Klaviyo_Flow_Optimization_Pitch)

@@ -147,3 +147,4 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Portless: Confirmation of Declared Values for Norway VOEC Orders](../emails/2026-10-10_Portless_Norway_VOEC_Declared_Value_Confirmation)
 - Referenced in [Daily Email Summary: 2026-10-10](../emails/2026-10-10_daily_emails)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
