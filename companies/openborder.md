@@ -30,3 +30,5 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [Logistics & Supply Chain: Portless Invoices, Kickstarter Import 10 & Customs Delivery](../emails/2026-10-06_Portless_Invoices_and_Delivery_Fulfillment)
 - Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
 - Referenced in [Openborder & Portless: New €2 EU Union Handling Fee Effective Nov 1, 2026](../emails/2026-10-08_Openborder_and_Portless_EU_Handling_Fee_Notice)
+- Referenced in [OpenBorder Finance Portal Onboarding](../emails/2026-10-10_OpenBorder_Finance_Portal_Onboarding_Reminder)
+- Referenced in [Daily Email Summary: 2026-10-10](../emails/2026-10-10_daily_emails)
