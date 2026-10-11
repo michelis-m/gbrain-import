@@ -236,3 +236,8 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [OpenBorder: Action Required - Onboarding for New Finance Portal](../emails/2026-10-10_OpenBorder_Finance_Portal_Onboarding_Reminder)
 - Referenced in [Buffer: TikTok Scheduled Post Publishing Failure](../emails/2026-10-10_Buffer_TikTok_Publishing_Failure)
 - Referenced in [TrackBee: Klaviyo Flow Optimization & Revenue Lift Pitch](../emails/2026-10-10_TrackBee_Klaviyo_Flow_Optimization_Pitch)
+- Referenced in [Daily Email Summary: 2026-10-11](../emails/2026-10-11_daily_emails)
+- Referenced in [Google Play App Store 5-Star Review](../emails/2026-10-11_Google_Play_5_Star_Review)
+- Referenced in [Portless: Updated Tracking for Order PBID007752595](../emails/2026-10-11_Portless_Order_PBID007752595_Reshipment_Tracking)
+- Referenced in [Portless: Norway VOEC Declared Value VAT Inclusivity Query](../emails/2026-10-11_Portless_Norway_VOEC_VAT_Inquiry)
+- Referenced in [Natalie Tysdal](../people/natalie-tysdal)
