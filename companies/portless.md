@@ -153,3 +153,7 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless: Norway VOEC Declared Value VAT Inclusivity Query](../emails/2026-10-11_Portless_Norway_VOEC_VAT_Inquiry)
 - Referenced in [Qalzy Product SKUs and HS Codes](../Qalzy_SKUs_and_HS_Codes.md)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Wholesale Freight & Pallet Specification Quote for Kuwait (250 Units)](../emails/2026-10-12_Portless_Wholesale_Pallet_Freight_Quote_Kuwait)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Order PBID007833475 Customs Clearance & HS Code Resolution](../emails/2026-10-12_Portless_Order_PBID007833475_Customs_HS_Codes)
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback](../meetings/2026-10-12_Mahdi_Aldashti_Kuwait_Distribution_and_Product_Feedback)

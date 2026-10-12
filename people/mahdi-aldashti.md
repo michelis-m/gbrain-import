@@ -35,6 +35,11 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
   - Scheduled a follow-up review call with [[people/michael-michelis]] and [[people/kostas-koukoravas]] for Monday, 12 October 2026 at 09:30 EEST (09:30 Kuwait time) to discuss product feedback and commercial distribution terms.
 - **2026-10-09 Inventory & Dispatch Review:**
   - Kostas and Michael noted in standup that Mahdi is eager to receive commercial units immediately; fulfillment is contingent on coordinating carrying case availability and air freight.
+- **2026-10-12 Commercial Agreement & Product Review Call:**
+  - Met with [[people/kostas-koukoravas]] and [[people/michael-michelis]] to review sample device testing and finalize initial commercial terms.
+  - Provided user feedback: grilled chicken misclassified as fried chicken; store-bought seasoned French fries logged at 1,000 calories due to a 35g portion scaling bug in the FatSecret integration (fixed by Michael on backend); noted setup questionnaire felt lengthy, but Kostas shared data showing extensive onboarding drastically improves subscription conversion and stickiness. Proposed a personal "User Pantry" feature for staple items.
+  - **Commercial Terms Agreed:** Finalized wholesale pricing at **$85.00 USD / unit** EXW for an initial batch of **250 units**. Mahdi will fund shipping and local marketing/creator seeding in Kuwait.
+  - **Supply Chain Timing:** Qalzy is preparing to move stock from China to the US; the 250 units must ship directly from China before container consolidation. Mahdi requested carton dimensions, gross weights, and pallet specs so his forwarder can quote shipping before he travels for 3 weeks starting mid-October (targeting mid-November launch).
 
 ## Referenced by
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
@@ -50,3 +55,7 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
 - Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Retail Distribution Strategy](../meetings/2026-09-18_Mahdi_Aldashti_Kuwait_Retail_Distribution)
 - Referenced in [Mahdi Aldashti - Kuwait Distribution Discussion](../meetings/2026-09-04_Mahdi_Aldashti_Kuwait_Distribution)
 - Referenced in [Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment](../meetings/2026-09-14_Qalzy_Standup_Pricing_AB_Test_and_Operations)
+- Referenced in [Portless: Wholesale Freight & Pallet Specification Quote for Kuwait (250 Units)](../emails/2026-10-12_Portless_Wholesale_Pallet_Freight_Quote_Kuwait)
+- Referenced in [Qalzy <> Mahdi Aldashti: Post-Call French Fries Database Bug Resolution](../emails/2026-10-12_Mahdi_Aldashti_Post_Call_French_Fries_Bug_Resolution)
+- Referenced in [Daily Email Summary: 2026-10-12](../emails/2026-10-12_daily_emails)
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback](../meetings/2026-10-12_Mahdi_Aldashti_Kuwait_Distribution_and_Product_Feedback)

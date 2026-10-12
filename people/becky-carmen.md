@@ -14,7 +14,9 @@ ACE-certified private health coach based in Saratoga Springs and Manhattan, crea
 - On 2026-10-07, responded to [[people/michael-michelis]]'s partnership outreach (offering a complimentary $199 Qalzy scale and $250 fee for an educational Reel with 60-day ad usage rights).
 - Expressed strong interest, confirming that Qalzy aligns closely with her core audience focusing on protein, strength, and midlife nutrition.
 - Inquired regarding deliverable specifics: organic Instagram feed posting vs. brand ad channels, and whitelisting / Meta Partnership Ad usage.
+- On 2026-10-12, followed up with [[people/michael-michelis]] reaffirming strong interest in the paid Instagram collaboration. Michael acknowledged and confirmed checking details with the team.
 
 ## Referenced by
 - Referenced in [Creator Outreach: Becky Carmen Partnership Terms](../emails/2026-10-07_Creator_Outreach_Becky_Carmen_Partnership)
 - Referenced in [Daily Email Summary: 2026-10-07](../emails/2026-10-07_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-12](../emails/2026-10-12_daily_emails)
