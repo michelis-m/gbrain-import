@@ -151,3 +151,5 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless: Updated Tracking for Order PBID007752595](../emails/2026-10-11_Portless_Order_PBID007752595_Reshipment_Tracking)
 - Referenced in [Portless: Norway VOEC Declared Value VAT Inclusivity Query](../emails/2026-10-11_Portless_Norway_VOEC_VAT_Inquiry)
+- Referenced in [Qalzy Product SKUs and HS Codes](../Qalzy_SKUs_and_HS_Codes.md)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
