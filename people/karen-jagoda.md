@@ -14,6 +14,7 @@ Interviewing Qalzy leadership on building "the OURA of nutrition tracking."
 - Requested suggested questions and hashtags prior to recording.
 - On 2026-10-06, followed up offering two interview recording time slots: Thursday, October 29 at 1:00 PM Pacific or Thursday, November 12 at 10:00 AM Pacific (20 minutes).
 - On 2026-10-12, confirmed recording Zoom link for Tuesday, October 20, 2026 at 11:00 AM Pacific: `https://us06web.zoom.us/j/83723362481?pwd=A3rI6HrVHA3LKubwbGeJUbuwxUBNBy.1`. Requested interview questions and hashtags by Thursday, October 15.
+- On 2026-10-13, [[people/kostas-koukoravas]] provided the list of interview questions and suggested hashtags via Google Doc (`https://docs.google.com/document/d/1WJBa6sHtHDM7hXkyVEXg6Pqyv2rWlz12Nf6diADXRUM/edit?usp=sharing`). Karen confirmed receipt and expressed excitement for the upcoming recording.
 
 ## Referenced by
 
