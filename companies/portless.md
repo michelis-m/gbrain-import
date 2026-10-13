@@ -163,3 +163,4 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless: Order PBID007833475 Reshipment & Validated HS Codes](../emails/2026-10-13_Portless_Order_PBID007833475_Reshipment_and_Validated_HS_Codes)
 - Referenced in [Portless: Invoice 1085261013 Issued ($3,169.55)](../emails/2026-10-13_Portless_Invoice_1085261013)
 - Referenced in [Tine (Portless)](../people/tine-portless)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
