@@ -20,3 +20,5 @@ Interviewing Qalzy leadership on building "the OURA of nutrition tracking."
 
 - Referenced in [Creator Operations: Carmen Hayward Contract Terms & Outbound Outreach](../emails/2026-10-06_Influencer_Outreach_and_Carmen_Hayward_Terms)
 - Referenced in [Daily Email Summary: 2026-10-06](../emails/2026-10-06_daily_emails)
+- Referenced in [Podcast: Empowered Patient Interview Questions & Hashtags Delivered](../emails/2026-10-13_Karen_Jagoda_Empowered_Patient_Interview_Questions_Delivered)
+- Referenced in [Daily Email Summary: 2026-10-13](../emails/2026-10-13_daily_emails)

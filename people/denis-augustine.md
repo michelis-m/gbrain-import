@@ -18,3 +18,4 @@ Dedicated Reddit Ads account representative assigned to Qalzy (`a2_jkg46exnryaq`
 
 - Referenced in [Reddit Ads: Dedicated Rep Onboarding & Reddit Max Beta Invitation](../emails/2026-10-08_Reddit_Rep_Outreach_and_Reddit_Max_Beta)
 - Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-13](../emails/2026-10-13_daily_emails)

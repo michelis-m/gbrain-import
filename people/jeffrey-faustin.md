@@ -15,3 +15,4 @@ Venture capital investor at Jenson Ventures, a London-based early-stage fund foc
 - Referenced in [Daily Email Summary: 2026-10-02](../emails/2026-10-02_daily_emails)
 - Referenced in [Qalzy <> REMAKER Strategic Partnership & Founder Exchange](../meetings/2026-10-02_Qalzy_x_REMAKER)
 - Referenced in [Jenson Ventures](../companies/jenson-ventures)
+- Referenced in [Qalzy Strategy & CRO: Landing Page Figma Review, Meta Account Unblock, and Ad Creative Analysis](../meetings/2026-10-13_Qalzy_Landing_Page_CRO_Figma_and_Meta_Account_Unblock)

@@ -45,3 +45,4 @@ Intercom is Qalzy's customer support platform, and Fin is the AI agent layered o
 ## Referenced by
 
 - Referenced in [Fin API](../emails/2026-08-07-fin-api)
+- Referenced in [Qalzy Operations: Wi-Fi 2.4GHz Support Protocol, Ad Creative Formats, and In-App Troubleshooting](../meetings/2026-10-13_Qalzy_Wi-Fi_Setup_Support_Policy_and_Ad_Creative_Review)
