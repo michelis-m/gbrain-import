@@ -14,6 +14,8 @@ Undergraduate analyst at Harvard College studying psychology and sourcing early-
 - On 2026-10-06, confirmed an exploratory venture sourcing interview with [[people/michael-michelis]] for Friday, 9 October 2026 at 14:30 UK / 16:30 EEST via Zoom (`https://zoom.us/j/98652684383`).
 - On 2026-10-07, rescheduled the call to Wednesday, 14 October 2026 at 14:30 UK / 16:30 EEST (`https://zoom.us/j/98652684383`) so co-founder [[people/kostas-koukoravas]] can participate. Michael shared Qalzy's pitch deck and noted that Qalzy closed a $350k pre-seed round in June 2026 and is not actively raising. Mila reviewed the deck and welcomed connecting early to track milestones.
 
+- On 2026-10-14, viewed `Qalzy Pitch Deck 2.0.pdf` via Papermark and conducted the venture capital sourcing interview with [[people/michael-michelis]] and [[people/kostas-koukoravas]]. Discussed Qalzy's hardware-plus-subscription model, 18% organic subscription attach rate, 1.94 ROAS, and unit economics. Noted that she will pitch Qalzy to her internal Harvard VCG committee for potential inclusion in their winter Deal Book distributed to partner funds (including a16z, Insight Partners, and F-Prime).
+
 ## Referenced by
 - Referenced in [Harvard Undergraduate Venture Capital Group Sourcing Interest](../emails/2026-10-05_Harvard_VCG_Sourcing_Interest)
 - Referenced in [Daily Email Summary: 2026-10-05](../emails/2026-10-05_daily_emails)
@@ -21,3 +23,5 @@ Undergraduate analyst at Harvard College studying psychology and sourcing early-
 - Referenced in [Venture Capital Sourcing: Harvard VCG Pitch Meeting Confirmed](../emails/2026-10-06_Harvard_VCG_Meeting_Confirmed)
 - Referenced in [Daily Email Summary: 2026-10-07](../emails/2026-10-07_daily_emails)
 - Referenced in [Harvard VCG Meeting Rescheduled & Deck Review](../emails/2026-10-07_Harvard_VCG_Meeting_Rescheduled)
+- Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
+- Referenced in [Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang](../meetings/2026-10-14_Harvard_VCG_Sourcing_Meeting_Mila_Huang)

@@ -19,6 +19,8 @@
 - 2026-10-06: Participated in SPG x Qalzy strategic sync. Clarified Meta policy requiring dedicated Facebook Business/Creator Pages rather than personal profiles for whitelisting. Recommended creating pages off established aged personal Facebook accounts to prevent automated policy flags and partnership ads ineligibility. Confirmed Sol Campbell is wrapping up KFC comparison and gym influencer edits, with unhealthy snack edits to follow. Presented Miro board of evergreen top-of-funnel non-creator ad formats (AI Pixar-style animations, problem-solution symptom hooks, third-person clinical case studies, product demos). Committed to producing a 4–8 week creative roadmap and seeking vetted CRO advertorial copywriter recommendations from Will. Advised on nuanced emotional messaging for the 50+ female demographic. Agreed to shift weekly sync to Wednesdays at 10:00 AM.
 - 2026-10-07: Reported Meta CPA performance stabilizing at $108 and $97 (beating the $115 CPA target) after reverting PDP changes; agreed with founders to scale daily Meta ad spend immediately. Outlined high-converting PDP elements (live order activity tickers, customer clinical trial benchmarks, micro-video authority endorsements, and compliant timeline of changes). Recommended an 80/20 traffic split to safeguard cash flow during CRO testing, and structured a 3-tier bundle strategy (base + 1 plate, target + 3 plates, premium + 5 plates + case) to lift AOV and gross contribution margin.
 
+- On 2026-10-14, participated in the weekly Qalzy performance sync. Welcomed the Truemed HSA/FSA partnership as a major conversion hook for US Meta ads. Discussed funnel conversion drops and agreed with Michael and Kostas to launch the new CRO landing page variant at an initial 20% traffic allocation, while committing to deliver a detailed feedback Loom video with creative ideas.
+
 ## Referenced by
 
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
@@ -34,3 +36,4 @@
 - Referenced in [Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync](../meetings/2026-09-29_Qalzy_Internal_Post_Meta_Debrief_and_CRO_Strategy)
 - Referenced in [Qalzy Meta Ads Consultation with Meta Marketing Pro](../meetings/2026-09-29_Qalzy_Meta_Marketing_Pro_Consultation)
 - Referenced in [SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy](../meetings/2026-10-06_SPG_x_Qalzy_Strategy_and_Whitelisting)
+- Referenced in [SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation](../meetings/2026-10-14_SPG_x_Qalzy_Weekly_Call_and_Truemed_Recap)

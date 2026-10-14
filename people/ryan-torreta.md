@@ -22,3 +22,4 @@
 - Referenced in [Daily Email Summary: 2026-10-12](../emails/2026-10-12_daily_emails)
 - Referenced in [Portless: Kuwait Wholesale Pallet Freight & Specs Status Update](../emails/2026-10-13_Portless_Kuwait_Pallet_Freight_Ryan_Update)
 - Referenced in [Daily Email Summary: 2026-10-13](../emails/2026-10-13_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)

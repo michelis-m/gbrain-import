@@ -13,6 +13,8 @@
 - Coordinating tracking sheets for RTS orders routed to [[companies/redo]] in the US and the Netherlands, and resolving open customs/address issues on orders `PBID007753130-1`, `PBID007752829-1`, `PBID007833566-1`, `PBID007771348`, and `PBID007752929`.
 - On 2026-10-08, received an operational freight modeling inquiry from [[people/kostas-koukoravas]] outlining an indicative split to relocate ~3,500 scales and accessories to a US warehouse while retaining a baseline with Portless, requesting quotes for picking, palletization, carton counts, export documentation, and lead times.
 
+- On 2026-10-14, intervened on an escalated customer issue in Norway (#PBID007771348) where a customer received collection agency notices due to Portless's historical DDU shipment error. Acknowledged Portless fault and proposed that the customer pay the 1,098.94 NOK bill with Portless crediting the full amount to Qalzy, plus covering a customer goodwill gift/reshipment.
+
 ## Referenced by
 
 - Referenced in [Portless: Kickstarter Import Batch 8 & Multiple RTS Reshipment Escalations](../emails/2026-09-09-portless-rts-escalation-and-kickstarter-batch-8)
@@ -34,3 +36,5 @@
 - Referenced in [Portless: Kickstarter Import Batch 9 & Refund Claims Tracking](../emails/2026-09-23-portless-kickstarter-batch-9-and-refund-spreadsheet)
 - Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
 - Referenced in [Portless: US Fulfillment Transition & Bulk Freight Modeling](../emails/2026-10-08_Portless_US_Warehouse_Transition_Modeling)
+- Referenced in [Portless Logistics Escalation: Norway Order Tax Debt Collection & Resolution Proposal](../emails/2026-10-14_Portless_Norway_Tax_Debt_Collection_Escalation)
+- Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)

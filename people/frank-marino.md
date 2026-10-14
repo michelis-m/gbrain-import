@@ -20,6 +20,8 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - On 2026-10-08, received confirmation from [[people/kostas-koukoravas]] that Qalzy will use the existing store with an unlisted SKU for manual influencer orders, requesting operational instructions on how Redo handles transforming received units to the new SKU.
 - On 2026-10-09, confirmed that Redo will map and generate the transformed return SKUs internally; Kostas agreed to the naming convention `[original sku name]-redo`.
 
+- On 2026-10-14, clarified that Redo requires custom draft SKUs created directly on Qalzy's primary Shopify store for warranty replacement and returned unit routing. Confirmed receipt after [[people/kostas-koukoravas]] created draft product `16071809696125` with SKUs `QZ-01-BLK-REDO` and `QZ-01-WHT-REDO`.
+
 ## Referenced by
 
 - Referenced in [Daily Email Summary: 2026-10-09](../emails/2026-10-09_daily_emails)
@@ -51,3 +53,5 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Daily Email Summary: 2026-10-08](../emails/2026-10-08_daily_emails)
 - Referenced in [Redo Returns: Unlisted Shopify SKU Resolution for Influencer Orders](../emails/2026-10-08_Redo_Returns_Unlisted_Shopify_SKU_Resolution)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
+- Referenced in [Redo Managed Returns: Draft Shopify SKUs Created for Outlet Replacements](../emails/2026-10-14_Redo_Draft_SKUs_Created)

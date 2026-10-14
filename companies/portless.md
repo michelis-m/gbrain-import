@@ -164,3 +164,6 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless: Invoice 1085261013 Issued ($3,169.55)](../emails/2026-10-13_Portless_Invoice_1085261013)
 - Referenced in [Tine (Portless)](../people/tine-portless)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless Logistics Escalation: Norway Order Tax Debt Collection & Resolution Proposal](../emails/2026-10-14_Portless_Norway_Tax_Debt_Collection_Escalation)
+- Referenced in [Portless Billings: Norway Orders Declared Value & VOEC VAT Filing Ultimatum](../emails/2026-10-14_Portless_Norway_VOEC_VAT_Ultimatum)

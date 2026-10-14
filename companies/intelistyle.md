@@ -39,3 +39,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Client Feeds, US Stock Margin Boost, and Landing Page CRO](../meetings/2026-10-12_Intelistyle_Standup_and_Qalzy_CRO_Strategy)
+- Referenced in [Intelistyle Daily Standup & Qalzy CRO A/B Test Planning](../meetings/2026-10-14_Intelistyle_Standup_and_Qalzy_AB_Test_Planning)

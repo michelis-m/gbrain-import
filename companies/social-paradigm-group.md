@@ -44,3 +44,4 @@
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
 - Referenced in [SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy](../meetings/2026-10-06_SPG_x_Qalzy_Strategy_and_Whitelisting)
 - Referenced in [SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics](../meetings/2026-10-07_SPG_x_Qalzy_Weekly_Call)
+- Referenced in [SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation](../meetings/2026-10-14_SPG_x_Qalzy_Weekly_Call_and_Truemed_Recap)

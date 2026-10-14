@@ -56,3 +56,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO](../meetings/2026-10-08_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Redo Returns: SKU Mapping & Naming Convention Agreement](../emails/2026-10-09_Redo_Returns_SKU_Naming_Convention_Agreement)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Redo Managed Returns: Draft Shopify SKUs Created for Outlet Replacements](../emails/2026-10-14_Redo_Draft_SKUs_Created)
