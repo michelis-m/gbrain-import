@@ -26,3 +26,4 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - Referenced in [Daily Email Summary: 2026-10-01](../emails/2026-10-01_daily_emails)
 - Referenced in [Qalzy Influencer Pipeline: Agreements & Creator Outreach](../emails/2026-10-01_Influencer_Partnerships_and_Outreach)
 - Referenced in [Qalzy Influencer Partnerships: One2One Diabetes Payment & Fit with Yasmin Invoice](../emails/2026-10-05_Influencer_Partnerships_One2One_Diabetes_and_Fit_with_Yasmin)
+- Referenced in [Creator Partnerships: One2One Diabetes Briefing and Dr. Kaisa Outreach](../emails/2026-10-15_Influencer_Partnerships_One2One_Diabetes_and_Dr_Kaisa)

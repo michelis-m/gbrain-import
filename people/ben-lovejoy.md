@@ -14,8 +14,11 @@ European Editor at major tech publication 9to5Mac. Responded to an outreach from
 - Editorial review policy: 9to5Mac only reviews products they can, on balance, recommend to ensure reader value and avoid harming businesses. While reviews cannot be guaranteed in advance, published reviews are broadly positive.
 - Requires customs duties to be prepaid for international shipments.
 - [[people/michael-michelis]] confirmed on 2026-09-18 that a review unit is being dispatched to his London address.
+- On 2026-10-15, set up his review scale and asked if a paid subscription was mandatory to use the device. [[people/michael-michelis]] clarified that all scale hardware and AI recognition features remain permanently free without a subscription, and that paid tiers only apply to optional coaching and in-app camera scans.
 
 ## Referenced by
 
 - Referenced in [9to5Mac Product Review Agreement: Ben Lovejoy](../emails/2026-09-18-ben-lovejoy-9to5mac-review-agreement)
+- Referenced in [9to5Mac Review: Ben Lovejoy Subscription Model Clarification](../emails/2026-10-15_9to5Mac_Ben_Lovejoy_Subscription_Model_Clarification)
 - Referenced in [Daily Email Summary: 2026-09-18](../emails/2026-09-18_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)

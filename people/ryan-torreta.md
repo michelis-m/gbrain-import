@@ -23,3 +23,6 @@
 - Referenced in [Portless: Kuwait Wholesale Pallet Freight & Specs Status Update](../emails/2026-10-13_Portless_Kuwait_Pallet_Freight_Ryan_Update)
 - Referenced in [Daily Email Summary: 2026-10-13](../emails/2026-10-13_daily_emails)
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
+- Referenced in [Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and Order Holds](../emails/2026-10-15_Portless_Logistics_Sweden_Order_Shipped_and_US_Pallet_Freight)
+- Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)
+- Referenced in [SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning](../meetings/2026-10-15_SPG_x_Qalzy_Weekly_Call)

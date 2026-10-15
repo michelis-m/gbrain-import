@@ -25,3 +25,4 @@ Undergraduate analyst at Harvard College studying psychology and sourcing early-
 - Referenced in [Harvard VCG Meeting Rescheduled & Deck Review](../emails/2026-10-07_Harvard_VCG_Meeting_Rescheduled)
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
 - Referenced in [Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang](../meetings/2026-10-14_Harvard_VCG_Sourcing_Meeting_Mila_Huang)
+- Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)

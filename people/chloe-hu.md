@@ -38,3 +38,4 @@
 - Referenced in [Portless: US Fulfillment Transition & Bulk Freight Modeling](../emails/2026-10-08_Portless_US_Warehouse_Transition_Modeling)
 - Referenced in [Portless Logistics Escalation: Norway Order Tax Debt Collection & Resolution Proposal](../emails/2026-10-14_Portless_Norway_Tax_Debt_Collection_Escalation)
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
+- Referenced in [Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and Order Holds](../emails/2026-10-15_Portless_Logistics_Sweden_Order_Shipped_and_US_Pallet_Freight)

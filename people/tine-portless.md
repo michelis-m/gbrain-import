@@ -18,3 +18,5 @@ Portless support representative managing order exceptions, warehouse holds, cust
 - Referenced in [Portless: Order PBID007833475 Customs Clearance & HS Code Resolution](../emails/2026-10-12_Portless_Order_PBID007833475_Customs_HS_Codes)
 - Referenced in [Portless: Order PBID007833475 Reshipment & Validated HS Codes](../emails/2026-10-13_Portless_Order_PBID007833475_Reshipment_and_Validated_HS_Codes)
 - Referenced in [Portless: Overdue Refund Processing Escalation](../emails/2026-10-13_Portless_Refunds_Followup_Kostas)
+- Referenced in [Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and Order Holds](../emails/2026-10-15_Portless_Logistics_Sweden_Order_Shipped_and_US_Pallet_Freight)
+- Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)

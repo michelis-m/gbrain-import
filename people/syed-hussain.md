@@ -20,11 +20,13 @@
 - 2026-10-07: Reported Meta CPA performance stabilizing at $108 and $97 (beating the $115 CPA target) after reverting PDP changes; agreed with founders to scale daily Meta ad spend immediately. Outlined high-converting PDP elements (live order activity tickers, customer clinical trial benchmarks, micro-video authority endorsements, and compliant timeline of changes). Recommended an 80/20 traffic split to safeguard cash flow during CRO testing, and structured a 3-tier bundle strategy (base + 1 plate, target + 3 plates, premium + 5 plates + case) to lift AOV and gross contribution margin.
 
 - On 2026-10-14, participated in the weekly Qalzy performance sync. Welcomed the Truemed HSA/FSA partnership as a major conversion hook for US Meta ads. Discussed funnel conversion drops and agreed with Michael and Kostas to launch the new CRO landing page variant at an initial 20% traffic allocation, while committing to deliver a detailed feedback Loom video with creative ideas.
+- On 2026-10-15, held weekly strategic sync with Michael and Kostas. Discussed US 3PL transition (modeled ~7% gross margin lift from lower domestic shipping rates). Agreed to throttle daily Meta ad spend back to $1,250 while landing page and variant tests run, and update bottom-of-funnel ad headlines to reflect current 42% discounts. Deep-dived into product return rate (4% vs 3% target) and customer expectations; proposed tackling accuracy doubts directly in ad creative ("Is this AI scale a scam?"), clarifying Gemini visual detection + USDA database lookup vs pixel estimation. Committed to briefing creative lead Saul next week on accuracy-focused video formats.
 
 ## Referenced by
 
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
 - Referenced in [SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics](../meetings/2026-10-07_SPG_x_Qalzy_Weekly_Call)
+- Referenced in [SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning](../meetings/2026-10-15_SPG_x_Qalzy_Weekly_Call)
 
 - Referenced in [Social Paradigm Group: Kick Off Meeting Invitation](../emails/2026-09-14-spg-kickoff-meeting-invitation)
 - Referenced in [Daily Email Summary: 2026-09-17](../emails/2026-09-17_daily_emails)
