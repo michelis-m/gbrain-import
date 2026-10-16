@@ -32,3 +32,4 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [Openborder & Portless: New €2 EU Union Handling Fee Effective Nov 1, 2026](../emails/2026-10-08_Openborder_and_Portless_EU_Handling_Fee_Notice)
 - Referenced in [OpenBorder Finance Portal Onboarding](../emails/2026-10-10_OpenBorder_Finance_Portal_Onboarding_Reminder)
 - Referenced in [Daily Email Summary: 2026-10-10](../emails/2026-10-10_daily_emails)
+- Referenced in [Qalzy Corporate and Tax Details](../Qalzy_Corporate_and_Tax_Details.md)

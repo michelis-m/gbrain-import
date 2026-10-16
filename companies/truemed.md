@@ -23,3 +23,4 @@ Truemed enables direct-to-consumer health and wellness merchants to accept pre-t
 - Referenced in [Truemed Partnership Alignment & Meeting Confirmed](../emails/2026-10-07_Truemed_Call_Booked_and_Strategy)
 - Referenced in [Truemed: Shopify Onboarding Guide & Integration Next Steps](../emails/2026-10-14_Truemed_Shopify_Integration_Next_Steps)
 - Referenced in [Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration](../meetings/2026-10-14_Truemed_HSA_FSA_Partnership_Kickoff)
+- Referenced in [Qalzy Corporate and Tax Details](../Qalzy_Corporate_and_Tax_Details.md)

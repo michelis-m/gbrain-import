@@ -28,3 +28,5 @@
 - Referenced in [Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and Order Holds](../emails/2026-10-15_Portless_Logistics_Sweden_Order_Shipped_and_US_Pallet_Freight)
 - Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)
 - Referenced in [SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning](../meetings/2026-10-15_SPG_x_Qalzy_Weekly_Call)
+- Referenced in [Daily Email Summary: 2026-10-16](../emails/2026-10-16_daily_emails)
+- Referenced in [Portless: US Pallet Freight Quote Follow-up](../emails/2026-10-16_Portless_US_Pallet_Freight_Followup)
