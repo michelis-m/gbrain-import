@@ -421,3 +421,7 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Mike Eom](../people/mike-eom)
 - Referenced in [Qalzy Strategy & CRO Sync: October Board Prep, Landing Page Clean Revert, and Black Variant Inventory Test](../meetings/2026-10-15_Board_Prep_Landing_Page_CRO_and_Variant_Testing)
 - Referenced in [SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning](../meetings/2026-10-15_SPG_x_Qalzy_Weekly_Call)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [CES 2027 Attendance & PR Outreach Planning](../CES_2027_Attendance_and_PR_Planning.md)

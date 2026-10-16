@@ -279,3 +279,4 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Impromptu Call: Michael Michelis](../meetings/2026-10-15_Impromptu_Call)
 - Referenced in [Qalzy Strategy & CRO Sync: October Board Prep, Landing Page Clean Revert, and Black Variant Inventory Test](../meetings/2026-10-15_Board_Prep_Landing_Page_CRO_and_Variant_Testing)
 - Referenced in [SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning](../meetings/2026-10-15_SPG_x_Qalzy_Weekly_Call)
+- Referenced in [CES 2027 Attendance & PR Outreach Planning](../CES_2027_Attendance_and_PR_Planning.md)
