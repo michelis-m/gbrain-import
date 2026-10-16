@@ -34,6 +34,7 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Named a Top 30 finalist in The Longevity Show's inaugural pitch competition, May 2026.
 - Hired a part-time Social Media Manager starting 1 July 2026 at €750 for 20 hours a week, engaged as a freelancer in Denmark because Qalzy has no Danish entity (`Social Media Manager - Qalzy`).
 - Most profitable customer segments, per Kostas to press: women 35+ losing weight (postpartum/perimenopause), men 35+ building muscle or losing weight, diabetics managing carbs and insulin, and wellness-focused individuals 35+ (`Re: AI nutrition startup raises $330k pre-seed`).
+- Confirmed exhibiting and attending CES in January 2027 (Jan 6–9, 2027, Las Vegas) in Eureka Park (Venetian Hall G), Booth #61855 (Upgraded Package). Michael and Kostas staffing the booth with live mobile-guided demos. Media outreach to reporters covering smart kitchen and digital health planned ahead of the show (see [[CES_2027_Attendance_and_PR_Planning]]).
 - nutrioscale.com is a live parallel identity, not merely historic: both founders still receive mail there, the Firebase project is named nutrioscale-d5150, and the Facebook-group newsletter goes out from hello@nutrioscale.com with "Nutrioscale Ltd" in the footer (`Featured: Top 5 recipes of the week`).
 
 ## Open threads
