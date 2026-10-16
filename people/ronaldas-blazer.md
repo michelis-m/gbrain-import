@@ -17,6 +17,8 @@ Primary point of contact and media buyer managing Qalzy's paid media and creativ
 - **2026-09-09 Contract Termination Notice:** [[people/michael-michelis]] delivered formal 30-day notice ending Blazer Agency's media buying contract at the end of September / Oct 8th. Ronaldas accepted and committed to delivering the final month's scheduled creative assets: founder story V2 revisions, retargeting exclusion fixes, UGC British woman ad, and diabetes angle ads.
 - **2026-09-21 Creative Dispute:** Delivered an unrequested diabetes angle video instead of the required edits/angles; [[people/kostas-koukoravas]] rejected the delivery and requested either contractually agreed edits or raw project files.
 
+- **2026-10-16 Creative QA & Deliverables Finalization:** Synced with [[people/kostas-koukoravas]] and [[people/michael-michelis]] on final deliverables. Agreed to replace the abrasive automated voiceover on MOF 25 and add the required hook heading (*"This is how much... yes, it's too expensive"*) to MOF 30. Qalzy accepted two static deliverables (items 9 & 10) in lieu of videos to finalize the engagement. Blazer Agency submitted the final September invoice (remaining 50%).
+
 ## Referenced by
 
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)

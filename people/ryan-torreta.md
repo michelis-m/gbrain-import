@@ -10,6 +10,8 @@
 - Taking ownership of problematic orders, return-to-sender (RTS) routing to [[companies/redo]], carrier tax disputes, and upcoming Q4/Golden Week inventory replenishment.
 - On 2026-10-12, [[people/kostas-koukoravas]] requested freight costs, carton measurements, weights, and pallet configurations for an upcoming 250-unit wholesale export to Kuwait directly from China. Ryan escalated to the Portless Fulfillment team to supply specifications.
 
+- On 2026-10-16, [[people/kostas-koukoravas]] followed up on the promised US palletizing and freight-prep cost quote, which Ryan had committed to deliver by Friday morning for dispatch next week.
+
 ## Referenced by
 
 - Referenced in [Portless Orders Status and Account Transition](../emails/2026-09-16-portless-orders-status-and-account-transition)
