@@ -292,3 +292,12 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync](../meetings/2026-10-16_Blazer_Agency_Creative_Deliverables_and_Ad_Performance_Sync)
 - Referenced in [Intelistyle Standup & Meta Ads Policy Review](../meetings/2026-10-16_Intelistyle_Standup_and_Meta_Ads_Policy_Review)
 - Referenced in [Qalzy Ad Creative Review & Video QA](../meetings/2026-10-16_Qalzy_Ad_Creative_Review_and_Video_QA)
+
+## Facts
+
+<!--- gbrain:facts:begin -->
+
+| # | claim | kind | confidence | visibility | notability | valid_from | valid_until | source | context | claim_metric | claim_value | claim_unit | claim_period | attributed_to |
+|---|-------|------|------------|------------|------------|------------|-------------|--------|---------|--------------|-------------|------------|--------------|---------------|
+| 1 | people/michael-michelis is a Director and COO of companies/qalzy. | fact | 1.0 | private | high | 2026-10-16T23:05:12Z |  | sync:import |  |  |  |  |  | user |
+<!--- gbrain:facts:end -->

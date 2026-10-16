@@ -704,3 +704,14 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
 - Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+
+## Facts
+
+<!--- gbrain:facts:begin -->
+
+| # | claim | kind | confidence | visibility | notability | valid_from | valid_until | source | context | claim_metric | claim_value | claim_unit | claim_period | attributed_to |
+|---|-------|------|------------|------------|------------|------------|-------------|--------|---------|--------------|-------------|------------|--------------|---------------|
+| 1 | Qalzy is officially exhibiting and attending CES 2027. | event | 1.0 | private | high | 2027-01-06 |  | sync:import |  |  |  |  |  |
+| 2 | Qalzy Ltd will debut the Qalzy AI Nutrition Scale at CES 2027. | event | 1.0 | private | high | 2027-01-06 |  | sync:import |  |  |  |  |  | other |
+| 3 | companies/qalzy was incorporated on 2023-06-05. | event | 1.0 | private | high | 2023-06-05 |  | sync:import |  |  |  |  |  | user |
+<!--- gbrain:facts:end -->
