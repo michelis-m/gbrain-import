@@ -435,3 +435,6 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync](../meetings/2026-10-16_Blazer_Agency_Creative_Deliverables_and_Ad_Performance_Sync)
 - Referenced in [Intelistyle Standup & Meta Ads Policy Review](../meetings/2026-10-16_Intelistyle_Standup_and_Meta_Ads_Policy_Review)
 - Referenced in [Qalzy Ad Creative Review & Video QA](../meetings/2026-10-16_Qalzy_Ad_Creative_Review_and_Video_QA)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)

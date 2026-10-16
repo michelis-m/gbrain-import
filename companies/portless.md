@@ -173,3 +173,4 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless: US Pallet Freight Quote Follow-up](../emails/2026-10-16_Portless_US_Pallet_Freight_Followup)
 - Referenced in [Qalzy Corporate and Tax Details](../Qalzy_Corporate_and_Tax_Details.md)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
