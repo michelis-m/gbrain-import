@@ -58,3 +58,5 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Redo Managed Returns: Draft Shopify SKUs Created for Outlet Replacements](../emails/2026-10-14_Redo_Draft_SKUs_Created)
 - Referenced in [Redo: Return #2189 Damage Status Dispute and Reinspection](../emails/2026-10-16_Redo_Return_2189_Damage_Inspection)
+- Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
+- Referenced in [Sofie Zane (Redo)](../people/sofie-redo)

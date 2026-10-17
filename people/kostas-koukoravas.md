@@ -438,6 +438,15 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
+- Referenced in [Portless: Order #2457 Cancellation Successfully Intercepted](../emails/2026-10-17_Portless_Order_2457_Cancellation_Confirmed)
+- Referenced in [Truemed: Stripe Underwriting Connection Link Error](../emails/2026-10-17_Truemed_Stripe_Connection_Link_Error)
+- Referenced in [Sofie Zane (Redo)](../people/sofie-redo)
+- Referenced in [Tine (Portless)](../people/tine-portless)
 
 ## Facts
 

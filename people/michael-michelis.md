@@ -292,6 +292,14 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync](../meetings/2026-10-16_Blazer_Agency_Creative_Deliverables_and_Ad_Performance_Sync)
 - Referenced in [Intelistyle Standup & Meta Ads Policy Review](../meetings/2026-10-16_Intelistyle_Standup_and_Meta_Ads_Policy_Review)
 - Referenced in [Qalzy Ad Creative Review & Video QA](../meetings/2026-10-16_Qalzy_Ad_Creative_Review_and_Video_QA)
+- Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
+- Referenced in [Meta Ads: $900 Billing Receipt & On-Device Pixel Attribution Changes](../emails/2026-10-17_Meta_Ads_Receipt_and_Attribution_Update)
+- Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
+- Referenced in [Revital Health Podcast: Guest Appearance Proposal & Sponsorship Terms](../emails/2026-10-17_Revital_Health_Podcast_Guest_Proposal)
+- Referenced in [One2One Diabetes: Scale Delivery & Video Production Next Steps](../emails/2026-10-17_One2One_Diabetes_Scale_Delivery_and_Video_Production)
+- Referenced in [9to5Mac: Ben Lovejoy Subscription Plan Modification](../emails/2026-10-17_9to5Mac_Ben_Lovejoy_Subscription_Tier_Downgrade)
+- Referenced in [OptiMonk: Monthly Account Pageview Limit Reached](../emails/2026-10-17_OptiMonk_Monthly_Pageview_Limit_Reached)
+- Referenced in [Chanae (Revital Health)](../people/chanae-revital-health)
 
 ## Facts
 

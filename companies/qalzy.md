@@ -704,6 +704,22 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
 - Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Meta Ads: $900 Billing Receipt & On-Device Pixel Attribution Changes](../emails/2026-10-17_Meta_Ads_Receipt_and_Attribution_Update)
+- Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
+- Referenced in [[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840](../emails/2026-07-01-v-trust-inspector-s-assigned-po-pi251127qal-mzw594840)
+- Referenced in [Revital Health Podcast: Guest Appearance Proposal & Sponsorship Terms](../emails/2026-10-17_Revital_Health_Podcast_Guest_Proposal)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
+- Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
+- Referenced in [Portless: Order #2457 Cancellation Successfully Intercepted](../emails/2026-10-17_Portless_Order_2457_Cancellation_Confirmed)
+- Referenced in [One2One Diabetes: Scale Delivery & Video Production Next Steps](../emails/2026-10-17_One2One_Diabetes_Scale_Delivery_and_Video_Production)
+- Referenced in [Truemed: Stripe Underwriting Connection Link Error](../emails/2026-10-17_Truemed_Stripe_Connection_Link_Error)
+- Referenced in [9to5Mac: Ben Lovejoy Subscription Plan Modification](../emails/2026-10-17_9to5Mac_Ben_Lovejoy_Subscription_Tier_Downgrade)
+- Referenced in [OptiMonk: Monthly Account Pageview Limit Reached](../emails/2026-10-17_OptiMonk_Monthly_Pageview_Limit_Reached)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [Sofie Zane (Redo)](../people/sofie-redo)
 
 ## Facts
 

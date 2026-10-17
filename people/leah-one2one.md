@@ -17,6 +17,7 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - On 2026-10-01, received standard collaboration contract from Michael.
 - On 2026-10-02, fully executed contract was completed and exchanged. Leah provided her shipping address in Windsor, Colorado and stated she will send an invoice for the initial $125 payment shortly.
 - On 2026-10-05, sent Invoice #D112 / Order #2253 for the 50% upfront deposit ($125.00 USD). Michael paid the invoice, forwarded it to Xero, and confirmed the Qalzy scale unit has been dispatched to Colorado.
+- On 2026-10-17, confirmed safe delivery of the scale (arrived Oct 16). Accepted the proposed video outline focusing on carb counting and insulin management (modeled after Video 7 from Qalzy's brief), and inquired where to upload the final footage.
 
 ## Referenced by
 - Referenced in [Qalzy Creator Partnerships: One2One Diabetes & Iyanah Lewis](../emails/2026-10-02_Influencer_Partnerships_One2One_and_Iyanah_Lewis)
@@ -27,3 +28,5 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - Referenced in [Qalzy Influencer Pipeline: Agreements & Creator Outreach](../emails/2026-10-01_Influencer_Partnerships_and_Outreach)
 - Referenced in [Qalzy Influencer Partnerships: One2One Diabetes Payment & Fit with Yasmin Invoice](../emails/2026-10-05_Influencer_Partnerships_One2One_Diabetes_and_Fit_with_Yasmin)
 - Referenced in [Creator Partnerships: One2One Diabetes Briefing and Dr. Kaisa Outreach](../emails/2026-10-15_Influencer_Partnerships_One2One_Diabetes_and_Dr_Kaisa)
+- Referenced in [One2One Diabetes: Scale Delivery & Video Production Next Steps](../emails/2026-10-17_One2One_Diabetes_Scale_Delivery_and_Video_Production)
+- Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)

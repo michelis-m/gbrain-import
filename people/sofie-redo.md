@@ -1,0 +1,19 @@
+# Sofie Zane (Redo)
+
+**Role:** Warehouse Specialist / Inspection Support  
+**Company:** [[companies/redo]]  
+**Email:** `support@redo.com`  
+**Location:** Salt Lake City, Utah, USA  
+
+## Context
+Redo SLC warehouse support personnel handling physical inspection, verification, and disposition updates for [[companies/qalzy]] customer returns.
+
+## Facts & Notes
+- On 2026-10-16, was looped in by [[people/rudz-redo]] to perform a physical inspection on Return #2189 at the Redo Salt Lake City warehouse facility.
+- On 2026-10-17, physically inspected Return #2189 and confirmed the unit was completely factory sealed with unopened packaging, overturning its initial "damaged" misclassification.
+- Reprocessed the return disposition as factory sealed.
+- Clarified that the US Wall Charger (`QZ-CHG-US`) was marked Not Received; [[people/kostas-koukoravas]] confirmed the charger is a separate package item and should remain marked as Not Received.
+
+## Referenced by
+- Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
+- Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
