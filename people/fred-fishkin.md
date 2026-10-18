@@ -13,8 +13,12 @@ Host and producer of *Techstination*, a syndicated tech news and interview show 
 ## Facts & Notes
 - On 2026-09-22, accepted [[people/michael-michelis]]'s pitch regarding "Building the OURA of nutrition tracking". Agreed to receive a Qalzy AI scale unit for hands-on review followed by a Zoom interview feature on Techstination.
 - On 2026-10-09, sent a follow-up email to Michael ("just checking back") awaiting shipment of the review unit and scheduling the Zoom interview.
+- On 2026-10-18, confirmed via email that he would be happy to set up an interview via Zoom with Michael for Techstination.
 
 ## Referenced by
+
+- Referenced in [Techstination: Fred Fishkin Agrees to Zoom Interview](../emails/2026-10-18_Fred_Fishkin_Techstination_Interview_Agreement)
+- Referenced in [Daily Email Summary: 2026-10-18](../emails/2026-10-18_daily_emails)
 
 - Referenced in [Daily Email Summary: 2026-10-09](../emails/2026-10-09_daily_emails)
 - Referenced in [Fred Fishkin Techstination Follow-up](../emails/2026-10-09_Fred_Fishkin_Techstination_Podcast_and_Review_Followup)

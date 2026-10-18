@@ -11,8 +11,12 @@
 - On 2026-10-12, [[people/kostas-koukoravas]] requested freight costs, carton measurements, weights, and pallet configurations for an upcoming 250-unit wholesale export to Kuwait directly from China. Ryan escalated to the Portless Fulfillment team to supply specifications.
 
 - On 2026-10-16, [[people/kostas-koukoravas]] followed up on the promised US palletizing and freight-prep cost quote, which Ryan had committed to deliver by Friday morning for dispatch next week.
+- On 2026-10-18, delivered the full fulfillment quote for 4,200 units at KEC warehouse: 18 pallets (~5,400 kg), 50 RMB/pallet palletizing (~900 RMB), 580 RMB inspection, 350 RMB declaration, 16 RMB/m³ loading, ~3,030 RMB transit to Hong Kong, with 6-8 days total lead time.
 
 ## Referenced by
+
+- Referenced in [Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200 Units)](../emails/2026-10-18_Portless_US_Freight_Palletization_Quote)
+- Referenced in [Daily Email Summary: 2026-10-18](../emails/2026-10-18_daily_emails)
 
 - Referenced in [Portless Orders Status and Account Transition](../emails/2026-09-16-portless-orders-status-and-account-transition)
 - Referenced in [Daily Email Summary: 2026-09-16](../emails/2026-09-16_daily_emails)
