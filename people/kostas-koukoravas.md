@@ -450,6 +450,14 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Daily Email Summary: 2026-10-18](../emails/2026-10-18_daily_emails)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200 Units)](../emails/2026-10-18_Portless_US_Freight_Palletization_Quote)
+- Referenced in [Portless: Order #2474 SKU Adjustment and Fulfillment Release](../emails/2026-10-18_Portless_Order_2474_White_SKU_Removal)
+- Referenced in [9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade](../emails/2026-10-18_9to5Mac_Ben_Lovejoy_App_Email_Provided)
+- Referenced in [Jay](../people/jay-portless)
 
 ## Facts
 

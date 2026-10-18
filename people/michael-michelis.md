@@ -300,6 +300,11 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [9to5Mac: Ben Lovejoy Subscription Plan Modification](../emails/2026-10-17_9to5Mac_Ben_Lovejoy_Subscription_Tier_Downgrade)
 - Referenced in [OptiMonk: Monthly Account Pageview Limit Reached](../emails/2026-10-17_OptiMonk_Monthly_Pageview_Limit_Reached)
 - Referenced in [Chanae (Revital Health)](../people/chanae-revital-health)
+- Referenced in [Techstination: Fred Fishkin Agrees to Zoom Interview](../emails/2026-10-18_Fred_Fishkin_Techstination_Interview_Agreement)
+- Referenced in [Daily Email Summary: 2026-10-18](../emails/2026-10-18_daily_emails)
+- Referenced in [Meta Ads: Policy Appeal Rejected for Creative "quit_peptides"](../emails/2026-10-18_Meta_Ads_quit_peptides_Appeal_Rejected)
+- Referenced in [Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200 Units)](../emails/2026-10-18_Portless_US_Freight_Palletization_Quote)
+- Referenced in [9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade](../emails/2026-10-18_9to5Mac_Ben_Lovejoy_App_Email_Provided)
 
 ## Facts
 
