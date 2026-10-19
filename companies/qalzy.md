@@ -738,6 +738,22 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
 - Referenced in [Jay](../people/jay-portless)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Google Cloud: $11,910 Enhanced Support Startup Credit](../emails/2026-10-19_Google_Cloud_Enhanced_Support_Credit_Activated)
+- Referenced in [Blazer Agency: Final September Invoice Settled & Contract Closed](../emails/2026-10-19_Blazer_Agency_Final_September_Invoice_Settled)
+- Referenced in [[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840](../emails/2026-07-01-v-trust-inspector-s-assigned-po-pi251127qal-mzw594840)
+- Referenced in [ShipBots: US Warehouse Receiving & January 1 Go-Live Plan](../emails/2026-10-19_ShipBots_US_Warehouse_December_Timeline)
+- Referenced in [Portless: Customer Order Refund Status (6 Pending Duties/Taxes)](../emails/2026-10-19_Portless_Refund_Status_Update_6_Pending)
+- Referenced in [Influencer Partnership: Laurel Macdougall (@thecleaneatingmom)](../emails/2026-10-19_Influencer_Laurel_Macdougall_Partnership_Accepted)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
+- Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
+- Referenced in [9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity](../emails/2026-10-19_9to5Mac_Ben_Lovejoy_Scale_Connected_Success)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [Laurel Macdougall](../people/laurel-macdougall)
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
 
 ## Facts
 

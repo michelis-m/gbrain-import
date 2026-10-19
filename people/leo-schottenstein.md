@@ -28,3 +28,8 @@ Partnerships lead at Truemed facilitating Letters of Medical Necessity (LMNs) an
 - Referenced in [Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration](../meetings/2026-10-14_Truemed_HSA_FSA_Partnership_Kickoff)
 - Referenced in [Truemed: Stripe Underwriting Connection Link Error](../emails/2026-10-17_Truemed_Stripe_Connection_Link_Error)
 - Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
+- On 2026-10-19, provided a clean Stripe Connect onboarding link to test the bank connection and account verification with Qalzy's Wise USD account and US EIN without committing to the $800 onboarding fee until fully verified.
+
+## Referenced by
+- Referenced in [Truemed: Stripe Connect Test Link for Wise USD Account](../emails/2026-10-19_Truemed_Stripe_Connect_Test_Link)
+- Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)

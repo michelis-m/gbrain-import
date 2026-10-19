@@ -41,3 +41,4 @@
 - Referenced in [Intelistyle Standup & Qalzy Operations: Client Feeds, US Stock Margin Boost, and Landing Page CRO](../meetings/2026-10-12_Intelistyle_Standup_and_Qalzy_CRO_Strategy)
 - Referenced in [Intelistyle Daily Standup & Qalzy CRO A/B Test Planning](../meetings/2026-10-14_Intelistyle_Standup_and_Qalzy_AB_Test_Planning)
 - Referenced in [Intelistyle Standup & Meta Ads Policy Review](../meetings/2026-10-16_Intelistyle_Standup_and_Meta_Ads_Policy_Review)
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)

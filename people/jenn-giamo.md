@@ -16,3 +16,7 @@ Health and fitness creator and founder of a women's wellness group who partnered
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-10-16](../emails/2026-10-16_daily_emails)
 - Referenced in [Influencer Partnership: Jennifer Giamo (Trainers in Transit)](../emails/2026-10-16_Influencer_Partnership_Jenn_Giamo)
+- On 2026-10-19, shared her agreement document for the creator partnership; [[people/michael-michelis]] requested her signature and shipping address to dispatch the scale.
+
+## Referenced by
+- Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)

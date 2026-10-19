@@ -60,3 +60,4 @@
 - Referenced in [Redo: Return #2189 Damage Status Dispute and Reinspection](../emails/2026-10-16_Redo_Return_2189_Damage_Inspection)
 - Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
 - Referenced in [Sofie Zane (Redo)](../people/sofie-redo)
+- Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)

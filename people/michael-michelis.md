@@ -305,6 +305,12 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Meta Ads: Policy Appeal Rejected for Creative "quit_peptides"](../emails/2026-10-18_Meta_Ads_quit_peptides_Appeal_Rejected)
 - Referenced in [Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200 Units)](../emails/2026-10-18_Portless_US_Freight_Palletization_Quote)
 - Referenced in [9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade](../emails/2026-10-18_9to5Mac_Ben_Lovejoy_App_Email_Provided)
+- Referenced in [Truemed: Stripe Connect Test Link for Wise USD Account](../emails/2026-10-19_Truemed_Stripe_Connect_Test_Link)
+- Referenced in [Google Cloud: $11,910 Enhanced Support Startup Credit](../emails/2026-10-19_Google_Cloud_Enhanced_Support_Credit_Activated)
+- Referenced in [Influencer Partnership: Laurel Macdougall (@thecleaneatingmom)](../emails/2026-10-19_Influencer_Laurel_Macdougall_Partnership_Accepted)
+- Referenced in [9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity](../emails/2026-10-19_9to5Mac_Ben_Lovejoy_Scale_Connected_Success)
+- Referenced in [Mikey Ahdoot](../people/mikey-ahdoot)
+- Referenced in [Samantha Thurber](../people/samantha-thurber)
 
 ## Facts
 
@@ -314,3 +320,12 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 |---|-------|------|------------|------------|------------|------------|-------------|--------|---------|--------------|-------------|------------|--------------|---------------|
 | 1 | people/michael-michelis is a Director and COO of companies/qalzy. | fact | 1.0 | private | high | 2026-10-16T23:05:12Z |  | sync:import |  |  |  |  |  | user |
 <!--- gbrain:facts:end -->
+- **2026-10-19 Operations, PR & CRO:**
+  - Completed 9to5Mac reviewer [[people/ben-lovejoy]] onboarding onto the free Basic tier; confirmed scale Bluetooth connection and data sync.
+  - Secured creator partnership with nutritionist [[people/laurel-macdougall]] ($175 + scale for 1 Reel + 60-day paid usage rights); coordinated agreement with [[people/jenn-giamo]].
+  - Evaluated Absolutely A/B test with Kostas; identified URL redirect latency/bias and proposed migration to theme-level liquid split testing.
+  - Aligned on Q4 seasonal creative roadmap: skipping Halloween and prioritizing Thanksgiving dessert calorie comparisons and Christmas gifting urgency.
+
+## Referenced by
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)

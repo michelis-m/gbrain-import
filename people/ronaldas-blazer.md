@@ -35,3 +35,8 @@ Primary point of contact and media buyer managing Qalzy's paid media and creativ
 - Referenced in [Qalzy Strategy & CRO: Landing Page Figma Review, Meta Account Unblock, and Ad Creative Analysis](../meetings/2026-10-13_Qalzy_Landing_Page_CRO_Figma_and_Meta_Account_Unblock)
 - Referenced in [Blazer Agency: September Final Closeout Invoice](../emails/2026-10-16_Blazer_Agency_Final_September_Invoice)
 - Referenced in [Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync](../meetings/2026-10-16_Blazer_Agency_Creative_Deliverables_and_Ad_Performance_Sync)
+- On 2026-10-19, confirmed receipt of payment from [[people/kostas-koukoravas]] for the final September invoice, formally concluding Blazer Agency's media buying contract with Qalzy.
+
+## Referenced by
+- Referenced in [Blazer Agency: Final September Invoice Settled & Contract Closed](../emails/2026-10-19_Blazer_Agency_Final_September_Invoice_Settled)
+- Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)

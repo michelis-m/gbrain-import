@@ -34,3 +34,8 @@
 - Referenced in [SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning](../meetings/2026-10-15_SPG_x_Qalzy_Weekly_Call)
 - Referenced in [Daily Email Summary: 2026-10-16](../emails/2026-10-16_daily_emails)
 - Referenced in [Portless: US Pallet Freight Quote Follow-up](../emails/2026-10-16_Portless_US_Pallet_Freight_Followup)
+- On 2026-10-19, provided refund status update confirming all problematic orders on the list have been fully refunded except for 6 orders where COGS and shipping are refunded but duties/taxes remain pending with Billing & Finance. Also responded to Kostas' request for the Shenzhen warehouse address for freight forwarder pick-up.
+
+## Referenced by
+- Referenced in [Portless: Customer Order Refund Status (6 Pending Duties/Taxes)](../emails/2026-10-19_Portless_Refund_Status_Update_6_Pending)
+- Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)

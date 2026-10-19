@@ -181,3 +181,5 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200 Units)](../emails/2026-10-18_Portless_US_Freight_Palletization_Quote)
 - Referenced in [Portless: Order #2474 SKU Adjustment and Fulfillment Release](../emails/2026-10-18_Portless_Order_2474_White_SKU_Removal)
 - Referenced in [Jay](../people/jay-portless)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Customer Order Refund Status (6 Pending Duties/Taxes)](../emails/2026-10-19_Portless_Refund_Status_Update_6_Pending)

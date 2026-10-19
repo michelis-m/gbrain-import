@@ -458,6 +458,15 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Portless: Order #2474 SKU Adjustment and Fulfillment Release](../emails/2026-10-18_Portless_Order_2474_White_SKU_Removal)
 - Referenced in [9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade](../emails/2026-10-18_9to5Mac_Ben_Lovejoy_App_Email_Provided)
 - Referenced in [Jay](../people/jay-portless)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Truemed: Stripe Connect Test Link for Wise USD Account](../emails/2026-10-19_Truemed_Stripe_Connect_Test_Link)
+- Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Blazer Agency: Final September Invoice Settled & Contract Closed](../emails/2026-10-19_Blazer_Agency_Final_September_Invoice_Settled)
+- Referenced in [ShipBots: US Warehouse Receiving & January 1 Go-Live Plan](../emails/2026-10-19_ShipBots_US_Warehouse_December_Timeline)
+- Referenced in [Portless: Customer Order Refund Status (6 Pending Duties/Taxes)](../emails/2026-10-19_Portless_Refund_Status_Update_6_Pending)
+- Referenced in [Mikey Ahdoot](../people/mikey-ahdoot)
 
 ## Facts
 
@@ -467,3 +476,13 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 |---|-------|------|------------|------------|------------|------------|-------------|--------|---------|--------------|-------------|------------|--------------|---------------|
 | 1 | people/kostas-koukoravas is a Director and CEO of companies/qalzy. | fact | 1.0 | private | high | 2026-10-16T23:05:12Z |  | sync:import |  |  |  |  |  | user |
 <!--- gbrain:facts:end -->
+- **2026-10-19 Operations, Logistics & Client Standup:**
+  - Led daily standup reviewing Decuba quota exhaustion; recommended pausing processing and offering pay-as-you-go ($1/outfit) vs. package terms.
+  - Re-engaged ShipBots (Mikey Ahdoot) confirming December container arrival and Jan 1 go-live date for US fulfillment.
+  - Aligned with Redo (Frank Marino) on warehouse flow: Like New and Cosmetic Damage units transform to influencer SKUs; Factory Sealed units return to resale.
+  - Paid Blazer Agency's final invoice, closing out their engagement.
+  - Escalated Portless refund status for remaining 6 orders pending duties/taxes.
+
+## Referenced by
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
