@@ -35,3 +35,4 @@ European Editor at major tech publication 9to5Mac. Responded to an outreach from
 - Referenced in [9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity](../emails/2026-10-19_9to5Mac_Ben_Lovejoy_Scale_Connected_Success)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
+- On 2026-10-20, encountered an unpairing issue after testing; Michael guided him through hardware reset and pairing mode (rapidly pressing power button during boot). Ben also asked about duplicate item warnings when adding small extra portions of the same food, which Michael explained as Qalzy's multi-ingredient session logging design.

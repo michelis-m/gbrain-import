@@ -14,3 +14,4 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 ## Referenced by
 - Referenced in [Influencer Partnership: Laurel Macdougall (@thecleaneatingmom)](../emails/2026-10-19_Influencer_Laurel_Macdougall_Partnership_Accepted)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
+- On 2026-10-20, Michael sent the formal collaboration agreement document link for signature to lock in the 1 dedicated Reel + 60-day Meta ad code.
