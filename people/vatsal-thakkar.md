@@ -12,3 +12,4 @@ Physician and health practitioner who connected with [[companies/qalzy]] regardi
 
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-10-16](../emails/2026-10-16_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-20](../emails/2026-10-20_daily_emails)

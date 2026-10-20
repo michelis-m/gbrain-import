@@ -47,6 +47,7 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - Referenced in [Intelistyle Daily Standup & Qalzy CRO A/B Test Planning](../meetings/2026-10-14_Intelistyle_Standup_and_Qalzy_AB_Test_Planning)
 - Referenced in [Intelistyle Standup & Meta Ads Policy Review](../meetings/2026-10-16_Intelistyle_Standup_and_Meta_Ads_Policy_Review)
 - In the 2026-10-19 standup, reported completing image quality verification for Epicure and Guess on Friday and Guess Shop the Look. Started today with image quality for Epicure, Guess, and Decuba, followed by Decuba Shop the Look.
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-20_Intelistyle_Standup_and_Qalzy_Operations)
 
 ## Referenced by
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)

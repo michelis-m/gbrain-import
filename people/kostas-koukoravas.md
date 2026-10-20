@@ -467,6 +467,15 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [ShipBots: US Warehouse Receiving & January 1 Go-Live Plan](../emails/2026-10-19_ShipBots_US_Warehouse_December_Timeline)
 - Referenced in [Portless: Customer Order Refund Status (6 Pending Duties/Taxes)](../emails/2026-10-19_Portless_Refund_Status_Update_6_Pending)
 - Referenced in [Mikey Ahdoot](../people/mikey-ahdoot)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Trans-Am Logistics: US Ocean Freight Quote & Importer of Record](../emails/2026-10-20_Trans_Am_Singer_Nip_US_Freight_Quote_and_EIN)
+- Referenced in [Daily Email Summary: 2026-10-20](../emails/2026-10-20_daily_emails)
+- Referenced in [Redo Returns: Customer Chargeback Escalation on Return #2085](../emails/2026-10-20_Redo_Returns_Customer_Chargeback_Escalation)
+- Referenced in [Rudz](../people/rudz)
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-20_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Qalzy Supply Chain, A/B Test & Influencer Content Strategy](../meetings/2026-10-20_Qalzy_Supply_Chain_AB_Test_and_Influencer_Content_Strategy)
 
 ## Facts
 

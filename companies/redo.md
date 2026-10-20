@@ -61,3 +61,5 @@
 - Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
 - Referenced in [Sofie Zane (Redo)](../people/sofie-redo)
 - Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)
+- Referenced in [Redo Returns: Customer Chargeback Escalation on Return #2085](../emails/2026-10-20_Redo_Returns_Customer_Chargeback_Escalation)
+- Referenced in [Rudz](../people/rudz)

@@ -754,6 +754,23 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
 - Referenced in [Laurel Macdougall](../people/laurel-macdougall)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Portless: Weekly Invoices & SLA Fulfillment Breach (#2468)](../emails/2026-10-20_Portless_Invoices_and_Fulfillment_SLA_Breach)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [9to5Mac Review: Ben Lovejoy Pairing Support & Duplicate Handling](../emails/2026-10-20_9to5Mac_Ben_Lovejoy_Pairing_and_Session_Support)
+- Referenced in [Trans-Am Logistics: US Ocean Freight Quote & Importer of Record](../emails/2026-10-20_Trans_Am_Singer_Nip_US_Freight_Quote_and_EIN)
+- Referenced in [[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840](../emails/2026-07-01-v-trust-inspector-s-assigned-po-pi251127qal-mzw594840)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
+- Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
+- Referenced in [Redo Returns: Customer Chargeback Escalation on Return #2085](../emails/2026-10-20_Redo_Returns_Customer_Chargeback_Escalation)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [Rudz](../people/rudz)
+- Referenced in [Luciana (@theproteinplate)](../people/luciana-protein-plate)
+- Referenced in [Singer Nip](../people/singer-nip)
+- Referenced in [Linda M. Stevens](../people/linda-stevens)
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-20_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Qalzy Supply Chain, A/B Test & Influencer Content Strategy](../meetings/2026-10-20_Qalzy_Supply_Chain_AB_Test_and_Influencer_Content_Strategy)
 
 ## Facts
 

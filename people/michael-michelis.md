@@ -311,6 +311,11 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity](../emails/2026-10-19_9to5Mac_Ben_Lovejoy_Scale_Connected_Success)
 - Referenced in [Mikey Ahdoot](../people/mikey-ahdoot)
 - Referenced in [Samantha Thurber](../people/samantha-thurber)
+- Referenced in [Portless: Weekly Invoices & SLA Fulfillment Breach (#2468)](../emails/2026-10-20_Portless_Invoices_and_Fulfillment_SLA_Breach)
+- Referenced in [9to5Mac Review: Ben Lovejoy Pairing Support & Duplicate Handling](../emails/2026-10-20_9to5Mac_Ben_Lovejoy_Pairing_and_Session_Support)
+- Referenced in [Daily Email Summary: 2026-10-20](../emails/2026-10-20_daily_emails)
+- Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-20_Intelistyle_Standup_and_Qalzy_Operations)
+- Referenced in [Qalzy Supply Chain, A/B Test & Influencer Content Strategy](../meetings/2026-10-20_Qalzy_Supply_Chain_AB_Test_and_Influencer_Content_Strategy)
 
 ## Facts
 
