@@ -17,3 +17,9 @@ Lead at Familink, a South Korean agency and distributor that assists internation
 - Referenced in [Inbound Wholesale: Familink South Korea Distribution Strategy Meeting Scheduled](../emails/2026-10-15_Familink_South_Korea_Distribution_Meeting_Scheduled)
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
 - Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)
+- On 2026-10-21, followed up on the morning distribution meeting between [[people/mike-eom]], [[people/michael-michelis]], and [[people/kostas-koukoravas]], requesting formal tiered pricing per unit across order volumes and specific HS customs codes for Qalzy SKUs.
+
+## Referenced by
+- Referenced in [Familink: Chrissa Vargas Request for Tiered Pricing & HS Codes](../emails/2026-10-21_Familink_Chrissa_Vargas_Tiered_Pricing_and_HS_Code_Request)
+- Referenced in [Familink: South Korea Wholesale Distribution Strategy](../meetings/2026-10-21_Familink_South_Korea_Distribution_Strategy)
+- Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)

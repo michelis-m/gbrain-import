@@ -19,3 +19,4 @@ ShipBots is a US third-party logistics (3PL) provider operating fulfillment faci
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [[people/mikey-ahdoot]]
+- Referenced in [ShipBots: December Timeline Confirmation & Onboarding Kickoff](../emails/2026-10-21_ShipBots_December_Timeline_Approval_and_Onboarding)

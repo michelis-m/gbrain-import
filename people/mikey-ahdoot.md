@@ -16,3 +16,10 @@ Primary business development and client success executive at ShipBots, a 3PL ful
 - Referenced in [ShipBots: US Warehouse Receiving & January 1 Go-Live Plan](../emails/2026-10-19_ShipBots_US_Warehouse_December_Timeline)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
+- On 2026-10-21, officially confirmed that ShipBots warehouse ops approved the December inventory arrival timeline.
+- Initiated formal onboarding for Qalzy, introducing onboarding specialist Andres to handle MSA service agreement signing, warehouse inbound receiving guidelines, billing setup, and store integration.
+- Kostas updated Mikey that customs bond complications under foreign EINs necessitate forming a US subsidiary (taking ~4 weeks), which will also resolve the 3PL inventory insurance requirements.
+
+## Referenced by
+- Referenced in [ShipBots: December Timeline Confirmation & Onboarding Kickoff](../emails/2026-10-21_ShipBots_December_Timeline_Approval_and_Onboarding)
+- Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)

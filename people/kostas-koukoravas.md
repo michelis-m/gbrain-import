@@ -476,6 +476,20 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Rudz](../people/rudz)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-20_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Qalzy Supply Chain, A/B Test & Influencer Content Strategy](../meetings/2026-10-20_Qalzy_Supply_Chain_AB_Test_and_Influencer_Content_Strategy)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Portless Logistics: Palletization Clarification, Orders & Invoice Payment](../emails/2026-10-21_Portless_Stock_Palletization_and_Order_Updates)
+- Referenced in [doola: US Subsidiary Proposal & Investor Alignment](../emails/2026-10-21_doola_US_Subsidiary_Proposal_and_Investor_Alignment)
+- Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)
+- Referenced in [Redo Returns: Fulfillment Logic Switch & SKU Remapping Bug](../emails/2026-10-21_Redo_Returns_Fulfillment_Logic_and_SKU_Remapping_Bug)
+- Referenced in [Trans-Am Logistics: Singer Nip Warns on Foreign Entity Customs Bonds](../emails/2026-10-21_Trans_Am_Singer_Nip_Foreign_Entity_Customs_Bond_Refusal)
+- Referenced in [9to5Mac Review: Ben Lovejoy Review Pass & Product Feedback](../emails/2026-10-21_9to5Mac_Ben_Lovejoy_Review_Pass_and_UI_Feedback)
+- Referenced in [Familink: Chrissa Vargas Request for Tiered Pricing & HS Codes](../emails/2026-10-21_Familink_Chrissa_Vargas_Tiered_Pricing_and_HS_Code_Request)
+- Referenced in [ShipBots: December Timeline Confirmation & Onboarding Kickoff](../emails/2026-10-21_ShipBots_December_Timeline_Approval_and_Onboarding)
+- Referenced in [Parshwa Mehta](../people/parshwa-mehta)
+- Referenced in [Familink: South Korea Wholesale Distribution Strategy](../meetings/2026-10-21_Familink_South_Korea_Distribution_Strategy)
+- Referenced in [doola: US Entity Formation & Tax Compliance Strategy](../meetings/2026-10-21_doola_US_Entity_Formation_and_Tax_Strategy)
 
 ## Facts
 

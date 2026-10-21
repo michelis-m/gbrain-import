@@ -16,3 +16,11 @@ Logistics coordinator at Trans-Am handling container and freight shipping betwee
 - Referenced in [Trans-Am Logistics: US Ocean Freight Quote & Importer of Record](../emails/2026-10-20_Trans_Am_Singer_Nip_US_Freight_Quote_and_EIN)
 - Referenced in [Daily Email Summary: 2026-10-20](../emails/2026-10-20_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-20_Intelistyle_Standup_and_Qalzy_Operations)
+- On 2026-10-21, strongly warned against shipping cargo under a foreign entity EIN, explaining that surety bond underwriters are refusing to issue customs bonds due to new US Customs regulations taking effect in late November 2026. Advised waiting or establishing a US domestic entity.
+- Provided a consolidated LCL ocean freight estimate of ,220 for shipping 13 stackable pallets from Shenzhen to ShipBots in Gardena, CA.
+
+## Referenced by
+- Referenced in [Trans-Am Logistics: Singer Nip Warns on Foreign Entity Customs Bonds](../emails/2026-10-21_Trans_Am_Singer_Nip_Foreign_Entity_Customs_Bond_Refusal)
+- Referenced in [ShipBots: December Timeline Confirmation & Onboarding Kickoff](../emails/2026-10-21_ShipBots_December_Timeline_Approval_and_Onboarding)
+- Referenced in [doola: US Entity Formation & Tax Compliance Strategy](../meetings/2026-10-21_doola_US_Entity_Formation_and_Tax_Strategy)
+- Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)

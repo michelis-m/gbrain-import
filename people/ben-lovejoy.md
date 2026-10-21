@@ -39,3 +39,8 @@ European Editor at major tech publication 9to5Mac. Responded to an outreach from
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
 - On 2026-10-20, encountered an unpairing issue after testing; Michael guided him through hardware reset and pairing mode (rapidly pressing power button during boot). Ben also asked about duplicate item warnings when adding small extra portions of the same food, which Michael explained as Qalzy's multi-ingredient session logging design.
+- On 2026-10-21, informed [[people/michael-michelis]] that he is passing on reviewing the Qalzy scale for 9to5Mac. Cited critical implementation issues: a messy user interface and scanning inaccuracies, specifically noting a Waldorf salad was identified only as celery.
+
+## Referenced by
+- Referenced in [9to5Mac Review: Ben Lovejoy Review Pass & Product Feedback](../emails/2026-10-21_9to5Mac_Ben_Lovejoy_Review_Pass_and_UI_Feedback)
+- Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)
