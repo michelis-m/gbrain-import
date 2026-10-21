@@ -49,6 +49,7 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 
 ## Confirmed by Michael
 
+- 2026-10-21: Qalzy AI Scale unit hardware manufacturing price is **$24.82**, increasing to **$25.29** in the new production batch (superseding earlier $28.24 placeholder).
 - 2026-10-16: Qalzy Ltd's US Employer Identification Number (EIN) is **98-1953763** (Name Control: `QALZ`, IRS Notice CP575B issued 15 July 2026 to QALZY LTD, KONSTANTINOS KOUKORAVAS MBR, 128 City Rd, London EC1V 2NX).
 - 2026-09-15: US duties for Qalzy are $3.42 for the scale standalone, and $6.16 ($3.42 × 1.8) on a blended basis per order (factoring in the ~1.8 units/order accessory attach rate). Billed and collected directly via Portless. Corrects earlier team assumptions that US shipments were under de minimis threshold and tax/duty-free.
 - 2026-09-15: Updated unit economics on the $199 price point: breakeven CPA is $150 ($149.62 factoring in $15 customer-paid shipping subsidizing the ~$32 courier cost down to ~$17 net), superseding the preliminary $140 estimate.
