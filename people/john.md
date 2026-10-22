@@ -9,3 +9,4 @@ Context: Handles new arrivals, IDs, and re-approvals for brands like Epicule, Tw
 - Referenced in [Intelistyle Daily Standup & Qalzy Ad Formats Review](../meetings/2026-09-09_Intelistyle_Standup_and_Qalzy_Ad_Formats_Review)
 - Referenced in [Impromptu Google Meet Meeting](../meetings/2026-08-21_Impromptu_Google_Meet_Meeting)
 - Referenced in [Intelistyle](../companies/intelistyle)
+- Referenced in [WhatsApp Contacts (J – L)](../contacts/WhatsApp_Contacts_J-L)

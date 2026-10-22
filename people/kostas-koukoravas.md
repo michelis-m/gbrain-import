@@ -490,6 +490,13 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Parshwa Mehta](../people/parshwa-mehta)
 - Referenced in [Familink: South Korea Wholesale Distribution Strategy](../meetings/2026-10-21_Familink_South_Korea_Distribution_Strategy)
 - Referenced in [doola: US Entity Formation & Tax Compliance Strategy](../meetings/2026-10-21_doola_US_Entity_Formation_and_Tax_Strategy)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [WhatsApp Contacts (J – L)](../contacts/WhatsApp_Contacts_J-L)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
 
 ## Facts
 
