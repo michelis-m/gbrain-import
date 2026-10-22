@@ -22,6 +22,8 @@
 - On 2026-10-14, participated in the weekly Qalzy performance sync. Welcomed the Truemed HSA/FSA partnership as a major conversion hook for US Meta ads. Discussed funnel conversion drops and agreed with Michael and Kostas to launch the new CRO landing page variant at an initial 20% traffic allocation, while committing to deliver a detailed feedback Loom video with creative ideas.
 - On 2026-10-15, held weekly strategic sync with Michael and Kostas. Discussed US 3PL transition (modeled ~7% gross margin lift from lower domestic shipping rates). Agreed to throttle daily Meta ad spend back to $1,250 while landing page and variant tests run, and update bottom-of-funnel ad headlines to reflect current 42% discounts. Deep-dived into product return rate (4% vs 3% target) and customer expectations; proposed tackling accuracy doubts directly in ad creative ("Is this AI scale a scam?"), clarifying Gemini visual detection + USDA database lookup vs pixel estimation. Committed to briefing creative lead Saul next week on accuracy-focused video formats.
 
+- On 2026-10-22, conducted weekly ad performance sync with [[people/kostas-koukoravas]] and [[people/michael-michelis]]. Explained Meta's backend 'Entity ID' creative clustering causing fatigue, established the December 14 Christmas gifting shipping cutoff, and outlined the Black Friday playbook favoring bold, simple static text ads over complex video formats.
+
 ## Referenced by
 
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
@@ -39,3 +41,4 @@
 - Referenced in [Qalzy Meta Ads Consultation with Meta Marketing Pro](../meetings/2026-09-29_Qalzy_Meta_Marketing_Pro_Consultation)
 - Referenced in [SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy](../meetings/2026-10-06_SPG_x_Qalzy_Strategy_and_Whitelisting)
 - Referenced in [SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation](../meetings/2026-10-14_SPG_x_Qalzy_Weekly_Call_and_Truemed_Recap)
+- Referenced in [SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy](../meetings/2026-10-22_SPG_x_Qalzy_Weekly_Performance_and_Ad_Creative_Strategy)

@@ -18,6 +18,8 @@ European Editor at major tech publication 9to5Mac. Responded to an outreach from
 - On 2026-10-17, requested to downgrade his test account to the Basic plan so he can evaluate the out-of-the-box non-subscriber experience for his 9to5Mac review. Michael followed up requesting his registered app email address.
 - On 2026-10-18, provided his registered app account email (`ben@benlovejoy.com`) for the downgrade to the Basic plan.
 
+- On 2026-10-22, offered to return his review sample unit, noting his setup is paperless and requires a courier with printed labels. [[people/michael-michelis]] confirmed Qalzy will arrange courier pickup with labels to route the unit to Qalzy's UK team.
+
 ## Referenced by
 
 - Referenced in [9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade](../emails/2026-10-18_9to5Mac_Ben_Lovejoy_App_Email_Provided)
@@ -33,6 +35,8 @@ European Editor at major tech publication 9to5Mac. Responded to an outreach from
 - Referenced in [9to5Mac Review: Ben Lovejoy Pairing Support & Duplicate Handling](../emails/2026-10-20_9to5Mac_Ben_Lovejoy_Pairing_and_Session_Support)
 - Referenced in [Daily Email Summary: 2026-10-20](../emails/2026-10-20_daily_emails)
 - Referenced in [Qalzy Supply Chain, A/B Test & Influencer Content Strategy](../meetings/2026-10-20_Qalzy_Supply_Chain_AB_Test_and_Influencer_Content_Strategy)
+- Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
+- Referenced in [9to5Mac: Ben Lovejoy Review Unit Return Coordination](../emails/2026-10-22_9to5Mac_Ben_Lovejoy_Sample_Return_Coordination)
 
 ## Referenced by
 - Referenced in [9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity](../emails/2026-10-19_9to5Mac_Ben_Lovejoy_Scale_Connected_Success)

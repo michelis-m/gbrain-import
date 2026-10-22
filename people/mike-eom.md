@@ -19,6 +19,8 @@ Senior Officer at Familink Global, an agency and distribution firm facilitating 
 - Learned from Michael and Kostas that Qalzy's core buyer demographic is 35+ (95%) and 45+ (75%), especially menopausal women and postpartum mothers, and agreed to tailor market research to mature demographics.
 - Confirmed Familink typically begins with a 3,000-unit initial order (minimum 1,000 units) and requested tiered distributor pricing (~30% of MSRP) and HS codes for Korean customs clearance.
 - Noted that Qalzy's existing CE and FDA certifications will significantly simplify securing local Korea Certification (KC mark).
+- Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
+- Referenced in [Familink Global](../companies/familink)
 
 ## Referenced by
 - Referenced in [Familink: South Korea Wholesale Distribution Strategy](../meetings/2026-10-21_Familink_South_Korea_Distribution_Strategy)

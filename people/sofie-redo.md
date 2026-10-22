@@ -14,6 +14,10 @@ Redo SLC warehouse support personnel handling physical inspection, verification,
 - Reprocessed the return disposition as factory sealed.
 - Clarified that the US Wall Charger (`QZ-CHG-US`) was marked Not Received; [[people/kostas-koukoravas]] confirmed the charger is a separate package item and should remain marked as Not Received.
 
+- On 2026-10-22, confirmed that a software/process flaw in Redo's SLC warehouse inspection workflow caused multiple factory-sealed and new condition Qalzy scales (including return #2231) to be misgraded as damaged. Confirmed the flaw is being corrected.
+
 ## Referenced by
 - Referenced in [Redo: Return #2189 Factory Sealed Verification & Disposition](../emails/2026-10-17_Redo_Return_2189_Factory_Sealed_Verification)
 - Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
+- Referenced in [Redo Returns: Inspection Bug Misgrading Factory-Sealed Scales](../emails/2026-10-22_Redo_Returns_Inspection_Bug_Factory_Sealed_Scales)
+- Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)

@@ -24,3 +24,4 @@ Wife of [[people/michael|Michael Michelis]].
 ## Referenced by
 
 - Referenced in [Qalzy CES 2027 Planning & Meta Creative Strategy](../meetings/2026-10-01_Qalzy_CES_Planning_and_Meta_Creative_Strategy)
+- Referenced in [Qalzy Operations: Customer Dispute, Redo Returns & Video Production](../meetings/2026-10-22_Qalzy_Customer_Disputes_Redo_Returns_and_Video_Creative_Review)

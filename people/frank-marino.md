@@ -56,6 +56,8 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
 - Referenced in [Redo Managed Returns: Draft Shopify SKUs Created for Outlet Replacements](../emails/2026-10-14_Redo_Draft_SKUs_Created)
 - On 2026-10-19, confirmed the warehouse processing flow update for Qalzy returns at SLC warehouse. Agreed with [[people/kostas-koukoravas]] that returns graded as *"Like New"* and *"Cosmetic Damage"* transform to the influencer SKU (`QZ-01-BLK-REDO` / `QZ-01-WHT-REDO`), while *"Factory Sealed"* units return to active DTC inventory for resale.
+- Referenced in [Redo Returns: Return #2289 Flagged Broken Dispute & Human Review](../emails/2026-10-22_Redo_Returns_Return_2289_Damage_Dispute)
+- Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
 
 ## Referenced by
 - Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)

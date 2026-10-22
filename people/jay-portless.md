@@ -14,3 +14,5 @@ Support specialist at [[companies/portless]] handling order management, cancella
 ## Referenced by
 - Referenced in [Portless: Order #2474 SKU Adjustment and Fulfillment Release](../emails/2026-10-18_Portless_Order_2474_White_SKU_Removal)
 - Referenced in [Daily Email Summary: 2026-10-18](../emails/2026-10-18_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
+- Referenced in [Portless Logistics: Customs Inspection Notice & European Return Rerouting](../emails/2026-10-22_Portless_Customs_Inspections_and_EU_Rerouting)
