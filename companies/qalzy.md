@@ -65,7 +65,7 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - The identity of the pre-seed investor. Jenson Ventures is named only by a cold emailer.
 - App subscription pricing and how premium access is granted (a "lifetime access" backer promise is referenced but never specified).
 - Who the primary scale manufacturer is. Suppliers appear only by contact name ("May") or as packaging/accessory vendors.
-- The state of the patent. "Patent-pending" in May 2026 and "patented" in an August pitch, with no filing detail either way.
+- The state of the patent: Allowed and issue fee paid July 2026; pending final grant issuance under USPTO App # 19/297,002 (see [[Qalzy_Patent_Details]]).
 - Whether there is any team beyond the two founders and the Social Media Manager. A developer called "Grant" is referenced once in passing (`Fwd: Recipe Glitch`) with no role given.
 
 ## See also
