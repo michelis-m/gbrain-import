@@ -523,6 +523,9 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [Portless: Bulk Stock Palletization & Warehouse Pickup Coordination](../emails/2026-10-23_Portless_Stock_Palletization_and_Warehouse_Coordination)
 - Referenced in [Redo Returns: Returns #2289 and #2085 Physical Inspection Resolutions](../emails/2026-10-23_Redo_Returns_2289_and_2085_Inspection_Resolution)
 - Referenced in [Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA](../meetings/2026-10-23_Qalzy_User_Education_Review_Integration_and_Ad_Creatives)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
 
 ## Facts
 
