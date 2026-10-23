@@ -61,3 +61,4 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
 - Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback](../meetings/2026-10-12_Mahdi_Aldashti_Kuwait_Distribution_and_Product_Feedback)
 - Referenced in [Portless: Kuwait Wholesale Pallet Freight & Specs Status Update](../emails/2026-10-13_Portless_Kuwait_Pallet_Freight_Ryan_Update)
 - Referenced in [Daily Email Summary: 2026-10-13](../emails/2026-10-13_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)

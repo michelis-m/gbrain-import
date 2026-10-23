@@ -826,6 +826,19 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Referenced in [Commenda: US Entity Formation & Corporate Structuring](../meetings/2026-10-22_Commenda_US_Entity_Formation_and_Corporate_Structuring)
 - Referenced in [Commenda](../companies/commenda)
 - Referenced in [BRDG](../companies/brdg)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [Truemed: Stripe Connect Flow & Wise USD Verification Check-In](../emails/2026-10-23_Truemed_Stripe_Connect_Wise_USD_Check_In)
+- Referenced in [Meta Ads & Developer Operations: Ad Rejection & Platform Violation Decision](../emails/2026-10-23_Meta_Ad_Rejection_and_App_Platform_Violation)
+- Referenced in [[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840](../emails/2026-07-01-v-trust-inspector-s-assigned-po-pi251127qal-mzw594840)
+- Referenced in [Familink: Co-founder Tim Jung South Korea Distribution Outreach](../emails/2026-10-23_Familink_Tim_Jung_South_Korea_Distribution)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
+- Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
+- Referenced in [Portless: Bulk Stock Palletization & Warehouse Pickup Coordination](../emails/2026-10-23_Portless_Stock_Palletization_and_Warehouse_Coordination)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [Redo Returns: Returns #2289 and #2085 Physical Inspection Resolutions](../emails/2026-10-23_Redo_Returns_2289_and_2085_Inspection_Resolution)
+- Referenced in [Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA](../meetings/2026-10-23_Qalzy_User_Education_Review_Integration_and_Ad_Creatives)
 
 ## Facts
 

@@ -344,6 +344,13 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy](../meetings/2026-10-22_SPG_x_Qalzy_Weekly_Performance_and_Ad_Creative_Strategy)
 - Referenced in [Commenda: US Entity Formation & Corporate Structuring](../meetings/2026-10-22_Commenda_US_Entity_Formation_and_Corporate_Structuring)
 - Referenced in [Familink Global](../companies/familink)
+- Referenced in [Truemed: Stripe Connect Flow & Wise USD Verification Check-In](../emails/2026-10-23_Truemed_Stripe_Connect_Wise_USD_Check_In)
+- Referenced in [Meta Ads & Developer Operations: Ad Rejection & Platform Violation Decision](../emails/2026-10-23_Meta_Ad_Rejection_and_App_Platform_Violation)
+- Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
+- Referenced in [Familink: Co-founder Tim Jung South Korea Distribution Outreach](../emails/2026-10-23_Familink_Tim_Jung_South_Korea_Distribution)
+- Referenced in [Steven Cravotta](../people/steven-cravotta)
+- Referenced in [Tim Jung](../people/tim-jung)
+- Referenced in [Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA](../meetings/2026-10-23_Qalzy_User_Education_Review_Integration_and_Ad_Creatives)
 
 ## Facts
 

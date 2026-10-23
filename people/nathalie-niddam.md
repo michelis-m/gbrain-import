@@ -21,3 +21,4 @@ Prominent biohacking, longevity, and metabolic health podcaster (460+ episodes, 
 ## Referenced by
 - Referenced in [Podcast Gifting & Interview Outreach: Nathalie Niddam](../emails/2026-10-05_Nathalie_Niddam_Podcast_and_Scale_Gifting)
 - Referenced in [Daily Email Summary: 2026-10-05](../emails/2026-10-05_daily_emails)
+- Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)

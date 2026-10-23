@@ -21,6 +21,8 @@ Lead at Familink, a South Korean agency and distributor that assists internation
 - Referenced in [Familink: Tiered Wholesale Pricing & HS Codes Delivered](../emails/2026-10-22_Familink_Tiered_Wholesale_Pricing_and_HS_Codes_Sent)
 - Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
 - Referenced in [Familink Global](../companies/familink)
+- Referenced in [Familink: Co-founder Tim Jung South Korea Distribution Outreach](../emails/2026-10-23_Familink_Tim_Jung_South_Korea_Distribution)
+- Referenced in [Tim Jung](../people/tim-jung)
 
 ## Referenced by
 - Referenced in [Familink: Chrissa Vargas Request for Tiered Pricing & HS Codes](../emails/2026-10-21_Familink_Chrissa_Vargas_Tiered_Pricing_and_HS_Code_Request)

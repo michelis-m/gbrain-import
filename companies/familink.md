@@ -14,3 +14,5 @@ South Korean distribution and brand operator managing an 8-figure cosmetics bran
 ## Referenced by
 
 - Referenced in [Familink: Tiered Wholesale Pricing & HS Codes Delivered](../emails/2026-10-22_Familink_Tiered_Wholesale_Pricing_and_HS_Codes_Sent)
+- Referenced in [Familink: Co-founder Tim Jung South Korea Distribution Outreach](../emails/2026-10-23_Familink_Tim_Jung_South_Korea_Distribution)
+- Referenced in [Tim Jung](../people/tim-jung)

@@ -63,3 +63,4 @@
 - Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)
 - Referenced in [Redo Returns: Customer Chargeback Escalation on Return #2085](../emails/2026-10-20_Redo_Returns_Customer_Chargeback_Escalation)
 - Referenced in [Rudz](../people/rudz)
+- Referenced in [Redo Returns: Returns #2289 and #2085 Physical Inspection Resolutions](../emails/2026-10-23_Redo_Returns_2289_and_2085_Inspection_Resolution)

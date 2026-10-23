@@ -21,6 +21,9 @@ Senior Officer at Familink Global, an agency and distribution firm facilitating 
 - Noted that Qalzy's existing CE and FDA certifications will significantly simplify securing local Korea Certification (KC mark).
 - Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
 - Referenced in [Familink Global](../companies/familink)
+- Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
+- Referenced in [Familink: Co-founder Tim Jung South Korea Distribution Outreach](../emails/2026-10-23_Familink_Tim_Jung_South_Korea_Distribution)
+- Referenced in [Tim Jung](../people/tim-jung)
 
 ## Referenced by
 - Referenced in [Familink: South Korea Wholesale Distribution Strategy](../meetings/2026-10-21_Familink_South_Korea_Distribution_Strategy)

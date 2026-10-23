@@ -26,3 +26,4 @@ Truemed enables direct-to-consumer health and wellness merchants to accept pre-t
 - Referenced in [Qalzy Corporate and Tax Details](../Qalzy_Corporate_and_Tax_Details.md)
 - Referenced in [Truemed: Stripe Underwriting Connection Link Error](../emails/2026-10-17_Truemed_Stripe_Connection_Link_Error)
 - Referenced in [Truemed: Stripe Connect Test Link for Wise USD Account](../emails/2026-10-19_Truemed_Stripe_Connect_Test_Link)
+- Referenced in [Truemed: Stripe Connect Flow & Wise USD Verification Check-In](../emails/2026-10-23_Truemed_Stripe_Connect_Wise_USD_Check_In)
