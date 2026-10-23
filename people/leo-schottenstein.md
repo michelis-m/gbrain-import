@@ -29,7 +29,10 @@ Partnerships lead at Truemed facilitating Letters of Medical Necessity (LMNs) an
 - Referenced in [Truemed: Stripe Underwriting Connection Link Error](../emails/2026-10-17_Truemed_Stripe_Connection_Link_Error)
 - Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
 - On 2026-10-19, provided a clean Stripe Connect onboarding link to test the bank connection and account verification with Qalzy's Wise USD account and US EIN without committing to the $800 onboarding fee until fully verified.
+- On 2026-10-23, checked in with [[people/kostas-koukoravas]] and [[people/michael-michelis]] to see if the Wise USD account verification succeeded in Stripe Connect, urging completion ahead of BFCM and year-end FSA spend deadlines.
 
 ## Referenced by
 - Referenced in [Truemed: Stripe Connect Test Link for Wise USD Account](../emails/2026-10-19_Truemed_Stripe_Connect_Test_Link)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
+- Referenced in [Truemed: Stripe Connect Flow & Wise USD Verification Check-In](../emails/2026-10-23_Truemed_Stripe_Connect_Wise_USD_Check_In)
+- Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
