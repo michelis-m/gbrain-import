@@ -13,8 +13,11 @@
 - On 2026-09-29, Tristan formally refused the refund request, stating Namzi is actively delivering the service and the contract does not permit refunds; claimed the first batch of creators is ready for approval, and proposed setting up a shared Slack channel or terminating under contract terms.
 - On 2026-09-30, [[people/kostas-koukoravas]] replied rejecting contractual arguments, reserving Qalzy's legal and public exposure rights, and demanding a firm delivery schedule for the full 30 creators contracted.
 - On 2026-10-05, [[people/kostas-koukoravas]] replied to Tristan's creator shortlist email, confirming Qalzy is happy to send scales to some of the creators, but requesting explicit clarification whether Namzi will deliver the full 30 creators included in the initial agreement before any monthly rolling contract begins.
+- On 2026-10-24, [[people/kostas-koukoravas]] escalated after another 20 days of complete silence, demanding an immediate full refund of the $2,000 setup fee and challenging whether Namzi takes any pride in their work or is solely collecting setup fees without delivery.
 
 ## Referenced by
+- Referenced in [Namzi Growing: Setup Fee Refund Demand Escalation](../emails/2026-10-24_Namzi_Growing_Refund_Demand_Escalation)
+- Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)
 
 - Referenced in [Namzi Growing: Creator Contract Dispute & Delivery Enforcement](../emails/2026-09-30_Namzi_Growing_Creator_Dispute_and_Delivery)
 

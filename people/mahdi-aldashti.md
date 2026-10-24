@@ -40,8 +40,21 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
   - Provided user feedback: grilled chicken misclassified as fried chicken; store-bought seasoned French fries logged at 1,000 calories due to a 35g portion scaling bug in the FatSecret integration (fixed by Michael on backend); noted setup questionnaire felt lengthy, but Kostas shared data showing extensive onboarding drastically improves subscription conversion and stickiness. Proposed a personal "User Pantry" feature for staple items.
   - **Commercial Terms Agreed:** Finalized wholesale pricing at **$85.00 USD / unit** EXW for an initial batch of **250 units**. Mahdi will fund shipping and local marketing/creator seeding in Kuwait.
   - **Supply Chain Timing:** Qalzy is preparing to move stock from China to the US; the 250 units must ship directly from China before container consolidation. Mahdi requested carton dimensions, gross weights, and pallet specs so his forwarder can quote shipping before he travels for 3 weeks starting mid-October (targeting mid-November launch).
+- **2026-10-24 Commercial Agreement, Pricing Negotiation & Localization Call:**
+  - Met with [[people/kostas-koukoravas]] and [[people/michael-michelis]].
+  - Mahdi consulted his company owner (business generating ~$2M/month in Kuwait) and pushed to lower the wholesale price to **$75.00 USD / unit** for an initial 250-unit pilot (owner initially suggested $60), aiming for a retail price of ~$160.
+  - Claimed landed unit cost is ~$100 (unit + air shipping + 5% airport customs) and local gym/supplement retailers take 30%, leaving only ~$20 profit/device against planned $20k creator marketing budget.
+  - Founders agreed to **$75.00 USD / unit** for the first **250 units** as a one-off introductory offer, with future orders requiring 500+ unit MOQs for that price level.
+  - Agreed to support Arabic mobile app localization via AI (Mahdi to assist QA) and supply CE/UKCA/FCC/FDA/RF certification documents for Kuwait Citra wireless approval.
+  - Customer warranty: Local replacements for verified defective devices credited against Mahdi's subsequent wholesale order.
+  - Subscription dispute: Mahdi requested 30% subscription revenue share. Founders rejected unburdened sharing given Qalzy's ongoing cloud, AI token, and engineering costs; agreed to offer two proposals (Option A: $75 hardware-only without subscription share; Option B: hardware price plus estimated cloud/IT maintenance costs enabling subscription sharing).
+- **2026-10-24 Barcode Nutrition Discrepancy Email:**
+  - Mahdi emailed following the call noting barcode scans yielded different macronutrient numbers compared to physical printed nutrition labels (especially large divergence on mayonnaise). Kostas requested product barcode numbers for engineering investigation.
 
 ## Referenced by
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization](../meetings/2026-10-24_Mahdi_Aldashti_Kuwait_Distribution_Commercial_Terms)
+- Referenced in [Mahdi Aldashti: Barcode Scanning Nutrition Discrepancy](../emails/2026-10-24_Mahdi_Aldashti_Barcode_Nutrition_Discrepancy)
+- Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled](../emails/2026-10-07_Mahdi_Aldashti_Kuwait_Call_Rescheduled)
 - Referenced in [Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled](../emails/2026-10-07_Mahdi_Aldashti_Kuwait_Call_Rescheduled)
