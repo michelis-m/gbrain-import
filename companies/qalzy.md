@@ -846,6 +846,21 @@ The world's first nutrition tracking platform built around an AI-powered kitchen
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
 - Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
 - Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Portless: Customs Return to Sender & Redelivery Disputes](../emails/2026-10-24_Portless_Customs_Return_and_Redelivery_Disputes)
+- Referenced in [Meta Ads Billing Receipt: $900.00 Threshold](../emails/2026-10-24_Meta_Ads_Billing_Receipt)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [StoryMD Partnership Introduction & Background](../emails/2026-10-24_StoryMD_Partnership_Intro_Alexander_Tsiaras)
+- Referenced in [[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840](../emails/2026-07-01-v-trust-inspector-s-assigned-po-pi251127qal-mzw594840)
+- Referenced in [Namzi Growing: Setup Fee Refund Demand Escalation](../emails/2026-10-24_Namzi_Growing_Refund_Demand_Escalation)
+- Referenced in [Portless: Brand Authorization Letter for Air Carriers & Customs](../emails/2026-10-24_Portless_Brand_Authorization_Letter)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594847 - PO#](../emails/2026-07-02-v-trust-inspection-date-to-be-confirmed-mzw594847-po)
+- Referenced in [RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)](../emails/2026-06-24-external-declined-qalzy-seko-intro-discovery-thu-4-jun-2026)
+- Referenced in [Mahdi Aldashti: Barcode Scanning Nutrition Discrepancy](../emails/2026-10-24_Mahdi_Aldashti_Barcode_Nutrition_Discrepancy)
+- Referenced in [Creator Partnership Offer: Danica Collins (T1D Nutrition)](../emails/2026-10-24_Creator_Partnership_Danica_Collins)
+- Referenced in [[V-Trust] Inspection date to be confirmed MZW594840 - PO#](../emails/2026-06-23-v-trust-inspection-date-to-be-confirmed-mzw594840-po)
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization](../meetings/2026-10-24_Mahdi_Aldashti_Kuwait_Distribution_Commercial_Terms)
 
 ## Facts
 

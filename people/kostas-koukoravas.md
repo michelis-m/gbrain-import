@@ -526,6 +526,17 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
 - Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager](../emails/2026-05-29-v-trust-introduction-of-account-manager)
+- Referenced in [Portless: Customs Return to Sender & Redelivery Disputes](../emails/2026-10-24_Portless_Customs_Return_and_Redelivery_Disputes)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847](../emails/2026-06-01-v-trust-introduction-of-account-manager-mzw594840-mzw594847)
+- Referenced in [StoryMD Partnership Introduction & Background](../emails/2026-10-24_StoryMD_Partnership_Intro_Alexander_Tsiaras)
+- Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)
+- Referenced in [Portless: Brand Authorization Letter for Air Carriers & Customs](../emails/2026-10-24_Portless_Brand_Authorization_Letter)
+- Referenced in [Mahdi Aldashti: Barcode Scanning Nutrition Discrepancy](../emails/2026-10-24_Mahdi_Aldashti_Barcode_Nutrition_Discrepancy)
+- Referenced in [Alexander Tsiaras](../people/alexander-tsiaras)
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization](../meetings/2026-10-24_Mahdi_Aldashti_Kuwait_Distribution_Commercial_Terms)
+- Referenced in [StoryMD](../companies/storymd)
 
 ## Facts
 

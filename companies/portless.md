@@ -192,3 +192,6 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless: Bulk Stock Palletization & Warehouse Pickup Coordination](../emails/2026-10-23_Portless_Stock_Palletization_and_Warehouse_Coordination)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Customs Return to Sender & Redelivery Disputes](../emails/2026-10-24_Portless_Customs_Return_and_Redelivery_Disputes)
+- Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
+- Referenced in [Portless: Brand Authorization Letter for Air Carriers & Customs](../emails/2026-10-24_Portless_Brand_Authorization_Letter)

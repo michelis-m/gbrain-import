@@ -9,3 +9,8 @@ StoryMD is a health education and visual storytelling platform created by Alexan
 
 ## Context with Qalzy
 - On 2026-10-23, [[people/karen-jagoda]] introduced Alexander Tsiaras to [[people/kostas-koukoravas]] and [[people/michael-michelis]] to explore strategic health tech content, educational integration, and storytelling partnerships for Qalzy.
+
+## Referenced by
+
+- Referenced in [StoryMD Partnership Introduction & Background](../emails/2026-10-24_StoryMD_Partnership_Intro_Alexander_Tsiaras)
+- Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)

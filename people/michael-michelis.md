@@ -351,6 +351,17 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 - Referenced in [Steven Cravotta](../people/steven-cravotta)
 - Referenced in [Tim Jung](../people/tim-jung)
 - Referenced in [Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA](../meetings/2026-10-23_Qalzy_User_Education_Review_Integration_and_Ad_Creatives)
+- Referenced in [Portless: Customs Return to Sender & Redelivery Disputes](../emails/2026-10-24_Portless_Customs_Return_and_Redelivery_Disputes)
+- Referenced in [Meta Ads Billing Receipt: $900.00 Threshold](../emails/2026-10-24_Meta_Ads_Billing_Receipt)
+- Referenced in [StoryMD Partnership Introduction & Background](../emails/2026-10-24_StoryMD_Partnership_Intro_Alexander_Tsiaras)
+- Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)
+- Referenced in [Portless: Brand Authorization Letter for Air Carriers & Customs](../emails/2026-10-24_Portless_Brand_Authorization_Letter)
+- Referenced in [Mahdi Aldashti: Barcode Scanning Nutrition Discrepancy](../emails/2026-10-24_Mahdi_Aldashti_Barcode_Nutrition_Discrepancy)
+- Referenced in [Creator Partnership Offer: Danica Collins (T1D Nutrition)](../emails/2026-10-24_Creator_Partnership_Danica_Collins)
+- Referenced in [Alexander Tsiaras](../people/alexander-tsiaras)
+- Referenced in [Danica Collins](../people/danica-collins)
+- Referenced in [Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization](../meetings/2026-10-24_Mahdi_Aldashti_Kuwait_Distribution_Commercial_Terms)
+- Referenced in [StoryMD](../companies/storymd)
 
 ## Facts
 
