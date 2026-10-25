@@ -1,12 +1,16 @@
 ---
 type: concept
-title: "Meta Ads Scaling, Auditing, and Algorithmic Principles (SPG Framework)"
+title: Meta Ads Scaling, Auditing, and Algorithmic Principles (SPG Framework)
 aliases:
   - Meta Ads Principles
   - Meta Ad Optimization Rules
   - Never Turn Off An Ad
   - Social Paradigm Group Framework
   - Meta Ads Auditor
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:23:06.820Z'
+trust_tier: agent_written
 ---
 
 # Meta Ads Scaling, Auditing, and Algorithmic Principles (SPG Framework)
@@ -122,3 +126,8 @@ When media buyers manually kill high-spend volume drivers because of in-platform
 ## See Also
 - [[companies/qalzy]]
 - [[meetings/2026-09-08_Qalzy_Internal_Meta_Ads_AI_Rules]]
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 aff574fe7ff1 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_qalzy_internal_meta_ads_ai_rules — Discussed in Qalzy Internal Meta Ads AI Rules Engine & Scaling Sync

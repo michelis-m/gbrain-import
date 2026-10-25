@@ -1,3 +1,13 @@
+---
+type: company
+title: ShipBots
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-21T23:06:18.126Z'
+trust_tier: agent_written
+---
+
 # ShipBots
 
 **Domain:** 3PL Fulfillment, E-Commerce Warehousing & Logistics  
@@ -20,3 +30,18 @@ ShipBots is a US third-party logistics (3PL) provider operating fulfillment faci
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [[people/mikey-ahdoot]]
 - Referenced in [ShipBots: December Timeline Confirmation & Onboarding Kickoff](../emails/2026-10-21_ShipBots_December_Timeline_Approval_and_Onboarding)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 c1ace6650b23 -->
+- **2026-10-19** | extract-timeline-from-meetings:meetings/2026-10-19_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 31c6e5f4a16f -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 32e3e08755b0 -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_qalzy_supply_chain_ab_test_and_influencer_content_strategy — Discussed in Qalzy Supply Chain, A/B Test & Influencer Content Strategy
+<!-- gbrain:materialized v1 8814cf1f5ebb -->
+- **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_doola_us_entity_formation_and_tax_strategy — Discussed in doola: US Entity Formation & Tax Compliance Strategy
+<!-- gbrain:materialized v1 d1cb7740d902 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_brdg_us_operating_models_and_wholesale_expansion — Discussed in BRDG: US Operating Models, Customs Regulations & Nexus Strategy
+<!-- gbrain:materialized v1 c34c10a397f7 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_commenda_us_entity_formation_and_corporate_structuring — Discussed in Commenda: US Entity Formation & Corporate Structuring

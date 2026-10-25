@@ -1,3 +1,13 @@
+---
+type: company
+title: Redo
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-23T23:03:58.159Z'
+trust_tier: agent_written
+---
+
 # Redo
 - **Category:** Returns Management, Reverse Logistics & Shipping Protection
 - **Website:** [getredo.com](https://getredo.com)
@@ -64,3 +74,36 @@
 - Referenced in [Redo Returns: Customer Chargeback Escalation on Return #2085](../emails/2026-10-20_Redo_Returns_Customer_Chargeback_Escalation)
 - Referenced in [Rudz](../people/rudz)
 - Referenced in [Redo Returns: Returns #2289 and #2085 Physical Inspection Resolutions](../emails/2026-10-23_Redo_Returns_2289_and_2085_Inspection_Resolution)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 300ec7bb6501 -->
+- **2026-08-21** | extract-timeline-from-meetings:meetings/2026-08-21_impromptu_google_meet_meeting — Discussed in Impromptu Google Meet Meeting
+<!-- gbrain:materialized v1 6a7925b7658c -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_qalzy_x_portless_sync — Discussed in Qalzy x Portless Sync
+<!-- gbrain:materialized v1 9003939444d1 -->
+- **2026-09-02** | extract-timeline-from-meetings:meetings/2026-09-02_board_prep — Discussed in Board Prep
+<!-- gbrain:materialized v1 3d69db03ea89 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_redo_returns_fulfillment_setup — Discussed in Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution
+<!-- gbrain:materialized v1 81560c339334 -->
+- **2026-09-15** | extract-timeline-from-meetings:meetings/2026-09-15_qalzy_standup_and_spg_black_friday_strategy — Discussed in Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations
+<!-- gbrain:materialized v1 ff44226487cc -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Daily Standup & Qalzy Operations and Strategy
+<!-- gbrain:materialized v1 123c35015e29 -->
+- **2026-09-23** | extract-timeline-from-meetings:meetings/2026-09-23_qalzy_operations_redo_bug_creative_review_and_unit_economics — Discussed in Qalzy Operations, Redo Bug, Creative Review & Unit Economics
+<!-- gbrain:materialized v1 c924e9da533f -->
+- **2026-09-25** | extract-timeline-from-meetings:meetings/2026-09-25_intelistyle_standup_and_qalzy_creative_fatigue_scale_guide_and_returns — Discussed in Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns
+<!-- gbrain:materialized v1 db18375c1010 -->
+- **2026-09-28** | extract-timeline-from-meetings:meetings/2026-09-28_intelistyle_standup_and_qalzy_operations_redo_returns_and_app_troubleshooting — Discussed in Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting
+<!-- gbrain:materialized v1 ebacd8346d0a -->
+- **2026-09-29** | extract-timeline-from-meetings:meetings/2026-09-29_qalzy_internal_post_meta_debrief_and_cro_strategy — Discussed in Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync
+<!-- gbrain:materialized v1 7abfea83f745 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo Returns, and CES Travel
+<!-- gbrain:materialized v1 e6102915cd7f -->
+- **2026-10-08** | extract-timeline-from-meetings:meetings/2026-10-08_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO
+<!-- gbrain:materialized v1 e8ce3712fc29 -->
+- **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education
+<!-- gbrain:materialized v1 31c6e5f4a16f -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 2f047e8392a4 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_qalzy_customer_disputes_redo_returns_and_video_creative_review — Discussed in Qalzy Operations: Customer Dispute, Redo Returns & Video Production

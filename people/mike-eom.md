@@ -1,3 +1,12 @@
+---
+type: person
+title: Mike Eom
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-23T23:03:51.396Z'
+trust_tier: agent_written
+---
+
 # Mike Eom
 
 **Role:** Senior Officer  
@@ -29,3 +38,8 @@ Senior Officer at Familink Global, an agency and distribution firm facilitating 
 - Referenced in [Familink: South Korea Wholesale Distribution Strategy](../meetings/2026-10-21_Familink_South_Korea_Distribution_Strategy)
 - Referenced in [Familink: Chrissa Vargas Request for Tiered Pricing & HS Codes](../emails/2026-10-21_Familink_Chrissa_Vargas_Tiered_Pricing_and_HS_Code_Request)
 - Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 d90e1dbc0518 -->
+- **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_familink_south_korea_distribution_strategy — Discussed in Familink: South Korea Wholesale Distribution Strategy

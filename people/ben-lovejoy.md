@@ -1,3 +1,12 @@
+---
+type: person
+title: Ben Lovejoy
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-22T23:11:22.996Z'
+trust_tier: agent_written
+---
+
 # Ben Lovejoy
 
 **Role:** European Editor  
@@ -48,3 +57,12 @@ European Editor at major tech publication 9to5Mac. Responded to an outreach from
 ## Referenced by
 - Referenced in [9to5Mac Review: Ben Lovejoy Review Pass & Product Feedback](../emails/2026-10-21_9to5Mac_Ben_Lovejoy_Review_Pass_and_UI_Feedback)
 - Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 c1ace6650b23 -->
+- **2026-10-19** | extract-timeline-from-meetings:meetings/2026-10-19_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 32e3e08755b0 -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_qalzy_supply_chain_ab_test_and_influencer_content_strategy — Discussed in Qalzy Supply Chain, A/B Test & Influencer Content Strategy
+<!-- gbrain:materialized v1 2f047e8392a4 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_qalzy_customer_disputes_redo_returns_and_video_creative_review — Discussed in Qalzy Operations: Customer Dispute, Redo Returns & Video Production

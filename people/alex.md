@@ -1,3 +1,12 @@
+---
+type: person
+title: Alex
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-22T08:30:59.917Z'
+trust_tier: agent_written
+---
+
 # Alex
 
 - **Phone:** +306984250944
@@ -8,3 +17,8 @@
 ## Referenced by
 
 - Referenced in [WhatsApp Contacts (A – C)](../contacts/WhatsApp_Contacts_A-C)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 9c2ec526577b -->
+- **2026-09-02** | extract-timeline-from-meetings:meetings/2026-09-02_qalzy_board_meeting — Discussed in Qalzy Board Meeting

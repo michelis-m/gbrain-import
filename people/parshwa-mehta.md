@@ -1,3 +1,12 @@
+---
+type: person
+title: Parshwa Mehta
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-21T18:07:54.681Z'
+trust_tier: agent_written
+---
+
 # Parshwa Mehta
 
 **Role:** Business Consultation Lead / Sales Specialist  
@@ -18,3 +27,8 @@ Sales and compliance specialist at doola, a platform helping international found
 - Referenced in [doola: US Entity Formation & Tax Compliance Strategy](../meetings/2026-10-21_doola_US_Entity_Formation_and_Tax_Strategy)
 - Referenced in [doola: US Subsidiary Proposal & Investor Alignment](../emails/2026-10-21_doola_US_Subsidiary_Proposal_and_Investor_Alignment)
 - Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 8814cf1f5ebb -->
+- **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_doola_us_entity_formation_and_tax_strategy — Discussed in doola: US Entity Formation & Tax Compliance Strategy

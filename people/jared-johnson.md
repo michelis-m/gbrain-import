@@ -1,3 +1,12 @@
+---
+type: person
+title: Jared Johnson
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-14T23:02:31.756Z'
+trust_tier: agent_written
+---
+
 # Jared Johnson
 
 **Role:** Podcast Host & Founder  
@@ -22,3 +31,8 @@ Host of the Healthcare Rap podcast covering consumer digital health, patient exp
 - Referenced in [Healthcare Rap Podcast Episode Live](../emails/2026-10-10_Healthcare_Rap_Podcast_Episode_Live_Kostas)
 - Referenced in [Daily Email Summary: 2026-10-10](../emails/2026-10-10_daily_emails)
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 0d4579ee7bdc -->
+- **2026-09-22** | extract-timeline-from-meetings:meetings/2026-09-22_intelistyle_standup_and_qalzy_creative_and_seeding_strategy — Discussed in Intelistyle Standup & Qalzy Creative and Seeding Strategy

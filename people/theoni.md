@@ -1,3 +1,12 @@
+---
+type: person
+title: Theoni
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:30:50.153Z'
+trust_tier: agent_written
+---
+
 # Theoni
 
 **Role:** Former Stylist & Catalog Specialist  
@@ -12,3 +21,8 @@ Former team member at Intelistyle who handled client styling, image quality cura
 
 ## Referenced by
 - Referenced in [Intelistyle Standup & Qalzy Operations Strategy](../meetings/2026-09-21_Intelistyle_Standup_and_Qalzy_Operations_Strategy)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 db38cf1f399d -->
+- **2026-09-21** | extract-timeline-from-meetings:meetings/2026-09-21_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Standup & Qalzy Operations Strategy

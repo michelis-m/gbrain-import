@@ -1,3 +1,13 @@
+---
+type: company
+title: Truemed
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-23T23:03:57.573Z'
+trust_tier: agent_written
+---
+
 # Truemed
 
 **Domain:** Healthcare Payments / FinTech / HSA & FSA Checkout Infrastructure  
@@ -27,3 +37,12 @@ Truemed enables direct-to-consumer health and wellness merchants to accept pre-t
 - Referenced in [Truemed: Stripe Underwriting Connection Link Error](../emails/2026-10-17_Truemed_Stripe_Connection_Link_Error)
 - Referenced in [Truemed: Stripe Connect Test Link for Wise USD Account](../emails/2026-10-19_Truemed_Stripe_Connect_Test_Link)
 - Referenced in [Truemed: Stripe Connect Flow & Wise USD Verification Check-In](../emails/2026-10-23_Truemed_Stripe_Connect_Wise_USD_Check_In)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 7abfea83f745 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo Returns, and CES Travel
+<!-- gbrain:materialized v1 c9ae1dbe4213 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_spg_x_qalzy_weekly_call_and_truemed_recap — Discussed in SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation
+<!-- gbrain:materialized v1 edaa2cab76e6 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_truemed_hsa_fsa_partnership_kickoff — Discussed in Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration

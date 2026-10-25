@@ -1,3 +1,12 @@
+---
+type: person
+title: Tom Siswick
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:22:55.995Z'
+trust_tier: agent_written
+---
+
 # Tom Siswick
 
 **Role:** Growth / Sales Representative  
@@ -26,3 +35,8 @@ Growth representative at performance creative and influencer marketing agency Ky
 - Referenced in [Daily Email Summary: 2026-09-15](../emails/2026-09-15_daily_emails)
 - Referenced in [Kynship Strategy Session: Cut Your CAC by 50%](../meetings/2026-09-18_Kynship_Strategy_Session_CAC_Reduction)
 - Referenced in [The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce](../Kynship_DTC_Playbook.md)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 a46de93d8a2f -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_kynship_strategy_session_cac_reduction — Discussed in Kynship Strategy Session: Cut Your CAC by 50%

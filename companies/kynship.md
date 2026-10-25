@@ -1,3 +1,13 @@
+---
+type: company
+title: Kynship
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-04T18:03:44.387Z'
+trust_tier: agent_written
+---
+
 # Kynship
 
 **Type:** Performance Marketing & Influencer Seeding Agency  
@@ -17,3 +27,8 @@ High-growth DTC agency specializing in high-volume creative production, product 
 
 - [[Kynship_DTC_Playbook]] (Complete DTC Performance Marketing Playbook & Blog Archive Synthesis)
 - Referenced in [Kynship Strategy Session: Cut Your CAC by 50%](../meetings/2026-09-18_Kynship_Strategy_Session_CAC_Reduction)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 a46de93d8a2f -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_kynship_strategy_session_cac_reduction — Discussed in Kynship Strategy Session: Cut Your CAC by 50%

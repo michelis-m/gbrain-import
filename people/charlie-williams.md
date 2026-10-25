@@ -1,3 +1,12 @@
+---
+type: person
+title: Charlie Williams
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:23:06.211Z'
+trust_tier: agent_written
+---
+
 # Charlie Williams
 
 **Role:** Co-CEO, Sales & Growth at Social Paradigm Group (SPG)  
@@ -28,3 +37,18 @@ Charlie co-leads Social Paradigm Group (SPG), a growth and creative agency speci
 - Referenced in [SPG <> Qalzy Growth Roadmap](../meetings/2026-09-08_SPG_Qalzy_Growth_Roadmap)
 - Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
 - Referenced in [SPG <> Qalzy Quick Chat](../meetings/2026-09-03_SPG-Qalzy-Chat)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 b38ac4925b75 -->
+- **2026-09-03** | extract-timeline-from-meetings:meetings/2026-09-03_spg-qalzy-chat — Discussed in SPG <> Qalzy Quick Chat
+<!-- gbrain:materialized v1 3d0a85720513 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_spg_qalzy_growth_roadmap — Discussed in SPG <> Qalzy Growth Roadmap
+<!-- gbrain:materialized v1 4e2c62d0f13d -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_intelistyle_standup_and_qalzy_ad_strategy — Discussed in Intelistyle Standup & Qalzy Ad Strategy Review
+<!-- gbrain:materialized v1 54f7a5a5d7f5 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_internal_post_spg_debrief — Discussed in Qalzy Internal Post-SPG Debrief & Agency Transition Plan
+<!-- gbrain:materialized v1 d89db0893564 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_spg_qalzy_team_meet — Discussed in SPG <> Qalzy Team Introduction & Strategic Alignment
+<!-- gbrain:materialized v1 f54ad9839493 -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_qalzy_x_spg_kick_off — Discussed in Qalzy x SPG Kick Off Meeting

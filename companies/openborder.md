@@ -1,3 +1,13 @@
+---
+type: company
+title: OpenBorder
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-16T18:20:23.053Z'
+trust_tier: agent_written
+---
+
 # OpenBorder
 
 **Industry:** Cross-Border Logistics, Customs & Tax Compliance  
@@ -33,3 +43,8 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Referenced in [OpenBorder Finance Portal Onboarding](../emails/2026-10-10_OpenBorder_Finance_Portal_Onboarding_Reminder)
 - Referenced in [Daily Email Summary: 2026-10-10](../emails/2026-10-10_daily_emails)
 - Referenced in [Qalzy Corporate and Tax Details](../Qalzy_Corporate_and_Tax_Details.md)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 0a24d186b5c4 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Bi-Weekly Operations Check-In

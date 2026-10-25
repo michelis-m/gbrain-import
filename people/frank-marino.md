@@ -1,3 +1,12 @@
+---
+type: person
+title: Frank Marino
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-22T23:11:21.941Z'
+trust_tier: agent_written
+---
+
 # Frank Marino
 
 **Role:** Shipping Specialist / Implementation Engineer  
@@ -62,3 +71,16 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 ## Referenced by
 - Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 3d69db03ea89 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_redo_returns_fulfillment_setup — Discussed in Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution
+<!-- gbrain:materialized v1 81560c339334 -->
+- **2026-09-15** | extract-timeline-from-meetings:meetings/2026-09-15_qalzy_standup_and_spg_black_friday_strategy — Discussed in Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations
+<!-- gbrain:materialized v1 123c35015e29 -->
+- **2026-09-23** | extract-timeline-from-meetings:meetings/2026-09-23_qalzy_operations_redo_bug_creative_review_and_unit_economics — Discussed in Qalzy Operations, Redo Bug, Creative Review & Unit Economics
+<!-- gbrain:materialized v1 e6102915cd7f -->
+- **2026-10-08** | extract-timeline-from-meetings:meetings/2026-10-08_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO
+<!-- gbrain:materialized v1 e8ce3712fc29 -->
+- **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education

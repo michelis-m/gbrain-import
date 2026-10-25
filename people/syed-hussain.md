@@ -1,3 +1,12 @@
+---
+type: person
+title: Syed Hussain
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-22T23:11:14.115Z'
+trust_tier: agent_written
+---
+
 # Syed Hussain
 
 **Role:** Growth Strategist & Account Manager  
@@ -42,3 +51,32 @@
 - Referenced in [SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy](../meetings/2026-10-06_SPG_x_Qalzy_Strategy_and_Whitelisting)
 - Referenced in [SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation](../meetings/2026-10-14_SPG_x_Qalzy_Weekly_Call_and_Truemed_Recap)
 - Referenced in [SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy](../meetings/2026-10-22_SPG_x_Qalzy_Weekly_Performance_and_Ad_Creative_Strategy)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 4e2c62d0f13d -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_intelistyle_standup_and_qalzy_ad_strategy — Discussed in Intelistyle Standup & Qalzy Ad Strategy Review
+<!-- gbrain:materialized v1 54f7a5a5d7f5 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_internal_post_spg_debrief — Discussed in Qalzy Internal Post-SPG Debrief & Agency Transition Plan
+<!-- gbrain:materialized v1 d89db0893564 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_spg_qalzy_team_meet — Discussed in SPG <> Qalzy Team Introduction & Strategic Alignment
+<!-- gbrain:materialized v1 f54ad9839493 -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_qalzy_x_spg_kick_off — Discussed in Qalzy x SPG Kick Off Meeting
+<!-- gbrain:materialized v1 5790702755ef -->
+- **2026-09-29** | extract-timeline-from-meetings:meetings/2026-09-29_qalzy_meta_marketing_pro_consultation — Discussed in Qalzy Meta Ads Consultation with Meta Marketing Pro
+<!-- gbrain:materialized v1 ebacd8346d0a -->
+- **2026-09-29** | extract-timeline-from-meetings:meetings/2026-09-29_qalzy_internal_post_meta_debrief_and_cro_strategy — Discussed in Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync
+<!-- gbrain:materialized v1 792abedc03c1 -->
+- **2026-09-30** | extract-timeline-from-meetings:meetings/2026-09-30_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy Weekly Call
+<!-- gbrain:materialized v1 a079e6f1200d -->
+- **2026-09-30** | extract-timeline-from-meetings:meetings/2026-09-30_qalzy_pdp_revert_and_cpa_debrief — Discussed in Qalzy Post-SPG Debrief: PDP Reversion & CPA Troubleshooting
+<!-- gbrain:materialized v1 f65f1e5ef8c5 -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_spg_x_qalzy_strategy_and_whitelisting — Discussed in SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy
+<!-- gbrain:materialized v1 57023e110d23 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics
+<!-- gbrain:materialized v1 c9ae1dbe4213 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_spg_x_qalzy_weekly_call_and_truemed_recap — Discussed in SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation
+<!-- gbrain:materialized v1 68742676cc92 -->
+- **2026-10-15** | extract-timeline-from-meetings:meetings/2026-10-15_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning
+<!-- gbrain:materialized v1 8ea246f5b8f8 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_spg_x_qalzy_weekly_performance_and_ad_creative_strategy — Discussed in SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy

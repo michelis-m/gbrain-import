@@ -1,3 +1,12 @@
+---
+type: person
+title: Jess Brown
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-05T23:02:55.659Z'
+trust_tier: agent_written
+---
+
 # Jess Brown
 
 **Role:** Head of People  
@@ -27,3 +36,14 @@ Head of People at Social Paradigm Group (SPG). Manages talent and client onboard
 - Referenced in [SPG <> Qalzy Team Introduction & Strategic Alignment](../meetings/2026-09-11_SPG_Qalzy_Team_Meet)
 - Referenced in [Agency Operations: Namzi Creator Contract Enforcement & SPG Invoice Reconciliation](../emails/2026-10-05_Namzi_and_SPG_Operations)
 - Referenced in [Daily Email Summary: 2026-10-05](../emails/2026-10-05_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 3d0a85720513 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_spg_qalzy_growth_roadmap — Discussed in SPG <> Qalzy Growth Roadmap
+<!-- gbrain:materialized v1 54f7a5a5d7f5 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_internal_post_spg_debrief — Discussed in Qalzy Internal Post-SPG Debrief & Agency Transition Plan
+<!-- gbrain:materialized v1 d89db0893564 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_spg_qalzy_team_meet — Discussed in SPG <> Qalzy Team Introduction & Strategic Alignment
+<!-- gbrain:materialized v1 f54ad9839493 -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_qalzy_x_spg_kick_off — Discussed in Qalzy x SPG Kick Off Meeting

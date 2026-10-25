@@ -1,3 +1,12 @@
+---
+type: person
+title: Ronaldas Liu
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-19T18:06:43.819Z'
+trust_tier: agent_written
+---
+
 # Ronaldas Liu
 
 **Role:** Media Buyer & Account Manager  
@@ -40,3 +49,24 @@ Primary point of contact and media buyer managing Qalzy's paid media and creativ
 ## Referenced by
 - Referenced in [Blazer Agency: Final September Invoice Settled & Contract Closed](../emails/2026-10-19_Blazer_Agency_Final_September_Invoice_Settled)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 e6c99231c195 -->
+- **2026-09-01** | extract-timeline-from-meetings:meetings/2026-09-01_qalzy_x_blazer_weekly — Discussed in QALZY_X_BLAZER_WEEKLY
+<!-- gbrain:materialized v1 18615e6d673d -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_qalzy_x_blazer — Discussed in QALZY X BLAZER Ad Sync
+<!-- gbrain:materialized v1 166cf71fc46a -->
+- **2026-09-07** | extract-timeline-from-meetings:meetings/2026-09-07_qalzy_ad_creative_strategy_and_podcast_sync — Discussed in Qalzy Ad Creative Strategy & Content Production Sync
+<!-- gbrain:materialized v1 85a1156e7ef6 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_qalzy_daily_sync_ads_and_outreach — Discussed in Qalzy Daily Sync: Ads Performance & Healthcare Outreach
+<!-- gbrain:materialized v1 cb9c237ab689 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_blazer_x_qalzy_catch_up — Discussed in Blazer Agency x Qalzy: Agency Termination Notice & Price Test Catch-Up
+<!-- gbrain:materialized v1 ee577d73c050 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_qalzy_daily_sync_blazer_review_and_ad_strategy — Discussed in Qalzy Daily Sync: Blazer Performance Review & Ad Architecture Strategy
+<!-- gbrain:materialized v1 c5765194b49e -->
+- **2026-09-14** | extract-timeline-from-meetings:meetings/2026-09-14_qalzy_standup_pricing_ab_test_and_operations — Discussed in Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment
+<!-- gbrain:materialized v1 db38cf1f399d -->
+- **2026-09-21** | extract-timeline-from-meetings:meetings/2026-09-21_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Standup & Qalzy Operations Strategy
+<!-- gbrain:materialized v1 9806a4b18c61 -->
+- **2026-10-16** | extract-timeline-from-meetings:meetings/2026-10-16_blazer_agency_creative_deliverables_and_ad_performance_sync — Discussed in Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync

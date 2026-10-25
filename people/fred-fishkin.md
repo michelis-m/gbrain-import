@@ -1,3 +1,12 @@
+---
+type: person
+title: Fred Fishkin
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-18T18:04:43.441Z'
+trust_tier: agent_written
+---
+
 # Fred Fishkin
 
 **Role:** Host & Tech Journalist  
@@ -25,3 +34,8 @@ Host and producer of *Techstination*, a syndicated tech news and interview show 
 - Referenced in [Daily Email Summary: 2026-09-22](../emails/2026-09-22_daily_emails)
 - Referenced in [Fred Fishkin: Techstination Podcast Review Agreement](../emails/2026-09-22-fred-fishkin-techstination-podcast-review-agreement)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education](../meetings/2026-10-09_Intelistyle_Standup_and_Qalzy_Operations)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 e8ce3712fc29 -->
+- **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education

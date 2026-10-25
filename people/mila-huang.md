@@ -1,3 +1,12 @@
+---
+type: person
+title: Mila Huang
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-15T23:02:30.504Z'
+trust_tier: agent_written
+---
+
 # Mila Huang
 
 **Role:** Analyst, Harvard Undergraduate Venture Capital Group (VCG)  
@@ -26,3 +35,8 @@ Undergraduate analyst at Harvard College studying psychology and sourcing early-
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
 - Referenced in [Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang](../meetings/2026-10-14_Harvard_VCG_Sourcing_Meeting_Mila_Huang)
 - Referenced in [Daily Email Summary: 2026-10-15](../emails/2026-10-15_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 7d89f4c24e33 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_harvard_vcg_sourcing_meeting_mila_huang — Discussed in Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang

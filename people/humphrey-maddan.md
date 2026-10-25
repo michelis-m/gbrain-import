@@ -1,3 +1,12 @@
+---
+type: person
+title: Humphrey Maddan
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-07T23:03:40.716Z'
+trust_tier: agent_written
+---
+
 # Humphrey Maddan
 
 **Role:** Founder & Director  
@@ -24,3 +33,10 @@ Founder and CEO of REMAKER (remaker.co.uk), a UK-based health tech hardware star
 - Referenced in [Qalzy](../companies/qalzy)
 - Referenced in [Morgan H.S. Fowles](../people/morgan-fowles)
 - Referenced in [Daily Email Summary: 2026-10-07](../emails/2026-10-07_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 804b930f69ce -->
+- **2026-10-02** | extract-timeline-from-meetings:meetings/2026-10-02_qalzy_x_remaker — Discussed in Qalzy <> REMAKER Strategic Partnership & Founder Exchange
+<!-- gbrain:materialized v1 0080c86e2612 -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_morgan_fowles_advisory_and_strategy — Discussed in Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange

@@ -1,3 +1,12 @@
+---
+type: person
+title: Ben Haxhiu
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:23:06.510Z'
+trust_tier: agent_written
+---
+
 # Ben Haxhiu
 
 **Role:** Founder / Agency Principal (CRO & Funnel Strategy Consultant)  
@@ -14,3 +23,8 @@ Consultant providing high-level done-with-you advisory on conversion rate optimi
 ## Referenced by
 
 - Referenced in [Demo Call: Ben Haxhiu (Funnel & CRO Consulting Evaluation)](../meetings/2026-09-10_Demo_Kostas)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 85bd14175038 -->
+- **2026-09-10** | extract-timeline-from-meetings:meetings/2026-09-10_demo_kostas — Discussed in Demo Call: Ben Haxhiu (Funnel & CRO Consulting Evaluation)

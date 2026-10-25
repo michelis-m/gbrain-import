@@ -1,3 +1,13 @@
+---
+type: company
+title: Jenson Ventures
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-04T18:03:44.416Z'
+trust_tier: agent_written
+---
+
 # Jenson Ventures
 
 **Domain:** Venture Capital / Early Stage  
@@ -15,3 +25,8 @@ Jenson Ventures is a London-based early-stage venture capital firm specializing 
 ## Referenced by
 - Referenced in [Investor Introduction: REMAKER <> Jenson Ventures](../emails/2026-10-02_REMAKER_Jenson_Ventures_Investor_Intro)
 - Referenced in [Qalzy <> REMAKER Strategic Partnership & Founder Exchange](../meetings/2026-10-02_Qalzy_x_REMAKER)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 804b930f69ce -->
+- **2026-10-02** | extract-timeline-from-meetings:meetings/2026-10-02_qalzy_x_remaker — Discussed in Qalzy <> REMAKER Strategic Partnership & Founder Exchange

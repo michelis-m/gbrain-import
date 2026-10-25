@@ -1,3 +1,12 @@
+---
+type: person
+title: Sy Whitehall
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:22:57.408Z'
+trust_tier: agent_written
+---
+
 # Sy Whitehall
 
 **Role:** Client Services Director
@@ -21,3 +30,8 @@ Met with [[people/kostas-koukoravas]] and [[people/michael-michelis]] on 2026-09
 ## Referenced by
 
 - Referenced in [Strategy Session: Kostas Koukoravas, Michael Michelis & Sy Whitehall (Socialproof Media)](../meetings/2026-09-04_Kostas_Koukoravas_and_Sy_Whitehall)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 fe74cc9aee3e -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_kostas_koukoravas_and_sy_whitehall — Discussed in Strategy Session: Kostas Koukoravas, Michael Michelis & Sy Whitehall (Socialproof Media)

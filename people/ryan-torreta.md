@@ -1,3 +1,12 @@
+---
+type: person
+title: Ryan Torreta
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-23T18:07:17.825Z'
+trust_tier: agent_written
+---
+
 # Ryan Torreta
 
 **Role:** Customer Success Manager (CSM)  
@@ -42,3 +51,10 @@
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Portless: Bulk Stock Palletization & Warehouse Pickup Coordination](../emails/2026-10-23_Portless_Stock_Palletization_and_Warehouse_Coordination)
 - Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 9592538152bc -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_mahdi_aldashti_kuwait_distribution_and_product_feedback — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback
+<!-- gbrain:materialized v1 68742676cc92 -->
+- **2026-10-15** | extract-timeline-from-meetings:meetings/2026-10-15_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning

@@ -1,3 +1,12 @@
+---
+type: person
+title: Sonia Kanjee
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-22T18:12:12.194Z'
+trust_tier: agent_written
+---
+
 # Sonia Kanjee
 
 **Role:** Founder & CEO  
@@ -18,3 +27,8 @@ Founder and CEO of BRDG (`www.brdg.us`), an advisory practice specializing in US
 - Referenced in [BRDG: US Operating Models, Customs Regulations & Nexus Strategy](../meetings/2026-10-22_BRDG_US_Operating_Models_and_Wholesale_Expansion)
 - Referenced in [BRDG: US Operating Models, Customs Regulations & Nexus Strategy Proposal](../emails/2026-10-22_BRDG_Sonia_Kanjee_US_Operating_Models_Proposal)
 - Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 d1cb7740d902 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_brdg_us_operating_models_and_wholesale_expansion — Discussed in BRDG: US Operating Models, Customs Regulations & Nexus Strategy

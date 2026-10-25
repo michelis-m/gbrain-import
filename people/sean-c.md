@@ -1,3 +1,12 @@
+---
+type: person
+title: Sean C
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-05T23:02:51.390Z'
+trust_tier: agent_written
+---
+
 # Sean C
 
 **Role:** UGC Video Creator / Fitness Creator  
@@ -27,3 +36,14 @@ Fitness-focused content creator contracted via Fiverr to produce user-generated 
 - Referenced in [Daily Email Summary: 2026-10-05](../emails/2026-10-05_daily_emails)
 - Referenced in [Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and CRO A/B Testing](../meetings/2026-10-05_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Qalzy Strategy & Intelistyle Operations: Meta Ad Scale Skepticism, Creator Demographics, and BFCM Margins](../meetings/2026-10-05_Qalzy_Meta_Scaling_and_Intelistyle_Coverage)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 166cf71fc46a -->
+- **2026-09-07** | extract-timeline-from-meetings:meetings/2026-09-07_qalzy_ad_creative_strategy_and_podcast_sync — Discussed in Qalzy Ad Creative Strategy & Content Production Sync
+<!-- gbrain:materialized v1 81560c339334 -->
+- **2026-09-15** | extract-timeline-from-meetings:meetings/2026-09-15_qalzy_standup_and_spg_black_friday_strategy — Discussed in Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations
+<!-- gbrain:materialized v1 d23d4edfc8a8 -->
+- **2026-10-05** | extract-timeline-from-meetings:meetings/2026-10-05_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and CRO A/B Testing
+<!-- gbrain:materialized v1 f9d909adea9b -->
+- **2026-10-05** | extract-timeline-from-meetings:meetings/2026-10-05_qalzy_meta_scaling_and_intelistyle_coverage — Discussed in Qalzy Strategy & Intelistyle Operations: Meta Ad Scale Skepticism, Creator Demographics, and BFCM Margins

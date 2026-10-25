@@ -1,6 +1,6 @@
 ---
 type: company
-title: "Fin (Intercom)"
+title: Fin (Intercom)
 aliases:
   - Fin
   - Fin AI Copilot
@@ -9,6 +9,11 @@ aliases:
   - Intercom R&D Unlimited Company
   - intercom.io
   - intercom.com
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-13T23:03:33.106Z'
+trust_tier: agent_written
 ---
 
 # Fin (Intercom)
@@ -46,3 +51,20 @@ Intercom is Qalzy's customer support platform, and Fin is the AI agent layered o
 
 - Referenced in [Fin API](../emails/2026-08-07-fin-api)
 - Referenced in [Qalzy Operations: Wi-Fi 2.4GHz Support Protocol, Ad Creative Formats, and In-App Troubleshooting](../meetings/2026-10-13_Qalzy_Wi-Fi_Setup_Support_Policy_and_Ad_Creative_Review)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 c5765194b49e -->
+- **2026-09-14** | extract-timeline-from-meetings:meetings/2026-09-14_qalzy_standup_pricing_ab_test_and_operations — Discussed in Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment
+<!-- gbrain:materialized v1 81560c339334 -->
+- **2026-09-15** | extract-timeline-from-meetings:meetings/2026-09-15_qalzy_standup_and_spg_black_friday_strategy — Discussed in Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations
+<!-- gbrain:materialized v1 0d4579ee7bdc -->
+- **2026-09-22** | extract-timeline-from-meetings:meetings/2026-09-22_intelistyle_standup_and_qalzy_creative_and_seeding_strategy — Discussed in Intelistyle Standup & Qalzy Creative and Seeding Strategy
+<!-- gbrain:materialized v1 7abfea83f745 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo Returns, and CES Travel
+<!-- gbrain:materialized v1 03ba1b17b1f2 -->
+- **2026-10-13** | extract-timeline-from-meetings:meetings/2026-10-13_qalzy_wi-fi_setup_support_policy_and_ad_creative_review — Discussed in Qalzy Operations: Wi-Fi 2.4GHz Support Protocol, Ad Creative Formats, and In-App Troubleshooting
+<!-- gbrain:materialized v1 c1ace6650b23 -->
+- **2026-10-19** | extract-timeline-from-meetings:meetings/2026-10-19_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 31c6e5f4a16f -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations

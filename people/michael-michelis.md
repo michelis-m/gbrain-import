@@ -1,3 +1,12 @@
+---
+type: person
+title: Michael Michelis
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-24T23:14:26.904Z'
+trust_tier: agent_written
+---
+
 # Michael Michelis
 Role: Founder/Team at Qalzy and Intelistyle. Nutritionist.
 Context: Works extensively on marketing, ads (Reddit, Meta, Google), and development/ops. Background as a nutritionist. Wife runs and manages [[companies/montessorians|Montessorians]] Montessori school in Anoixi, Greece.
@@ -380,3 +389,232 @@ Context: Works extensively on marketing, ads (Reddit, Meta, Google), and develop
 ## Referenced by
 - Referenced in [Intelistyle Standup & Qalzy Operations](../meetings/2026-10-19_Intelistyle_Standup_and_Qalzy_Operations)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 1445d82a0a70 -->
+- **2026-08-18** | extract-timeline-from-meetings:meetings/2026-08-18_impromptu_google_meet_meeting_1 — Discussed in 2026-08-18 Impromptu Google Meet Meeting 1
+<!-- gbrain:materialized v1 7f2c1cbf9cca -->
+- **2026-08-18** | extract-timeline-from-meetings:meetings/2026-08-18_impromptu_google_meet_meeting_2 — Discussed in 2026-08-18 Impromptu Google Meet Meeting 2
+<!-- gbrain:materialized v1 d31fcbb50066 -->
+- **2026-08-18** | extract-timeline-from-meetings:meetings/2026-08-18_qalzy_x_blazer_weekly — Discussed in 2026-08-18 QALZY X BLAZER WEEKLY
+<!-- gbrain:materialized v1 c789a86f5113 -->
+- **2026-08-19** | extract-timeline-from-meetings:meetings/2026-08-19_impromptu_google_meet_meeting — Discussed in Impromptu Google Meet Meeting (2026-08-19)
+<!-- gbrain:materialized v1 faf68fef9ead -->
+- **2026-08-20** | extract-timeline-from-meetings:meetings/2026-08-20_centerpoint_landmarkgroup — Discussed in Centerpoint_LandmarkGroup
+<!-- gbrain:materialized v1 83fa4f6eec95 -->
+- **2026-08-20** | extract-timeline-from-meetings:meetings/2026-08-20_qalzy_sync_1 — Discussed in Qalzy_Sync_1
+<!-- gbrain:materialized v1 51968f1ba00f -->
+- **2026-08-20** | extract-timeline-from-meetings:meetings/2026-08-20_qalzy_sync_2 — Discussed in Qalzy_Sync_2
+<!-- gbrain:materialized v1 300ec7bb6501 -->
+- **2026-08-21** | extract-timeline-from-meetings:meetings/2026-08-21_impromptu_google_meet_meeting — Discussed in Impromptu Google Meet Meeting
+<!-- gbrain:materialized v1 d905b56ae28e -->
+- **2026-08-21** | extract-timeline-from-meetings:meetings/2026-08-21_qalzy_check_in — Discussed in Qalzy Check in
+<!-- gbrain:materialized v1 79cbefb67827 -->
+- **2026-08-24** | extract-timeline-from-meetings:meetings/2026-08-24_impromptu_google_meet_meeting — Discussed in Impromptu Google Meet Meeting
+<!-- gbrain:materialized v1 4caa9631b23a -->
+- **2026-08-24** | extract-timeline-from-meetings:meetings/2026-08-24_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 4260c945b215 -->
+- **2026-08-25** | extract-timeline-from-meetings:meetings/2026-08-25_demo_booked_qalzy_x_hypefy — Discussed in Demo Booked: Qalzy x Hypefy
+<!-- gbrain:materialized v1 1be42375ef3d -->
+- **2026-08-25** | extract-timeline-from-meetings:meetings/2026-08-25_impromptu_google_meet_1 — Discussed in Impromptu Google Meet Meeting (Hypefy & Ads Sync)
+<!-- gbrain:materialized v1 0657349aed03 -->
+- **2026-08-25** | extract-timeline-from-meetings:meetings/2026-08-25_impromptu_google_meet_2 — Discussed in Impromptu Google Meet Meeting (Operations & Marketing)
+<!-- gbrain:materialized v1 4f6eb93a2cbb -->
+- **2026-08-25** | extract-timeline-from-meetings:meetings/2026-08-25_qalzy_x_blazer_weekly — Discussed in QALZY X BLAZER | WEEKLY
+<!-- gbrain:materialized v1 172aa24f49bd -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_impromptu_google_meet_meeting_1 — Discussed in Impromptu Google Meet Meeting (Reddit Ads)
+<!-- gbrain:materialized v1 a9a37f2f844b -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_impromptu_google_meet_meeting_2 — Discussed in Impromptu Google Meet Meeting (Product, Support, Marketing)
+<!-- gbrain:materialized v1 6a7925b7658c -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_qalzy_x_portless_sync — Discussed in Qalzy x Portless Sync
+<!-- gbrain:materialized v1 3acbfe1bec0a -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_were_starting_michael — Discussed in We're Starting, Michael! (Hiros Demo)
+<!-- gbrain:materialized v1 e6c99231c195 -->
+- **2026-09-01** | extract-timeline-from-meetings:meetings/2026-09-01_qalzy_x_blazer_weekly — Discussed in QALZY_X_BLAZER_WEEKLY
+<!-- gbrain:materialized v1 4a17d3dd7431 -->
+- **2026-09-02** | extract-timeline-from-meetings:meetings/2026-09-02_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 8e4ced36a00b -->
+- **2026-09-03** | extract-timeline-from-meetings:meetings/2026-09-03_impromptu-google-meet — Discussed in Impromptu Google Meet Meeting (Qalzy Strategy)
+<!-- gbrain:materialized v1 40af365eb571 -->
+- **2026-09-03** | extract-timeline-from-meetings:meetings/2026-09-03_impromptu-google-meet-dev — Discussed in Impromptu Google Meet (Dev & Content Pipeline)
+<!-- gbrain:materialized v1 b38ac4925b75 -->
+- **2026-09-03** | extract-timeline-from-meetings:meetings/2026-09-03_spg-qalzy-chat — Discussed in SPG <> Qalzy Quick Chat
+<!-- gbrain:materialized v1 fe74cc9aee3e -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_kostas_koukoravas_and_sy_whitehall — Discussed in Strategy Session: Kostas Koukoravas, Michael Michelis & Sy Whitehall (Socialproof Media)
+<!-- gbrain:materialized v1 1a5d414a20f8 -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_mahdi_aldashti_kuwait_distribution — Discussed in Mahdi Aldashti - Kuwait Distribution Discussion
+<!-- gbrain:materialized v1 f8539c8ed197 -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_onboarding_tips_and_tricks_justin_tomlinson — Discussed in Onboarding Tips & Tricks with Justin Tomlinson (Lucky Orange)
+<!-- gbrain:materialized v1 2d27d498c51d -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_qalzy_daily_scrum_ad_review — Discussed in Qalzy Daily Scrum & Ad Performance Review
+<!-- gbrain:materialized v1 18615e6d673d -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_qalzy_x_blazer — Discussed in QALZY X BLAZER Ad Sync
+<!-- gbrain:materialized v1 160d56f58df6 -->
+- **2026-09-07** | extract-timeline-from-meetings:meetings/2026-09-07_media_stack_intro_call — Discussed in Qalzy <> Media Stack Agency Discovery Call
+<!-- gbrain:materialized v1 166cf71fc46a -->
+- **2026-09-07** | extract-timeline-from-meetings:meetings/2026-09-07_qalzy_ad_creative_strategy_and_podcast_sync — Discussed in Qalzy Ad Creative Strategy & Content Production Sync
+<!-- gbrain:materialized v1 85a1156e7ef6 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_qalzy_daily_sync_ads_and_outreach — Discussed in Qalzy Daily Sync: Ads Performance & Healthcare Outreach
+<!-- gbrain:materialized v1 aff574fe7ff1 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_qalzy_internal_meta_ads_ai_rules — Discussed in Qalzy Internal Meta Ads AI Rules Engine & Scaling Sync
+<!-- gbrain:materialized v1 3d0a85720513 -->
+- **2026-09-08** | extract-timeline-from-meetings:meetings/2026-09-08_spg_qalzy_growth_roadmap — Discussed in SPG <> Qalzy Growth Roadmap
+<!-- gbrain:materialized v1 cb9c237ab689 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_blazer_x_qalzy_catch_up — Discussed in Blazer Agency x Qalzy: Agency Termination Notice & Price Test Catch-Up
+<!-- gbrain:materialized v1 63997fee7b89 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_intelistyle_standup_and_qalzy_ad_formats_review — Discussed in Intelistyle Daily Standup & Qalzy Ad Formats Review
+<!-- gbrain:materialized v1 b017a2806bd3 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_qalzy_creative_shooting_prep_and_hook_planning — Discussed in Qalzy Creative Pre-Production & Hook Scripting Sync
+<!-- gbrain:materialized v1 ee577d73c050 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_qalzy_daily_sync_blazer_review_and_ad_strategy — Discussed in Qalzy Daily Sync: Blazer Performance Review & Ad Architecture Strategy
+<!-- gbrain:materialized v1 3d69db03ea89 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_redo_returns_fulfillment_setup — Discussed in Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution
+<!-- gbrain:materialized v1 85bd14175038 -->
+- **2026-09-10** | extract-timeline-from-meetings:meetings/2026-09-10_demo_kostas — Discussed in Demo Call: Ben Haxhiu (Funnel & CRO Consulting Evaluation)
+<!-- gbrain:materialized v1 4e2c62d0f13d -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_intelistyle_standup_and_qalzy_ad_strategy — Discussed in Intelistyle Standup & Qalzy Ad Strategy Review
+<!-- gbrain:materialized v1 54f7a5a5d7f5 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_internal_post_spg_debrief — Discussed in Qalzy Internal Post-SPG Debrief & Agency Transition Plan
+<!-- gbrain:materialized v1 0a24d186b5c4 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Bi-Weekly Operations Check-In
+<!-- gbrain:materialized v1 d89db0893564 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_spg_qalzy_team_meet — Discussed in SPG <> Qalzy Team Introduction & Strategic Alignment
+<!-- gbrain:materialized v1 c5765194b49e -->
+- **2026-09-14** | extract-timeline-from-meetings:meetings/2026-09-14_qalzy_standup_pricing_ab_test_and_operations — Discussed in Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment
+<!-- gbrain:materialized v1 dc9efce5611f -->
+- **2026-09-15** | extract-timeline-from-meetings:meetings/2026-09-15_qalzy_operations_roas_targets_and_creative_review — Discussed in Qalzy Strategy & Operations: ROAS Targets, Burn Reduction & Creative Teardown
+<!-- gbrain:materialized v1 81560c339334 -->
+- **2026-09-15** | extract-timeline-from-meetings:meetings/2026-09-15_qalzy_standup_and_spg_black_friday_strategy — Discussed in Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations
+<!-- gbrain:materialized v1 f5b4b74468a9 -->
+- **2026-09-16** | extract-timeline-from-meetings:meetings/2026-09-16_intelistyle_standup_guess_reapprovals — Discussed in Intelistyle Daily Standup & Guess Re-approvals
+<!-- gbrain:materialized v1 f54ad9839493 -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_qalzy_x_spg_kick_off — Discussed in Qalzy x SPG Kick Off Meeting
+<!-- gbrain:materialized v1 ff44226487cc -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Daily Standup & Qalzy Operations and Strategy
+<!-- gbrain:materialized v1 210856e203bf -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_mahdi_aldashti_kuwait_retail_distribution — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Retail Distribution Strategy
+<!-- gbrain:materialized v1 a46de93d8a2f -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_kynship_strategy_session_cac_reduction — Discussed in Kynship Strategy Session: Cut Your CAC by 50%
+<!-- gbrain:materialized v1 b914666ac228 -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Standup & Qalzy Operations Strategy
+<!-- gbrain:materialized v1 26e25c0758cf -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_intelistyle_annual_accounts_and_going_concern — Discussed in Intelistyle Annual Accounts & Going Concern Review
+<!-- gbrain:materialized v1 db38cf1f399d -->
+- **2026-09-21** | extract-timeline-from-meetings:meetings/2026-09-21_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Standup & Qalzy Operations Strategy
+<!-- gbrain:materialized v1 0d4579ee7bdc -->
+- **2026-09-22** | extract-timeline-from-meetings:meetings/2026-09-22_intelistyle_standup_and_qalzy_creative_and_seeding_strategy — Discussed in Intelistyle Standup & Qalzy Creative and Seeding Strategy
+<!-- gbrain:materialized v1 123c35015e29 -->
+- **2026-09-23** | extract-timeline-from-meetings:meetings/2026-09-23_qalzy_operations_redo_bug_creative_review_and_unit_economics — Discussed in Qalzy Operations, Redo Bug, Creative Review & Unit Economics
+<!-- gbrain:materialized v1 2c4538f01401 -->
+- **2026-09-23** | extract-timeline-from-meetings:meetings/2026-09-23_intelistyle_standup_and_trustpilot_review_dispute — Discussed in Intelistyle Standup & Trustpilot Review Dispute
+<!-- gbrain:materialized v1 474821bc32cf -->
+- **2026-09-24** | extract-timeline-from-meetings:meetings/2026-09-24_qalzy_creative_review_static_ad_copy_and_video_formats — Discussed in Qalzy Creative Review: Static Ad Copy & Video Formats
+<!-- gbrain:materialized v1 81cef36da501 -->
+- **2026-09-24** | extract-timeline-from-meetings:meetings/2026-09-24_intelistyle_standup_and_qalzy_creative_and_influencer_strategy — Discussed in Intelistyle Standup & Qalzy Creative and Influencer Strategy
+<!-- gbrain:materialized v1 c924e9da533f -->
+- **2026-09-25** | extract-timeline-from-meetings:meetings/2026-09-25_intelistyle_standup_and_qalzy_creative_fatigue_scale_guide_and_returns — Discussed in Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns
+<!-- gbrain:materialized v1 db18375c1010 -->
+- **2026-09-28** | extract-timeline-from-meetings:meetings/2026-09-28_intelistyle_standup_and_qalzy_operations_redo_returns_and_app_troubleshooting — Discussed in Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting
+<!-- gbrain:materialized v1 ebacd8346d0a -->
+- **2026-09-29** | extract-timeline-from-meetings:meetings/2026-09-29_qalzy_internal_post_meta_debrief_and_cro_strategy — Discussed in Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync
+<!-- gbrain:materialized v1 32a63d34b8d0 -->
+- **2026-09-30** | extract-timeline-from-meetings:meetings/2026-09-30_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations Review
+<!-- gbrain:materialized v1 46b635da9387 -->
+- **2026-09-30** | extract-timeline-from-meetings:meetings/2026-09-30_qalzy_email_creative_and_faq_design — Discussed in Qalzy Email Creative and FAQ Design Review
+<!-- gbrain:materialized v1 a079e6f1200d -->
+- **2026-09-30** | extract-timeline-from-meetings:meetings/2026-09-30_qalzy_pdp_revert_and_cpa_debrief — Discussed in Qalzy Post-SPG Debrief: PDP Reversion & CPA Troubleshooting
+<!-- gbrain:materialized v1 792abedc03c1 -->
+- **2026-09-30** | extract-timeline-from-meetings:meetings/2026-09-30_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy Weekly Call
+<!-- gbrain:materialized v1 6029bd19b5e4 -->
+- **2026-10-01** | extract-timeline-from-meetings:meetings/2026-10-01_qalzy_ces_planning_and_meta_creative_strategy — Discussed in Qalzy CES 2027 Planning & Meta Creative Strategy
+<!-- gbrain:materialized v1 9bca8f00066c -->
+- **2026-10-02** | extract-timeline-from-meetings:meetings/2026-10-02_intelistyle_standup_and_qalzy_ad_strategy — Discussed in Intelistyle Standup & Qalzy Operations: Ad Demographics, Email Flows, and AI Creatives
+<!-- gbrain:materialized v1 1ae9298467fc -->
+- **2026-10-02** | extract-timeline-from-meetings:meetings/2026-10-02_qalzy_customer_survey_and_giveaway_planning — Discussed in Qalzy Customer Friction Survey & Scale Giveaway Planning
+<!-- gbrain:materialized v1 804b930f69ce -->
+- **2026-10-02** | extract-timeline-from-meetings:meetings/2026-10-02_qalzy_x_remaker — Discussed in Qalzy <> REMAKER Strategic Partnership & Founder Exchange
+<!-- gbrain:materialized v1 d23d4edfc8a8 -->
+- **2026-10-05** | extract-timeline-from-meetings:meetings/2026-10-05_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and CRO A/B Testing
+<!-- gbrain:materialized v1 f9d909adea9b -->
+- **2026-10-05** | extract-timeline-from-meetings:meetings/2026-10-05_qalzy_meta_scaling_and_intelistyle_coverage — Discussed in Qalzy Strategy & Intelistyle Operations: Meta Ad Scale Skepticism, Creator Demographics, and BFCM Margins
+<!-- gbrain:materialized v1 3cb2b4f1b1bd -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Catalog Queues, Ad Disappointment, and Customer Expectations
+<!-- gbrain:materialized v1 0080c86e2612 -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_morgan_fowles_advisory_and_strategy — Discussed in Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange
+<!-- gbrain:materialized v1 f65f1e5ef8c5 -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_spg_x_qalzy_strategy_and_whitelisting — Discussed in SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy
+<!-- gbrain:materialized v1 7abfea83f745 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo Returns, and CES Travel
+<!-- gbrain:materialized v1 57023e110d23 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics
+<!-- gbrain:materialized v1 e6102915cd7f -->
+- **2026-10-08** | extract-timeline-from-meetings:meetings/2026-10-08_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO
+<!-- gbrain:materialized v1 149e234ca33f -->
+- **2026-10-08** | extract-timeline-from-meetings:meetings/2026-10-08_qalzy_influencer_review_and_creative_strategy — Discussed in Qalzy Influencer Review, Ad Creative Strategy & Hardware Stability
+<!-- gbrain:materialized v1 e8ce3712fc29 -->
+- **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education
+<!-- gbrain:materialized v1 493b4717dd6d -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_intelistyle_standup_and_qalzy_cro_strategy — Discussed in Intelistyle Standup & Qalzy Operations: Client Feeds, US Stock Margin Boost, and Landing Page CRO
+<!-- gbrain:materialized v1 9592538152bc -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_mahdi_aldashti_kuwait_distribution_and_product_feedback — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback
+<!-- gbrain:materialized v1 429a1b2681d7 -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_qalzy_klaviyo_abandoned_cart_troubleshooting — Discussed in Qalzy Klaviyo Operations: Abandoned Cart Funnel Diagnosis & Deliverability Fixes
+<!-- gbrain:materialized v1 ed6590ef449c -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_qalzy_landing_page_cro_and_fatsecret_bug_review — Discussed in Qalzy Operations & Landing Page CRO: FatSecret Bug Resolution, Game-Style Onboarding, and Figma Wireframes
+<!-- gbrain:materialized v1 d8055cd24eef -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_qalzy_monthly_update_and_growth_targets — Discussed in Qalzy Monthly Advisory & Board Update: Performance Metrics and Next-Phase Targets
+<!-- gbrain:materialized v1 0e2a0f0013be -->
+- **2026-10-13** | extract-timeline-from-meetings:meetings/2026-10-13_qalzy_klaviyo_flow_filter_fixes_and_landing_page_ux — Discussed in Qalzy Operations: Klaviyo Abandoned Cart Filter Overhaul, Purchase Velocity, and Landing Page UX
+<!-- gbrain:materialized v1 df44d05f8d99 -->
+- **2026-10-13** | extract-timeline-from-meetings:meetings/2026-10-13_qalzy_landing_page_cro_figma_and_meta_account_unblock — Discussed in Qalzy Strategy & CRO: Landing Page Figma Review, Meta Account Unblock, and Ad Creative Analysis
+<!-- gbrain:materialized v1 03ba1b17b1f2 -->
+- **2026-10-13** | extract-timeline-from-meetings:meetings/2026-10-13_qalzy_wi-fi_setup_support_policy_and_ad_creative_review — Discussed in Qalzy Operations: Wi-Fi 2.4GHz Support Protocol, Ad Creative Formats, and In-App Troubleshooting
+<!-- gbrain:materialized v1 7d89f4c24e33 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_harvard_vcg_sourcing_meeting_mila_huang — Discussed in Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang
+<!-- gbrain:materialized v1 2dabeb7d60bf -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_intelistyle_standup_and_qalzy_ab_test_planning — Discussed in Intelistyle Daily Standup & Qalzy CRO A/B Test Planning
+<!-- gbrain:materialized v1 26d359e2c797 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_qalzy_pitch_deck_metrics_prep_and_subscription_attach_rate — Discussed in Qalzy Strategy & Pitch Deck Prep: Growth Metrics, Retention Modeling, and Subscription Attach Rates
+<!-- gbrain:materialized v1 fe568eaf1d75 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_qalzy_white_scale_stockout_strategy_and_landing_page_cro — Discussed in Qalzy Strategy: White Scale Stockout Risk, Color Defaults, and Landing Page Redesign
+<!-- gbrain:materialized v1 c9ae1dbe4213 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_spg_x_qalzy_weekly_call_and_truemed_recap — Discussed in SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation
+<!-- gbrain:materialized v1 edaa2cab76e6 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_truemed_hsa_fsa_partnership_kickoff — Discussed in Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration
+<!-- gbrain:materialized v1 ec7b7672139e -->
+- **2026-10-15** | extract-timeline-from-meetings:meetings/2026-10-15_board_prep_landing_page_cro_and_variant_testing — Discussed in Qalzy Strategy & CRO Sync: October Board Prep, Landing Page Clean Revert, and Black Variant Inventory Test
+<!-- gbrain:materialized v1 d3702b536436 -->
+- **2026-10-15** | extract-timeline-from-meetings:meetings/2026-10-15_impromptu_call — Discussed in Impromptu Call: Michael Michelis
+<!-- gbrain:materialized v1 68742676cc92 -->
+- **2026-10-15** | extract-timeline-from-meetings:meetings/2026-10-15_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning
+<!-- gbrain:materialized v1 9806a4b18c61 -->
+- **2026-10-16** | extract-timeline-from-meetings:meetings/2026-10-16_blazer_agency_creative_deliverables_and_ad_performance_sync — Discussed in Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync
+<!-- gbrain:materialized v1 589eba76d719 -->
+- **2026-10-16** | extract-timeline-from-meetings:meetings/2026-10-16_intelistyle_standup_and_meta_ads_policy_review — Discussed in Intelistyle Standup & Meta Ads Policy Review
+<!-- gbrain:materialized v1 8d4520f72ed9 -->
+- **2026-10-16** | extract-timeline-from-meetings:meetings/2026-10-16_qalzy_ad_creative_review_and_video_qa — Discussed in Qalzy Ad Creative Review & Video QA
+<!-- gbrain:materialized v1 c1ace6650b23 -->
+- **2026-10-19** | extract-timeline-from-meetings:meetings/2026-10-19_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 31c6e5f4a16f -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 32e3e08755b0 -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_qalzy_supply_chain_ab_test_and_influencer_content_strategy — Discussed in Qalzy Supply Chain, A/B Test & Influencer Content Strategy
+<!-- gbrain:materialized v1 8814cf1f5ebb -->
+- **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_doola_us_entity_formation_and_tax_strategy — Discussed in doola: US Entity Formation & Tax Compliance Strategy
+<!-- gbrain:materialized v1 d90e1dbc0518 -->
+- **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_familink_south_korea_distribution_strategy — Discussed in Familink: South Korea Wholesale Distribution Strategy
+<!-- gbrain:materialized v1 d1cb7740d902 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_brdg_us_operating_models_and_wholesale_expansion — Discussed in BRDG: US Operating Models, Customs Regulations & Nexus Strategy
+<!-- gbrain:materialized v1 c34c10a397f7 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_commenda_us_entity_formation_and_corporate_structuring — Discussed in Commenda: US Entity Formation & Corporate Structuring
+<!-- gbrain:materialized v1 84c921ba4890 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_qalzy_creative_review_static_ad_copy_and_b_roll — Discussed in Qalzy Creative Review: Ad Copy Optimization & Video B-Roll
+<!-- gbrain:materialized v1 2f047e8392a4 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_qalzy_customer_disputes_redo_returns_and_video_creative_review — Discussed in Qalzy Operations: Customer Dispute, Redo Returns & Video Production
+<!-- gbrain:materialized v1 8ea246f5b8f8 -->
+- **2026-10-22** | extract-timeline-from-meetings:meetings/2026-10-22_spg_x_qalzy_weekly_performance_and_ad_creative_strategy — Discussed in SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy
+<!-- gbrain:materialized v1 1e74fbc7fa85 -->
+- **2026-10-23** | extract-timeline-from-meetings:meetings/2026-10-23_qalzy_user_education_review_integration_and_ad_creatives — Discussed in Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA
+<!-- gbrain:materialized v1 137a00b3d04e -->
+- **2026-10-24** | extract-timeline-from-meetings:meetings/2026-10-24_mahdi_aldashti_kuwait_distribution_commercial_terms — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization

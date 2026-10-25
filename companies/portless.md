@@ -1,6 +1,6 @@
 ---
 type: company
-title: "Portless"
+title: Portless
 aliases:
   - portless.com
   - Portless Portal
@@ -8,6 +8,11 @@ aliases:
   - implementations@portless.com
   - info@portless.com
   - inbounding@portless.com
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-24T23:14:27.893Z'
+trust_tier: agent_written
 ---
 
 # Portless
@@ -195,3 +200,48 @@ Qalzy's cross-border fulfilment provider, shipping direct-to-consumer from wareh
 - Referenced in [Portless: Customs Return to Sender & Redelivery Disputes](../emails/2026-10-24_Portless_Customs_Return_and_Redelivery_Disputes)
 - Referenced in [[URGENT] Qalzy orders on hold](../emails/2026-07-27-urgent-qalzy-orders-on-hold)
 - Referenced in [Portless: Brand Authorization Letter for Air Carriers & Customs](../emails/2026-10-24_Portless_Brand_Authorization_Letter)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 d905b56ae28e -->
+- **2026-08-21** | extract-timeline-from-meetings:meetings/2026-08-21_qalzy_check_in — Discussed in Qalzy Check in
+<!-- gbrain:materialized v1 4caa9631b23a -->
+- **2026-08-24** | extract-timeline-from-meetings:meetings/2026-08-24_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 6a7925b7658c -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_qalzy_x_portless_sync — Discussed in Qalzy x Portless Sync
+<!-- gbrain:materialized v1 bae0edd27eb4 -->
+- **2026-08-31** | extract-timeline-from-meetings:meetings/2026-08-31_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 5d00b0ae2ea9 -->
+- **2026-09-01** | extract-timeline-from-meetings:meetings/2026-09-01_qalzy_x_portless_check_in — Discussed in Qalzy_X_Portless_Check_In
+<!-- gbrain:materialized v1 db153560ad55 -->
+- **2026-09-02** | extract-timeline-from-meetings:meetings/2026-09-02_impromptu_google_meet_meeting_4 — Discussed in Impromptu Google Meet Meeting
+<!-- gbrain:materialized v1 4a17d3dd7431 -->
+- **2026-09-02** | extract-timeline-from-meetings:meetings/2026-09-02_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 0a24d186b5c4 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Bi-Weekly Operations Check-In
+<!-- gbrain:materialized v1 ff44226487cc -->
+- **2026-09-17** | extract-timeline-from-meetings:meetings/2026-09-17_intelistyle_standup_and_qalzy_operations_strategy — Discussed in Intelistyle Daily Standup & Qalzy Operations and Strategy
+<!-- gbrain:materialized v1 0d4579ee7bdc -->
+- **2026-09-22** | extract-timeline-from-meetings:meetings/2026-09-22_intelistyle_standup_and_qalzy_creative_and_seeding_strategy — Discussed in Intelistyle Standup & Qalzy Creative and Seeding Strategy
+<!-- gbrain:materialized v1 123c35015e29 -->
+- **2026-09-23** | extract-timeline-from-meetings:meetings/2026-09-23_qalzy_operations_redo_bug_creative_review_and_unit_economics — Discussed in Qalzy Operations, Redo Bug, Creative Review & Unit Economics
+<!-- gbrain:materialized v1 57023e110d23 -->
+- **2026-10-07** | extract-timeline-from-meetings:meetings/2026-10-07_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics
+<!-- gbrain:materialized v1 e6102915cd7f -->
+- **2026-10-08** | extract-timeline-from-meetings:meetings/2026-10-08_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO
+<!-- gbrain:materialized v1 e8ce3712fc29 -->
+- **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education
+<!-- gbrain:materialized v1 9592538152bc -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_mahdi_aldashti_kuwait_distribution_and_product_feedback — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback
+<!-- gbrain:materialized v1 d8055cd24eef -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_qalzy_monthly_update_and_growth_targets — Discussed in Qalzy Monthly Advisory & Board Update: Performance Metrics and Next-Phase Targets
+<!-- gbrain:materialized v1 7d89f4c24e33 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_harvard_vcg_sourcing_meeting_mila_huang — Discussed in Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang
+<!-- gbrain:materialized v1 2dabeb7d60bf -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_intelistyle_standup_and_qalzy_ab_test_planning — Discussed in Intelistyle Daily Standup & Qalzy CRO A/B Test Planning
+<!-- gbrain:materialized v1 68742676cc92 -->
+- **2026-10-15** | extract-timeline-from-meetings:meetings/2026-10-15_spg_x_qalzy_weekly_call — Discussed in SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning
+<!-- gbrain:materialized v1 c1ace6650b23 -->
+- **2026-10-19** | extract-timeline-from-meetings:meetings/2026-10-19_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 32e3e08755b0 -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_qalzy_supply_chain_ab_test_and_influencer_content_strategy — Discussed in Qalzy Supply Chain, A/B Test & Influencer Content Strategy

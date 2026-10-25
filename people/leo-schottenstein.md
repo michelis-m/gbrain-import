@@ -1,3 +1,12 @@
+---
+type: person
+title: Leo Schottenstein
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-23T18:07:18.275Z'
+trust_tier: agent_written
+---
+
 # Leo Schottenstein
 
 **Role:** Strategic Partnerships Lead / Account Executive  
@@ -36,3 +45,8 @@ Partnerships lead at Truemed facilitating Letters of Medical Necessity (LMNs) an
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Truemed: Stripe Connect Flow & Wise USD Verification Check-In](../emails/2026-10-23_Truemed_Stripe_Connect_Wise_USD_Check_In)
 - Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 edaa2cab76e6 -->
+- **2026-10-14** | extract-timeline-from-meetings:meetings/2026-10-14_truemed_hsa_fsa_partnership_kickoff — Discussed in Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration

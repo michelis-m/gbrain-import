@@ -1,3 +1,12 @@
+---
+type: person
+title: Singer Nip
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-21T18:07:54.427Z'
+trust_tier: agent_written
+---
+
 # Singer Nip
 
 **Role:** Freight Forwarder & Logistics Representative  
@@ -24,3 +33,10 @@ Logistics coordinator at Trans-Am handling container and freight shipping betwee
 - Referenced in [ShipBots: December Timeline Confirmation & Onboarding Kickoff](../emails/2026-10-21_ShipBots_December_Timeline_Approval_and_Onboarding)
 - Referenced in [doola: US Entity Formation & Tax Compliance Strategy](../meetings/2026-10-21_doola_US_Entity_Formation_and_Tax_Strategy)
 - Referenced in [Daily Email Summary: 2026-10-21](../emails/2026-10-21_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 31c6e5f4a16f -->
+- **2026-10-20** | extract-timeline-from-meetings:meetings/2026-10-20_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations
+<!-- gbrain:materialized v1 8814cf1f5ebb -->
+- **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_doola_us_entity_formation_and_tax_strategy — Discussed in doola: US Entity Formation & Tax Compliance Strategy

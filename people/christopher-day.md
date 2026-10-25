@@ -1,3 +1,12 @@
+---
+type: person
+title: Christopher Day
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:23:05.813Z'
+trust_tier: agent_written
+---
+
 # Christopher Day
 
 **Role:** Founder & Managing Director  
@@ -20,3 +29,8 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] on 2026-09
 
 - Referenced in [Media Stack Service Proposal & Deck Follow-Up](../emails/2026-09-07-media-stack-service-proposal)
 - Referenced in [Qalzy <> Media Stack Agency Discovery Call](../meetings/2026-09-07_Media_Stack_Intro_Call)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 160d56f58df6 -->
+- **2026-09-07** | extract-timeline-from-meetings:meetings/2026-09-07_media_stack_intro_call — Discussed in Qalzy <> Media Stack Agency Discovery Call

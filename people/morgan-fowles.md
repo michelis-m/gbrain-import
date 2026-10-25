@@ -1,3 +1,12 @@
+---
+type: person
+title: Morgan H.S. Fowles
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-06T18:08:11.248Z'
+trust_tier: agent_written
+---
+
 # Morgan H.S. Fowles
 
 **Email:** `mhsfowles@gmail.com`  
@@ -20,3 +29,8 @@ Experienced consumer goods executive and advisor specializing in brand building,
 ## Referenced by
 - Referenced in [Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange](../meetings/2026-10-06_Morgan_Fowles_Advisory_and_Strategy)
 - Referenced in [Daily Email Summary: 2026-10-03](../emails/2026-10-03_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 0080c86e2612 -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_morgan_fowles_advisory_and_strategy — Discussed in Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange

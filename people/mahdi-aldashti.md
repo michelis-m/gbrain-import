@@ -1,3 +1,12 @@
+---
+type: person
+title: Mahdi Aldashti
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-24T18:06:14.425Z'
+trust_tier: agent_written
+---
+
 # Mahdi Aldashti
 
 **Role:** Prospective Regional Distributor (Kuwait)  
@@ -75,3 +84,20 @@ Met with [[people/michael-michelis]] and [[people/kostas-koukoravas]] to negotia
 - Referenced in [Portless: Kuwait Wholesale Pallet Freight & Specs Status Update](../emails/2026-10-13_Portless_Kuwait_Pallet_Freight_Ryan_Update)
 - Referenced in [Daily Email Summary: 2026-10-13](../emails/2026-10-13_daily_emails)
 - Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 1a5d414a20f8 -->
+- **2026-09-04** | extract-timeline-from-meetings:meetings/2026-09-04_mahdi_aldashti_kuwait_distribution — Discussed in Mahdi Aldashti - Kuwait Distribution Discussion
+<!-- gbrain:materialized v1 c5765194b49e -->
+- **2026-09-14** | extract-timeline-from-meetings:meetings/2026-09-14_qalzy_standup_pricing_ab_test_and_operations — Discussed in Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment
+<!-- gbrain:materialized v1 210856e203bf -->
+- **2026-09-18** | extract-timeline-from-meetings:meetings/2026-09-18_mahdi_aldashti_kuwait_retail_distribution — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Retail Distribution Strategy
+<!-- gbrain:materialized v1 e8ce3712fc29 -->
+- **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education
+<!-- gbrain:materialized v1 9592538152bc -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_mahdi_aldashti_kuwait_distribution_and_product_feedback — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback
+<!-- gbrain:materialized v1 ed6590ef449c -->
+- **2026-10-12** | extract-timeline-from-meetings:meetings/2026-10-12_qalzy_landing_page_cro_and_fatsecret_bug_review — Discussed in Qalzy Operations & Landing Page CRO: FatSecret Bug Resolution, Game-Style Onboarding, and Figma Wireframes
+<!-- gbrain:materialized v1 137a00b3d04e -->
+- **2026-10-24** | extract-timeline-from-meetings:meetings/2026-10-24_mahdi_aldashti_kuwait_distribution_commercial_terms — Discussed in Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization

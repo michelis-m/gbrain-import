@@ -1,3 +1,12 @@
+---
+type: person
+title: Chloe Hu
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-15T23:02:33.832Z'
+trust_tier: agent_written
+---
+
 # Chloe Hu
 
 **Role:** Customer Success Manager  
@@ -39,3 +48,20 @@
 - Referenced in [Portless Logistics Escalation: Norway Order Tax Debt Collection & Resolution Proposal](../emails/2026-10-14_Portless_Norway_Tax_Debt_Collection_Escalation)
 - Referenced in [Daily Email Summary: 2026-10-14](../emails/2026-10-14_daily_emails)
 - Referenced in [Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and Order Holds](../emails/2026-10-15_Portless_Logistics_Sweden_Order_Shipped_and_US_Pallet_Freight)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 d905b56ae28e -->
+- **2026-08-21** | extract-timeline-from-meetings:meetings/2026-08-21_qalzy_check_in — Discussed in Qalzy Check in
+<!-- gbrain:materialized v1 4caa9631b23a -->
+- **2026-08-24** | extract-timeline-from-meetings:meetings/2026-08-24_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 6a7925b7658c -->
+- **2026-08-26** | extract-timeline-from-meetings:meetings/2026-08-26_qalzy_x_portless_sync — Discussed in Qalzy x Portless Sync
+<!-- gbrain:materialized v1 bae0edd27eb4 -->
+- **2026-08-31** | extract-timeline-from-meetings:meetings/2026-08-31_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 5d00b0ae2ea9 -->
+- **2026-09-01** | extract-timeline-from-meetings:meetings/2026-09-01_qalzy_x_portless_check_in — Discussed in Qalzy_X_Portless_Check_In
+<!-- gbrain:materialized v1 4a17d3dd7431 -->
+- **2026-09-02** | extract-timeline-from-meetings:meetings/2026-09-02_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Check In
+<!-- gbrain:materialized v1 0a24d186b5c4 -->
+- **2026-09-11** | extract-timeline-from-meetings:meetings/2026-09-11_qalzy_x_portless_check_in — Discussed in Qalzy X Portless Bi-Weekly Operations Check-In

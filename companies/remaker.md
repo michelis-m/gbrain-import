@@ -1,3 +1,13 @@
+---
+type: company
+title: REMAKER
+subtype: company
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-06T23:03:15.546Z'
+trust_tier: agent_written
+---
+
 # REMAKER
 
 **Domain:** Health Tech / Connected Fitness Hardware  
@@ -19,3 +29,10 @@ REMAKER is a connected fitness technology company developing "REMAKER Move" — 
 - Referenced in [Investor Introduction: REMAKER <> Jenson Ventures](../emails/2026-10-02_REMAKER_Jenson_Ventures_Investor_Intro)
 - Referenced in [Morgan H.S. Fowles](../people/morgan-fowles)
 - Referenced in [Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange](../meetings/2026-10-06_Morgan_Fowles_Advisory_and_Strategy)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 804b930f69ce -->
+- **2026-10-02** | extract-timeline-from-meetings:meetings/2026-10-02_qalzy_x_remaker — Discussed in Qalzy <> REMAKER Strategic Partnership & Founder Exchange
+<!-- gbrain:materialized v1 0080c86e2612 -->
+- **2026-10-06** | extract-timeline-from-meetings:meetings/2026-10-06_morgan_fowles_advisory_and_strategy — Discussed in Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange

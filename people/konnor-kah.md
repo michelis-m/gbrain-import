@@ -1,3 +1,12 @@
+---
+type: person
+title: Konnor Kah
+source_kind: put_page
+ingested_via: put_page
+ingested_at: '2026-10-25T10:23:03.653Z'
+trust_tier: agent_written
+---
+
 # Konnor Kah
 
 **Role:** Account Manager  
@@ -14,3 +23,8 @@ Account Manager at Redo (following the merger with Return Bear) overseeing Qalzy
 ## Referenced by
 
 - Referenced in [Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution](../meetings/2026-09-09_Redo_Returns_Fulfillment_Setup)
+
+<!-- timeline -->
+
+<!-- gbrain:materialized v1 3d69db03ea89 -->
+- **2026-09-09** | extract-timeline-from-meetings:meetings/2026-09-09_redo_returns_fulfillment_setup — Discussed in Redo Returns x Qalzy: Re-Fulfillment Setup & Warehouse Routing Resolution
