@@ -1,3 +1,8 @@
+---
+type: note
+title: Book Notes and Principles
+---
+
 # Book Notes and Principles
 
 ## Core Concepts / Rules
@@ -16,6 +21,7 @@
 13. Define your success. For me excited to go to work and equally excited to come home
 14. Underpromise - overdeliver
 15. You can't control what's happening to you, but you can control how you react to it
+16. Stay hungry, stay foolish
 
 ## Structural Notes
 * Make it 7 (+-2) the things we can hold in memory
