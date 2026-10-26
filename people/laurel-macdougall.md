@@ -27,6 +27,8 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - Referenced in [Qalzy Supply Chain, A/B Test & Influencer Content Strategy](../meetings/2026-10-20_Qalzy_Supply_Chain_AB_Test_and_Influencer_Content_Strategy)
 - On 2026-10-23, provided PayPal account details (`thecleaneatingmom@gmail.com`) for partnership payment; Michael confirmed the Qalzy smart scale unit was dispatched with tracking to follow.
 - Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
+- On 2026-10-26, [[people/michael-michelis]] confirmed payment was completed, sent the scale guide link (`qalzy.com/pages/scale-guide`), and requested content focusing on her professional perspective as a nutritionist on effortless calorie tracking.
+- Referenced in [Daily Email Summary: 2026-10-26](../emails/2026-10-26_daily_emails)
 
 <!-- timeline -->
 

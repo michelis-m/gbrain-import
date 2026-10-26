@@ -45,8 +45,11 @@ trust_tier: agent_written
 - Referenced in [Portless: US Pallet Freight Quote Follow-up](../emails/2026-10-16_Portless_US_Pallet_Freight_Followup)
 - On 2026-10-19, provided refund status update confirming all problematic orders on the list have been fully refunded except for 6 orders where COGS and shipping are refunded but duties/taxes remain pending with Billing & Finance. Also responded to Kostas' request for the Shenzhen warehouse address for freight forwarder pick-up.
 - On 2026-10-23, coordinated with [[people/kostas-koukoravas]] on palletizing stock for ocean freight pickup by Qalzy's forwarder in Shenzhen, evaluating movement between bonded and non-bonded fulfillment centers.
+- On 2026-10-26, notified [[people/kostas-koukoravas]] that Qalzy must submit the Portless Wholesale Form via Airtable before the warehouse can prepare the bulk pallet order and release the Shenzhen pickup address.
 
 ## Referenced by
+- Referenced in [Portless: Wholesale Form Prerequisite for Freight Palletization & Warehouse Pickup](../emails/2026-10-26_Portless_Wholesale_Pallet_Form_Requirement)
+- Referenced in [Daily Email Summary: 2026-10-26](../emails/2026-10-26_daily_emails)
 - Referenced in [Portless: Customer Order Refund Status (6 Pending Duties/Taxes)](../emails/2026-10-19_Portless_Refund_Status_Update_6_Pending)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 - Referenced in [Portless: Bulk Stock Palletization & Warehouse Pickup Coordination](../emails/2026-10-23_Portless_Stock_Palletization_and_Warehouse_Coordination)
