@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Impromptu Google Meet Meeting (Hypefy & Ads Sync)
+date: '2026-08-25'
+---
+
 # Impromptu Google Meet Meeting (Hypefy & Ads Sync)
 **Date:** 2026-08-25
 **Attendees:** [[people/michael-michelis]], [[people/kostas-koukoravas]]

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-01'
+date: '2026-10-01'
+---
+
 # Daily Email Summary: 2026-10-01
 
 ## 1. Events & Conferences

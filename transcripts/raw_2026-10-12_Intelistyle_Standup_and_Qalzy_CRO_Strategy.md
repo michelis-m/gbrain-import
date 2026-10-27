@@ -1,4 +1,10 @@
-  00:00:00 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 10 12 Intelistyle Standup and Qalzy CRO Strategy
+date: '2026-10-12'
+---
+
+00:00:00 - Kostas Koukoravas
       Michael.
   00:00:09 - John Karunungan
       Good morning.
@@ -218,4 +224,3 @@
       Α, ναι.
   00:25:58 - Kostas Koukoravas
       Ε, εγώ.
-

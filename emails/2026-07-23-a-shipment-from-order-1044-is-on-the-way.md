@@ -1,7 +1,7 @@
 ---
 type: email
-title: "A shipment from order #1044 is on the way"
-date: 2026-07-23
+title: 'A shipment from order #1044 is on the way'
+date: 2026-07-23T00:00:00.000Z
 thread_id: 19f8f4e2009fb2d5
 source: gmail
 participants:

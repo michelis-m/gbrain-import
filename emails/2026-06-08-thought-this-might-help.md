@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Thought this might help"
-date: 2026-06-08
+title: Thought this might help
+date: 2026-06-08T00:00:00.000Z
 thread_id: 19ea76707bf9c9fa
 source: gmail
 participants:

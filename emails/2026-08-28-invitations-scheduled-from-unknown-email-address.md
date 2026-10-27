@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Invitations scheduled from unknown email address'
+date: '2026-08-28'
+---
+
 # Subject: Invitations scheduled from unknown email address
 **Date:** Fri, 28 Aug 2026 13:00:40 +0000 (UTC)
 **From:** Trustpilot <noreply.notifications@trustpilot.com>

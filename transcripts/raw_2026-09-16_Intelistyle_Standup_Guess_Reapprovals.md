@@ -1,3 +1,9 @@
+---
+type: note
+title: raw 2026 09 16 Intelistyle Standup Guess Reapprovals
+date: '2026-09-16'
+---
+
 00:01:01 - Speaker 1
     Hi, Michael.
 00:01:02 - Michael Michelis (Qalzy)

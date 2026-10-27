@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Interview"
-date: 2026-06-05
+title: Interview
+date: 2026-06-05T00:00:00.000Z
 thread_id: 19e981e24f208757
 source: gmail
 participants:

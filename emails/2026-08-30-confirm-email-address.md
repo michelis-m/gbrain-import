@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Confirm email address'
+date: '2026-08-30'
+---
+
 # Subject: Confirm email address
 **Date:** Sun, 30 Aug 2026 13:52:53 +0000
 **From:** Printful <support@info.printful.com>

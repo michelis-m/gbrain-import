@@ -1,7 +1,7 @@
 ---
 type: email
-title: "RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847"
-date: 2026-06-01
+title: 'RE: [V-Trust] Introduction of Account Manager-MZW594840, MZW594847'
+date: 2026-06-01T00:00:00.000Z
 thread_id: 19e72bd3acaa936d
 source: gmail
 participants:

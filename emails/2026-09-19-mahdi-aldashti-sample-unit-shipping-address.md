@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Mahdi Aldashti: Sample Unit Shipping Address (Hong Kong Forwarder)'
+date: '2026-09-19'
+---
+
 # Mahdi Aldashti: Sample Unit Shipping Address (Hong Kong Forwarder)
 
 **Date:** 2026-09-18 (Received 20:03 UTC / 23:03 AST)  

@@ -1,3 +1,9 @@
+---
+type: note
+title: Harvard VCG Meeting Rescheduled & Deck Review
+date: '2026-10-07'
+---
+
 # Harvard VCG Meeting Rescheduled & Deck Review
 
 **Date:** 2026-10-07  

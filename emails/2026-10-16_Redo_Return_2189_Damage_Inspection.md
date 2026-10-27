@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: Return #2189 Damage Status Dispute and Reinspection'
+date: '2026-10-16'
+---
+
 # Redo: Return #2189 Damage Status Dispute and Reinspection
 
 **Date:** 2026-10-16  

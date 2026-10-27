@@ -1,3 +1,8 @@
+---
+type: person
+title: Mel Chiappone
+---
+
 # Mel Chiappone
 
 **Role:** Content Creator / UGC Creator  

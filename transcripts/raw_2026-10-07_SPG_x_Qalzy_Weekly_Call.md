@@ -1,4 +1,10 @@
-﻿00:00:00 - Syed Hussain (Social Paradigm Group)
+---
+type: note
+title: raw 2026 10 07 SPG x Qalzy Weekly Call
+date: '2026-10-07'
+---
+
+00:00:00 - Syed Hussain (Social Paradigm Group)
       Go.
   00:00:02 - Konstantinos Koukoravas (Qalzy)
       Alright. Thanks, guys, for making the time. I've been looking forward to talking to you.

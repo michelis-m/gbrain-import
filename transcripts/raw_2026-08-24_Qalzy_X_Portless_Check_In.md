@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 24 Qalzy X Portless Check In
+date: '2026-08-24'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Hey, hey.
   00:00:01 - Shane Buckley (Portless)
       Hey, Michael.

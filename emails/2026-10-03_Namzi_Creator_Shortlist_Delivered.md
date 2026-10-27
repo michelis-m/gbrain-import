@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Namzi Growing: Creator Shortlist Delivered'
+date: '2026-10-03'
+---
+
 # Namzi Growing: Creator Shortlist Delivered
 
 **Date:** 2026-10-02 / 2026-10-03  

@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Portless: Delivery Exception Dispute (Order PBID007833566-1) & 60+ Issues
+  Escalation
+date: '2026-09-28'
+---
+
 # Portless: Delivery Exception Dispute (Order PBID007833566-1) & 60+ Issues Escalation
 
 **Date:** 2026-09-28  

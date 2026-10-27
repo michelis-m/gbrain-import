@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-05'
+date: '2026-10-05'
+---
+
 # Daily Email Summary: 2026-10-05
 
 ## 1. Podcast, PR & VC Inbound

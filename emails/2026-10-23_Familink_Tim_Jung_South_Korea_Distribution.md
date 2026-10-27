@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Familink: Co-founder Tim Jung South Korea Distribution Outreach'
+date: '2026-10-23'
+---
+
 # Familink: Co-founder Tim Jung South Korea Distribution Outreach
 
 **Date:** 2026-10-23  

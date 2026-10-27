@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Meta Ads: Policy Appeal Rejected for Creative "quit_peptides"'
+date: '2026-10-18'
+---
+
 # Meta Ads: Policy Appeal Rejected for Creative "quit_peptides"
 
 **Date:** 2026-10-18  

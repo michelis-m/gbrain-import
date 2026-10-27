@@ -1,3 +1,8 @@
+---
+type: person
+title: Nathalie Niddam
+---
+
 # Nathalie Niddam
 
 **Role:** Health & Longevity Podcaster / Biohacker  

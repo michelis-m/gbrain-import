@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Impromptu Call: Michael Michelis'
+date: '2026-10-15'
+---
+
 # Impromptu Call: Michael Michelis
 
 **Date:** 2026-10-15  

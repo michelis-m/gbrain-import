@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Order PBID007833475 Reshipment & Validated HS Codes'
+date: '2026-10-13'
+---
+
 # Portless: Order PBID007833475 Reshipment & Validated HS Codes
 
 **Date:** 2026-10-13  

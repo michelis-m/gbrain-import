@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Subject: A user has written a new review for Qalzy: Macro & Calorie Tracker on
+  August 29, 2026
+date: '2026-08-29'
+---
+
 # Subject: A user has written a new review for Qalzy: Macro & Calorie Tracker on August 29, 2026
 **Date:** Sat, 29 Aug 2026 01:03:37 -0700
 **From:** Google Play Console <noreply-play-developer-console@google.com>

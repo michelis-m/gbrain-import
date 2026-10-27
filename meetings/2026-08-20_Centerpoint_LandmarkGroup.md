@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Centerpoint_LandmarkGroup
+date: '2026-08-20'
+---
+
 # Centerpoint_LandmarkGroup
 
 **Date**: 2026-08-20

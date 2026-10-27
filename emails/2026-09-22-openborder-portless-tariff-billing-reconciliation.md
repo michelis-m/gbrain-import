@@ -1,3 +1,9 @@
+---
+type: note
+title: OpenBorder vs. Portless Duty Tariff Reconciliation Update
+date: '2026-09-22'
+---
+
 # OpenBorder vs. Portless Duty Tariff Reconciliation Update
 
 **Date:** 2026-09-22  

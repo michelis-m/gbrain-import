@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Truemed: Stripe Connect Flow & Wise USD Verification Check-In'
+date: '2026-10-23'
+---
+
 # Truemed: Stripe Connect Flow & Wise USD Verification Check-In
 
 **Date:** 2026-10-23  

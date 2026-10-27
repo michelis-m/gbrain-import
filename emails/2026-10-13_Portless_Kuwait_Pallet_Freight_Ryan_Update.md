@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Kuwait Wholesale Pallet Freight & Specs Status Update'
+date: '2026-10-13'
+---
+
 # Portless: Kuwait Wholesale Pallet Freight & Specs Status Update
 
 **Date:** 2026-10-13  

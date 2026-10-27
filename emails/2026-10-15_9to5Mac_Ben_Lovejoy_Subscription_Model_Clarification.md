@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac Review: Ben Lovejoy Subscription Model Clarification'
+date: '2026-10-15'
+---
+
 # 9to5Mac Review: Ben Lovejoy Subscription Model Clarification
 
 **Date:** 2026-10-15  

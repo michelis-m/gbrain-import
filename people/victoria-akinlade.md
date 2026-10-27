@@ -1,3 +1,8 @@
+---
+type: person
+title: Victoria Akinlade
+---
+
 # Victoria Akinlade
 
 **Role:** Contact at S Greenspan Consulting

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Customer Return: Lynnette Bauer (Subscription Confusion & Redo Return)'
+date: '2026-09-26'
+---
+
 # Customer Return: Lynnette Bauer (Subscription Confusion & Redo Return)
 
 **Date:** 2026-09-26  

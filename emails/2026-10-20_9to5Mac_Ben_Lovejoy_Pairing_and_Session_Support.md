@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac Review: Ben Lovejoy Pairing Support & Duplicate Handling'
+date: '2026-10-20'
+---
+
 # 9to5Mac Review: Ben Lovejoy Pairing Support & Duplicate Handling
 
 **Date:** 2026-10-20  

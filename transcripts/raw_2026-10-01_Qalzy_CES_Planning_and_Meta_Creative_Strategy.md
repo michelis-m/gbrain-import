@@ -1,4 +1,10 @@
-﻿00:00:03 - Speaker 1
+---
+type: note
+title: raw 2026 10 01 Qalzy CES Planning and Meta Creative Strategy
+date: '2026-10-01'
+---
+
+00:00:03 - Speaker 1
       Ναι, νομίζω ότι οι αφίλες θα είναι τα big guns εκεί πέρα.
   00:00:08 - Michael Michelis (Qalzy)
       Ναι, αλλά τα big guns θα έχουν, θα έχουν, έτσι είναι, καντοχιλιάρικα, πως το λες.

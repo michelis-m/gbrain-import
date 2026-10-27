@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 18 Impromptu Google Meet Meeting 1
+date: '2026-08-18'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       А что, что, а что, не все, а не не все.
   00:00:00 - Speaker 2
       Λέει αυτά που λέμε και εμείς.    Ακριβώς τα ίδια.    Είναι φαίνεται πολύ σοβαρός ο άνθρωπος.    Είναι super, φαίνεται genuinely excited από το περιόδιο.    Ο τύπος μου λέγει ότι κάνει food logging, diary, food journaling με τους ασθενείς του, ότι είναι big on prevention και it's all about looking after your health before the  happens and that's what she focuses on.    Και έλεγε όλα τα σωστά πράγματα για το, it's not about weight loss because, yeah, it's a group test with weight loss, but weight loss without, you know, that also means muscle loss and muscle loss is a big issue.    Τι να σημαίνει, έλεγε όλα τα σωστά πράγματα σε όλα.    Τι να σημαίνει, έλεγε όλα τα σωστά πράγματα.    longer the same lines.    Και μου περιμένω ότι ξέρεις ότι γενικά δεν προβάρει πράγματα έτσι.    Φαίνεται καθώς προβότη, is there a belief in something, is there a be behind it, ότι πιστεύεται το προϊόν, κάνει plug, ένα μεγάλο gap, γιατί ο λόγος που ο κόσμος θέλει να κάνει channeling,μαι και στιγμού.    Και και τελευταίς εξαρτηθείς, ευχαριστούς γενναμε αυτόρξεν επίσης προϊόνται σε υπερβαστή προτισμονά.    Ο attομποτεστήτημα ο καθένας είναι και Do Do Do Do Do, όλο βάζοντας, είπε ότι τον ενδιαφέρει πολύ το integration με το CGM.    Είναι μάλλον είχε πάντοσχα με CGM's brands.    Του είπα ότι κάνουμε ότι είχε κοινωντανά data, κάτι τέτοιο.

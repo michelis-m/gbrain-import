@@ -1,3 +1,9 @@
+---
+type: meeting
+title: QALZY X BLAZER Ad Sync
+date: '2026-09-04'
+---
+
 # QALZY X BLAZER Ad Sync
 **Date:** 2026-09-04
 **Attendees:** [[people/michael-michelis]], [[people/kostas-koukoravas]], [[people/ronaldas-blazer]]

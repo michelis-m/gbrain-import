@@ -1,4 +1,10 @@
-﻿00:00:17 - Syed Hussain
+---
+type: note
+title: raw 2026 10 06 SPG x Qalzy Strategy and Whitelisting
+date: '2026-10-06'
+---
+
+00:00:17 - Syed Hussain
       Hey, Michael. Hey, Konstantinos. Hey, uh, hey, Konstantinos. Sorry, do I call you Konstantinos? Okay, cool. Google, how have you guys been?
   00:00:27 - Konstantinos Koukoravas
       Good, good, good. Loads of things happening. Sorry for, for bombarding you with messages. There's just so many things happening.

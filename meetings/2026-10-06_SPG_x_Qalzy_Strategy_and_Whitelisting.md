@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and
+  50+ Persona Strategy
+date: '2026-10-06'
+---
+
 # SPG x Qalzy: Meta Partnership Ads Whitelisting, Creative Formats Roadmap, and 50+ Persona Strategy
 
 **Date:** 2026-10-06  

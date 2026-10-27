@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Urgent Escalation for Norway VOEC Declared Values'
+date: '2026-10-09'
+---
+
 # Portless: Urgent Escalation for Norway VOEC Declared Values
 
 **Date:** 2026-10-09  

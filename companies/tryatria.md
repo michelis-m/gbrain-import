@@ -1,3 +1,9 @@
+---
+type: company
+title: TryAtria
+subtype: company
+---
+
 # TryAtria
 
 - **Category:** Ad Creative Intelligence, Benchmarking & MCP/API Infrastructure

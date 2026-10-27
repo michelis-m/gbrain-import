@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations'
+date: '2026-09-15'
+---
+
 # Qalzy Daily Standup: SPG Kickoff, Black Friday Strategy & Operations
 
 **Date:** 2026-09-15  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: SKU Mapping Fix & Re-fulfillment Setup'
+date: '2026-09-09'
+---
+
 # Redo: SKU Mapping Fix & Re-fulfillment Setup
 
 **Date:** 2026-09-09  

@@ -1,12 +1,12 @@
 ---
 type: note
-title: "CES 2027 Attendance & PR Outreach Planning"
+title: CES 2027 Attendance & PR Outreach Planning
 tags:
-  - qalzy
   - ces
-  - pr
   - events
   - media
+  - pr
+  - qalzy
 ---
 
 # CES 2027 Attendance & PR Outreach Planning

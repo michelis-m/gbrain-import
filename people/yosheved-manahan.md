@@ -1,3 +1,8 @@
+---
+type: person
+title: Yosheved Manahan
+---
+
 # Yosheved Manahan
 
 **Role:** Finance / Operations  

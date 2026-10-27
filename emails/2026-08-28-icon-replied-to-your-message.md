@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Icon replied to your message'
+date: '2026-08-28'
+---
+
 # Subject: Icon replied to your message
 **Date:** Fri, 28 Aug 2026 13:38:10 +0000
 **From:** Icon <icon@notifications.usepylon.com>

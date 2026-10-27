@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Impromptu Google Meet (Dev & Content Pipeline)
+date: '2026-09-03'
+---
+
 # Impromptu Google Meet (Dev & Content Pipeline)
 **Date:** 2026-09-03
 **Attendees:** [[people/michael-michelis]], [[people/kostas-koukoravas]] (Speaker 1)

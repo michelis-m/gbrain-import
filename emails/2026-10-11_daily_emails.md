@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-11'
+date: '2026-10-11'
+---
+
 # Daily Email Summary: 2026-10-11
 
 ## 1. Customer Feedback & Reviews

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "File your confirmation statement now for QALZY LTD 14914986"
-date: 2026-06-24
+title: File your confirmation statement now for QALZY LTD 14914986
+date: 2026-06-24T00:00:00.000Z
 thread_id: 19ef5cfbeb9bad86
 source: gmail
 participants:

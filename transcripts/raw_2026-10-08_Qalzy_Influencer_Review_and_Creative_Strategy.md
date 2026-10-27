@@ -1,4 +1,10 @@
-﻿00:00:06 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 08 Qalzy Influencer Review and Creative Strategy
+date: '2026-10-08'
+---
+
+00:00:06 - Michael Michelis (Qalzy)
       Ω.
   00:00:21 - Speaker 2
       Λοιπόν, καλά, αυτούς το στήλαμε, το στήλαμε.    Αυτός εδώ, Jay, φαίνεται πολύ βάρετός, φίλε.

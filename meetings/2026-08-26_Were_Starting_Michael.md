@@ -1,3 +1,9 @@
+---
+type: meeting
+title: We're Starting, Michael! (Hiros Demo)
+date: '2026-08-26'
+---
+
 # We're Starting, Michael! (Hiros Demo)
 Date: 2026-08-26
 Attendees: [[people/michael-michelis]], [[people/kostas-koukoravas]], [[people/zach-vallafskey]]

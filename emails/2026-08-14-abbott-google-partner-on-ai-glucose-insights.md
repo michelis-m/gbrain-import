@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Abbott, Google partner on AI glucose insights"
-date: 2026-08-14
+title: 'Re: Abbott, Google partner on AI glucose insights'
+date: 2026-08-14T00:00:00.000Z
 thread_id: 1a0003533d1d1b12
 source: gmail
 participants:

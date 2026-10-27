@@ -1,3 +1,8 @@
+---
+type: person
+title: Natalie Tysdal
+---
+
 # Natalie Tysdal
 
 **Role:** Journalist, Podcaster & Lifestyle/Wellness Content Creator  

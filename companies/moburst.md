@@ -1,11 +1,12 @@
 ---
 type: company
-title: "Moburst"
+title: Moburst
 aliases:
   - Uproar
   - Uproar PR
   - uproar.moburst.com
   - moburst.com
+subtype: company
 ---
 
 # Moburst

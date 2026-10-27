@@ -1,3 +1,8 @@
+---
+type: person
+title: Alec (Redo Support / Onboarding)
+---
+
 # Alec (Redo Support / Onboarding)
 - **Role:** Support & Technical Onboarding Specialist at [[companies/redo]]
 - **Email:** support@redo.com / support@getredo.com

@@ -1,4 +1,10 @@
-  00:00:25 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 20 Qalzy Sync 1
+date: '2026-08-20'
+---
+
+00:00:25 - Michael Michelis (Qalzy)
       Rassif, hi, how are you?    Can you hear me?    Hey, can you hear Right now?
   00:00:34 - Speaker 2
       Oh, can you hear me?    cannot hear you.    Can you just give me a minute, Michael?
@@ -142,4 +148,3 @@
       Bye.
   00:26:33 - Speaker 2
       Thank you.    Bye.
-

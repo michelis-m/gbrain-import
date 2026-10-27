@@ -1,4 +1,10 @@
-﻿00:01:05 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 27 NAMZI GROW
+date: '2026-08-27'
+---
+
+00:01:05 - Michael Michelis (Qalzy)
       Hey, Tristan, great.
   00:01:07 - Speaker 2
       Hey guys, how are you doing?    Good, how are you?    Good, good, good, awesome.    Please just give me one second here.    So you guys, I saw you guys filled out the form and everything.    That all looks really good.    Honestly, that would be like the main thing.    On our end, you guys filled that out perfectly.    So not a lot we would need to go through there.    So I think this is honestly going to be a pretty quick call.    Mainly just want to make sure we're aligned.    Talk a little bit about timelines, kind of when you guys can expect to see the first.    Just explain a little bit about what the actual approval process is going to look like.    And then we also need to get you guys set up with a Slack channel as well.    Have you guys used Slack in the back or internally?    Okay, sweet.    Perfect.    Do you guys have any questions?    I just really want to talk about timelines here.    I think that's going be the main thing.    I don't really have any questions in terms of the form.    Do you guys have any questions in terms of the process, what it's going to look like, the next steps, or do you just want me to kind of ramble on about the timelines?

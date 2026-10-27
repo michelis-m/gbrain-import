@@ -1,3 +1,8 @@
+---
+type: note
+title: Qalzy Marketing Brief
+---
+
 # Qalzy Marketing Brief
 
 Draft v. 1.0

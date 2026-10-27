@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: August 30, 2026'
+date: '2026-08-30'
+---
+
 # Daily Email Summary: August 30, 2026
 
 ## Portless Issues

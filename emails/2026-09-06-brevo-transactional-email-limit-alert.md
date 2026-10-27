@@ -1,3 +1,9 @@
+---
+type: note
+title: Brevo Transactional Email Credit Limit Alert (Follow-up)
+date: '2026-09-06'
+---
+
 # Brevo Transactional Email Credit Limit Alert (Follow-up)
 
 - **Date:** 2026-09-06 16:10 UTC

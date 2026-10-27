@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Reddit Ads: Dedicated Rep Onboarding & Reddit Max Beta Invitation'
+date: '2026-10-08'
+---
+
 # Reddit Ads: Dedicated Rep Onboarding & Reddit Max Beta Invitation
 
 **Date:** 2026-10-08  

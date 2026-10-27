@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Re:The spoon was lying to him"
-date: 2026-07-14
+title: 'Fwd: Re:The spoon was lying to him'
+date: 2026-07-14T00:00:00.000Z
 thread_id: 19f5f7d292c0b9c9
 source: gmail
 participants:

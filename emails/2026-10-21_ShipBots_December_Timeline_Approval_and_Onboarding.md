@@ -1,3 +1,9 @@
+---
+type: note
+title: 'ShipBots: December Timeline Confirmation & Onboarding Kickoff'
+date: '2026-10-21'
+---
+
 # ShipBots: December Timeline Confirmation & Onboarding Kickoff
 
 **Date:** 2026-10-21  

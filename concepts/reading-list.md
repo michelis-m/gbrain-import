@@ -1,3 +1,8 @@
+---
+type: note
+title: Michael's Book Library (Google Play)
+---
+
 # Michael's Book Library (Google Play)
 
 Imported from Google Play Books.

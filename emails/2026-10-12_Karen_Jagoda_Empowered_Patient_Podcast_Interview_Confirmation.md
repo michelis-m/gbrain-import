@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Podcast Booking: Karen Jagoda (Empowered Patient Podcast) Zoom Interview Link'
+date: '2026-10-12'
+---
+
 # Podcast Booking: Karen Jagoda (Empowered Patient Podcast) Zoom Interview Link
 
 **Date:** 2026-10-12  

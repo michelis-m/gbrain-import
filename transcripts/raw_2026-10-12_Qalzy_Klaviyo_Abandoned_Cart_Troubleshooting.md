@@ -1,4 +1,10 @@
-  00:00:02 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 12 Qalzy Klaviyo Abandoned Cart Troubleshooting
+date: '2026-10-12'
+---
+
+00:00:02 - Michael Michelis (Qalzy)
       Джо.
   00:00:06 - Speaker 2
       Κοίταρα λίγο αυτό το return email εδώ, γιατί δεν έχει conversion, δεν ξέρω αν αρχικά με τον CROD, είχε κάποια points, αλλά είμαι απόλυτα σιγούς για όλα.    Κάποια έχουν κάποια λογική.    Καταρχάς, δεν πηγαίνουμε τον κόσμο στο cart.    Τους πηγαίνουμε στο product page.
@@ -104,4 +110,3 @@
       Όχι, όλος, κεφαλούς, κεφαλούς, κεφαλούς.
   00:10:45 - Michael Michelis (Qalzy)
       Οκ.
-

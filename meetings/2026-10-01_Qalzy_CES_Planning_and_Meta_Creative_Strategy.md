@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy CES 2027 Planning & Meta Creative Strategy
+date: '2026-10-01'
+---
+
 # Qalzy CES 2027 Planning & Meta Creative Strategy
 
 **Date:** 2026-10-01  

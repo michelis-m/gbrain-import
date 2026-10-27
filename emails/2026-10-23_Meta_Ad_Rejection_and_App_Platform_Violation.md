@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Meta Ads & Developer Operations: Ad Rejection & Platform Violation Decision'
+date: '2026-10-23'
+---
+
 # Meta Ads & Developer Operations: Ad Rejection & Platform Violation Decision
 
 **Date:** 2026-10-23  

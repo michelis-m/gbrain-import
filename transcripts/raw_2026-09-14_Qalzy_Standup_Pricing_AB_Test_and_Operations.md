@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 14 Qalzy Standup Pricing AB Test and Operations
+date: '2026-09-14'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Hey.
   00:00:01 - John Karunungan
       Hey.

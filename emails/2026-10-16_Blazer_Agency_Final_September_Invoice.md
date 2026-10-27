@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Blazer Agency: September Final Closeout Invoice'
+date: '2026-10-16'
+---
+
 # Blazer Agency: September Final Closeout Invoice
 
 **Date:** 2026-10-16  

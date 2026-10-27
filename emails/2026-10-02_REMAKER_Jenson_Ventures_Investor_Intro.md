@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Investor Introduction: REMAKER <> Jenson Ventures'
+date: '2026-10-02'
+---
+
 # Investor Introduction: REMAKER <> Jenson Ventures
 
 **Date:** 2026-10-02  

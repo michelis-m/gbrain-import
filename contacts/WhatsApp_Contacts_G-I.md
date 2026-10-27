@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts (G – I)"
+title: WhatsApp Contacts (G – I)
 tags:
   - contacts
   - whatsapp

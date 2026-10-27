@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Influencer Review, Ad Creative Strategy & Hardware Stability
+date: '2026-10-08'
+---
+
 # Qalzy Influencer Review, Ad Creative Strategy & Hardware Stability
 
 **Date:** 2026-10-08  

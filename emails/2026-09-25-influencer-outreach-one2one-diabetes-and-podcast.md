@@ -1,3 +1,9 @@
+---
+type: note
+title: Micro-Influencer Outreach, Media & Creative Deliverables
+date: '2026-09-25'
+---
+
 # Micro-Influencer Outreach, Media & Creative Deliverables
 
 **Date:** 2026-09-25  

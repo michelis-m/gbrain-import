@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Inbound Sourcing Interest: Harvard Undergraduate Venture Capital Group (VCG)'
+date: '2026-10-05'
+---
+
 # Inbound Sourcing Interest: Harvard Undergraduate Venture Capital Group (VCG)
 
 **Date:** 2026-10-05  

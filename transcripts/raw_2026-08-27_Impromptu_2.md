@@ -1,4 +1,10 @@
-﻿00:00:03 - Speaker 1
+---
+type: note
+title: raw 2026 08 27 Impromptu 2
+date: '2026-08-27'
+---
+
+00:00:03 - Speaker 1
       Hey guys.
   00:00:04 - Michael Michelis (Qalzy)
       Hey, great, you.

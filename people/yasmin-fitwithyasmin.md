@@ -1,3 +1,8 @@
+---
+type: person
+title: Yasmin (Fit with Yasmin)
+---
+
 # Yasmin (Fit with Yasmin)
 
 **Role:** Fitness & Nutrition Content Creator  

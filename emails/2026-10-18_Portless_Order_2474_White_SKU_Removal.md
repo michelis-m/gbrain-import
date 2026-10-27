@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Order #2474 SKU Adjustment and Fulfillment Release'
+date: '2026-10-18'
+---
+
 # Portless: Order #2474 SKU Adjustment and Fulfillment Release
 
 **Date:** 2026-10-18  

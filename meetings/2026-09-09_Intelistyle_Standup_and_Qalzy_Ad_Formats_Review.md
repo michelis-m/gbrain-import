@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Daily Standup & Qalzy Ad Formats Review
+date: '2026-09-09'
+---
+
 # Intelistyle Daily Standup & Qalzy Ad Formats Review
 
 **Date:** 2026-09-09  

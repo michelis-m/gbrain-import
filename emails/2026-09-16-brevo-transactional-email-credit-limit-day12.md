@@ -1,3 +1,9 @@
+---
+type: note
+title: Brevo Transactional Email Credit Limit Exhausted (Day 12 Alert)
+date: '2026-09-16'
+---
+
 # Brevo Transactional Email Credit Limit Exhausted (Day 12 Alert)
 
 **Date:** 2026-09-16  

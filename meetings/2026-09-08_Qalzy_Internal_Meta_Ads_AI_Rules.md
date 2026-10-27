@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Internal Meta Ads AI Rules Engine & Scaling Sync
+date: '2026-09-08'
+---
+
 # Qalzy Internal Meta Ads AI Rules Engine & Scaling Sync
 
 **Date:** 2026-09-08  

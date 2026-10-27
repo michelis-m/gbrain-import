@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Podcast Guest: Building the "OURA of nutrition tracking"'
+date: '2026-08-28'
+---
+
 # Subject: Re: Podcast Guest: Building the "OURA of nutrition tracking"
 **Date:** Fri, 28 Aug 2026 08:57:09 -0700
 **From:** Sean Greenspan <sean@sgreenspanconsulting.com>

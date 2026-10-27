@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping'
+date: '2026-10-19'
+---
+
 # Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping
 
 **Date:** 2026-10-19  

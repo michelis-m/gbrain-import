@@ -1,3 +1,8 @@
+---
+type: person
+title: Denis Augustine
+---
+
 # Denis Augustine
 
 **Role:** SMB Sales Development Representative  

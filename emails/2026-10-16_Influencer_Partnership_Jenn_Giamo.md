@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Influencer Partnership: Jennifer Giamo (Trainers in Transit)'
+date: '2026-10-16'
+---
+
 # Influencer Partnership: Jennifer Giamo (Trainers in Transit)
 
 **Date:** 2026-10-16  

@@ -1,3 +1,9 @@
+---
+type: note
+title: OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand
+date: '2026-09-26'
+---
+
 # OpenBorder & Portless Tariff Billing Dispute & Reconciliation Demand
 
 **Date:** 2026-09-26  

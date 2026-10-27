@@ -1,3 +1,9 @@
+---
+type: note
+title: Sean Greenspan Follow-Up on JJ Virgin & Growth Partnership
+date: '2026-09-29'
+---
+
 # Sean Greenspan Follow-Up on JJ Virgin & Growth Partnership
 
 **Date:** 2026-09-29  

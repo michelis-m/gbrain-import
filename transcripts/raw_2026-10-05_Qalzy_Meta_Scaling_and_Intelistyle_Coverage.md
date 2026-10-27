@@ -1,4 +1,10 @@
-﻿00:00:02 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 05 Qalzy Meta Scaling and Intelistyle Coverage
+date: '2026-10-05'
+---
+
+00:00:02 - Michael Michelis (Qalzy)
       Nie.
   00:00:12 - Speaker 2
       Βλέπουν το περιθώριο για scale, εγώ δεν το βλέπω.    Με 142 CPA, AOV202, margin, 11 λις του Αγγελιάρ.

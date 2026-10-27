@@ -1,3 +1,8 @@
+---
+type: person
+title: Jennifer Giamo
+---
+
 # Jennifer Giamo
 
 **Role:** Fitness Trainer, Nutrition Coach & Founder  

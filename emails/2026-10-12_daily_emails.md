@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-12'
+date: '2026-10-12'
+---
+
 # Daily Email Summary: 2026-10-12
 
 ## 1. PR, Podcasts & Media Bookings

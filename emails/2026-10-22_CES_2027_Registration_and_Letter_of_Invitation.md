@@ -1,3 +1,9 @@
+---
+type: note
+title: 'CES 2027: Registration Confirmation & Formal Letter of Invitation'
+date: '2026-10-22'
+---
+
 # CES 2027: Registration Confirmation & Formal Letter of Invitation
 
 **Date:** 2026-10-22  

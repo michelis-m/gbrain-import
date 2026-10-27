@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Commenda: US Entity Formation & Corporate Structuring'
+date: '2026-10-22'
+---
+
 # Commenda: US Entity Formation & Corporate Structuring
 
 **Date:** 2026-10-22  

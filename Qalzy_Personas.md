@@ -1,6 +1,6 @@
 ---
 type: concept
-title: "Qalzy Personas"
+title: Qalzy Personas
 aliases:
   - Qalzy Buyer Personas
   - Customer Personas

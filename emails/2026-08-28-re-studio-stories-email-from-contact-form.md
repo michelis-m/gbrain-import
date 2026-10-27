@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Studio Stories "Email from Contact Form"'
+date: '2026-08-28'
+---
+
 # Subject: Re: Studio Stories "Email from Contact Form"
 **Date:** Fri, 28 Aug 2026 19:35:13 +0300
 **From:** Studio Stories <hello@studiostories.gr>

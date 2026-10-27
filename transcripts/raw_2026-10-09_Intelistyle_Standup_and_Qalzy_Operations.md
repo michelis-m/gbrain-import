@@ -1,4 +1,10 @@
-  00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 10 09 Intelistyle Standup and Qalzy Operations
+date: '2026-10-09'
+---
+
+00:00:00 - Speaker 1
       and then i'm doing yes now okay um anything else none all good enjoy your weekend man have a good weekend thank you bye bye uh all right good day yesterday it's not it did cross my mind it did cross my mind but i can't ask who say many things because you only increased by 100 pounds um yeah
   00:00:16 - Michael Michelis (Qalzy)
       Bye.    It keeps going good, let's see.    It keeps up over the weekend.    Maybe we want to increase budget, I don't know.    Yeah, yeah, it wasn't much.
@@ -536,4 +542,3 @@
       Στοκινέτσι
   01:01:41 - Speaker 1
       Οκ.    Ωραία.    Αυτά θα ξαναλάβει.
-

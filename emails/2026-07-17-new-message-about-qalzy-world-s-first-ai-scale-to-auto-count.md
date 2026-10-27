@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: New message about Qalzy: World’s First AI Scale to Auto-Count Calories"
-date: 2026-07-17
+title: 'Fwd: New message about Qalzy: World’s First AI Scale to Auto-Count Calories'
+date: 2026-07-17T00:00:00.000Z
 thread_id: 19f6bb1f1665ca5f
 source: gmail
 participants:

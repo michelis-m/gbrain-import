@@ -1,4 +1,10 @@
-  00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 09 Intelistyle Standup and Qalzy Ad Formats Review
+date: '2026-09-09'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       How are things?
   00:00:00 - Speaker 2
       Good morning.    All good.    How are you?
@@ -282,4 +288,3 @@
       Οκέι.
   00:35:41 - Speaker 2
       Είναι, έλαμε.    Ευχαριστώ.    Υπότιτλοι AUTHORWAVE
-

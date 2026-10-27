@@ -1,3 +1,8 @@
+---
+type: note
+title: Shopify Admin API Integration
+---
+
 # Shopify Admin API Integration
 
 This document outlines the direct Shopify Admin API connection configured for [[companies/qalzy]].

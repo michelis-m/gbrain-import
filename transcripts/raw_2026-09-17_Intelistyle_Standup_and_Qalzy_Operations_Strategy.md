@@ -1,4 +1,10 @@
-﻿00:00:00 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 09 17 Intelistyle Standup and Qalzy Operations Strategy
+date: '2026-09-17'
+---
+
+00:00:00 - Kostas Koukoravas
       Morning.
   00:00:02 - Michael Michelis (Qalzy)
       Morning. How's the weather?

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Merchant account verification required"
-date: 2026-08-13
+title: Merchant account verification required
+date: 2026-08-13T00:00:00.000Z
 thread_id: 19ff5d5193f98878
 source: gmail
 participants:

@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Agency Operations: Namzi Creator Contract Enforcement & SPG Invoice
+  Reconciliation
+date: '2026-10-05'
+---
+
 # Agency Operations: Namzi Creator Contract Enforcement & SPG Invoice Reconciliation
 
 **Date:** 2026-10-05  

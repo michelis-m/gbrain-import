@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Monthly Advisory & Board Update: Performance Metrics and Next-Phase
+  Targets
+date: '2026-10-12'
+---
+
 # Qalzy Monthly Advisory & Board Update: Performance Metrics and Next-Phase Targets
 
 **Date:** 2026-10-12  

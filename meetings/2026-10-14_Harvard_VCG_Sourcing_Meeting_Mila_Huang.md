@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang'
+date: '2026-10-14'
+---
+
 # Harvard Undergraduate Venture Capital Group (VCG) Sourcing Call: Mila Huang
 
 **Date:** 2026-10-14  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Qalzy x Creators Partnership with Guaranteed Results'
+date: '2026-08-28'
+---
+
 # Subject: Qalzy x Creators Partnership with Guaranteed Results
 **Date:** Fri, 28 Aug 2026 18:45:41 +0100
 **From:** Victoria Akinlade <victoria@sgreenspanconsulting.com>

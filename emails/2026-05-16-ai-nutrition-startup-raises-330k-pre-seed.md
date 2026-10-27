@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: AI nutrition startup raises $330k pre-seed"
-date: 2026-05-16
+title: 'Re: AI nutrition startup raises $330k pre-seed'
+date: 2026-05-16T00:00:00.000Z
 thread_id: 19e0ac54f977aa20
 source: gmail
 participants:

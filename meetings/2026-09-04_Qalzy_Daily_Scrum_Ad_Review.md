@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Daily Scrum & Ad Performance Review
+date: '2026-09-04'
+---
+
 # Qalzy Daily Scrum & Ad Performance Review
 **Date:** 2026-09-04
 **Attendees:** [[people/michael-michelis]], [[people/john]], [[people/kostas-koukoravas]]

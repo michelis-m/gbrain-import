@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Michael + Kostas and Michael Candeloro"
-date: 2026-07-15
+title: Michael + Kostas and Michael Candeloro
+date: 2026-07-15T00:00:00.000Z
 thread_id: 19f659279196c308
 source: gmail
 participants:

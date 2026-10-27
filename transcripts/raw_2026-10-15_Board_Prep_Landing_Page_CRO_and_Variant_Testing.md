@@ -1,4 +1,10 @@
-﻿00:00:00 - Konstantinos Koukoravas
+---
+type: note
+title: raw 2026 10 15 Board Prep Landing Page CRO and Variant Testing
+date: '2026-10-15'
+---
+
+00:00:00 - Konstantinos Koukoravas
       Okay.    Okay.    Hey.    Should we start with the board? Sure.
   00:00:15 - Michael Michelis (Qalzy)
       So the, the, the AI had like a syntax error on a get and everything was marked out of stock on the job.

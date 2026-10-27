@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Kynship Strategy Session: Cut Your CAC by 50%'
+date: '2026-09-18'
+---
+
 # Kynship Strategy Session: Cut Your CAC by 50%
 
 **Date:** 2026-09-18  

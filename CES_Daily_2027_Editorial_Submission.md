@@ -1,3 +1,8 @@
+---
+type: note
+title: Qalzy Product Information & Editorial Overview — CES 2027
+---
+
 # Qalzy Product Information & Editorial Overview — CES 2027
 
 **Event:** CES 2027 (January 6–9, 2027, Las Vegas, NV)  

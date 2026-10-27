@@ -1,3 +1,8 @@
+---
+type: person
+title: Ryan Estes
+---
+
 # Ryan Estes
 
 **Role:** Host of AI for Founders podcast & Founder of Kitcaster  

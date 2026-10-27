@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Raw Transcript: Demo: Kostas'
+date: '2026-09-10'
+---
+
 # Raw Transcript: Demo: Kostas
 
 Date: 2026-09-10

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Your Company Formations Correspondence - Active Status"
-date: 2026-05-22
+title: 'Fwd: Your Company Formations Correspondence - Active Status'
+date: 2026-05-22T00:00:00.000Z
 thread_id: 19e4d52be058f903
 source: gmail
 participants:

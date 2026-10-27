@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Did you know about.me comes with CRM?"
-date: 2026-06-09
+title: Did you know about.me comes with CRM?
+date: 2026-06-09T00:00:00.000Z
 thread_id: 19eaef9d692c45f0
 source: gmail
 participants:

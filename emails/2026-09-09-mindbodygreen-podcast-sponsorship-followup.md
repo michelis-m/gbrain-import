@@ -1,3 +1,9 @@
+---
+type: note
+title: 'mindbodygreen: Podcast Sponsorship Follow-Up'
+date: '2026-09-09'
+---
+
 # mindbodygreen: Podcast Sponsorship Follow-Up
 
 **Date:** 2026-09-09  

@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy x Portless Sync
+date: '2026-08-26'
+---
+
 # Qalzy x Portless Sync
 Date: 2026-08-26
 Attendees: [[people/michael-michelis]], [[people/kostas-koukoravas]], [[people/chloe-hu]]

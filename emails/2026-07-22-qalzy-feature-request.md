@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy - Feature Request"
-date: 2026-07-22
+title: Qalzy - Feature Request
+date: 2026-07-22T00:00:00.000Z
 thread_id: 19f88981e1e05718
 source: gmail
 participants:

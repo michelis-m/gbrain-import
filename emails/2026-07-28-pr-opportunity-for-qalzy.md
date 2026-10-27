@@ -1,7 +1,7 @@
 ---
 type: email
-title: "PR opportunity for Qalzy"
-date: 2026-07-28
+title: PR opportunity for Qalzy
+date: 2026-07-28T00:00:00.000Z
 thread_id: 19fa7c0be753c4da
 source: gmail
 participants:

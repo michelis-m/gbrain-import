@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Customer Chargeback Escalation on Return #2085'
+date: '2026-10-20'
+---
+
 # Redo Returns: Customer Chargeback Escalation on Return #2085
 
 **Date:** 2026-10-20  

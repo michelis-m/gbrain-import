@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Brevo Alert: Transactional Email Credit Limit Reached (Day 10)'
+date: '2026-09-14'
+---
+
 # Brevo Alert: Transactional Email Credit Limit Reached (Day 10)
 
 **Date:** 2026-09-14 16:33 UTC  

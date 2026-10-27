@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Top NordVPN deal: Lock in the best price"
-date: 2026-07-15
+title: 'Fwd: Top NordVPN deal: Lock in the best price'
+date: 2026-07-15T00:00:00.000Z
 thread_id: 19f66d041088ea3c
 source: gmail
 participants:

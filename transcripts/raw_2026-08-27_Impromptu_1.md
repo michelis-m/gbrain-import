@@ -1,4 +1,10 @@
-﻿00:00:05 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 27 Impromptu 1
+date: '2026-08-27'
+---
+
+00:00:05 - Michael Michelis (Qalzy)
       Yeah, I think they made some good points.
   00:00:07 - Speaker 2
       What do you think?

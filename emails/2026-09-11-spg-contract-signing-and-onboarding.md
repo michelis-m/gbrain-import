@@ -1,3 +1,9 @@
+---
+type: note
+title: 'SPG: Contract Execution, Payment & Onboarding Kickoff'
+date: '2026-09-11'
+---
+
 # SPG: Contract Execution, Payment & Onboarding Kickoff
 
 **Date:** 2026-09-11  

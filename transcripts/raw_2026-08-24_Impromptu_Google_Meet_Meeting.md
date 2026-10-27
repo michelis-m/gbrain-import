@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 24 Impromptu Google Meet Meeting
+date: '2026-08-24'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Hey John, can you hear me?
   00:00:01 - Speaker 2
       Hi, Mike.    Good morning.    Yep.    Yes, I can.

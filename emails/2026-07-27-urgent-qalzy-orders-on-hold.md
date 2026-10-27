@@ -1,7 +1,7 @@
 ---
 type: email
-title: "[URGENT] Qalzy orders on hold"
-date: 2026-07-27
+title: '[URGENT] Qalzy orders on hold'
+date: 2026-07-27T00:00:00.000Z
 thread_id: 19f93e628f51c451
 source: gmail
 participants:

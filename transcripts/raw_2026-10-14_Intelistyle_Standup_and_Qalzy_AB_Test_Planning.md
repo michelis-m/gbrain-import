@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 14 Intelistyle Standup and Qalzy AB Test Planning
+date: '2026-10-14'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Morning.
   00:00:01 - Speaker 2
       Morning.    How's it going?

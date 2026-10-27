@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Inbound Wholesale: Familink South Korea Commercial Distribution Opportunity'
+date: '2026-10-14'
+---
+
 # Inbound Wholesale: Familink South Korea Commercial Distribution Opportunity
 
 **Date:** 2026-10-14  

@@ -1,4 +1,9 @@
-﻿Qalzy – Product Benefits, Positioning & Competitor Overview
+---
+type: note
+title: Product Benefits and competitors
+---
+
+Qalzy – Product Benefits, Positioning & Competitor Overview
 WHAT IS QALZY?
 Qalzy is the world’s first AI-powered nutrition tracking ecosystem, combining a smart kitchen scale with a camera and an intelligent calorie tracking app.
 Using patent-pending technology, Qalzy can identify, weigh, and log foods with a single tap — automatically tracking calories, macronutrients, and micronutrients in real time without manual entry.

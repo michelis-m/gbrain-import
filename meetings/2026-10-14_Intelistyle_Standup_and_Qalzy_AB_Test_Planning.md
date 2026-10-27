@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Daily Standup & Qalzy CRO A/B Test Planning
+date: '2026-10-14'
+---
+
 # Intelistyle Daily Standup & Qalzy CRO A/B Test Planning
 
 **Date:** 2026-10-14  

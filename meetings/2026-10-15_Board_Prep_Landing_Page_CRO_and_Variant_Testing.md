@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Strategy & CRO Sync: October Board Prep, Landing Page Clean Revert, and
+  Black Variant Inventory Test
+date: '2026-10-15'
+---
+
 # Qalzy Strategy & CRO Sync: October Board Prep, Landing Page Clean Revert, and Black Variant Inventory Test
 
 **Date:** 2026-10-15  

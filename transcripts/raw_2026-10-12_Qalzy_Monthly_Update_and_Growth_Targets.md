@@ -1,4 +1,10 @@
-  00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 10 12 Qalzy Monthly Update and Growth Targets
+date: '2026-10-12'
+---
+
+00:00:01 - Speaker 1
       Μ' ακούς.
   00:00:02 - Michael Michelis (Qalzy)
       Нет, в таком случае.
@@ -32,4 +38,3 @@
       Hey, if I can it, can do it,
   00:03:04 - Speaker 1
       Θα νομίζω ότι αυτό καλό είναι έτσι εγώ.    One-liners θέλει να μπορείς να πω.    Ναι, ναι.
-

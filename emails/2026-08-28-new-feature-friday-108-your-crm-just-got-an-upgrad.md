@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: New Feature Friday #108 - Your CRM just got an upgrade'
+date: '2026-08-28'
+---
+
 # Subject: New Feature Friday #108 - Your CRM just got an upgrade
 **Date:** Fri, 28 Aug 2026 15:32:26 +0000
 **From:** Press Ranger <info@pressranger.com>
@@ -76,4 +82,3 @@ This email was sent to michael@qalzy.com
 You've received it because you've subscribed to our newsletter.
 
 [View in browser](https://ci8f0.r.sp1-brevo.net/mk/mr/sh/1t6AVsd2XFnIGGqxAPuwCjZ80Tc5rj/vseweAV-336x)| [Unsubscribe](https://ci8f0.r.sp1-brevo.net/mk/un/v2/sh/1t6AVsdYhqSR1o3Zgt3WddqzaQSBIl/HjsoDZb3x97z)
-

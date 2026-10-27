@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA'
+date: '2026-10-23'
+---
+
 # Qalzy Sync: User Education Onboarding, App Review Integration & Creative QA
 
 **Date:** 2026-10-23  

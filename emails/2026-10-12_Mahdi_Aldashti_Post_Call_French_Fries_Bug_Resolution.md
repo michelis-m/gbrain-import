@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Qalzy <> Mahdi Aldashti: Post-Call French Fries Database Bug Resolution'
+date: '2026-10-12'
+---
+
 # Qalzy <> Mahdi Aldashti: Post-Call French Fries Database Bug Resolution
 
 **Date:** 2026-10-12  

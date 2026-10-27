@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Strategy & CRO: Landing Page Figma Review, Meta Account Unblock, and Ad
+  Creative Analysis
+date: '2026-10-13'
+---
+
 # Qalzy Strategy & CRO: Landing Page Figma Review, Meta Account Unblock, and Ad Creative Analysis
 
 **Date:** 2026-10-13  

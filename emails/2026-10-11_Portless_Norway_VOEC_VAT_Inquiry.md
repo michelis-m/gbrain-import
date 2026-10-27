@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Norway VOEC Declared Value VAT Inclusivity Query'
+date: '2026-10-11'
+---
+
 # Portless: Norway VOEC Declared Value VAT Inclusivity Query
 
 **Date:** 2026-10-11  

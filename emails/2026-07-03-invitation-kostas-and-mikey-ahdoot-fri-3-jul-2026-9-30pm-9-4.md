@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Invitation: Kostas and Mikey Ahdoot @ Fri 3 Jul 2026 9:30pm - 9:45pm (GMT+3) (michael@qalzy.com)"
-date: 2026-07-03
+title: >-
+  Invitation: Kostas and Mikey Ahdoot @ Fri 3 Jul 2026 9:30pm - 9:45pm (GMT+3)
+  (michael@qalzy.com)
+date: 2026-07-03T00:00:00.000Z
 thread_id: 19f28a208cca36ee
 source: gmail
 participants:

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Briefchart Outreach: Qalzy Retention Angle & Nuyu Telehealth/Diagnostics Model'
+date: '2026-09-27'
+---
+
 # Briefchart Outreach: Qalzy Retention Angle & Nuyu Telehealth/Diagnostics Model
 
 **Date:** 2026-09-27  

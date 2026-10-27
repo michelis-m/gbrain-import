@@ -1,4 +1,10 @@
-﻿00:01:11 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 11 SPG Qalzy Team Meet
+date: '2026-09-11'
+---
+
+00:01:11 - Michael Michelis (Qalzy)
       Hi, folks.
   00:01:13 - Charlie Williams (Social Paradigm Group)
       Hi, nice to meet you all.

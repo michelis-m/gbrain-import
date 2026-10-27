@@ -1,4 +1,10 @@
-﻿00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 09 29 Qalzy Meta Marketing Pro Consultation
+date: '2026-09-29'
+---
+
+00:00:01 - Speaker 1
       So we're just trying to understand what is going on and how we can improve that.    can share my screen if that helps, or if you can see the account already on your end, that's also fine.    Yes, you can actually share your ads manager.    And yeah, thank you.    Thank you for those information.    And I'll be honest with you.    I actually diagnosed the performance of your campaign.    Over the last two weeks, your account has shown a mix of strong efficiency in specific tests alongside delivery challenges due to account fragmentation and the learning phase.    If you can actually navigate your ads manager and then edit the existing campaign, you can actually check each ad set.    And for each ad set that is active right now.    You can see that's all of it, or some of it, yeah.    Can you edit the campaign?    Click edit, the one at the bottom?    This one, the one at the bottom?
   00:01:10 - Michael Michelis (Qalzy)
       you.

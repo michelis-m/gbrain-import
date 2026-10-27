@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Podcast Guest: Building the "OURA of nutrition tracking"'
+date: '2026-08-29'
+---
+
 # Subject: Podcast Guest: Building the "OURA of nutrition tracking"
 **Date:** Sat, 29 Aug 2026 01:17:52 -0500
 **From:** Michael Michelis <michael@qalzy.com>

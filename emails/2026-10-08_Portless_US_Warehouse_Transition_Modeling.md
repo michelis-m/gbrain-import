@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: US Fulfillment Transition & Bulk Freight Modeling'
+date: '2026-10-08'
+---
+
 # Portless: US Fulfillment Transition & Bulk Freight Modeling
 
 **Date:** 2026-10-08  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Awin: Affiliate Application Cancellation (Case 03190067)'
+date: '2026-10-09'
+---
+
 # Awin: Affiliate Application Cancellation (Case 03190067)
 
 **Date:** 2026-10-09  

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Raleigh startup pivots from local restaurants to Fortune 500 brands"
-date: 2026-08-14
+title: 'Re: Raleigh startup pivots from local restaurants to Fortune 500 brands'
+date: 2026-08-14T00:00:00.000Z
 thread_id: 1a0002f0a98bcded
 source: gmail
 participants:

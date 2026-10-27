@@ -1,3 +1,9 @@
+---
+type: note
+title: OpenBorder vs. Portless Invoice Duty Reconciliation Status
+date: '2026-09-18'
+---
+
 # OpenBorder vs. Portless Invoice Duty Reconciliation Status
 
 **Date:** 2026-09-18  

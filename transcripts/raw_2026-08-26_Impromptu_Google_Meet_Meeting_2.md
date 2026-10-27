@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 08 26 Impromptu Google Meet Meeting 2
+date: '2026-08-26'
+---
+
+00:00:00 - Speaker 1
       That you've sent.    So the two IDs I've already approved already.    So I approved it before and the items, like the cords, is not yet available.    So I found a similar one.    problem before.    I'll tell them.    Every time you keep on sending an email and asking and you've explained this to you a few times.    But what about the other ones?    The two IDs, it's like the same one as Epicule last week.    So I've been manually doing the bounding boxes, but it doesn't appear to the editor again.    I've been doing it a lot of times, like putting it back to the image quality and then doing it bounding box manually and then approved it.    And it doesn't still appear in the editor of Twist.    What did we do last time, Michael?    I can't remember.
   00:00:54 - Michael Michelis (Qalzy)
       So I'm looking at the    The ones that you sent, they had sent something to hide the TW625, and it looks like these have outfits from TW625, so it's hiding them, I think.    Yeah, are 10 items with these issues, so they had sent to hide some products that start with TW625, their IDs, they say basically hide products,

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Hi, do you have an API or an MCP server?'
+date: '2026-08-28'
+---
+
 # Subject: Re: Hi, do you have an API or an MCP server?
 **Date:** Fri, 28 Aug 2026 21:17:24 +0000
 **From:** Edlyn from Portless <info@portless.com>

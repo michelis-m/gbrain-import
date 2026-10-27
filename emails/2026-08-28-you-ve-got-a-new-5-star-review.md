@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: You''ve got a new 5-star review'
+date: '2026-08-28'
+---
+
 # Subject: You've got a new 5-star review
 **Date:** Fri, 28 Aug 2026 12:18:01 +0000 (UTC)
 **From:** Trustpilot <noreply.notifications@trustpilot.com>

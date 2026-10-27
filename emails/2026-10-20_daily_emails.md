@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-20'
+date: '2026-10-20'
+---
+
 # Daily Email Summary: 2026-10-20
 
 ## 1. Logistics, 3PL Fulfillment & Freight Forwarding

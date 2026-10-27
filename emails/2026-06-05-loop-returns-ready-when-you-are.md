@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Loop Returns: Ready when you are!"
-date: 2026-06-05
+title: 'Loop Returns: Ready when you are!'
+date: 2026-06-05T00:00:00.000Z
 thread_id: 19e6e05f405a552d
 source: gmail
 participants:

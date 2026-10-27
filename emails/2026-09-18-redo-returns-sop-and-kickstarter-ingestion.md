@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Managed Returns: Grading SOP Delivery & Kickstarter Order Ingestion'
+date: '2026-09-18'
+---
+
 # Redo Managed Returns: Grading SOP Delivery & Kickstarter Order Ingestion
 
 **Date:** 2026-09-18  

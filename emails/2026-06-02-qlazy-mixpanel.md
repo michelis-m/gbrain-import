@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qlazy // Mixpanel"
-date: 2026-06-02
+title: Qlazy // Mixpanel
+date: 2026-06-02T00:00:00.000Z
 thread_id: 19e5e0e00a656881
 source: gmail
 participants:

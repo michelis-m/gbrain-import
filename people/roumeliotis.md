@@ -1,3 +1,8 @@
+---
+type: person
+title: Roumeliotis
+---
+
 # Roumeliotis
 
 - **Context:** Associate/contact of Michael Michelis. Associated with [[people/alex]].

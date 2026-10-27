@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-04'
+date: '2026-09-04'
+---
+
 # Daily Email Summary: 2026-09-04
 
 ## Agency & Growth Strategy

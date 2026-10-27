@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Portless & Qalzy Onboarding Recap and Next Steps"
-date: 2026-07-20
+title: Portless & Qalzy Onboarding Recap and Next Steps
+date: 2026-07-20T00:00:00.000Z
 thread_id: 19e8e6fb9a641980
 source: gmail
 participants:

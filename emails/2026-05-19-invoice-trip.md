@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Invoice Trip"
-date: 2026-05-19
+title: Invoice Trip
+date: 2026-05-19T00:00:00.000Z
 thread_id: 19e40a70680d4e03
 source: gmail
 participants:

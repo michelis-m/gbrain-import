@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity'
+date: '2026-10-19'
+---
+
 # 9to5Mac Review: Ben Lovejoy Confirms Scale Bluetooth Connectivity
 
 **Date:** 2026-10-19  

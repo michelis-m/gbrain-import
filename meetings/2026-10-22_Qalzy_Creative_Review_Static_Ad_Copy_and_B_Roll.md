@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Creative Review: Ad Copy Optimization & Video B-Roll'
+date: '2026-10-22'
+---
+
 # Qalzy Creative Review: Ad Copy Optimization & Video B-Roll
 
 **Date:** 2026-10-22  

@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Fwd: New comment — Allan Miller commented on Qalzy: World’s First AI Scale to Auto-Count Calories."
-date: 2026-07-08
+title: >-
+  Fwd: New comment — Allan Miller commented on Qalzy: World’s First AI Scale to
+  Auto-Count Calories.
+date: 2026-07-08T00:00:00.000Z
 thread_id: 19f4109ad897392f
 source: gmail
 participants:

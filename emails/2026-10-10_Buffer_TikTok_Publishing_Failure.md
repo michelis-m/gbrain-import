@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Buffer: TikTok Scheduled Post Publishing Failure'
+date: '2026-10-10'
+---
+
 # Buffer: TikTok Scheduled Post Publishing Failure
 
 **Date:** 2026-10-10  

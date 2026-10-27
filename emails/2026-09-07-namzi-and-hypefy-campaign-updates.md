@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Agency Status Updates: Namzi Growing & Hypefy.ai'
+date: '2026-09-07'
+---
+
 # Agency Status Updates: Namzi Growing & Hypefy.ai
 
 - **Date:** 2026-09-07

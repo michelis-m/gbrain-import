@@ -1,3 +1,9 @@
+---
+type: note
+title: Google Search Console September 2026 Performance Report
+date: '2026-10-04'
+---
+
 # Google Search Console September 2026 Performance Report
 
 **Date:** 2026-10-04  

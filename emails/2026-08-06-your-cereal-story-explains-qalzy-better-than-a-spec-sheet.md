@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Your cereal story explains Qalzy better than a spec sheet"
-date: 2026-08-06
+title: Your cereal story explains Qalzy better than a spec sheet
+date: 2026-08-06T00:00:00.000Z
 thread_id: 19fad30b0aaa774a
 source: gmail
 participants:

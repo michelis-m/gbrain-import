@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Truemed: Shopify Onboarding Guide & Integration Next Steps'
+date: '2026-10-14'
+---
+
 # Truemed: Shopify Onboarding Guide & Integration Next Steps
 
 **Date:** 2026-10-14  

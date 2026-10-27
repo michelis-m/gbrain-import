@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Namzi Growing: Creator Outreach Refund Escalation Demand'
+date: '2026-09-22'
+---
+
 # Namzi Growing: Creator Outreach Refund Escalation Demand
 
 **Date:** 2026-09-22  

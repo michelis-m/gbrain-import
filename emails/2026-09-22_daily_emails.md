@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-22'
+date: '2026-09-22'
+---
+
 # Daily Email Summary: 2026-09-22
 
 ## 1. PR, Media & Creator Partnerships

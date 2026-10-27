@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Namzi Growing"
-date: 2026-07-01
+title: Namzi Growing
+date: 2026-07-01T00:00:00.000Z
 thread_id: 19eba53a4d293b75
 source: gmail
 participants:

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "RE: [V-Trust] Introduction of Account Manager"
-date: 2026-05-29
+title: 'RE: [V-Trust] Introduction of Account Manager'
+date: 2026-05-29T00:00:00.000Z
 thread_id: 19e723a40aba6df0
 source: gmail
 participants:

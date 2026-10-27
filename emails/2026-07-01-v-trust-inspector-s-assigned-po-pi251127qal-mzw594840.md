@@ -1,7 +1,7 @@
 ---
 type: email
-title: "[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840"
-date: 2026-07-01
+title: '[V-Trust] Inspector(s) assigned -   - PO# PI251127QAL - MZW594840'
+date: 2026-07-01T00:00:00.000Z
 thread_id: 19f17cb43847b09d
 source: gmail
 participants:

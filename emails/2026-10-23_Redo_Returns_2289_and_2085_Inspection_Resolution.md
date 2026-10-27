@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Returns #2289 and #2085 Physical Inspection Resolutions'
+date: '2026-10-23'
+---
+
 # Redo Returns: Returns #2289 and #2085 Physical Inspection Resolutions
 
 **Date:** 2026-10-23  

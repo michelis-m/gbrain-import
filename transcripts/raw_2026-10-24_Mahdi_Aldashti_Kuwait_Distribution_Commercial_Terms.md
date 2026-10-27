@@ -1,4 +1,10 @@
-﻿00:00:21 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 24 Mahdi Aldashti Kuwait Distribution Commercial Terms
+date: '2026-10-24'
+---
+
+00:00:21 - Konstantinos Koukoravas (Qalzy)
       Hello, good morning.
   00:00:23 - Michael Michelis (Qalzy)
       Hi, Stavros.

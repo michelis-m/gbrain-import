@@ -1,3 +1,9 @@
+---
+type: note
+title: 'CES 2027: Eureka Park Booth Allocation & Contract Executed'
+date: '2026-10-01'
+---
+
 # CES 2027: Eureka Park Booth Allocation & Contract Executed
 
 **Date:** 2026-10-01  

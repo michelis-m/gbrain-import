@@ -1,4 +1,10 @@
-﻿00:00:00 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 10 06 Intelistyle Standup and Qalzy Operations
+date: '2026-10-06'
+---
+
+00:00:00 - Kostas Koukoravas
       Morning.
   00:00:00 - Michael Michelis (Qalzy)
       Morning.

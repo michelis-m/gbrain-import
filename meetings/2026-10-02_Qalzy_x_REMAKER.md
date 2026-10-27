@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy <> REMAKER Strategic Partnership & Founder Exchange
+date: '2026-10-02'
+---
+
 # Qalzy <> REMAKER Strategic Partnership & Founder Exchange
 
 **Date:** 2026-10-02  

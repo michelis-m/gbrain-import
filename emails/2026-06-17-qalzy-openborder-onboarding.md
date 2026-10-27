@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy + OpenBorder Onboarding"
-date: 2026-06-17
+title: Qalzy + OpenBorder Onboarding
+date: 2026-06-17T00:00:00.000Z
 thread_id: 19e703c1c102c581
 source: gmail
 participants:

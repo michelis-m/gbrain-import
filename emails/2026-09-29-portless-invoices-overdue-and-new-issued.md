@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless Invoices: Overdue Notice & New Weekly Invoice Issued'
+date: '2026-09-29'
+---
+
 # Portless Invoices: Overdue Notice & New Weekly Invoice Issued
 
 **Date:** 2026-09-29  

@@ -1,3 +1,9 @@
+---
+type: note
+title: Namzi Growing Refund Escalation & Ultimatum
+date: '2026-09-25'
+---
+
 # Namzi Growing Refund Escalation & Ultimatum
 
 **Date:** 2026-09-25  

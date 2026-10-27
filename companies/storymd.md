@@ -1,3 +1,9 @@
+---
+type: company
+title: StoryMD
+subtype: company
+---
+
 # StoryMD
 
 **Type:** Health Technology & Visual Storytelling Platform  

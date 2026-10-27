@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Podcast Guest: Building the "OURA of nutrition tracking"'
+date: '2026-08-28'
+---
+
 # Subject: Podcast Guest: Building the "OURA of nutrition tracking"
 **Date:** Fri, 28 Aug 2026 17:47:33 +0000 (UTC)
 **From:** BGL Support <support@bengreenfieldfitness.com>

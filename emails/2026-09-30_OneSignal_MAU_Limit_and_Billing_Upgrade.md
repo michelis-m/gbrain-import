@@ -1,3 +1,9 @@
+---
+type: note
+title: OneSignal MAU Limit & Urgent Billing Upgrade Alert
+date: '2026-09-30'
+---
+
 # OneSignal MAU Limit & Urgent Billing Upgrade Alert
 
 **Date:** 2026-09-30  

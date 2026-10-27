@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Managed Returns: Pick & Pack Fee Confirmation & Workflow Next Steps'
+date: '2026-09-15'
+---
+
 # Redo Managed Returns: Pick & Pack Fee Confirmation & Workflow Next Steps
 
 **Date:** 2026-09-15  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'OpenBorder: August Invoice Recalculation & Kickstarter VAT'
+date: '2026-09-11'
+---
+
 # OpenBorder: August Invoice Recalculation & Kickstarter VAT
 
 **Date:** 2026-09-11  

@@ -1,4 +1,10 @@
-﻿00:00:33 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 02 Qalzy x REMAKER
+date: '2026-10-02'
+---
+
+00:00:33 - Michael Michelis (Qalzy)
       Humphrey, hi, how are you?
   00:00:34 - Humphrey Maddan (Remaker)
       Hey, Michael, good to see you.

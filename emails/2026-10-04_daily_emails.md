@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-04'
+date: '2026-10-04'
+---
+
 # Daily Email Summary: 2026-10-04
 
 ## 1. Organic Search & SEO Performance (Google Search Console)

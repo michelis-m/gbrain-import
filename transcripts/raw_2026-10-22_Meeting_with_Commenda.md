@@ -1,4 +1,10 @@
-﻿00:00:34 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 22 Meeting with Commenda
+date: '2026-10-22'
+---
+
+00:00:34 - Konstantinos Koukoravas (Qalzy)
       Manya, hi.
   00:00:35 - Michael Michelis (Qalzy)
       Hi.

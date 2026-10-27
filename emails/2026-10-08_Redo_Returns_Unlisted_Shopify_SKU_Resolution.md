@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Unlisted Shopify SKU Resolution for Influencer Orders'
+date: '2026-10-08'
+---
+
 # Redo Returns: Unlisted Shopify SKU Resolution for Influencer Orders
 
 **Date:** 2026-10-08  

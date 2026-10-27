@@ -1,7 +1,7 @@
 ---
 type: email
-title: "New: Add Link Buttons to your about.me page"
-date: 2026-07-31
+title: 'New: Add Link Buttons to your about.me page'
+date: 2026-07-31T00:00:00.000Z
 thread_id: 19fbd4735bb45696
 source: gmail
 participants:

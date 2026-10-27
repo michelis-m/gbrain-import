@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: [URGENT] Pause reshipment on missing items'
+date: '2026-08-28'
+---
+
 # Subject: Re: [URGENT] Pause reshipment on missing items
 **Date:** Fri, 28 Aug 2026 20:09:11 +0000
 **From:** Edlyn from Portless Support <support@portless.com>

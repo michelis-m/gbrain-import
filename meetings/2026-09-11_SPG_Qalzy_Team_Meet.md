@@ -1,3 +1,9 @@
+---
+type: meeting
+title: SPG <> Qalzy Team Introduction & Strategic Alignment
+date: '2026-09-11'
+---
+
 # SPG <> Qalzy Team Introduction & Strategic Alignment
 
 **Date:** 2026-09-11  

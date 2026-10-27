@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Demo Call: Ben Haxhiu (Funnel & CRO Consulting Evaluation)'
+date: '2026-09-10'
+---
+
 # Demo Call: Ben Haxhiu (Funnel & CRO Consulting Evaluation)
 
 **Date:** 2026-09-10  

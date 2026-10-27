@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling,
+  Awin Affiliate, and PDP CRO
+date: '2026-10-08'
+---
+
 # Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO
 
 **Date:** 2026-10-08  

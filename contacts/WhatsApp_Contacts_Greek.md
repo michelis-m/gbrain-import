@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts (Greek / Ελληνικά)"
+title: WhatsApp Contacts (Greek / Ελληνικά)
 tags:
   - contacts
   - whatsapp

@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 11 Intelistyle Standup and Qalzy Ad Strategy
+date: '2026-09-11'
+---
+
+00:00:00 - Speaker 1
       Good, good.    Sorry for the delay.    Do you want to start?    Yep.    So yesterday I did image quality for Epicure, Twisted, Cuba, and Guest, and then Epicure into a Shop the Look, and then Guest Reapprovals.    Today I'm doing some Guest Shop the Look.    There's new IDs, and then I'll continue with Guest Reapprovals.    That was good.    Anything else?    None.    Oh, okay.    Have a good day, too.
   00:00:31 - Michael Michelis (Qalzy)
       See you, John.

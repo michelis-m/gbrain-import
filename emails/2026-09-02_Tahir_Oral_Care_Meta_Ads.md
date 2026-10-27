@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Re: Intro (Meta Ads Discussion)'
+date: '2026-09-02'
+---
+
 # Re: Intro (Meta Ads Discussion)
 **Date:** 2026-09-02
 **From:** Kostas Koukoravas, Stefan White

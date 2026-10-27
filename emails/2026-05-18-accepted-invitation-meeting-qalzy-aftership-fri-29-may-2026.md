@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Accepted: Invitation: Meeting: Qalzy & AfterShip @ Fri 29 May 2026 1:30pm - 1:55pm (GMT+3) (michael@qalzy.com)"
-date: 2026-05-18
+title: >-
+  Accepted: Invitation: Meeting: Qalzy & AfterShip @ Fri 29 May 2026 1:30pm -
+  1:55pm (GMT+3) (michael@qalzy.com)
+date: 2026-05-18T00:00:00.000Z
 thread_id: 19e3a4c4bf54f1dc
 source: gmail
 participants:

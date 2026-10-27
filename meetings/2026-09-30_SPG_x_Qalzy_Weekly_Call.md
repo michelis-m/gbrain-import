@@ -1,3 +1,9 @@
+---
+type: meeting
+title: SPG x Qalzy Weekly Call
+date: '2026-09-30'
+---
+
 # SPG x Qalzy Weekly Call
 
 **Date:** 2026-09-30  

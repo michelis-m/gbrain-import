@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Trending stability issues for 2026-08-01 – Android com.qalzy.app"
-date: 2026-08-02
+title: 'Fwd: Trending stability issues for 2026-08-01 – Android com.qalzy.app'
+date: 2026-08-02T00:00:00.000Z
 thread_id: 19fc0eb608bb1012
 source: gmail
 participants:

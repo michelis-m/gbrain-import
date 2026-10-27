@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Fiverr UGC Video Ad Delivery: Sean C'
+date: '2026-10-03'
+---
+
 # Fiverr UGC Video Ad Delivery: Sean C
 
 **Date:** 2026-10-03  

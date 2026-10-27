@@ -1,3 +1,8 @@
+---
+type: person
+title: Mark Hyman
+---
+
 # Mark Hyman
 
 **Role:** Physician, Author & Functional Medicine Advocate  

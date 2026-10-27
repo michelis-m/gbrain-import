@@ -1,4 +1,10 @@
-  00:00:00 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 10 19 Impromptu Google Meet Meeting
+date: '2026-10-19'
+---
+
+00:00:00 - Kostas Koukoravas
       Hey, John.
   00:00:01 - John Karunungan
       Oh, good. How are you?
@@ -408,4 +414,3 @@
       αχ, με θα γίνει.
   00:54:50 - Kostas Koukoravas
       λοιπόν, καλέ. πάει.
-

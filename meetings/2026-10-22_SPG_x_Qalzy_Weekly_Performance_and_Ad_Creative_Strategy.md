@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy'
+date: '2026-10-22'
+---
+
 # SPG x Qalzy: Weekly Ad Performance & Holiday Scaling Strategy
 
 **Date:** 2026-10-22  

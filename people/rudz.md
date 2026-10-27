@@ -1,3 +1,8 @@
+---
+type: person
+title: Rudz
+---
+
 # Rudz
 
 **Role:** Support Specialist  

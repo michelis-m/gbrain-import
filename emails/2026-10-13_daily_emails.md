@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-13'
+date: '2026-10-13'
+---
+
 # Daily Email Summary: 2026-10-13
 
 ## 1. Supply Chain, Logistics & Fulfillment (Portless)

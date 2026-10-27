@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Redo Address'
+date: '2026-08-28'
+---
+
 # Subject: Redo Address
 **Date:** Fri, 28 Aug 2026 08:18:24 -0600
 **From:** Chloe Hu <chloe@portless.com>

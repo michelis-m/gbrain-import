@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Feedback to your App"
-date: 2026-07-22
+title: 'Re: Feedback to your App'
+date: 2026-07-22T00:00:00.000Z
 thread_id: 19f89ebc0a4f0127
 source: gmail
 participants:

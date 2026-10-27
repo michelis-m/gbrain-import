@@ -1,3 +1,9 @@
+---
+type: note
+title: 'TryAtria: MCP and API Metering & Pricing Update'
+date: '2026-09-15'
+---
+
 # TryAtria: MCP and API Metering & Pricing Update
 
 **Date:** 2026-09-15  

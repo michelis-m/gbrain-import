@@ -1,4 +1,10 @@
-﻿00:00:16 - Speaker 1
+---
+type: note
+title: raw 2026 10 13 Qalzy Klaviyo Flow Filter Fixes and Landing Page UX
+date: '2026-10-13'
+---
+
+00:00:16 - Speaker 1
       Το ακούς και το κυρίως πράγμα που έχει ενδιαφέρον είναι ότι άλλαξα τα profile filters, όταν μπαίνει κάποιος μέσα σε αυτό το flow.
   00:00:17 - Michael Michelis (Qalzy)
       Да.

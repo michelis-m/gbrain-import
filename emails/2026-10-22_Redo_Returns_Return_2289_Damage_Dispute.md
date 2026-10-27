@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Return #2289 Flagged Broken Dispute & Human Review'
+date: '2026-10-22'
+---
+
 # Redo Returns: Return #2289 Flagged Broken Dispute & Human Review
 
 **Date:** 2026-10-22  

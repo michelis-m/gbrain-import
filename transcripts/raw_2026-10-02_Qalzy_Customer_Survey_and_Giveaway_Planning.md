@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 10 02 Qalzy Customer Survey and Giveaway Planning
+date: '2026-10-02'
+---
+
+00:00:00 - Speaker 1
       Έβγαλα μερικά.    Είναι αρκετά ακόμα.    Και μπορούμε να το αφήσουμε να αφήσουμε αυτό.
   00:00:07 - Michael Michelis (Qalzy)
       I'm sure it can handle the meals and food I eat.    I don't know if it works.    I don't if

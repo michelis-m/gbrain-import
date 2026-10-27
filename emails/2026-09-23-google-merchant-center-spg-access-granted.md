@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Google Merchant Center: Social Paradigm Group Access Granted'
+date: '2026-09-23'
+---
+
 # Google Merchant Center: Social Paradigm Group Access Granted
 
 **Date:** 2026-09-23  

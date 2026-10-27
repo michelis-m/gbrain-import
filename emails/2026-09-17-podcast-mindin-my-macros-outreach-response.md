@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Podcast Lead: Mindin'' My Macros Response'
+date: '2026-09-17'
+---
+
 # Podcast Lead: Mindin' My Macros Response
 
 **Date:** 2026-09-17  

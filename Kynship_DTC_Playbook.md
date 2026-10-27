@@ -1,3 +1,8 @@
+---
+type: note
+title: 'The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce'
+---
+
 # The Kynship DTC Performance Playbook: Master Guide to Scaling Ecommerce
 
 **Author/Source:** Synthesized from [[companies/kynship]]'s complete blog archives and methodology (Cody Wittick, Taylor Lagace, Nicholas Bauer, Tom Siswick).  

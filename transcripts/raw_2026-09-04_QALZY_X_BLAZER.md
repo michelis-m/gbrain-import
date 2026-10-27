@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 04 QALZY X BLAZER
+date: '2026-09-04'
+---
+
+00:00:00 - Speaker 1
       How are you going, man?    Good.    How about you?    Good.    Well, obviously, we're a little bit worried because, you know, it looks like the winning creatives are dying out.    We've had a terrible performance over the last couple of days, and we can't let these run over the weekend without at least testing anything else because we're going to lose more money.    So that's the overall concern, and I think I've said the rest over the chat.    I don't know what the plan is for these ads, but it feels like they were delivered half-finished, with no subtitles, no proper editing, so I wasn't really sure why you guys were let's cover this, yeah, let's cover this, yeah.    We're provided just by you, we just, well, you hear me, guys?
   00:00:56 - Michael Michelis (Qalzy)
       Yep.

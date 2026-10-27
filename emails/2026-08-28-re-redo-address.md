@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Redo Address'
+date: '2026-08-28'
+---
+
 # Subject: Re: Redo Address
 **Date:** Fri, 28 Aug 2026 17:29:55 +0300
 **From:** Konstantinos Koukoravas <kostas@qalzy.com>

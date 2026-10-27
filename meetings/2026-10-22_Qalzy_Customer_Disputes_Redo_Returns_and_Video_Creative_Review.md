@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Operations: Customer Dispute, Redo Returns & Video Production'
+date: '2026-10-22'
+---
+
 # Qalzy Operations: Customer Dispute, Redo Returns & Video Production
 
 **Date:** 2026-10-22  

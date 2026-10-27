@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Video editing tack"
-date: 2026-06-08
+title: Video editing tack
+date: 2026-06-08T00:00:00.000Z
 thread_id: 19e9d35c3ee8447b
 source: gmail
 participants:

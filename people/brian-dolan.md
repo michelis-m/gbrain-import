@@ -1,3 +1,8 @@
+---
+type: person
+title: Brian Dolan
+---
+
 # Brian Dolan
 
 **Role:** Founder & Editor at Exits & Outcomes  

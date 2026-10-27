@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Your welcome gift awaits 🎁'
+date: '2026-08-30'
+---
+
 # Subject: Your welcome gift awaits 🎁
 **Date:** Sun, 30 Aug 2026 13:57:56 +0000
 **From:** Printful <updates-en@newsletter.printful.com>

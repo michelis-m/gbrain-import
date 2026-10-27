@@ -1,3 +1,8 @@
+---
+type: note
+title: Qalzy Ad Platform Connectors
+---
+
 # Qalzy Ad Platform Connectors
 
 This document outlines the active ad platform integrations and their respective configurations used by the agent to pull metrics and audit data.

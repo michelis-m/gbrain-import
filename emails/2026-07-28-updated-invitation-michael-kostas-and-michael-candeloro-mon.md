@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Updated invitation: Michael + Kostas and Michael Candeloro @ Mon 17 Aug 2026 2pm - 2:30pm (GMT+3) (michael@qalzy.com)"
-date: 2026-07-28
+title: >-
+  Updated invitation: Michael + Kostas and Michael Candeloro @ Mon 17 Aug 2026
+  2pm - 2:30pm (GMT+3) (michael@qalzy.com)
+date: 2026-07-28T00:00:00.000Z
 thread_id: 19f6602d100065a9
 source: gmail
 participants:

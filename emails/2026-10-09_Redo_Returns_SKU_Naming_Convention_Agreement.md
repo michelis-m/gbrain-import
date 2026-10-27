@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: SKU Mapping & Naming Convention Agreement'
+date: '2026-10-09'
+---
+
 # Redo Returns: SKU Mapping & Naming Convention Agreement
 
 **Date:** 2026-10-09  

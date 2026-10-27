@@ -1,3 +1,8 @@
+---
+type: person
+title: Sofie Zane (Redo)
+---
+
 # Sofie Zane (Redo)
 
 **Role:** Warehouse Specialist / Inspection Support  

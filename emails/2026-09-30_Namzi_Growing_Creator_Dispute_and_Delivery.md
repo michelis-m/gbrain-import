@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Namzi Growing: Creator Contract Dispute & Delivery Enforcement'
+date: '2026-09-30'
+---
+
 # Namzi Growing: Creator Contract Dispute & Delivery Enforcement
 
 **Date:** 2026-09-30  

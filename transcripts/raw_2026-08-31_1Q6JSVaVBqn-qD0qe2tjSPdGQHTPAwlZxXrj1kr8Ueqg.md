@@ -1,4 +1,10 @@
-﻿00:00:23 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 31 1Q6JSVaVBqn qD0qe2tjSPdGQHTPAwlZxXrj1kr8Ueqg
+date: '2026-08-31'
+---
+
+00:00:23 - Michael Michelis (Qalzy)
       Hello Ronaldas.
   00:00:26 - Speaker 2
       Hey guys, can you hear me?

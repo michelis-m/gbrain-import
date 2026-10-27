@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Klaviyo Operations: Abandoned Cart Funnel Diagnosis & Deliverability
+  Fixes
+date: '2026-10-12'
+---
+
 # Qalzy Klaviyo Operations: Abandoned Cart Funnel Diagnosis & Deliverability Fixes
 
 **Date:** 2026-10-12  

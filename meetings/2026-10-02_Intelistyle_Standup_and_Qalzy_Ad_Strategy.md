@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Ad Demographics, Email Flows, and AI
+  Creatives
+date: '2026-10-02'
+---
+
 # Intelistyle Standup & Qalzy Operations: Ad Demographics, Email Flows, and AI Creatives
 
 **Date:** 2026-10-02  

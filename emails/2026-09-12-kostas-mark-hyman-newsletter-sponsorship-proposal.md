@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Kostas Proposal: Dr. Mark Hyman Newsletter Recipe Sponsorship'
+date: '2026-09-12'
+---
+
 # Kostas Proposal: Dr. Mark Hyman Newsletter Recipe Sponsorship
 
 **Date:** 2026-09-12 17:48 +0300 (14:48 UTC)  

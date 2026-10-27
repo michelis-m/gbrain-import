@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'BRDG: US Operating Models, Customs Regulations & Nexus Strategy'
+date: '2026-10-22'
+---
+
 # BRDG: US Operating Models, Customs Regulations & Nexus Strategy
 
 **Date:** 2026-10-22  

@@ -1,4 +1,10 @@
-﻿00:00:05 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 21 Michael and Mike Eom
+date: '2026-10-21'
+---
+
+00:00:05 - Konstantinos Koukoravas (Qalzy)
       Morning.
   00:00:10 - Mike Eom (FAMILINK)
       Hey guys, how's it going?

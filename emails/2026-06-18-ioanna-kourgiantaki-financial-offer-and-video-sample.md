@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Ioanna Kourgiantaki - Financial Offer and Video Sample"
-date: 2026-06-18
+title: Ioanna Kourgiantaki - Financial Offer and Video Sample
+date: 2026-06-18T00:00:00.000Z
 thread_id: 192579fc6d139fd2
 source: gmail
 participants:

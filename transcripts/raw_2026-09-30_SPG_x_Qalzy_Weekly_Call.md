@@ -1,4 +1,10 @@
-  00:00:01 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 09 30 SPG x Qalzy Weekly Call
+date: '2026-09-30'
+---
+
+00:00:01 - Konstantinos Koukoravas (Qalzy)
       Hey, hi, how are you doing?
   00:00:03 - Syed Hussain (Social Paradigm Group)
       Hi, Michael, how are you doing? Hey, Kostas.
@@ -508,4 +514,3 @@
       Yeah, let's discuss this in more detail on our next call. So, we can come up with next steps as well. Thank you. Thank you, guys. Appreciate your time.
   01:09:02 - Konstantinos Koukoravas (Qalzy)
       Cheers. Take care. Bye-bye.
-

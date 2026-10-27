@@ -1,4 +1,10 @@
-  00:00:08 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 23 Intelistyle Standup and Trustpilot Review Dispute
+date: '2026-09-23'
+---
+
+00:00:08 - Michael Michelis (Qalzy)
       Thank very much.
   00:00:09 - Speaker 2
       Good morning.    Good morning.    Good morning.    Hi, good morning.    How are you?    All good.    Amazing.    Just feeling under the weather.    It's raining.    Yeah.    Oh no, you caught something?    No, I think it's just like change of weather.    Okay.    All right.    What do you start?    So yesterday, I didn't I image quality for guests and guest shop the look, and then I'm almost done.    One with Getshop, the new IDs, and then I'll continue with re-approvals.    Okay, all right.    Sounds good.    Anything else?    None.    All right.    Have a good day.    Cheers.    Bye-bye.    Thank you.    Have a good day.
@@ -54,4 +60,3 @@
       Καλύτερο και από καθέ.
   00:08:17 - Speaker 2
       Ακούνε να δεις να βάλω το άλλο έδαφε να ξεκινήσουμε, γιατί έχουμε κάνει νέο report.
-

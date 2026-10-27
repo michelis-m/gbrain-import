@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Meta Ads: $900 Billing Receipt & On-Device Pixel Attribution Changes'
+date: '2026-10-17'
+---
+
 # Meta Ads: $900 Billing Receipt & On-Device Pixel Attribution Changes
 
 **Date:** 2026-10-17  

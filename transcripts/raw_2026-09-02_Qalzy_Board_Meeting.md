@@ -1,4 +1,10 @@
-﻿00:00:01 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 02 Qalzy Board Meeting
+date: '2026-09-02'
+---
+
+00:00:01 - Michael Michelis (Qalzy)
       Thank you.    Έλα, σε ακούω.
   00:01:24 - Speaker 2
       So I did restart.    It didn't, it does now, and maybe because I'm not in tests.

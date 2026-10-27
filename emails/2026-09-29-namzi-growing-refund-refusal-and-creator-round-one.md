@@ -1,3 +1,9 @@
+---
+type: note
+title: Namzi Growing Refund Refusal & Creator Round 1 Proposal
+date: '2026-09-29'
+---
+
 # Namzi Growing Refund Refusal & Creator Round 1 Proposal
 
 **Date:** 2026-09-29  

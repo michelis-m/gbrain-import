@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Google Cloud: Gemini API 429 Rate Limits and Provisioned Throughput Proposal'
+date: '2026-10-15'
+---
+
 # Google Cloud: Gemini API 429 Rate Limits and Provisioned Throughput Proposal
 
 **Date:** 2026-10-15  

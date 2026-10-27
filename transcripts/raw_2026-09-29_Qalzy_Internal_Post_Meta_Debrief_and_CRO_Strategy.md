@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 29 Qalzy Internal Post Meta Debrief and CRO Strategy
+date: '2026-09-29'
+---
+
+00:00:00 - Speaker 1
       Εμένα, εμένα, εμένα, εμένα, εμένα, εμένα, εμένα, εμένα, τίπησα, είναι άσχετη σε φάση άσχετη για βάζει, AI bot να είχες, παίζει για να έκανες καλύτερο conversation μαζί του.
   00:00:08 - Michael Michelis (Qalzy)
       Και εκεί που είπε 10, 10, 10, 250, εντάξει, Fathomage, glorified VA, burn of money που λέξε του Fathomage, δεν ξέρω, τίποτα δεν πιστεύω αυτό, μου είναι zero faith, zero faith όμως, δεν ξέρω, δεν ξέρω, πάντως αυτό με τον creatives μέσα στο τέτοιο, το έλεγε και στα blog τους, αυτό ναι, αλλά...

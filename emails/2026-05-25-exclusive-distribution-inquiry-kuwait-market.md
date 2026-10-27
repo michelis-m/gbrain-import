@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Exclusive Distribution Inquiry – Kuwait Market"
-date: 2026-05-25
+title: Exclusive Distribution Inquiry – Kuwait Market
+date: 2026-05-25T00:00:00.000Z
 thread_id: 19e5bd57cace2524
 source: gmail
 participants:

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Military Order #2196 In Transit & PBID007752619 PODs Delivered'
+date: '2026-09-28'
+---
+
 # Portless: Military Order #2196 In Transit & PBID007752619 PODs Delivered
 
 **Date:** 2026-09-28  

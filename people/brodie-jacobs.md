@@ -1,3 +1,8 @@
+---
+type: person
+title: Brodie Jacobs
+---
+
 # Brodie Jacobs
 
 **Role:** VP of Sales  

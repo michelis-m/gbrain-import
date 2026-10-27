@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Fulfillment Logic Switch & SKU Remapping Bug'
+date: '2026-10-21'
+---
+
 # Redo Returns: Fulfillment Logic Switch & SKU Remapping Bug
 
 **Date:** 2026-10-21  

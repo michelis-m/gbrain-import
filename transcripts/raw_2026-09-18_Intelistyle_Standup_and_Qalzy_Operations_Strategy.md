@@ -1,4 +1,10 @@
-﻿00:00:30 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 18 Intelistyle Standup and Qalzy Operations Strategy
+date: '2026-09-18'
+---
+
+00:00:30 - Michael Michelis (Qalzy)
       Hey, John.
   00:00:32 - John Karunungan
       How are you?

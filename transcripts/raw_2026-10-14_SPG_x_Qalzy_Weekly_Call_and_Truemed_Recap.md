@@ -1,4 +1,10 @@
-﻿00:00:00 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 14 SPG x Qalzy Weekly Call and Truemed Recap
+date: '2026-10-14'
+---
+
+00:00:00 - Konstantinos Koukoravas (Qalzy)
       We're on a call running over on a jet.
   00:00:02 - Syed Hussain (Social Paradigm Group)
       No worries, no worries, no problems at all. How have you guys been?

@@ -1,3 +1,8 @@
+---
+type: person
+title: Sydney Harper
+---
+
 # Sydney Harper
 
 **Role:** Senior Coordinator, Customer Service  

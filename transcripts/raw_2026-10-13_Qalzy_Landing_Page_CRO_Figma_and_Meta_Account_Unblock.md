@@ -1,4 +1,10 @@
-﻿00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 10 13 Qalzy Landing Page CRO Figma and Meta Account Unblock
+date: '2026-10-13'
+---
+
+00:00:01 - Speaker 1
       Αυτό για κάποιον λόγο είναι πολύ ψηλά, τότε θα είναι λίγο fake.
   00:00:18 - Michael Michelis (Qalzy)
       Όχι.    Νομίζω να κάνεις resize.    Δεν κάνουν resize.    Πρέπει να κάνεις refresh.    Για να δεις την πραγματικά τέτοια.    Το είχαμε φτιάξει έτσι από τους filler.    Δεν ξέρω γιατί είναι έτσι.    Ε, εντάξει.    Και ξέρεις.    Δεν ξέρω τι.

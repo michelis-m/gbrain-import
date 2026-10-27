@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Welcome to the App Store Small Business Program."
-date: 2026-06-13
+title: 'Fwd: Welcome to the App Store Small Business Program.'
+date: 2026-06-13T00:00:00.000Z
 thread_id: 19ebfdbe9f748f00
 source: gmail
 participants:

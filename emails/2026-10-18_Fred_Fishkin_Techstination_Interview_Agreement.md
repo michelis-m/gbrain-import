@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Techstination: Fred Fishkin Agrees to Zoom Interview'
+date: '2026-10-18'
+---
+
 # Techstination: Fred Fishkin Agrees to Zoom Interview
 
 **Date:** 2026-10-18  

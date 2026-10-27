@@ -1,3 +1,8 @@
+---
+type: person
+title: Chanae (Revital Health)
+---
+
 # Chanae (Revital Health)
 
 **Role:** Podcast Producer / Communications Coordinator  

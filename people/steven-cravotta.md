@@ -1,3 +1,8 @@
+---
+type: person
+title: Steven Cravotta
+---
+
 # Steven Cravotta
 
 **Role:** Founder  

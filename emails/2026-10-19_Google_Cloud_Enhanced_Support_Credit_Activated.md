@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Google Cloud: $11,910 Enhanced Support Startup Credit'
+date: '2026-10-19'
+---
+
 # Google Cloud: $11,910 Enhanced Support Startup Credit
 
 **Date:** 2026-10-19  

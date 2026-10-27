@@ -1,3 +1,8 @@
+---
+type: person
+title: Andrei Zimiles
+---
+
 # Andrei Zimiles
 
 **Role:** Entrepreneur & Investor  

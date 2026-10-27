@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Creator Partnerships: Mel Chiappone Collaboration Terms & Retention'
+date: '2026-10-22'
+---
+
 # Creator Partnerships: Mel Chiappone Collaboration Terms & Retention
 
 **Date:** 2026-10-22  

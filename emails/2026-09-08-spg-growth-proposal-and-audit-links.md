@@ -1,3 +1,9 @@
+---
+type: note
+title: SPG Proposal & Ad Account Audit Deliverables
+date: '2026-09-08'
+---
+
 # SPG Proposal & Ad Account Audit Deliverables
 
 **Date:** 2026-09-08  

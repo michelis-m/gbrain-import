@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Google Ads: £400 Promotional Ad Credit Awarded'
+date: '2026-09-09'
+---
+
 # Google Ads: £400 Promotional Ad Credit Awarded
 
 **Date:** 2026-09-09  

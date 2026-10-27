@@ -1,3 +1,8 @@
+---
+type: person
+title: Richard Hong
+---
+
 # Richard Hong
 
 **Role:** Co-Founder  

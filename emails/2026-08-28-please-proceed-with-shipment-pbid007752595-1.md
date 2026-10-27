@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Please proceed with shipment PBID007752595-1'
+date: '2026-08-28'
+---
+
 # Subject: Please proceed with shipment PBID007752595-1
 **Date:** Fri, 28 Aug 2026 17:57:57 +0300
 **From:** Konstantinos Koukoravas <kostas@qalzy.com>

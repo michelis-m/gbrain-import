@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-06'
+date: '2026-10-06'
+---
+
 # Daily Email Summary: 2026-10-06
 
 ## 1. Partnerships, Venture Capital & Inbound Opportunities

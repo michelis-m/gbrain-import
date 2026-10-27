@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Inbound Wholesale: Familink South Korea Distribution Strategy Meeting
+  Scheduled
+date: '2026-10-15'
+---
+
 # Inbound Wholesale: Familink South Korea Distribution Strategy Meeting Scheduled
 
 **Date:** 2026-10-15  

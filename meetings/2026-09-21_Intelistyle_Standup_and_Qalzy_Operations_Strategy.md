@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Qalzy Operations Strategy
+date: '2026-09-21'
+---
+
 # Intelistyle Standup & Qalzy Operations Strategy
 
 **Date:** 2026-09-21  

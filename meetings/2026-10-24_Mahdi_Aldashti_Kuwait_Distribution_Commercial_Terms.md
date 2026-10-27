@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing &
+  Localization
+date: '2026-10-24'
+---
+
 # Qalzy <> Mahdi Aldashti: Kuwait Commercial Distribution Agreement, Pricing & Localization
 
 **Date:** 2026-10-24  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-08'
+date: '2026-10-08'
+---
+
 # Daily Email Summary: 2026-10-08
 
 ## 1. Supply Chain, Logistics & Inventory Transition

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "ACTION NEEDED | QALZY | Delivery Issues"
-date: 2026-08-14
+title: ACTION NEEDED | QALZY | Delivery Issues
+date: 2026-08-14T00:00:00.000Z
 thread_id: 19fef15c63d64a77
 source: gmail
 participants:

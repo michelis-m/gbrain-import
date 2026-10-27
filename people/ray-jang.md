@@ -1,3 +1,8 @@
+---
+type: person
+title: Ray Jang
+---
+
 # Ray Jang
 
 **Role:** Founder & CEO  

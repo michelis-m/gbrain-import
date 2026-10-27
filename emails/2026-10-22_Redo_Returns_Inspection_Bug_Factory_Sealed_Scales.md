@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Inspection Bug Misgrading Factory-Sealed Scales'
+date: '2026-10-22'
+---
+
 # Redo Returns: Inspection Bug Misgrading Factory-Sealed Scales
 
 **Date:** 2026-10-22  

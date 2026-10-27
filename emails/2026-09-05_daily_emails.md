@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-05'
+date: '2026-09-05'
+---
+
 # Daily Email Summary: 2026-09-05
 
 ## Critical Attention Required

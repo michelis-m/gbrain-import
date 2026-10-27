@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: RTS Reshipment Confirmation & Kickstarter Batch 8'
+date: '2026-09-10'
+---
+
 # Portless: RTS Reshipment Confirmation & Kickstarter Batch 8
 
 **Date:** 2026-09-10  

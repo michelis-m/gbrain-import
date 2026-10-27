@@ -1,4 +1,10 @@
-﻿00:00:07 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 21 doola Kostas Koukoravas and Parshwa Mehta
+date: '2026-10-21'
+---
+
+00:00:07 - Konstantinos Koukoravas (Qalzy)
       Liam, okay?
   00:00:08 - Parshwa Mehta (Doola)
       Hey.

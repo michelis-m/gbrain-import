@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Familink: South Korea Wholesale Distribution Strategy'
+date: '2026-10-21'
+---
+
 # Familink: South Korea Wholesale Distribution Strategy
 
 **Date:** 2026-10-21  

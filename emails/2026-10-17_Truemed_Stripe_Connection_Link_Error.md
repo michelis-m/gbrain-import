@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Truemed: Stripe Underwriting Connection Link Error'
+date: '2026-10-17'
+---
+
 # Truemed: Stripe Underwriting Connection Link Error
 
 **Date:** 2026-10-17  

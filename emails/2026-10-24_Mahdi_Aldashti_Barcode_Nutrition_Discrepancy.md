@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Mahdi Aldashti: Barcode Scanning Nutrition Discrepancy'
+date: '2026-10-24'
+---
+
 # Mahdi Aldashti: Barcode Scanning Nutrition Discrepancy
 
 **Date:** 2026-10-24  

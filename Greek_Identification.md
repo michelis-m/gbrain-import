@@ -1,3 +1,8 @@
+---
+type: note
+title: Greek Identification Details
+---
+
 # Greek Identification Details
 
 * **Name:** Μιχαήλ Μιχελής (Michael Michelis)

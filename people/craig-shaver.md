@@ -1,3 +1,8 @@
+---
+type: person
+title: Craig Shaver
+---
+
 # Craig Shaver
 
 **Role:** Account Operations / Logistics Lead  

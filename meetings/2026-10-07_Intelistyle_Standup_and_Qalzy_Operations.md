@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo
+  Returns, and CES Travel
+date: '2026-10-07'
+---
+
 # Intelistyle Standup & Qalzy Operations: Creator Marketplace, App Fixes, Redo Returns, and CES Travel
 
 **Date:** 2026-10-07  

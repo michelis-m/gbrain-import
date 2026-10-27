@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Customs Issues | Qalzy"
-date: 2026-08-13
+title: Customs Issues | Qalzy
+date: 2026-08-13T00:00:00.000Z
 thread_id: 19fdf11d017b0047
 source: gmail
 participants:

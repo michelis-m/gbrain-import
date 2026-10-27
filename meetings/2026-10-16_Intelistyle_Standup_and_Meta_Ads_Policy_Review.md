@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Meta Ads Policy Review
+date: '2026-10-16'
+---
+
 # Intelistyle Standup & Meta Ads Policy Review
 
 **Date:** 2026-10-16  

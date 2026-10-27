@@ -1,3 +1,9 @@
+---
+type: note
+title: 'OpenBorder: August 2026 Invoice & Order Reconciliation'
+date: '2026-09-09'
+---
+
 # OpenBorder: August 2026 Invoice & Order Reconciliation
 
 **Date:** 2026-09-09  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Great news! A custom offer, just for you'
+date: '2026-08-28'
+---
+
 # Subject: Great news! A custom offer, just for you
 **Date:** Fri, 28 Aug 2026 11:32:51 +0000
 **From:** Fiverr <noreply@e.fiverr.com>

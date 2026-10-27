@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Email Creative and FAQ Design Review
+date: '2026-09-30'
+---
+
 # Qalzy Email Creative and FAQ Design Review
 
 **Date:** 2026-09-30  

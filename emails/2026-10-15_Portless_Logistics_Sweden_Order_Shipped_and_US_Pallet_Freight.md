@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and
+  Order Holds
+date: '2026-10-15'
+---
+
 # Portless Logistics: Sweden Delivery Dispatch, US Palletizing Freight, and Order Holds
 
 **Date:** 2026-10-15  

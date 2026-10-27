@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns
+date: '2026-09-25'
+---
+
 # Intelistyle Standup & Qalzy Creative Fatigue, Scale Guide & Returns
 
 **Date:** 2026-09-25  

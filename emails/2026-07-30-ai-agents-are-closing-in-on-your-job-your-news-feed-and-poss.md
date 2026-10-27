@@ -1,7 +1,9 @@
 ---
 type: email
-title: "AI Agents are closing in on your job, your news feed, and possibly the planet. And Sundar just got paid $692M to watch it all go down"
-date: 2026-07-30
+title: >-
+  AI Agents are closing in on your job, your news feed, and possibly the planet.
+  And Sundar just got paid $692M to watch it all go down
+date: 2026-07-30T00:00:00.000Z
 thread_id: 19ce32e20a48ed9d
 source: gmail
 participants:

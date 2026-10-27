@@ -1,7 +1,7 @@
 ---
 type: email
-title: "health-conscious individuals needing calorie tracking"
-date: 2026-06-30
+title: health-conscious individuals needing calorie tracking
+date: 2026-06-30T00:00:00.000Z
 thread_id: 19f0967abc040f4d
 source: gmail
 participants:

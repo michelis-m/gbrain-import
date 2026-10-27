@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Daily Sync: Blazer Performance Review & Ad Architecture Strategy'
+date: '2026-09-09'
+---
+
 # Qalzy Daily Sync: Blazer Performance Review & Ad Architecture Strategy
 
 **Date:** 2026-09-09  

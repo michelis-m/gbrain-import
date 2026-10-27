@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 18 Intelistyle Annual Accounts and Going Concern
+date: '2026-09-18'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Yep.
   00:00:02 - Speaker 2
       Φυσπαθώ να τελειώσω τα accounts για το Intel style.    Ένα από τα πράγματα που κάνουμε κάθε χρονιά και με τρατάει ο accountant, είναι αν πιστεύουμε ότι το company είναι going concern.    Αυτό σημαίνει ότι αν πιστεύεις ότι θα χρεοκοπήσεις και διεσκοπίζεις να κλείσεις την εταιρεία μέσα στον επόμενο χρόνο.    Γι' αυτό πρέπει να γίνει disclose.

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'TrackBee: Klaviyo Flow Optimization & Revenue Lift Pitch'
+date: '2026-10-10'
+---
+
 # TrackBee: Klaviyo Flow Optimization & Revenue Lift Pitch
 
 **Date:** 2026-10-10  

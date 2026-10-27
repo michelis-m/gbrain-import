@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Influencer Partnership: Laurel Macdougall (@thecleaneatingmom)'
+date: '2026-10-19'
+---
+
 # Influencer Partnership: Laurel Macdougall (@thecleaneatingmom)
 
 **Date:** 2026-10-19  

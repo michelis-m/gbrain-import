@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 04 Kostas Koukoravas and Sy Whitehall
+date: '2026-09-04'
+---
+
+00:00:00 - Speaker 1
       How are you?    Nice to meet your acquaintance, Kostas.    And Michael, hi, good morning.
   00:00:04 - Michael Michelis (Qalzy)
       Good morning.    How are you doing?

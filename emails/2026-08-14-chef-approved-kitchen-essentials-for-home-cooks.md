@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Chef-Approved Kitchen Essentials for Home Cooks"
-date: 2026-08-14
+title: Chef-Approved Kitchen Essentials for Home Cooks
+date: 2026-08-14T00:00:00.000Z
 thread_id: 19fffb3e72962927
 source: gmail
 participants:

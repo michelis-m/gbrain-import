@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Order PBID007833475 Customs Clearance & HS Code Resolution'
+date: '2026-10-12'
+---
+
 # Portless: Order PBID007833475 Customs Clearance & HS Code Resolution
 
 **Date:** 2026-10-12  

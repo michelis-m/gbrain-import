@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless Billings: Norway Orders Declared Value & VOEC VAT Filing Ultimatum'
+date: '2026-10-14'
+---
+
 # Portless Billings: Norway Orders Declared Value & VOEC VAT Filing Ultimatum
 
 **Date:** 2026-10-14  

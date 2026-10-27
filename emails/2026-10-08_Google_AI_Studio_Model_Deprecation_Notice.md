@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Google AI Studio: Deprecation Notice & Migration to Gemini Omni 1.1 Flash'
+date: '2026-10-08'
+---
+
 # Google AI Studio: Deprecation Notice & Migration to Gemini Omni 1.1 Flash
 
 **Date:** 2026-10-08  

@@ -1,7 +1,9 @@
 ---
 type: email
-title: "RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm - 4:30pm (GMT+3) (Steve Aylott)"
-date: 2026-06-24
+title: >-
+  RE: [EXTERNAL] Declined: Qalzy / Seko Intro / Discovery   @ Thu 4 Jun 2026 4pm
+  - 4:30pm (GMT+3) (Steve Aylott)
+date: 2026-06-24T00:00:00.000Z
 thread_id: 19e925a50473296c
 source: gmail
 participants:

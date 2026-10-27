@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Your One-Time-Password for Qalzy"
-date: 2026-08-01
+title: 'Re: Your One-Time-Password for Qalzy'
+date: 2026-08-01T00:00:00.000Z
 thread_id: 19fb8ff2c57b8586
 source: gmail
 participants:

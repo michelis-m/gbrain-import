@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Returns: Inventory Sync Update & Onboarding Call Invitation'
+date: '2026-09-14'
+---
+
 # Redo Returns: Inventory Sync Update & Onboarding Call Invitation
 
 **Date:** 2026-09-14  

@@ -1,3 +1,8 @@
+---
+type: person
+title: Valeria Kondova
+---
+
 # Valeria Kondova
 
 **Role:** Analyst  

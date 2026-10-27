@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless Support: Return-to-Origin vs Destruction Policy (PBID007771348)'
+date: '2026-09-26'
+---
+
 # Portless Support: Return-to-Origin vs Destruction Policy (PBID007771348)
 
 **Date:** 2026-09-26  

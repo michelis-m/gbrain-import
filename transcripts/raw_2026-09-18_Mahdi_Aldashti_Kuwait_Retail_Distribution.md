@@ -1,4 +1,10 @@
-﻿00:00:00 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 09 18 Mahdi Aldashti Kuwait Retail Distribution
+date: '2026-09-18'
+---
+
+00:00:00 - Konstantinos Koukoravas (Qalzy)
       Okay.
   00:00:35 - Michael Michelis (Qalzy)
       Mahdi, hi.    Can you hear me?

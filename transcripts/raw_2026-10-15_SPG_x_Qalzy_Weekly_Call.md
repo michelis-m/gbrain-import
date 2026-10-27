@@ -1,4 +1,10 @@
-﻿00:00:00 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 15 SPG x Qalzy Weekly Call
+date: '2026-10-15'
+---
+
+00:00:00 - Konstantinos Koukoravas (Qalzy)
       Probably we need to do something about it. So, uh, that's, that's the plan right now.
   00:00:04 - Syed Hussain (Social Paradigm Group)
       Nice, nice. And another thought, hi, Michael.

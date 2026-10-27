@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless Logistics: Palletization Clarification, Orders & Invoice Payment'
+date: '2026-10-21'
+---
+
 # Portless Logistics: Palletization Clarification, Orders & Invoice Payment
 
 **Date:** 2026-10-21  

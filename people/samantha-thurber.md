@@ -1,3 +1,8 @@
+---
+type: person
+title: Samantha Thurber
+---
+
 # Samantha Thurber
 
 **Role:** Wellness & Lifestyle UGC Creator  

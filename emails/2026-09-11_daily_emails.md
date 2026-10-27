@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-11'
+date: '2026-09-11'
+---
+
 # Daily Email Summary: 2026-09-11
 
 ## 1. Critical Attention & Urgent Action Items

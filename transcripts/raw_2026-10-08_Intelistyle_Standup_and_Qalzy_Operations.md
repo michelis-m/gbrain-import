@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 10 08 Intelistyle Standup and Qalzy Operations
+date: '2026-10-08'
+---
+
+00:00:00 - Speaker 1
       Pretty cool with you, pretty cool.    Alright, what do you start?    So yesterday I did image quality for the Kiba and Epicure, and then I did Gashop the look, and then today I continue with Gashop the look, and then I'll do the Kiba and Epicure, because there's a couple of looks that I needed to finish.    And then I'll go back to this.    Guests disappeared again.    They're like, we wanted to go live today, but we just discovered more things that are your fault.
   00:00:34 - Michael Michelis (Qalzy)
       Благодарю себе.

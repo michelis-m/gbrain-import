@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: PBID007752837 - 1 scale was sent instead of two'
+date: '2026-08-29'
+---
+
 # Subject: Re: PBID007752837 - 1 scale was sent instead of two
 **Date:** Sat, 29 Aug 2026 10:00:44 +0300
 **From:** michael@qalzy.com

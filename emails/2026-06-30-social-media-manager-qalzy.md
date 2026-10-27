@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Social Media Manager - Qalzy"
-date: 2026-06-30
+title: Social Media Manager - Qalzy
+date: 2026-06-30T00:00:00.000Z
 thread_id: 19efa09d57ab3812
 source: gmail
 participants:

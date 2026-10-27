@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: 🎯 Ready to Crush Your Weight Goals?"
-date: 2026-07-06
+title: 'Re: 🎯 Ready to Crush Your Weight Goals?'
+date: 2026-07-06T00:00:00.000Z
 thread_id: 19f19ba47a6926df
 source: gmail
 participants:

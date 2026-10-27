@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: [URGENT] More problems with missing phone numbers - PBID007833618'
+date: '2026-08-28'
+---
+
 # Subject: Re: [URGENT] More problems with missing phone numbers - PBID007833618
 **Date:** Fri, 28 Aug 2026 16:58:44 +0000
 **From:** Tina from Portless Support <support@portless.com>

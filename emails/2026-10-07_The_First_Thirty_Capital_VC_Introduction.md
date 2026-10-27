@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Investor Outreach: The First Thirty Capital'
+date: '2026-10-07'
+---
+
 # Investor Outreach: The First Thirty Capital
 
 **Date:** 2026-10-07  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: PBID007753512 - Being returned to sender, no phone number again'
+date: '2026-08-28'
+---
+
 # Subject: Re: PBID007753512 - Being returned to sender, no phone number again
 **Date:** Fri, 28 Aug 2026 20:47:00 +0000
 **From:** Tina from Portless Support <support@portless.com>

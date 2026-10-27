@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Onboarding Tips & Tricks with Justin Tomlinson (Lucky Orange)
+date: '2026-09-04'
+---
+
 # Onboarding Tips & Tricks with Justin Tomlinson (Lucky Orange)
 **Date:** 2026-09-04
 **Attendees:** [[people/michael-michelis]], [[people/justin-tomlinson]]

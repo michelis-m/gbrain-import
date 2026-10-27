@@ -1,3 +1,9 @@
+---
+type: note
+title: 'OptiMonk: Monthly Account Pageview Limit Reached'
+date: '2026-10-17'
+---
+
 # OptiMonk: Monthly Account Pageview Limit Reached
 
 **Date:** 2026-10-17  

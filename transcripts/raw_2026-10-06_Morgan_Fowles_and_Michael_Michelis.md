@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 06 Morgan Fowles and Michael Michelis
+date: '2026-10-06'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       What about you?
   00:00:01 - mhsfowles@gmail.com
       I am good.    Where are you?

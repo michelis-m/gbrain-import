@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Your receipt from Intercom R&D Unlimited Company #2707-7702"
-date: 2026-05-19
+title: 'Your receipt from Intercom R&D Unlimited Company #2707-7702'
+date: 2026-05-19T00:00:00.000Z
 thread_id: 19e4043b6885ee3c
 source: gmail
 participants:

@@ -1,3 +1,8 @@
+---
+type: note
+title: Meta Ad Creation Standard & Defaults
+---
+
 # Meta Ad Creation Standard & Defaults
 
 **Entity / Brand:** [[companies/qalzy|Qalzy]]  

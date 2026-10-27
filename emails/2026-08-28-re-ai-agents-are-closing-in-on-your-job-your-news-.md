@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Subject: Re: AI Agents are closing in on your job, your news feed, and
+  possibly the planet. And Sundar just got paid $692M to watch it all go down
+date: '2026-08-28'
+---
+
 # Subject: Re: AI Agents are closing in on your job, your news feed, and possibly the planet. And Sundar just got paid $692M to watch it all go down
 **Date:** Fri, 28 Aug 2026 09:12:15 -0600
 **From:** Marie Contreras <marie@ryanestes.info>

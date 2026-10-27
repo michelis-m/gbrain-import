@@ -1,4 +1,10 @@
-﻿00:00:02 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 10 14 Harvard VCG Sourcing Meeting Mila Huang
+date: '2026-10-14'
+---
+
+00:00:02 - Kostas Koukoravas
       Hi, I'm good.
   00:00:03 - Michael Michelis (Qalzy)
       Hi, how are you?

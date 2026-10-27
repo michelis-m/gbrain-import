@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Portless Logistics Escalation: Norway Order Tax Debt Collection & Resolution
+  Proposal
+date: '2026-10-14'
+---
+
 # Portless Logistics Escalation: Norway Order Tax Debt Collection & Resolution Proposal
 
 **Date:** 2026-10-14  

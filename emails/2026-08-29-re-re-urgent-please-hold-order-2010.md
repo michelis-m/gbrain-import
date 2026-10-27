@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Re: [URGENT] Please hold order 2010'
+date: '2026-08-29'
+---
+
 # Subject: Re: Re: [URGENT] Please hold order 2010
 **Date:** Sat, 29 Aug 2026 13:54:02 +0000
 **From:** Edlyn from Portless Support <support@portless.com>

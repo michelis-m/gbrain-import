@@ -1,3 +1,8 @@
+---
+type: person
+title: Mikey Ahdoot
+---
+
 # Mikey Ahdoot
 
 **Role:** VP Client Success / Sales  

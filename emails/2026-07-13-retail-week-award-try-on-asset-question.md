@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Retail Week Award / try-on asset question"
-date: 2026-07-13
+title: 'Re: Retail Week Award / try-on asset question'
+date: 2026-07-13T00:00:00.000Z
 thread_id: 19f5c0c83691423a
 source: gmail
 participants:

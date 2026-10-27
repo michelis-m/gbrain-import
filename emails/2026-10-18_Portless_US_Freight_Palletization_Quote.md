@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200
+  Units)
+date: '2026-10-18'
+---
+
 # Portless: US Bulk Freight & Palletization Quote for KEC Inventory (4,200 Units)
 
 **Date:** 2026-10-18  

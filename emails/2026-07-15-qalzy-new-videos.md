@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy - New Videos"
-date: 2026-07-15
+title: Qalzy - New Videos
+date: 2026-07-15T00:00:00.000Z
 thread_id: 19eb656d361dccc2
 source: gmail
 participants:

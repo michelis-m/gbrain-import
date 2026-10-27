@@ -1,4 +1,10 @@
-﻿00:00:00 - Zach Vallafskey
+---
+type: note
+title: raw 2026 08 26 Were Starting Michael
+date: '2026-08-26'
+---
+
+00:00:00 - Zach Vallafskey
       Thank you.
   00:00:33 - Michael Michelis (Qalzy)
       Zach, hi.

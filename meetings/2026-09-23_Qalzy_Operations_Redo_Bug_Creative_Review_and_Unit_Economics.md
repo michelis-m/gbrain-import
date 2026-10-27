@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Operations, Redo Bug, Creative Review & Unit Economics
+date: '2026-09-23'
+---
+
 # Qalzy Operations, Redo Bug, Creative Review & Unit Economics
 
 **Date:** 2026-09-23  

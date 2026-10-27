@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-25'
+date: '2026-09-25'
+---
+
 # Daily Email Summary: 2026-09-25
 
 ## 1. Supply Chain, Billing & Logistics

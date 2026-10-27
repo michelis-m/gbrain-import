@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy X Portless Check In
+date: '2026-08-24'
+---
+
 # Qalzy X Portless Check In
 Date: 2026-08-24
 

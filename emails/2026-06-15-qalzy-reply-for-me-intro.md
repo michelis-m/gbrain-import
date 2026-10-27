@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy <> Reply for Me intro"
-date: 2026-06-15
+title: Qalzy <> Reply for Me intro
+date: 2026-06-15T00:00:00.000Z
 thread_id: 19ecbb6b0a318acf
 source: gmail
 participants:

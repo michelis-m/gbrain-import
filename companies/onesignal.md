@@ -1,3 +1,9 @@
+---
+type: company
+title: OneSignal
+subtype: company
+---
+
 # OneSignal
 
 - **Category:** Customer Messaging, Push Notifications & In-App Messaging

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Hi Micheal"
-date: 2026-06-01
+title: Hi Micheal
+date: 2026-06-01T00:00:00.000Z
 thread_id: 19e82dfe96e5e0ff
 source: gmail
 participants:

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-27'
+date: '2026-09-27'
+---
+
 # Daily Email Summary: 2026-09-27
 
 ## 1. Strategy, Partnerships & Business Model

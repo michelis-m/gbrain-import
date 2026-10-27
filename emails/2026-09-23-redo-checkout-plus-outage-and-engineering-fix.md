@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: Checkout+ Outage & Engineering Escalation'
+date: '2026-09-23'
+---
+
 # Redo: Checkout+ Outage & Engineering Escalation
 
 **Date:** 2026-09-23  

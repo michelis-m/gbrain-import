@@ -1,3 +1,9 @@
+---
+type: note
+title: Qalzy intro Social Paradigm Group
+date: '2026-09-02'
+---
+
 # Qalzy intro Social Paradigm Group
 **Date:** 2026-09-02
 **From:** Stefan White

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Google Alert - ai kitchen scale'
+date: '2026-08-28'
+---
+
 # Subject: Google Alert - ai kitchen scale
 **Date:** Fri, 28 Aug 2026 08:37:32 -0700
 **From:** Google Alerts <googlealerts-noreply@google.com>

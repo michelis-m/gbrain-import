@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts & Groups"
+title: WhatsApp Contacts & Groups
 tags:
   - contacts
   - whatsapp

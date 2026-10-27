@@ -1,3 +1,8 @@
+---
+type: person
+title: Carmen Hayward
+---
+
 # Carmen Hayward
 
 **Role:** Fitness & Nutrition Creator / Coach  

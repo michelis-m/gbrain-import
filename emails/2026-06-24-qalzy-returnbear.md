@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy & ReturnBear"
-date: 2026-06-24
+title: Qalzy & ReturnBear
+date: 2026-06-24T00:00:00.000Z
 thread_id: 19c98bd32e623c47
 source: gmail
 participants:

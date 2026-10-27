@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 07 Media Stack Intro Call
+date: '2026-09-07'
+---
+
+00:00:00 - Speaker 1
       Okay, give me a second.    Okay.    Yeah.    Okay.    That's better already.    Okay.
   00:00:23 - Michael Michelis (Qalzy)
       Yeah.

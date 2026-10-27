@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Operations: Klaviyo Abandoned Cart Filter Overhaul, Purchase Velocity,
+  and Landing Page UX
+date: '2026-10-13'
+---
+
 # Qalzy Operations: Klaviyo Abandoned Cart Filter Overhaul, Purchase Velocity, and Landing Page UX
 
 **Date:** 2026-10-13  

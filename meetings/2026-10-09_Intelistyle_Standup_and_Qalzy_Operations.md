@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air
+  Freight, Landing Page CRO, and Onboarding Education
+date: '2026-10-09'
+---
+
 # Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education
 
 **Date:** 2026-10-09  

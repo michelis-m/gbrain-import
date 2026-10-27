@@ -1,3 +1,9 @@
+---
+type: note
+title: 'CES 2027: Eureka Park Application Accepted'
+date: '2026-09-13'
+---
+
 # CES 2027: Eureka Park Application Accepted
 
 **Date:** 2026-09-13 01:22 EEST  

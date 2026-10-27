@@ -1,3 +1,9 @@
+---
+type: note
+title: 'OpenBorder: Urgent Tax/VAT Audit Escalation for Kickstarter Orders'
+date: '2026-09-08'
+---
+
 # OpenBorder: Urgent Tax/VAT Audit Escalation for Kickstarter Orders
 
 **Date:** 2026-09-08  

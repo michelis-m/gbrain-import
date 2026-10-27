@@ -1,3 +1,9 @@
+---
+type: note
+title: Brevo SMTP Transactional Credit Limit Alert (Day 4)
+date: '2026-09-08'
+---
+
 # Brevo SMTP Transactional Credit Limit Alert (Day 4)
 
 **Date:** 2026-09-08  

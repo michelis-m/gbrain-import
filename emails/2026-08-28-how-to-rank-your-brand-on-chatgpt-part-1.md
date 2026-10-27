@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: How to rank your brand on ChatGPT (Part 1)'
+date: '2026-08-28'
+---
+
 # Subject: How to rank your brand on ChatGPT (Part 1)
 **Date:** Fri, 28 Aug 2026 13:14:06 +0000
 **From:** "Steve @ Press Ranger" <info@pressranger.com>
@@ -148,4 +154,3 @@ Chief Ranger
 
 
 [Click here to unsubscribe](https://hafadja.r.af.d.sendibt2.com/tr/un/z61uyf2YspLFo7JVuGIb3y6SbVCsuuKoYYX49_6az_6pc1VN3OpPj0990mry4oJ5C578jtA0gJn7paX2xZsbP1_5YMKXOI9yvNfgT2wkB9cLmUgqJv-__gWslpdrgKadjVY8u9wsJGVbMvMKkpGM3_rRVNn67WK6gDQhO4nbPgFKw9diENGYgmjPiDXuQqZNsRnT2GINsPBAQE5rRjzfnRg3IoccGWczjcSE_I0Bkr_j5eKqUq8Ez3JhalGrWO81oJfJwWbGYhrutqZq1QPGhugbOGyMG2I4m6d6f-P2RoiO)
-

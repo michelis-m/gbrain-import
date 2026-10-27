@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy_X_Portless_Check_In
+date: '2026-09-01'
+---
+
 # Qalzy_X_Portless_Check_In
 Date: 2026-09-01
 Attendees: [[people/kostas-koukoravas]], [[people/chloe-hu]]

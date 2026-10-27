@@ -1,3 +1,9 @@
+---
+type: note
+title: Redo Managed Returns Inventory Sync Issue & Influencer Allocation
+date: '2026-09-25'
+---
+
 # Redo Managed Returns Inventory Sync Issue & Influencer Allocation
 
 **Date:** 2026-09-25  

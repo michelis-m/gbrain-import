@@ -1,4 +1,10 @@
-﻿00:00:08 - Speaker 1
+---
+type: note
+title: raw 2026 10 22 Impromptu Google Meet Meeting 1521
+date: '2026-10-22'
+---
+
+00:00:08 - Speaker 1
       Ναι, ναι, ναι, ναι, ναι, ναι, τι άκουστα, what, what, what is it, I don't want to argue with you about this, just tell me what it is, I, because I'm just furious, I'm just furious.
   00:00:14 - Michael Michelis (Qalzy)
       Αυτό δεν είναι μικστ ντς λέει, I'm not gonna argue about this.    She's not gonna argue about this, but it's not mixed nudge.    I don't know what this is.    So we train the AI on it.

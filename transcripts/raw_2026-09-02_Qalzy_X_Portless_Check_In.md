@@ -1,4 +1,10 @@
-﻿00:00:05 - Chloe Hu (Portless)
+---
+type: note
+title: raw 2026 09 02 Qalzy X Portless Check In
+date: '2026-09-02'
+---
+
+00:00:05 - Chloe Hu (Portless)
       Um, alright. Hi, Michael.
   00:00:08 - kostas (Qalzy)
       Hey, Chloe. Hi, Ryan.

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-28'
+date: '2026-09-28'
+---
+
 # Daily Email Summary: 2026-09-28
 
 ## 1. Reverse Logistics, Fulfillment & Supplier Relations

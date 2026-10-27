@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Garmin Connect Developer Program: Account Deletion Warning'
+date: '2026-09-15'
+---
+
 # Garmin Connect Developer Program: Account Deletion Warning
 
 **Date:** 2026-09-15  

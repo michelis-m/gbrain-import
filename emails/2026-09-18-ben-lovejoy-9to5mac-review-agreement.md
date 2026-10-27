@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac Product Review Agreement: Ben Lovejoy'
+date: '2026-09-18'
+---
+
 # 9to5Mac Product Review Agreement: Ben Lovejoy
 
 **Date:** 2026-09-18  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Podcast: Empowered Patient Interview Questions & Hashtags Delivered'
+date: '2026-10-13'
+---
+
 # Podcast: Empowered Patient Interview Questions & Hashtags Delivered
 
 **Date:** 2026-10-13  

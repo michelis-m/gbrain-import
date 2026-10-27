@@ -1,3 +1,9 @@
+---
+type: note
+title: 'CalDesk AI: Photo Food Logging Partnership Inquiry'
+date: '2026-09-20'
+---
+
 # CalDesk AI: Photo Food Logging Partnership Inquiry
 
 **Date:** 2026-09-20  

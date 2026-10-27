@@ -1,3 +1,9 @@
+---
+type: note
+title: raw 2026 09 21 Intelistyle Standup and Qalzy Operations Strategy
+date: '2026-09-21'
+---
+
 00:00:05 - Kostas Koukoravas
     Good morning.
 00:00:06 - Michael Michelis (Qalzy)

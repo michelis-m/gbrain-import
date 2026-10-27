@@ -1,4 +1,10 @@
-﻿00:00:04 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 05 Intelistyle Standup and Qalzy Operations
+date: '2026-10-05'
+---
+
+00:00:04 - Michael Michelis (Qalzy)
       Hey John.
   00:00:06 - Speaker 2
       Hey, good morning.

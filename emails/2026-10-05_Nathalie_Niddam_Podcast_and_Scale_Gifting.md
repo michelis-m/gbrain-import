@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Podcast Outreach & Scale Gifting: Nathalie Niddam (Biohacking Superhuman
+  Performance)
+date: '2026-10-05'
+---
+
 # Podcast Outreach & Scale Gifting: Nathalie Niddam (Biohacking Superhuman Performance)
 
 **Date:** 2026-10-05  

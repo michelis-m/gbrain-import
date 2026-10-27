@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Internal Post-SPG Debrief & Agency Transition Plan
+date: '2026-09-11'
+---
+
 # Qalzy Internal Post-SPG Debrief & Agency Transition Plan
 
 **Date:** 2026-09-11  

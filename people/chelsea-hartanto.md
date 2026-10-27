@@ -1,3 +1,8 @@
+---
+type: person
+title: Chelsea Hartanto
+---
+
 # Chelsea Hartanto
 
 **Role:** Chief of Staff  

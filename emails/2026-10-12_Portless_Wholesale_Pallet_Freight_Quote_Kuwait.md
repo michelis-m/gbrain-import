@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Portless: Wholesale Freight & Pallet Specification Quote for Kuwait (250
+  Units)
+date: '2026-10-12'
+---
+
 # Portless: Wholesale Freight & Pallet Specification Quote for Kuwait (250 Units)
 
 **Date:** 2026-10-12  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Buffer Publishing Failure: TikTok Media Processing Delay'
+date: '2026-09-27'
+---
+
 # Buffer Publishing Failure: TikTok Media Processing Delay
 
 **Date:** 2026-09-26 (Logged 2026-09-27)  

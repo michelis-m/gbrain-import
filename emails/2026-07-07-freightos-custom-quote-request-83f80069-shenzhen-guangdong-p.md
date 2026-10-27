@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Freightos Custom Quote Request - #83f80069 -  Shenzhen, Guangdong Province, China > Los Angeles, CA, USA"
-date: 2026-07-07
+title: >-
+  Freightos Custom Quote Request - #83f80069 -  Shenzhen, Guangdong Province,
+  China > Los Angeles, CA, USA
+date: 2026-07-07T00:00:00.000Z
 thread_id: 19f3cefd3faeb3c2
 source: gmail
 participants:

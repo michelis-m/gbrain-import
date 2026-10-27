@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Strategy & Operations: ROAS Targets, Burn Reduction & Creative Teardown'
+date: '2026-09-15'
+---
+
 # Qalzy Strategy & Operations: ROAS Targets, Burn Reduction & Creative Teardown
 
 **Date:** 2026-09-15  

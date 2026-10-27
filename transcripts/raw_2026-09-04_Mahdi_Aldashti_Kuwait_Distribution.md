@@ -1,4 +1,10 @@
-﻿00:04:11 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 04 Mahdi Aldashti Kuwait Distribution
+date: '2026-09-04'
+---
+
+00:04:11 - Michael Michelis (Qalzy)
       Mati, hi, can you hear me?    Hello?    Hey, can you hear me?    You're muted.
   00:04:29 - Speaker 2
       Hi, hi, good afternoon.

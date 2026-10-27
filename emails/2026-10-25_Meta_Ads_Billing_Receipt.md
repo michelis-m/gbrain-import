@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Meta Ads Billing Receipt: $900.00 Threshold'
+date: '2026-10-25'
+---
+
 # Meta Ads Billing Receipt: $900.00 Threshold
 
 **Date:** 2026-10-25  

@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 22 Impromptu Google Meet Meeting 0855
+date: '2026-10-22'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       No.
   00:00:05 - Konstantinos Koukoravas
       And so, this bit, did you put it or was it there?

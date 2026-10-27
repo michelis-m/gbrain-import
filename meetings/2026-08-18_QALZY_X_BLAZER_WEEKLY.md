@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 2026-08-18 QALZY X BLAZER WEEKLY
+date: '2026-08-18'
+---
+
 # 2026-08-18 QALZY X BLAZER WEEKLY
 
 ## Attendees

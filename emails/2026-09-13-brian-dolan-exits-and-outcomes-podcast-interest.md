@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Brian Dolan (Exits & Outcomes): Positive Response to Qalzy Outreach'
+date: '2026-09-13'
+---
+
 # Brian Dolan (Exits & Outcomes): Positive Response to Qalzy Outreach
 
 **Date:** 2026-09-13 08:27 -0400 (12:27 UTC)  

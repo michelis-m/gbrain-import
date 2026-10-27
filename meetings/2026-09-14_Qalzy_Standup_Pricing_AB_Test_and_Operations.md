@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment'
+date: '2026-09-14'
+---
+
 # Qalzy Daily Standup: Pricing A/B Test, Operations & Growth Alignment
 
 **Date:** 2026-09-14  

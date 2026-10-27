@@ -1,4 +1,10 @@
-﻿00:00:03 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 08 26 Impromptu Google Meet Meeting 1
+date: '2026-08-26'
+---
+
+00:00:03 - Michael Michelis (Qalzy)
       Ιού.    Α, το πώς θα αρέσει.
   00:00:05 - Speaker 2
       Υπότιτλοι AUTHORWAVE

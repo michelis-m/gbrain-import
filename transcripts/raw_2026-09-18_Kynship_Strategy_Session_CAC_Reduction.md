@@ -1,4 +1,10 @@
-﻿00:00:00 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 09 18 Kynship Strategy Session CAC Reduction
+date: '2026-09-18'
+---
+
+00:00:00 - Konstantinos Koukoravas (Qalzy)
       Hi.
   00:00:00 - Tom Siswick (Kynship)
       Hi, guys. How about you?

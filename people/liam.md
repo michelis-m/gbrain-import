@@ -1,6 +1,6 @@
 ---
 type: person
-title: "Liam Michelis"
+title: Liam Michelis
 aliases:
   - Liam
 ---

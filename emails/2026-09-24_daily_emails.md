@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-24'
+date: '2026-09-24'
+---
+
 # Daily Email Summary: 2026-09-24
 
 ## 1. Store Operations & Technical Fixes

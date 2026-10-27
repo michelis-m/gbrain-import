@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product
+  Feedback
+date: '2026-10-12'
+---
+
 # Qalzy <> Mahdi Aldashti: Kuwait Distribution Wholesale Agreement & Product Feedback
 
 **Date:** 2026-10-12  

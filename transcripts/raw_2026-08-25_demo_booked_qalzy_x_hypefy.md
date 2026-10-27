@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: Raw 2026 08 25 Demo Booked Qalzy X Hypefy
+date: '2026-08-25'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Michael and yours is harder for sure.
   00:00:06 - Juraj Bagarić (Hypefy)
       It's Juraj.    Juraj.    Okay.    Yeah.    Perfect.    You're really good.    Usually it's much, much different when I pronounce it and then somebody else repeats it.    So really good.    How are you?    How is everything?    How's the day going?    Great.    Great.

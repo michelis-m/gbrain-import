@@ -1,4 +1,10 @@
-﻿00:00:24 - Speaker 1
+---
+type: note
+title: raw 2026 09 24 Qalzy Creative Review Static Ad Copy and Video Formats
+date: '2026-09-24'
+---
+
+00:00:24 - Speaker 1
       Αυτή τη στιγμή νιώθω ότι τρέχουμε λίγο σαν headless chickens.    Χρειαζόμαστε λίγο πιο strategy για το τι active work content θέλουμε να κάνουμε produce.    Έχουμε 40.000 data points, δεν έχουμε ακόμα personas.    Πάμε να τη γράφουμε το Call AI.    Δεν πάμε να τη γράφουμε το Call AI.    Δεν ξέρουμε τι κάνουμε βασικά.
   00:00:52 - Michael Michelis (Qalzy)
       Υπότιτλοι AUTHORWAVE    Πρέπει να τεστάρουμε και έναν Influencer, όχι.

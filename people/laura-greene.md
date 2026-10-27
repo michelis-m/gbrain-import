@@ -1,3 +1,8 @@
+---
+type: person
+title: Laura Greene
+---
+
 # Laura Greene
 
 **Role:** Representative / Business Development at [[companies/caldesk-ai]]  

@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Subject: Re: [The Energy Blueprint] Re: Podcast Guest: Building the "OURA of
+  nutrition tracking"
+date: '2026-08-28'
+---
+
 # Subject: Re: [The Energy Blueprint] Re: Podcast Guest: Building the "OURA of nutrition tracking"
 **Date:** Fri, 28 Aug 2026 15:51:14 +0300
 **From:** michael@qalzy.com

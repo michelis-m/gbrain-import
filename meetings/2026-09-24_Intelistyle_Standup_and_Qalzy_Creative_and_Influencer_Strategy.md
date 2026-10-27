@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Qalzy Creative and Influencer Strategy
+date: '2026-09-24'
+---
+
 # Intelistyle Standup & Qalzy Creative and Influencer Strategy
 
 **Date:** 2026-09-24  

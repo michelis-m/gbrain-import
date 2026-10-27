@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Openborder & Portless: New €2 EU Union Handling Fee Effective Nov 1, 2026'
+date: '2026-10-08'
+---
+
 # Openborder & Portless: New €2 EU Union Handling Fee Effective Nov 1, 2026
 
 **Date:** 2026-10-08  

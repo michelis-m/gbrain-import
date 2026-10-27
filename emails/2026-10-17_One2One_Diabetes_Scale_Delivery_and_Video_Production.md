@@ -1,3 +1,9 @@
+---
+type: note
+title: 'One2One Diabetes: Scale Delivery & Video Production Next Steps'
+date: '2026-10-17'
+---
+
 # One2One Diabetes: Scale Delivery & Video Production Next Steps
 
 **Date:** 2026-10-17  

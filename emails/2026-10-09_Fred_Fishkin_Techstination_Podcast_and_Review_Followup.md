@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Fred Fishkin: Techstination Podcast Review & Interview Check-In'
+date: '2026-10-09'
+---
+
 # Fred Fishkin: Techstination Podcast Review & Interview Check-In
 
 **Date:** 2026-10-09  

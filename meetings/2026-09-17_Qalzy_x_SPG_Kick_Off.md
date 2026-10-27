@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy x SPG Kick Off Meeting
+date: '2026-09-17'
+---
+
 # Qalzy x SPG Kick Off Meeting
 
 **Date:** 2026-09-17  

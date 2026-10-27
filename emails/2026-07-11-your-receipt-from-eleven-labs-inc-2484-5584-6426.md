@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Your receipt from Eleven Labs Inc. #2484-5584-6426"
-date: 2026-07-11
+title: 'Your receipt from Eleven Labs Inc. #2484-5584-6426'
+date: 2026-07-11T00:00:00.000Z
 thread_id: 19f4f96eb2449c69
 source: gmail
 participants:

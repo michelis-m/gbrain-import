@@ -1,3 +1,9 @@
+---
+type: note
+title: Norway VOEC Registration & Portless / OpenBorder Duty Exclusion
+date: '2026-10-01'
+---
+
 # Norway VOEC Registration & Portless / OpenBorder Duty Exclusion
 
 **Date:** 2026-10-01  

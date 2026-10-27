@@ -1,4 +1,10 @@
-﻿00:00:01 - Kostas Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 09 02 Board Prep
+date: '2026-09-02'
+---
+
+00:00:01 - Kostas Koukoravas (Qalzy)
       Yeah, yeah, I've seen it, I don't we keep on having blog videos, don't they don't have like a support, you know, so just to send them a support and speak to a human, there is that, isn't it?
   00:00:01 - Michael Michelis (Qalzy)
       You know, this TikTok is just, it's not getting views, so annoying.    Yeah, good luck.    We don't speak English.    We're not likely.

@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Client Feeds, US Stock Margin Boost,
+  and Landing Page CRO
+date: '2026-10-12'
+---
+
 # Intelistyle Standup & Qalzy Operations: Client Feeds, US Stock Margin Boost, and Landing Page CRO
 
 **Date:** 2026-10-12  

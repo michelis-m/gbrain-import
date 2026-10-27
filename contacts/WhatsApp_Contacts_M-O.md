@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts (M – O)"
+title: WhatsApp Contacts (M – O)
 tags:
   - contacts
   - whatsapp

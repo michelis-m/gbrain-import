@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Uproar PR for Qalzy"
-date: 2026-08-13
+title: Uproar PR for Qalzy
+date: 2026-08-13T00:00:00.000Z
 thread_id: 19fb7d568a1af956
 source: gmail
 participants:

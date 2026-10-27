@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Weekly Invoices & SLA Fulfillment Breach (#2468)'
+date: '2026-10-20'
+---
+
 # Portless: Weekly Invoices & SLA Fulfillment Breach (#2468)
 
 **Date:** 2026-10-20  

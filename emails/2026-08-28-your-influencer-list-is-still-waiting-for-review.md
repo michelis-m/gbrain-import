@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Your influencer list is still waiting for review'
+date: '2026-08-28'
+---
+
 # Subject: Your influencer list is still waiting for review
 **Date:** Fri, 28 Aug 2026 16:18:58 +0000
 **From:** Hypefy <business@hypefy.ai>
@@ -19,4 +25,3 @@ This is an automated message. For help, more information or to update your email
 HYPEFY INC. 3500 S DUPONT HWY 19901, DOVER, Kent, DE https://www.hypefy.ai/
 [https://hypefy-assets.s3.eu-west-1.amazonaws.com/public/email_assets/facebook-dark.png] [https://hypefy-assets.s3.eu-west-1.amazonaws.com/public/email_assets/facebook.png]  <https://www.facebook.com/hypefyai>
 [https://hypefy-assets.s3.eu-west-1.amazonaws.com/public/email_assets/instagram-dark.png] [https://hypefy-assets.s3.eu-west-1.amazonaws.com/public/email_assets/instagram.png]  <https://www.instagram.com/hypefy.ai/>
-

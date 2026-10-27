@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Qalzy: Michael Michelis closed a conversation with Andrew Rome"
-date: 2026-07-29
+title: 'Re: Qalzy: Michael Michelis closed a conversation with Andrew Rome'
+date: 2026-07-29T00:00:00.000Z
 thread_id: 19faea3733a21f33
 source: gmail
 participants:

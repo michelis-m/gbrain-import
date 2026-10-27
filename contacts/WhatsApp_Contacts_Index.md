@@ -1,10 +1,10 @@
 ---
 type: note
-title: "WhatsApp Contacts Index"
+title: WhatsApp Contacts Index
 tags:
   - contacts
-  - whatsapp
   - phonebook
+  - whatsapp
 ---
 
 # WhatsApp Contacts Index

@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync
+date: '2026-09-29'
+---
+
 # Qalzy Internal Post-Meta Consultation Debrief & CRO Strategy Sync
 
 **Date:** 2026-09-29  

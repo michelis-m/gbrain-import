@@ -1,3 +1,9 @@
+---
+type: note
+title: Media Stack Service Proposal & Deck Follow-Up
+date: '2026-09-07'
+---
+
 # Media Stack Service Proposal & Deck Follow-Up
 
 - **Date:** 2026-09-07 17:04 EEST

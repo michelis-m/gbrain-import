@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Google Cloud: Gemini 429 Resolution and Project Telemetry'
+date: '2026-10-16'
+---
+
 # Google Cloud: Gemini 429 Resolution and Project Telemetry
 
 **Date:** 2026-10-16  

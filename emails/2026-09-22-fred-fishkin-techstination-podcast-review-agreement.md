@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Fred Fishkin: Techstination Podcast Review Agreement'
+date: '2026-09-22'
+---
+
 # Fred Fishkin: Techstination Podcast Review Agreement
 
 **Date:** 2026-09-22  

@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Accepted: Updated invitation: Canceled: Kostas Koukoravas and Lauren Favero @ Wed 12 Aug 2026 6pm - 6:30pm (GMT+3) (michael@qalzy.com)"
-date: 2026-08-12
+title: >-
+  Accepted: Updated invitation: Canceled: Kostas Koukoravas and Lauren Favero @
+  Wed 12 Aug 2026 6pm - 6:30pm (GMT+3) (michael@qalzy.com)
+date: 2026-08-12T00:00:00.000Z
 thread_id: 19ff48718de22f2e
 source: gmail
 participants:

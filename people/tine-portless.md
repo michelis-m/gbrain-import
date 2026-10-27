@@ -1,3 +1,8 @@
+---
+type: person
+title: Tine (Portless)
+---
+
 # Tine (Portless)
 
 **Role:** Support & Customer Success Specialist  

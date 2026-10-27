@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Brand Authorization Letter for Air Carriers & Customs'
+date: '2026-10-24'
+---
+
 # Portless: Brand Authorization Letter for Air Carriers & Customs
 
 **Date:** 2026-10-24  

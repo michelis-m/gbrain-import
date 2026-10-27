@@ -1,3 +1,9 @@
+---
+type: note
+title: Revolut Business Document Verification Failed (QALZY LTD)
+date: '2026-10-02'
+---
+
 # Revolut Business Document Verification Failed (QALZY LTD)
 
 **Date:** 2026-10-02  

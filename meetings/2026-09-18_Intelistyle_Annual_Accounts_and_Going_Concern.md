@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Annual Accounts & Going Concern Review
+date: '2026-09-18'
+---
+
 # Intelistyle Annual Accounts & Going Concern Review
 
 **Date:** 2026-09-18  

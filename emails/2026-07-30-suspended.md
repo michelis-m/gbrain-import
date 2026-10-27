@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Suspended"
-date: 2026-07-30
+title: Suspended
+date: 2026-07-30T00:00:00.000Z
 thread_id: 19fb186d33e5eb56
 source: gmail
 participants:

@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI
+  Architecture Exchange
+date: '2026-10-06'
+---
+
 # Morgan Fowles <> Michael Michelis: Advisory Alignment, D2C Growth & AI Architecture Exchange
 
 **Date:** 2026-10-06  

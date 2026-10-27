@@ -1,4 +1,10 @@
-﻿00:00:00 - Chloe Hu (Portless)
+---
+type: note
+title: raw 2026 09 01 Qalzy X Portless Check In
+date: '2026-09-01'
+---
+
+00:00:00 - Chloe Hu (Portless)
       Hi, hi, hi, Kostas.
   00:00:03 - kostas (Qalzy)
       Hi, Chloe. How are you?

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'CES 2027: Eureka Park Participation & Booth Allocation Follow-Up'
+date: '2026-09-30'
+---
+
 # CES 2027: Eureka Park Participation & Booth Allocation Follow-Up
 
 **Date:** 2026-09-30  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless Notice: China Golden Week Deadlines & Inventory Planning'
+date: '2026-09-05'
+---
+
 # Portless Notice: China Golden Week Deadlines & Inventory Planning
 
 - **Date:** 2026-09-05 10:00 EDT

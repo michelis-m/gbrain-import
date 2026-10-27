@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Video Task - Iliana Bakouri"
-date: 2026-06-09
+title: Video Task - Iliana Bakouri
+date: 2026-06-09T00:00:00.000Z
 thread_id: 19ea7eb4c48e2e35
 source: gmail
 participants:

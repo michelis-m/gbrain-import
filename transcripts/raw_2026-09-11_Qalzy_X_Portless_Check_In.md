@@ -1,4 +1,10 @@
-﻿00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 11 Qalzy X Portless Check In
+date: '2026-09-11'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       Hey, Chloe.
   00:00:02 - Chloe Hu (Portless)
       Hi, how are you?

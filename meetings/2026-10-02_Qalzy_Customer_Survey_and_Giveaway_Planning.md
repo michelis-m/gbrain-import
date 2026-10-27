@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Customer Friction Survey & Scale Giveaway Planning
+date: '2026-10-02'
+---
+
 # Qalzy Customer Friction Survey & Scale Giveaway Planning
 
 **Date:** 2026-10-02  

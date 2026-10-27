@@ -1,4 +1,10 @@
-﻿00:00:03 - Speaker 1
+---
+type: note
+title: raw 2026 10 14 Qalzy White Scale Stockout Strategy and Landing Page CRO
+date: '2026-10-14'
+---
+
+00:00:03 - Speaker 1
       Ελά, σε ακούω δεν σε βλέπω.
   00:00:04 - Michael Michelis (Qalzy)
       Έλα, of course, και εγώ, σαν γνώμη μου, εμείς υποθέτοντας ότι θα ταγκάρει το conversion άμα έχουμε μόνο black, ναι, ναι, ναι, ναι, ναι, ναι.

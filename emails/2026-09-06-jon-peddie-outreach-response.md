@@ -1,3 +1,9 @@
+---
+type: note
+title: 'PR Outreach Response: Jon Peddie (Jon Peddie Research)'
+date: '2026-09-06'
+---
+
 # PR Outreach Response: Jon Peddie (Jon Peddie Research)
 
 - **Date:** 2026-09-05 14:44 PDT (2026-09-06 EEST)

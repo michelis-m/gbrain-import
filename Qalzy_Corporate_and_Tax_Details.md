@@ -1,11 +1,11 @@
 ---
 type: note
-title: "Qalzy Corporate and Tax Details"
+title: Qalzy Corporate and Tax Details
 tags:
-  - corporate
-  - tax
-  - qalzy
   - compliance
+  - corporate
+  - qalzy
+  - tax
 ---
 
 # Qalzy Corporate & Tax Details

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Influencer Rate Card: The Diabetic Health Coach (Vanessa Haydock)'
+date: '2026-09-07'
+---
+
 # Influencer Rate Card: The Diabetic Health Coach (Vanessa Haydock)
 
 - **Date:** 2026-09-07 (Forwarded by Kostas Koukoravas)

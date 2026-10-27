@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B
+  Test, and CRO Traffic Allocation
+date: '2026-10-14'
+---
+
 # SPG x Qalzy Weekly Sync: Truemed Opportunity, Black vs. White Inventory A/B Test, and CRO Traffic Allocation
 
 **Date:** 2026-10-14  

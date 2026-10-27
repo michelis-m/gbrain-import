@@ -1,3 +1,8 @@
+---
+type: person
+title: Sean Greenspan
+---
+
 # Sean Greenspan
 
 **Role:** CEO & Founder  

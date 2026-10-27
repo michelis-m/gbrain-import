@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-02'
+date: '2026-10-02'
+---
+
 # Daily Email Summary: 2026-10-02
 
 ## 1. Urgent Operational & Compliance Alerts

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "TikTok partnership Qalzy X tristan"
-date: 2026-05-28
+title: TikTok partnership Qalzy X tristan
+date: 2026-05-28T00:00:00.000Z
 thread_id: 19e649455544120d
 source: gmail
 participants:

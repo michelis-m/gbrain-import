@@ -1,3 +1,8 @@
+---
+type: person
+title: Kimberly Earl
+---
+
 # Kimberly Earl
 
 **Role:** Eureka Park Representative at Consumer Technology Association (CTA)  

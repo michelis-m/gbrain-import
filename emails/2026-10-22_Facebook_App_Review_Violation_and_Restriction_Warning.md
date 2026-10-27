@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Meta App Review: Data Access Renewal Violation & Restriction Warning'
+date: '2026-10-22'
+---
+
 # Meta App Review: Data Access Renewal Violation & Restriction Warning
 
 **Date:** 2026-10-22  

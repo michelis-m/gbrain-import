@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy + Jenson Ventures + Runway Visibility"
-date: 2026-06-05
+title: Qalzy + Jenson Ventures + Runway Visibility
+date: 2026-06-05T00:00:00.000Z
 thread_id: 19e8ce523e3834da
 source: gmail
 participants:

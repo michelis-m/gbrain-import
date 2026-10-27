@@ -1,3 +1,9 @@
+---
+type: note
+title: 'BRDG: US Operating Models, Customs Regulations & Nexus Strategy Proposal'
+date: '2026-10-22'
+---
+
 # BRDG: US Operating Models, Customs Regulations & Nexus Strategy Proposal
 
 **Date:** 2026-10-22  

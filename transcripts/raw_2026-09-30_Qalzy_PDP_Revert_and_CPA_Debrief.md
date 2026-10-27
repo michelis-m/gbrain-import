@@ -1,4 +1,10 @@
-  00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 09 30 Qalzy PDP Revert and CPA Debrief
+date: '2026-09-30'
+---
+
+00:00:01 - Speaker 1
       Okay, we were isolating everything.    The one thing we learned is whether it was this change, whether it was the checkout change that caused the problem.    There is this argument that, you know, by not telling them about the subscription, you're leaving more questions unanswered, meaning that maybe you lower the intent.    I don't know.    I'm with you.    I don't think these changes are causing an issue, but could they be?
   00:00:51 - Michael Michelis (Qalzy)
       So the subscription changes, you mean?
@@ -224,4 +230,3 @@
       How are Can't not change this whole share.
   00:30:58 - Speaker 1
       Yes, it's 54, I think I've to do order, ok, it's it's done.
-

@@ -1,4 +1,10 @@
-  00:01:15 - Konstantinos Koukoravas
+---
+type: note
+title: raw 2026 10 16 Blazer Agency Creative Deliverables and Ad Performance Sync
+date: '2026-10-16'
+---
+
+00:01:15 - Konstantinos Koukoravas
       I'm, I'm just struggling to find out what's happening with these, uh, with this last delivery.
   00:01:22 - Ronaldas Liu
       Yes.
@@ -184,4 +190,3 @@
       Thanks. Okay, guys. So, thanks for the call. I'm gonna get those fixed. Um, uh, let me know if, if, and wasting this everything all right. And I'm from Skia.    And, uh, have a good day.
   00:16:37 - Konstantinos Koukoravas
       Thanks, man. Cheers, bye-bye.
-

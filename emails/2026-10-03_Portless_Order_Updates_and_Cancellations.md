@@ -1,3 +1,9 @@
+---
+type: note
+title: Portless Order Operations & Billing Update
+date: '2026-10-03'
+---
+
 # Portless Order Operations & Billing Update
 
 **Date:** 2026-10-03  

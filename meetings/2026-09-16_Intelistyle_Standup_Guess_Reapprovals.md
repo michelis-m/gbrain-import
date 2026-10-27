@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Daily Standup & Guess Re-approvals
+date: '2026-09-16'
+---
+
 # Intelistyle Daily Standup & Guess Re-approvals
 
 **Date:** 2026-09-16  

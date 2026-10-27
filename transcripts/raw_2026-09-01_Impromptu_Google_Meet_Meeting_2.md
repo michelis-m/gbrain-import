@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 01 Impromptu Google Meet Meeting 2
+date: '2026-09-01'
+---
+
+00:00:00 - Speaker 1
       Τώρα είναι σαν affiliate και μετά πάει εδώ ξέρω μου.    Δεν ξέρω πόσο βλέπεις και έχει διάφορα κάμερα.
   00:00:10 - Michael Michelis (Qalzy)
       Mmm, mmm, mmm.

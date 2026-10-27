@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 08 31 1FN3NQBv3VP0TIXim3gqqY5dR6NwDh7pOCOsBj qZMxU
+date: '2026-08-31'
+---
+
+00:00:00 - Speaker 1
       Τώρα είναι σαν affiliate και μετά πάει εδώ ξέρω μου.    Δεν ξέρω πόσο βλέπεις και έχει διάφορα κάμερα.
   00:00:10 - Michael Michelis (Qalzy)
       Mmm, mmm, mmm.

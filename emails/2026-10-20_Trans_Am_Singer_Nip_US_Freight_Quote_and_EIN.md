@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Trans-Am Logistics: US Ocean Freight Quote & Importer of Record'
+date: '2026-10-20'
+---
+
 # Trans-Am Logistics: US Ocean Freight Quote & Importer of Record
 
 **Date:** 2026-10-20  

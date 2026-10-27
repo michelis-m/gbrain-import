@@ -1,3 +1,9 @@
+---
+type: meeting
+title: QALZY X BLAZER | WEEKLY
+date: '2026-08-25'
+---
+
 # QALZY X BLAZER | WEEKLY
 **Date:** 2026-08-25
 **Attendees:** [[people/michael-michelis]], [[people/rolandas-blazer]]

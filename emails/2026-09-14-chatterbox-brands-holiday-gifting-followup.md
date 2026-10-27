@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Chatterbox Brands: 2026 Holiday Gifting Follow-up'
+date: '2026-09-14'
+---
+
 # Chatterbox Brands: 2026 Holiday Gifting Follow-up
 
 **Date:** 2026-09-14 10:00 EDT  

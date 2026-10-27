@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: Checkout+ Free Returns Bug Resolved'
+date: '2026-09-24'
+---
+
 # Redo: Checkout+ Free Returns Bug Resolved
 
 **Date:** 2026-09-24  

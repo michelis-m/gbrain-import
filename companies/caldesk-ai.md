@@ -1,3 +1,9 @@
+---
+type: company
+title: CalDesk AI
+subtype: company
+---
+
 # CalDesk AI
 
 - **Category:** Health Tech / Computer Vision Nutrition AI

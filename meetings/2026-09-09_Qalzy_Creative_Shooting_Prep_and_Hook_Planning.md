@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Creative Pre-Production & Hook Scripting Sync
+date: '2026-09-09'
+---
+
 # Qalzy Creative Pre-Production & Hook Scripting Sync
 
 **Date:** 2026-09-09  

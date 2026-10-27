@@ -1,3 +1,9 @@
+---
+type: company
+title: The First Thirty Capital
+subtype: company
+---
+
 # The First Thirty Capital
 
 **Type:** Venture Capital Fund  

@@ -1,4 +1,10 @@
-﻿00:03:28 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 10 13 Qalzy Wi Fi Setup Support Policy and Ad Creative Review
+date: '2026-10-13'
+---
+
+00:03:28 - Kostas Koukoravas
       Ναι, λέω, άλλαξα λίγο τα email, τα, άλλαξα το subject και το preview text, ξέρω εγώ. Δεν έχω αλλάξει αυτό το content. Μπορώ λίγο να κάνω αυτούς τους swap, έτσι, εικόνες, να δούμε, πας και είναι ένα γρήγορο fix.    το βάριος, ε, στο τύπο προσπαθούμε να κάνουμε return, δεν παίρνει τα, δεν φτιάξει καν τα email, τι ξέρει, ό,τι σημαίνει, μάλλα. Είδα, για αυτή την άλλη την ηλίθεια. Να σου πω, πρέπει να αλλάξουμε το, το support, ξέρω εγώ, όταν δεν μπορεί να συνδέσουν τις γαριάκες, λέει, contact your, internet provider and tell them to enable 2.4G on your network.
   00:04:25 - Michael Michelis (Qalzy)
       Ναι, το σκέφτηκε, γιουδό, αλλά...

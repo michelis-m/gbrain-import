@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: 🙌 Try building your first brief — it’s FREE!'
+date: '2026-08-29'
+---
+
 # Subject: 🙌 Try building your first brief — it’s FREE!
 **Date:** Sat, 29 Aug 2026 16:14:29 +0200
 **From:** Hypefy <marketing@send.hypefy.ai>

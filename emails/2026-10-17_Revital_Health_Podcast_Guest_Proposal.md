@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Revital Health Podcast: Guest Appearance Proposal & Sponsorship Terms'
+date: '2026-10-17'
+---
+
 # Revital Health Podcast: Guest Appearance Proposal & Sponsorship Terms
 
 **Date:** 2026-10-17  

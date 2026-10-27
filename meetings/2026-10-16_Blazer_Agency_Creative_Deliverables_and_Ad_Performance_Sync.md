@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync'
+date: '2026-10-16'
+---
+
 # Blazer Agency x Qalzy: Creative Deliverables Review & Ad Performance Sync
 
 **Date:** 2026-10-16  

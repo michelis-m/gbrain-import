@@ -1,4 +1,10 @@
-  00:03:43 - Konstantinos Koukoravas (Qalzy)
+---
+type: note
+title: raw 2026 10 12 Mahdi Aldashti Kuwait Distribution and Product Feedback
+date: '2026-10-12'
+---
+
+00:03:43 - Konstantinos Koukoravas (Qalzy)
       The problem of them, the big part of the solution is that they take it to the main, you take it to the main insights to calorie counting, so you can use the app. So they don't care.    Temperance, giving a different visual.
   00:04:04 - Michael Michelis (Qalzy)
       The problem is, the problem is, you need to calorie counting. It's fascinating, it's very amazing, non-stop info.
@@ -410,4 +416,3 @@
       Alright, thank you, Mahdi.
   00:51:15 - Mahdi Mahdi
       Thank you so much.
-

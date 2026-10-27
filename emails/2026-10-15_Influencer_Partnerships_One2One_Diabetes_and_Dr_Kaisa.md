@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Creator Partnerships: One2One Diabetes Briefing and Dr. Kaisa Outreach'
+date: '2026-10-15'
+---
+
 # Creator Partnerships: One2One Diabetes Briefing and Dr. Kaisa Outreach
 
 **Date:** 2026-10-15  

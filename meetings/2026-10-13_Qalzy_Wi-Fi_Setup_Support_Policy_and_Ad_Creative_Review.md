@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Operations: Wi-Fi 2.4GHz Support Protocol, Ad Creative Formats, and
+  In-App Troubleshooting
+date: '2026-10-13'
+---
+
 # Qalzy Operations: Wi-Fi 2.4GHz Support Protocol, Ad Creative Formats, and In-App Troubleshooting
 
 **Date:** 2026-10-13  

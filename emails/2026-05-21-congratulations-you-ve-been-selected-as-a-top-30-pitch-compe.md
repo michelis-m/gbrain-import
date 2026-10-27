@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Congratulations – You’ve Been Selected as a Top 30 Pitch Competition Finalist"
-date: 2026-05-21
+title: Congratulations – You’ve Been Selected as a Top 30 Pitch Competition Finalist
+date: 2026-05-21T00:00:00.000Z
 thread_id: 19e45e6caa8f81f6
 source: gmail
 participants:

@@ -1,4 +1,10 @@
-﻿00:00:00 - Juraj Bagarić (Hypefy)
+---
+type: note
+title: raw 2026 08 27 Qalzy campaign setup
+date: '2026-08-27'
+---
+
+00:00:00 - Juraj Bagarić (Hypefy)
       Juraj, how are you?    Yeah, perfect, perfect.    I'm really surprised when people remember my pronunciation, so I like it.    How's everything?    How's your day?    Pretty busy.
   00:00:12 - Michael Michelis (Qalzy)
       How about yours?    Same here.

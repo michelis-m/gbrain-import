@@ -1,3 +1,9 @@
+---
+type: note
+title: Brevo Transactional Email Credit Limit Depleted (Day 8)
+date: '2026-09-12'
+---
+
 # Brevo Transactional Email Credit Limit Depleted (Day 8)
 
 **Date:** 2026-09-12 16:28 UTC  

@@ -1,4 +1,10 @@
-﻿00:00:09 - Speaker 1
+---
+type: note
+title: raw 2026 09 22 Intelistyle Standup and Qalzy Creative and Seeding Strategy
+date: '2026-09-22'
+---
+
+00:00:09 - Speaker 1
       Good morning.    Hey guys.
   00:00:10 - Michael Michelis (Qalzy)
       Morning.

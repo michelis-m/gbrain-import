@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Operations & Landing Page CRO: FatSecret Bug Resolution, Game-Style
+  Onboarding, and Figma Wireframes
+date: '2026-10-12'
+---
+
 # Qalzy Operations & Landing Page CRO: FatSecret Bug Resolution, Game-Style Onboarding, and Figma Wireframes
 
 **Date:** 2026-10-12  

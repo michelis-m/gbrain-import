@@ -1,3 +1,8 @@
+---
+type: note
+title: Meta Ads MCP Setup for AI Agents
+---
+
 # Meta Ads MCP Setup for AI Agents
 
 **Date:** 2026-09-03

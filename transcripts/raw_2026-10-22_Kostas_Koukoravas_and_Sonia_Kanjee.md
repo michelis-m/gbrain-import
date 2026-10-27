@@ -1,4 +1,10 @@
-﻿00:00:00 - Sonia Kanjee (BRDG)
+---
+type: note
+title: raw 2026 10 22 Kostas Koukoravas and Sonia Kanjee
+date: '2026-10-22'
+---
+
+00:00:00 - Sonia Kanjee (BRDG)
       Hello.
   00:00:02 - Konstantinos Koukoravas (Qalzy)
       Sonia, hi, how are you?

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Brevo SMTP Alert: Credit Limit Reached (Day 11)'
+date: '2026-09-15'
+---
+
 # Brevo SMTP Alert: Credit Limit Reached (Day 11)
 
 **Date:** 2026-09-15  

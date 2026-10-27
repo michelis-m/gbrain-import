@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Buffer Alert: Instagram Business Account Authorization Expired'
+date: '2026-09-19'
+---
+
 # Buffer Alert: Instagram Business Account Authorization Expired
 
 **Date:** 2026-09-18 (Received 18:02 UTC)  

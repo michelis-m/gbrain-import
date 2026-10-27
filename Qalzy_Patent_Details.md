@@ -1,6 +1,6 @@
 ---
 type: concept
-title: "Qalzy Patent Details"
+title: Qalzy Patent Details
 aliases:
   - Qalzy Patent
   - QAL001

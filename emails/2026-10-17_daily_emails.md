@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-17'
+date: '2026-10-17'
+---
+
 # Daily Email Summary: 2026-10-17
 
 ## 1. Supply Chain, Logistics & Warehouse Operations

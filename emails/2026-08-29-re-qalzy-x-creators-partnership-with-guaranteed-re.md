@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Qalzy x Creators Partnership with Guaranteed Results'
+date: '2026-08-29'
+---
+
 # Subject: Re: Qalzy x Creators Partnership with Guaranteed Results
 **Date:** Sat, 29 Aug 2026 09:58:30 +0300
 **From:** michael@qalzy.com

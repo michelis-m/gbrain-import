@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Next Steps with Loop Returns"
-date: 2026-05-21
+title: Next Steps with Loop Returns
+date: 2026-05-21T00:00:00.000Z
 thread_id: 19e3cb20e7b3fdf7
 source: gmail
 participants:

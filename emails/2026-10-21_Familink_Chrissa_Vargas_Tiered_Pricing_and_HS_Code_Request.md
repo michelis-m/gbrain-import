@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Familink: Chrissa Vargas Request for Tiered Pricing & HS Codes'
+date: '2026-10-21'
+---
+
 # Familink: Chrissa Vargas Request for Tiered Pricing & HS Codes
 
 **Date:** 2026-10-21  

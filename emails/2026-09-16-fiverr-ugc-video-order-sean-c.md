@@ -1,3 +1,9 @@
+---
+type: note
+title: Fiverr UGC Video Ad Production Order — Sean C
+date: '2026-09-16'
+---
+
 # Fiverr UGC Video Ad Production Order — Sean C
 
 **Date:** 2026-09-16  

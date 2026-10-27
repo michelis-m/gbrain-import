@@ -1,4 +1,10 @@
-﻿00:00:00 - Chloe Hu (Portless)
+---
+type: note
+title: raw 2026 08 26 Qalzy x Portless Sync
+date: '2026-08-26'
+---
+
+00:00:00 - Chloe Hu (Portless)
       Hi, Michael.
   00:00:02 - Michael Michelis (Qalzy)
       Hey, Chloe. Can you hear me?

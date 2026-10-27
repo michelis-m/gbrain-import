@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Action Needed | QALZY | Shipment Issue | #PBID007771351"
-date: 2026-08-08
+title: 'Action Needed | QALZY | Shipment Issue | #PBID007771351'
+date: 2026-08-08T00:00:00.000Z
 thread_id: 19fd8fa613b83baf
 source: gmail
 participants:

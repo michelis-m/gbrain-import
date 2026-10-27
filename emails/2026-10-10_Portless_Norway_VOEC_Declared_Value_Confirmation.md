@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Confirmation of Declared Values for Norway VOEC Orders'
+date: '2026-10-10'
+---
+
 # Portless: Confirmation of Declared Values for Norway VOEC Orders
 
 **Date:** 2026-10-10  

@@ -1,3 +1,9 @@
+---
+type: note
+title: Meta Ads Billing Receipt ($900.00)
+date: '2026-10-04'
+---
+
 # Meta Ads Billing Receipt ($900.00)
 
 **Date:** 2026-10-04  

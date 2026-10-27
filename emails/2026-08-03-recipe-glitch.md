@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Recipe Glitch"
-date: 2026-08-03
+title: 'Fwd: Recipe Glitch'
+date: 2026-08-03T00:00:00.000Z
 thread_id: 19fc673eeb93096b
 source: gmail
 participants:

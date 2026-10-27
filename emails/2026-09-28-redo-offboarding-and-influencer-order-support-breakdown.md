@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: Breakdown in Influencer Order Support & Offboarding Notice'
+date: '2026-09-28'
+---
+
 # Redo: Breakdown in Influencer Order Support & Offboarding Notice
 
 **Date:** 2026-09-28  

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: Job Application for software engineer"
-date: 2026-05-22
+title: 'Fwd: Job Application for software engineer'
+date: 2026-05-22T00:00:00.000Z
 thread_id: 19e4d55c744271a5
 source: gmail
 participants:

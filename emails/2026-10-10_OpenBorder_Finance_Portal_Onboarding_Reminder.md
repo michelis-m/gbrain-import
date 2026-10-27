@@ -1,3 +1,9 @@
+---
+type: note
+title: 'OpenBorder: Action Required - Onboarding for New Finance Portal'
+date: '2026-10-10'
+---
+
 # OpenBorder: Action Required - Onboarding for New Finance Portal
 
 **Date:** 2026-10-10  

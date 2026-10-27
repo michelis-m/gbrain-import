@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts (Numbers & Symbols)"
+title: WhatsApp Contacts (Numbers & Symbols)
 tags:
   - contacts
   - whatsapp

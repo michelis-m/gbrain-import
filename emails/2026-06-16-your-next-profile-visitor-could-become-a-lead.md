@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Your next profile visitor could become a lead"
-date: 2026-06-16
+title: Your next profile visitor could become a lead
+date: 2026-06-16T00:00:00.000Z
 thread_id: 19ed41b09ce69466
 source: gmail
 participants:

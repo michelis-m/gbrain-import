@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Your first Reddit Ads campaign is live'
+date: '2026-08-28'
+---
+
 # Subject: Your first Reddit Ads campaign is live
 **Date:** Fri, 28 Aug 2026 08:09:22 -0400
 **From:** Reddit for Business <advertising@redditads.com>

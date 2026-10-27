@@ -1,4 +1,12 @@
-﻿00:00:03 - John Karunungan
+---
+type: note
+title: >-
+  raw 2026 09 25 Intelistyle Standup and Qalzy Creative Fatigue Scale Guide and
+  Returns
+date: '2026-09-25'
+---
+
+00:00:03 - John Karunungan
       Morning.
   00:00:04 - Kostas Koukoravas
       Morning. How are you?

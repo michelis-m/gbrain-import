@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Influencer Outreach: Partnerships Agreed with Carmen Hayward & One2One
+  Diabetes
+date: '2026-09-24'
+---
+
 # Influencer Outreach: Partnerships Agreed with Carmen Hayward & One2One Diabetes
 
 **Date:** 2026-09-24  

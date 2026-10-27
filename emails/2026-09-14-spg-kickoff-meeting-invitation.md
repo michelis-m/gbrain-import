@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Social Paradigm Group: Kick Off Meeting Invitation'
+date: '2026-09-14'
+---
+
 # Social Paradigm Group: Kick Off Meeting Invitation
 
 **Date:** 2026-09-14 09:52 UTC  

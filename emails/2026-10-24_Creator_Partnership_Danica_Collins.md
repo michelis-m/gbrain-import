@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Creator Partnership Offer: Danica Collins (T1D Nutrition)'
+date: '2026-10-24'
+---
+
 # Creator Partnership Offer: Danica Collins (T1D Nutrition)
 
 **Date:** 2026-10-24  

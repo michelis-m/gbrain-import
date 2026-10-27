@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Mahdi Aldashti - Kuwait Distribution Discussion
+date: '2026-09-04'
+---
+
 # Mahdi Aldashti - Kuwait Distribution Discussion
 **Date:** 2026-09-04
 **Attendees:** [[people/michael-michelis]], [[people/mahdi-aldashti]]

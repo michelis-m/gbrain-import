@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Not just finding a factory"
-date: 2026-07-20
+title: Not just finding a factory
+date: 2026-07-20T00:00:00.000Z
 thread_id: 19f7e97f27b540d1
 source: gmail
 participants:

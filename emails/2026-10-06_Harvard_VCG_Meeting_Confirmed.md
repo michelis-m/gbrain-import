@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Venture Capital Sourcing: Harvard VCG Pitch Meeting Confirmed'
+date: '2026-10-06'
+---
+
 # Venture Capital Sourcing: Harvard VCG Pitch Meeting Confirmed
 
 **Date:** 2026-10-06  

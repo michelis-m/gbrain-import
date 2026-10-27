@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: ACTION NEEDED | Qalzy | Shipment Issue'
+date: '2026-08-30'
+---
+
 # Subject: Re: ACTION NEEDED | Qalzy | Shipment Issue
 **Date:** Sun, 30 Aug 2026 06:00:41 +0000
 **From:** Portless Assistant <info@portless.com>

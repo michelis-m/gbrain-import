@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Subject: New Event: Mahdi Aldashti - 09:00pm Fri, 4 Sep 2026 - 30 Minute
+  Meeting
+date: '2026-08-29'
+---
+
 # Subject: New Event: Mahdi Aldashti - 09:00pm Fri, 4 Sep 2026 - 30 Minute Meeting
 **Date:** Sat, 29 Aug 2026 19:20:13 +0000 (UTC)
 **From:** Calendly <notifications@calendly.com>

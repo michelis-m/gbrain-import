@@ -1,3 +1,9 @@
+---
+type: note
+title: Namzi Growing Influencer Outreach Ultimatum & Refund Demand
+date: '2026-09-16'
+---
+
 # Namzi Growing Influencer Outreach Ultimatum & Refund Demand
 
 **Date:** 2026-09-16  

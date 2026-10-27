@@ -1,3 +1,9 @@
+---
+type: note
+title: 'doola: US Subsidiary Proposal & Investor Alignment'
+date: '2026-10-21'
+---
+
 # doola: US Subsidiary Proposal & Investor Alignment
 
 **Date:** 2026-10-21  

@@ -1,4 +1,10 @@
-  00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 08 20 Centerpoint LandmarkGroup
+date: '2026-08-20'
+---
+
+00:00:00 - Speaker 1
       Hey guys, good morning.    How is everyone?    All good.    How is the rain?    There's no rain now, but there's a typhoon.    It came in in the Philippines.
   00:00:13 - Michael Michelis (Qalzy)
       Thank
@@ -346,4 +352,3 @@
       Thank you.
   00:39:20 - Michael Michelis (Qalzy)
       Δες σε αυτό να δούμε τι χρησιμοποιούν αυτοί.
-

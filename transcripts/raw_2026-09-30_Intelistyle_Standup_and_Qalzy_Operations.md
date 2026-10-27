@@ -1,4 +1,10 @@
-  00:00:06 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 09 30 Intelistyle Standup and Qalzy Operations
+date: '2026-09-30'
+---
+
+00:00:06 - Kostas Koukoravas
       Morning.
   00:00:08 - Michael Michelis (Qalzy)
       Morning. How are you?
@@ -428,4 +434,3 @@
       Okay. Ε, για να δούμε, μου στείαλε μια influencer, αλλά ήταν, έτσι, δεν ξέρω, αστεία ποσά, δεν είναι χιλιάρικο, είχε 6.000 followers, λέει, τι καπνίζει ο κόσμος.
   01:10:29 - Kostas Koukoravas
       Ε, ό,τι μαλακιά, θέλει λόγω να κάνεις τάξη. Ο,τι θέλει, είναι, μεριά.
-

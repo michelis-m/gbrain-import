@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App
+  Troubleshooting
+date: '2026-09-28'
+---
+
 # Intelistyle Standup & Qalzy Operations, Hardware Firmware & In-App Troubleshooting
 
 **Date:** 2026-09-28  

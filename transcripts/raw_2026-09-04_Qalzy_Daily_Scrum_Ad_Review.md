@@ -1,4 +1,10 @@
-﻿00:00:02 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 04 Qalzy Daily Scrum Ad Review
+date: '2026-09-04'
+---
+
+00:00:02 - Michael Michelis (Qalzy)
       Hey John.
   00:00:04 - Speaker 2
       Hi, good morning.    All fixed now?    already checked the Dicuba.

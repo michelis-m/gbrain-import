@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Qalzy Operations Review
+date: '2026-09-30'
+---
+
 # Intelistyle Standup & Qalzy Operations Review
 
 **Date:** 2026-09-30  

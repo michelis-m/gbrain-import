@@ -1,7 +1,9 @@
 ---
 type: email
-title: "Invitation: Qalzy/Dunn Pellier Media/PR Call  @ Mon 10 Aug 2026 8pm - 9pm (GMT+3) (michael@qalzy.com)"
-date: 2026-08-12
+title: >-
+  Invitation: Qalzy/Dunn Pellier Media/PR Call  @ Mon 10 Aug 2026 8pm - 9pm
+  (GMT+3) (michael@qalzy.com)
+date: 2026-08-12T00:00:00.000Z
 thread_id: 19fb3f3fda142140
 source: gmail
 participants:

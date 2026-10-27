@@ -1,3 +1,8 @@
+---
+type: person
+title: Heather Englund
+---
+
 # Heather Englund
 
 **Role:** Creator & Founder, Fit Mama Real Food  

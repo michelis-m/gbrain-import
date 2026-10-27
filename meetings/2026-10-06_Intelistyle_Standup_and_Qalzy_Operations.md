@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Catalog Queues, Ad Disappointment, and
+  Customer Expectations
+date: '2026-10-06'
+---
+
 # Intelistyle Standup & Qalzy Operations: Catalog Queues, Ad Disappointment, and Customer Expectations
 
 **Date:** 2026-10-06  

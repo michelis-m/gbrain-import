@@ -1,3 +1,9 @@
+---
+type: note
+title: Redo Refulfillment Enabled & EU RTS Warehouse Address Confirmed
+date: '2026-09-05'
+---
+
 # Redo Refulfillment Enabled & EU RTS Warehouse Address Confirmed
 
 - **Date:** 2026-09-05 00:14 UTC

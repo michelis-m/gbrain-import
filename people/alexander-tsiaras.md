@@ -1,3 +1,8 @@
+---
+type: person
+title: Alexander Tsiaras
+---
+
 # Alexander Tsiaras
 
 **Role:** Founder & CEO  

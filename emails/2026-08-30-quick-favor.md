@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Quick favor!'
+date: '2026-08-30'
+---
+
 # Subject: Quick favor!
 **Date:** Sun, 30 Aug 2026 10:01:53 -0500
 **From:** Michael Michelis <michael@qalzy.com>

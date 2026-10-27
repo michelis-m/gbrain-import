@@ -1,8 +1,9 @@
 ---
 type: company
-title: "North Barber"
+title: North Barber
 aliases:
   - North Barber Shop
+subtype: company
 ---
 
 # North Barber

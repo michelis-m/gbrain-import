@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Meta Developers: Hermes Integration App Review Submitted'
+date: '2026-09-21'
+---
+
 # Meta Developers: Hermes Integration App Review Submitted
 
 **Date:** 2026-09-21  

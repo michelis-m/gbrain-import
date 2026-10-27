@@ -1,3 +1,8 @@
+---
+type: note
+title: Qalzy Onboarding Questionnaire (Social Paradigm Group)
+---
+
 # Qalzy Onboarding Questionnaire (Social Paradigm Group)
 
 **Source:** [Google Docs](https://docs.google.com/document/d/1dnjQ599pD-5PwHCsp2FhqvfOxvqYMyhlfYfxM1aeNic/edit?usp=sharing)

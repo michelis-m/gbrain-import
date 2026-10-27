@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: Return #2189 Factory Sealed Verification & Disposition'
+date: '2026-10-17'
+---
+
 # Redo: Return #2189 Factory Sealed Verification & Disposition
 
 **Date:** 2026-10-17  

@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Post-SPG Debrief: PDP Reversion & CPA Troubleshooting'
+date: '2026-09-30'
+---
+
 # Qalzy Post-SPG Debrief: PDP Reversion & CPA Troubleshooting
 
 **Date:** 2026-09-30  

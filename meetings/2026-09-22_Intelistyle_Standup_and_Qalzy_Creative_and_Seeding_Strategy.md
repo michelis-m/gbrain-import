@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Qalzy Creative and Seeding Strategy
+date: '2026-09-22'
+---
+
 # Intelistyle Standup & Qalzy Creative and Seeding Strategy
 
 **Date:** 2026-09-22  

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: Resourcing enquiry"
-date: 2026-05-28
+title: 'Re: Resourcing enquiry'
+date: 2026-05-28T00:00:00.000Z
 thread_id: 19e6de5504279bc0
 source: gmail
 participants:

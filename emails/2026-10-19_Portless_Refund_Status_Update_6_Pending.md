@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless: Customer Order Refund Status (6 Pending Duties/Taxes)'
+date: '2026-10-19'
+---
+
 # Portless: Customer Order Refund Status (6 Pending Duties/Taxes)
 
 **Date:** 2026-10-19  

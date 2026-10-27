@@ -1,4 +1,10 @@
-﻿00:00:00 - Leo Schottenstein (TrueMed)
+---
+type: note
+title: raw 2026 10 14 Truemed HSA FSA Partnership Kickoff
+date: '2026-10-14'
+---
+
+00:00:00 - Leo Schottenstein (TrueMed)
       How's it going?    Great.
   00:00:02 - Michael Michelis (Qalzy)
       Please call me.

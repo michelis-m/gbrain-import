@@ -1,4 +1,10 @@
-﻿00:00:01 - Speaker 1
+---
+type: note
+title: Raw 2026 08 25 Qalzy X Blazer Weekly
+date: '2026-08-25'
+---
+
+00:00:01 - Speaker 1
       How are you?    Good.    Are you on my side?    Good on my side.
   00:00:07 - Michael Michelis (Qalzy)
       Amazing.

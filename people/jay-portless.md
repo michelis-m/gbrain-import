@@ -1,3 +1,8 @@
+---
+type: person
+title: Jay
+---
+
 # Jay
 
 **Role:** Support Specialist  

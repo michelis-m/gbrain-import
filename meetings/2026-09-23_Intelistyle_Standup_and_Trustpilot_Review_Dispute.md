@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Trustpilot Review Dispute
+date: '2026-09-23'
+---
+
 # Intelistyle Standup & Trustpilot Review Dispute
 
 **Date:** 2026-09-23  

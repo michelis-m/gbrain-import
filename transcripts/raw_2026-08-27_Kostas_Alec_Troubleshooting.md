@@ -1,4 +1,10 @@
-﻿00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 08 27 Kostas Alec Troubleshooting
+date: '2026-08-27'
+---
+
+00:00:01 - Speaker 1
       Inventory.
   00:00:01 - Michael Michelis (Qalzy)
       So we're

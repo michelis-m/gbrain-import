@@ -1,3 +1,9 @@
+---
+type: note
+title: 'ShipBots: US Warehouse Receiving & January 1 Go-Live Plan'
+date: '2026-10-19'
+---
+
 # ShipBots: US Warehouse Receiving & January 1 Go-Live Plan
 
 **Date:** 2026-10-19  

@@ -1,3 +1,8 @@
+---
+type: person
+title: Karen Jagoda
+---
+
 # Karen Jagoda
 
 **Role:** Host & Producer

@@ -1,10 +1,10 @@
 ---
 type: note
-title: "WhatsApp Groups"
+title: WhatsApp Groups
 tags:
   - contacts
-  - whatsapp
   - groups
+  - whatsapp
 ---
 
 # WhatsApp Groups

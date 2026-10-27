@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-03'
+date: '2026-09-03'
+---
+
 # Daily Email Summary: 2026-09-03
 
 ## SPG Agency Access

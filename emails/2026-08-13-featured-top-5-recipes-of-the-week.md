@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: 👩‍🍳 Featured Top 5 Recipes of The Week"
-date: 2026-08-13
+title: 'Fwd: 👩‍🍳 Featured Top 5 Recipes of The Week'
+date: 2026-08-13T00:00:00.000Z
 thread_id: 19ff97f96ee296d8
 source: gmail
 participants:

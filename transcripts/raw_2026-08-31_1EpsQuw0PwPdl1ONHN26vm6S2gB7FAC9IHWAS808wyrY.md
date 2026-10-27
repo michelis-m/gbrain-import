@@ -1,4 +1,10 @@
-﻿00:00:07 - Speaker 1
+---
+type: note
+title: raw 2026 08 31 1EpsQuw0PwPdl1ONHN26vm6S2gB7FAC9IHWAS808wyrY
+date: '2026-08-31'
+---
+
+00:00:07 - Speaker 1
       All right, John, do you want to start?
   00:00:15 - Michael Michelis (Qalzy)
       Great.

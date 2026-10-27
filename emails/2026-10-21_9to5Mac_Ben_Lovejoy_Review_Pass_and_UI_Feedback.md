@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac Review: Ben Lovejoy Review Pass & Product Feedback'
+date: '2026-10-21'
+---
+
 # 9to5Mac Review: Ben Lovejoy Review Pass & Product Feedback
 
 **Date:** 2026-10-21  

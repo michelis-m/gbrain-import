@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Check in
+date: '2026-08-21'
+---
+
 # Qalzy Check in
 Date: 2026-08-21
 Attendees: [[people/chloe-hu]], [[people/michael-michelis]]

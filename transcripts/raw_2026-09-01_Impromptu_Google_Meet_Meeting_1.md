@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 01 Impromptu Google Meet Meeting 1
+date: '2026-09-01'
+---
+
+00:00:00 - Speaker 1
       I started with APKIL and I'm almost done and then I'll continue with TWIST and new arrivals of guests.    And after that, I'll do the re-approvals.    Okay, sounds good.    The Cuba, we solved the problem with the Cuba?    Yes.
   00:00:17 - Michael Michelis (Qalzy)
       So we had a couple of issues, one with the wrong discounts, I don't know how we haven't caught that so far, one with the wrong products being identified for the wrong regions, these two are solved, but they said there is some products are not showing discounts, but it didn't send examples, but I think mostly the difficult ones are done.    And John invented that.

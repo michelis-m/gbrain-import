@@ -1,4 +1,10 @@
-  00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 10 16 Intelistyle Standup and Meta Ads Policy Review
+date: '2026-10-16'
+---
+
+00:00:00 - Speaker 1
       Hi, good morning.
   00:00:02 - Michael Michelis (Qalzy)
       Morning.
@@ -146,4 +152,3 @@
       Εγώ να το δω, Τωριαν.    Οκ.    Στάω.    Υπότιτλοι
   00:22:50 - Michael Michelis (Qalzy)
       ευχαριστώ.
-

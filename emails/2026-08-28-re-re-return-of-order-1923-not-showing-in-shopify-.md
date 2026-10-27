@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Re: Return of Order #1923 not showing in Shopify Location'
+date: '2026-08-28'
+---
+
 # Subject: Re: Re: Return of Order #1923 not showing in Shopify Location
 **Date:** Fri, 28 Aug 2026 17:54:21 +0000
 **From:** Samuel from Redo <support@getredo.com>

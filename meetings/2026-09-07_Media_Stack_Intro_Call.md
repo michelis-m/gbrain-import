@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy <> Media Stack Agency Discovery Call
+date: '2026-09-07'
+---
+
 # Qalzy <> Media Stack Agency Discovery Call
 
 **Date:** 2026-09-07  

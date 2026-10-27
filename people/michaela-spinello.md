@@ -1,3 +1,8 @@
+---
+type: person
+title: Michaela Spinello
+---
+
 # Michaela Spinello
 
 **Role:** Contact at S Greenspan Consulting

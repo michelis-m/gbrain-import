@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Creator Operations: Carmen Hayward Contract Terms & Outbound Outreach'
+date: '2026-10-06'
+---
+
 # Creator Operations: Carmen Hayward Contract Terms & Outbound Outreach
 
 **Date:** 2026-10-06  

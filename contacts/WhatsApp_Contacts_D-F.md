@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts (D – F)"
+title: WhatsApp Contacts (D – F)
 tags:
   - contacts
   - whatsapp

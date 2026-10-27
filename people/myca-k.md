@@ -1,3 +1,8 @@
+---
+type: person
+title: Myca K
+---
+
 # Myca K
 
 **Role:** Content Creator / UGC Specialist  

@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Fwd: QALZY’s AI scale: How a US team cut housing lead time by 30%?"
-date: 2026-05-18
+title: 'Fwd: QALZY’s AI scale: How a US team cut housing lead time by 30%?'
+date: 2026-05-18T00:00:00.000Z
 thread_id: 19e38f371b9ddcc8
 source: gmail
 participants:

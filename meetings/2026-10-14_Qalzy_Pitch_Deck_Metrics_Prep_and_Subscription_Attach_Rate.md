@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Strategy & Pitch Deck Prep: Growth Metrics, Retention Modeling, and
+  Subscription Attach Rates
+date: '2026-10-14'
+---
+
 # Qalzy Strategy & Pitch Deck Prep: Growth Metrics, Retention Modeling, and Subscription Attach Rates
 
 **Date:** 2026-10-14  

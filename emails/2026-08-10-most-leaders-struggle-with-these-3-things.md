@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Most leaders struggle with these 3 things."
-date: 2026-08-10
+title: Most leaders struggle with these 3 things.
+date: 2026-08-10T00:00:00.000Z
 thread_id: 19feb66ec666a2d4
 source: gmail
 participants:

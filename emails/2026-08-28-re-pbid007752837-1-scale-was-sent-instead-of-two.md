@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: PBID007752837 - 1 scale was sent instead of two'
+date: '2026-08-28'
+---
+
 # Subject: Re: PBID007752837 - 1 scale was sent instead of two
 **Date:** Fri, 28 Aug 2026 20:43:49 +0000
 **From:** Tina from Portless Support <support@portless.com>

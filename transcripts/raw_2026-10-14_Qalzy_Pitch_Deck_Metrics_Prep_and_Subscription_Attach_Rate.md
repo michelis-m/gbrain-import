@@ -1,4 +1,10 @@
-﻿00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 10 14 Qalzy Pitch Deck Metrics Prep and Subscription Attach Rate
+date: '2026-10-14'
+---
+
+00:00:01 - Speaker 1
       Το subscription touch rate ήταν 10% που είχαμε μοντελάρει.    Το αυτή τη στιγμή ήταν 18%.    Το προηγούμενο μήνα που τους φορτώναμε το subscription στο μπάσκετ ήταν 32%, 38% όπως ήταν.    Οπότε, εγώ πιστεύω ότι αφού λύσουμε αυτά τα EB test free, τα οποία έλεγαμε το προϋποίημα, να κάνουμε ένα EB test για το subscription.    Πολύ free, no subscription.    Χελικίες.    Να το κάνουμε ένα μπάσκετ.
   00:00:29 - Michael Michelis (Qalzy)
       Ναι, ναι, ναι, ναι, ναι, λίγο, πολύ έξω μέσα από τη τώρα σας.

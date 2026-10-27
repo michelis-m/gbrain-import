@@ -1,3 +1,9 @@
+---
+type: meeting
+title: QALZY_X_BLAZER_WEEKLY
+date: '2026-09-01'
+---
+
 # QALZY_X_BLAZER_WEEKLY
 Date: 2026-09-01
 Attendees: [[people/michael-michelis]], [[people/kostas-koukoravas]], [[people/ronaldas-blazer]]

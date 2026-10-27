@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Buffer: Hermes API Token Expiration Notice (7 Days)'
+date: '2026-09-10'
+---
+
 # Buffer: Hermes API Token Expiration Notice (7 Days)
 
 **Date:** 2026-09-10  

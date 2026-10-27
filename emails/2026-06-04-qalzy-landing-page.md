@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy Landing Page"
-date: 2026-06-04
+title: Qalzy Landing Page
+date: 2026-06-04T00:00:00.000Z
 thread_id: 19b4a5558663e2f7
 source: gmail
 participants:

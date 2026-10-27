@@ -1,7 +1,7 @@
 ---
 type: email
-title: "[V-Trust] Inspection date to be confirmed MZW594840 - PO#"
-date: 2026-06-23
+title: '[V-Trust] Inspection date to be confirmed MZW594840 - PO#'
+date: 2026-06-23T00:00:00.000Z
 thread_id: 19eb3c47ca29bc90
 source: gmail
 participants:

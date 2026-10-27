@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and
+  CRO A/B Testing
+date: '2026-10-05'
+---
+
 # Intelistyle Standup & Qalzy Operations: Returns Economics, ROAS Trends, and CRO A/B Testing
 
 **Date:** 2026-10-05  

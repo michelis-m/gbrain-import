@@ -1,4 +1,10 @@
-﻿00:00:02 - John Karunungan
+---
+type: note
+title: raw 2026 09 24 Intelistyle Standup and Qalzy Creative and Influencer Strategy
+date: '2026-09-24'
+---
+
+00:00:02 - John Karunungan
       Morning.
   00:00:04 - Michael Michelis (Qalzy)
       Hey, John.    How are you feeling?

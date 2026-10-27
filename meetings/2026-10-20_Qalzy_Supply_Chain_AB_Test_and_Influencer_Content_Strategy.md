@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Supply Chain, A/B Test & Influencer Content Strategy
+date: '2026-10-20'
+---
+
 # Qalzy Supply Chain, A/B Test & Influencer Content Strategy
 
 **Date:** 2026-10-20  

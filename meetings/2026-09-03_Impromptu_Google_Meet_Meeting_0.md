@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Impromptu Google Meet Meeting
+date: '2026-09-03'
+---
+
 # Impromptu Google Meet Meeting
 Date: 2026-09-03
 

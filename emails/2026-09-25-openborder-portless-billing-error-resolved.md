@@ -1,3 +1,9 @@
+---
+type: note
+title: OpenBorder & Portless Billing Error Confirmed & Tariff Reconciliation
+date: '2026-09-25'
+---
+
 # OpenBorder & Portless Billing Error Confirmed & Tariff Reconciliation
 
 **Date:** 2026-09-25  

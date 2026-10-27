@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-22'
+date: '2026-10-22'
+---
+
 # Daily Email Summary: 2026-10-22
 
 **Date:** 2026-10-22  

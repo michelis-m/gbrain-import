@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Daily Sync: Ads Performance & Healthcare Outreach'
+date: '2026-09-08'
+---
+
 # Qalzy Daily Sync: Ads Performance & Healthcare Outreach
 
 **Date:** 2026-09-08  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Creator Outreach: Becky Carmen Partnership Terms'
+date: '2026-10-07'
+---
+
 # Creator Outreach: Becky Carmen Partnership Terms
 
 **Date:** 2026-10-07  

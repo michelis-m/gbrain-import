@@ -1,4 +1,10 @@
-﻿00:00:09 - Speaker 1
+---
+type: note
+title: raw 2026 09 11 Qalzy Internal Post SPG Debrief
+date: '2026-09-11'
+---
+
+00:00:09 - Speaker 1
       They do seem smart, people, and you do talk to the people as well directly because they speak English.
   00:00:13 - Michael Michelis (Qalzy)
       Yeah, I think we stopped Ronaldas, it's clearly not working what they're doing, at least the media buying, and they can get us some creatives with the remaining credit.

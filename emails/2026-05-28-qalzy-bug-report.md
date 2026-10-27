@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Qalzy Bug Report"
-date: 2026-05-28
+title: Qalzy Bug Report
+date: 2026-05-28T00:00:00.000Z
 thread_id: 19e6d2d7a28c9259
 source: gmail
 participants:

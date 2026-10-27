@@ -1,12 +1,12 @@
 ---
 type: reference
-title: "Qalzy Product SKUs and HS Codes"
+title: Qalzy Product SKUs and HS Codes
 tags:
-  - qalzy
-  - logistics
   - customs
-  - products
+  - logistics
   - portless
+  - products
+  - qalzy
 ---
 
 # Qalzy Product SKUs and HS Codes

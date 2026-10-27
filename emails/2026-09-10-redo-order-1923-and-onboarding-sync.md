@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo: Order #1923 Restock Sync & Optimization Meeting Scheduled'
+date: '2026-09-10'
+---
+
 # Redo: Order #1923 Restock Sync & Optimization Meeting Scheduled
 
 **Date:** 2026-09-10  

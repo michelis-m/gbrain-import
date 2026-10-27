@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Trans-Am Logistics: Singer Nip Warns on Foreign Entity Customs Bonds'
+date: '2026-10-21'
+---
+
 # Trans-Am Logistics: Singer Nip Warns on Foreign Entity Customs Bonds
 
 **Date:** 2026-10-21  

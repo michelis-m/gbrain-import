@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 08 18 QALZY X BLAZER WEEKLY
+date: '2026-08-18'
+---
+
+00:00:00 - Speaker 1
       Good, good.    How about you?
   00:00:03 - Michael Michelis (Qalzy)
       Great, always.

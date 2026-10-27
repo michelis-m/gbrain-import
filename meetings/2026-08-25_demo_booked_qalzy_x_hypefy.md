@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Demo Booked: Qalzy x Hypefy'
+date: '2026-08-25'
+---
+
 # Demo Booked: Qalzy x Hypefy
 **Date:** 2026-08-25
 **Attendees:** [[people/michael-michelis]], [[people/kostas-koukoravas]], [[people/juraj-bagaric]]

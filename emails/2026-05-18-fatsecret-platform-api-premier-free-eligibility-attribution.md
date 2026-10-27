@@ -1,7 +1,7 @@
 ---
 type: email
-title: "fatsecret Platform API Premier Free Eligibility & Attribution"
-date: 2026-05-18
+title: fatsecret Platform API Premier Free Eligibility & Attribution
+date: 2026-05-18T00:00:00.000Z
 thread_id: 19e24e31dafd6b13
 source: gmail
 participants:

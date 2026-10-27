@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Intelistyle Standup & Qalzy Ad Strategy Review
+date: '2026-09-11'
+---
+
 # Intelistyle Standup & Qalzy Ad Strategy Review
 
 **Date:** 2026-09-11  

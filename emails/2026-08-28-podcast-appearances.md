@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Podcast Appearances'
+date: '2026-08-28'
+---
+
 # Subject: Podcast Appearances
 **Date:** Fri, 28 Aug 2026 09:06:44 -0700
 **From:** Sean Greenspan <sean@sgreenspanconsulting.com>

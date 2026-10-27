@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Strategy: White Scale Stockout Risk, Color Defaults, and Landing Page
+  Redesign
+date: '2026-10-14'
+---
+
 # Qalzy Strategy: White Scale Stockout Risk, Color Defaults, and Landing Page Redesign
 
 **Date:** 2026-10-14  

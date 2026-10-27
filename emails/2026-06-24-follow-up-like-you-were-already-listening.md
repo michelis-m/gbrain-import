@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Follow up like you were already listening"
-date: 2026-06-24
+title: Follow up like you were already listening
+date: 2026-06-24T00:00:00.000Z
 thread_id: 19efc912675eda1a
 source: gmail
 participants:

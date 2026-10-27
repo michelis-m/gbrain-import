@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac: Ben Lovejoy Subscription Plan Modification'
+date: '2026-10-17'
+---
+
 # 9to5Mac: Ben Lovejoy Subscription Plan Modification
 
 **Date:** 2026-10-17  

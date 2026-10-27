@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Reminder: Please complete Qalzy Partner Performance Program Agreement'
+date: '2026-08-29'
+---
+
 # Subject: Reminder: Please complete Qalzy Partner Performance Program Agreement
 **Date:** Sat, 29 Aug 2026 16:21:38 +0000
 **From:** NAMZI via SignWell <signwelldocs@signwell.com>

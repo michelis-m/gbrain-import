@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'doola: US Entity Formation & Tax Compliance Strategy'
+date: '2026-10-21'
+---
+
 # doola: US Entity Formation & Tax Compliance Strategy
 
 **Date:** 2026-10-21  

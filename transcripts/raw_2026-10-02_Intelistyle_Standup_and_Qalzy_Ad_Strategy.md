@@ -1,4 +1,10 @@
-﻿00:00:00 - Kostas Koukoravas
+---
+type: note
+title: raw 2026 10 02 Intelistyle Standup and Qalzy Ad Strategy
+date: '2026-10-02'
+---
+
+00:00:00 - Kostas Koukoravas
       Hey, everyone.
   00:00:02 - John Karunungan
       Hey.

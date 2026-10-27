@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 08 Qalzy Daily Sync Ads and Outreach
+date: '2026-09-08'
+---
+
+00:00:00 - Speaker 1
        hell, man.    You've got typhoons every day.
   00:00:02 - Michael Michelis (Qalzy)
       Thank you.

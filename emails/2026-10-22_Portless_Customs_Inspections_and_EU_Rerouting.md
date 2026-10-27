@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Portless Logistics: Customs Inspection Notice & European Return Rerouting'
+date: '2026-10-22'
+---
+
 # Portless Logistics: Customs Inspection Notice & European Return Rerouting
 
 **Date:** 2026-10-22  

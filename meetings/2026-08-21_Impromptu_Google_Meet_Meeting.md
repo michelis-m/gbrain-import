@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Impromptu Google Meet Meeting
+date: '2026-08-21'
+---
+
 # Impromptu Google Meet Meeting
 Date: 2026-08-21
 Attendees: [[people/michael-michelis]], [[people/speaker-1]], [[people/john]], [[people/kostas]]

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'OpenBorder: Kickstarter Order Tax Remittance & VAT Reconciliation'
+date: '2026-09-10'
+---
+
 # OpenBorder: Kickstarter Order Tax Remittance & VAT Reconciliation
 
 **Date:** 2026-09-10  

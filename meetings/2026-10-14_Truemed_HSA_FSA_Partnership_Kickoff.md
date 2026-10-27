@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration'
+date: '2026-10-14'
+---
+
 # Truemed <> Qalzy Partnership Kickoff: HSA/FSA Checkout Integration
 
 **Date:** 2026-10-14  

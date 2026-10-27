@@ -1,4 +1,10 @@
-﻿00:00:07 - Speaker 1
+---
+type: note
+title: raw 2026 09 02 Impromptu Google Meet Meeting 4
+date: '2026-09-02'
+---
+
+00:00:07 - Speaker 1
       Good.
   00:00:08 - Michael Michelis (Qalzy)
       Good morning.    How are you?

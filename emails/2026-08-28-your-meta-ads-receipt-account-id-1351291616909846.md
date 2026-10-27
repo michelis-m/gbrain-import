@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Your Meta ads receipt (account ID: 1351291616909846)'
+date: '2026-08-28'
+---
+
 # Subject: Your Meta ads receipt (account ID: 1351291616909846)
 **Date:** Fri, 28 Aug 2026 08:18:36 -0700
 **From:** Meta for Business <noreply@business-updates.facebook.com>
@@ -33,4 +39,3 @@ https://facebook.com/aymt/unsubscribe/?c=25820498777619051&n=1787930291353916&t=
 Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland
 To help keep your profile secure, please don't forward this email. Follow the link below to learn more.
 https://www.facebook.com/email_forward_notice/?mid=65a1cac50366aG5af52be6f2e1G65a1cf5e6393cG7b8
-

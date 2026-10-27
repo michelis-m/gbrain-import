@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Redo <> Qalzy"
-date: 2026-07-17
+title: Redo <> Qalzy
+date: 2026-07-17T00:00:00.000Z
 thread_id: 19f3c6093cf11158
 source: gmail
 participants:

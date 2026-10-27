@@ -1,3 +1,8 @@
+---
+type: person
+title: Alexandrea Figueroa
+---
+
 # Alexandrea Figueroa
 
 **Role:** Fitness & Nutrition Creator  

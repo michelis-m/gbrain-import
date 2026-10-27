@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Klaviyo Campaign: Founder Responses Part 1 Preview'
+date: '2026-09-30'
+---
+
 # Klaviyo Campaign: Founder Responses Part 1 Preview
 
 **Date:** 2026-09-30  

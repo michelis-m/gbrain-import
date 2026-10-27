@@ -1,3 +1,9 @@
+---
+type: note
+title: ElevenLabs Startup Grant Award ($7,000 Credits)
+date: '2026-09-16'
+---
+
 # ElevenLabs Startup Grant Award ($7,000 Credits)
 
 **Date:** 2026-09-16  

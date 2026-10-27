@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy Creative Review: Static Ad Copy & Video Formats'
+date: '2026-09-24'
+---
+
 # Qalzy Creative Review: Static Ad Copy & Video Formats
 
 **Date:** 2026-09-24  

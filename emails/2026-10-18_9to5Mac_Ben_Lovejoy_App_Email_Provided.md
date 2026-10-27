@@ -1,3 +1,9 @@
+---
+type: note
+title: '9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade'
+date: '2026-10-18'
+---
+
 # 9to5Mac Review: Ben Lovejoy App Account Email Provided for Basic Downgrade
 
 **Date:** 2026-10-18  

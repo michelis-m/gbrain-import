@@ -1,4 +1,10 @@
-  00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 09 Blazer x Qalzy Catch Up
+date: '2026-09-09'
+---
+
+00:00:00 - Speaker 1
       Hey, man.    How are you doing?    Stopped in the meeting.    I had a meeting before, like, in the coffee.    Sorry, I can't hear you very well.    No?    Maybe.    It's a bit muffled, you know, the sound.    I don't All good or not?    Let's see.    Maybe this is better.    Can you hear me now?    It should be better right now.    Is good?    Yeah, maybe.    All right.    Okay.    Thank you.    Thank you for making the time, man.    I appreciate your summer.    It's better maybe.    Nice time.
   00:00:51 - Michael Michelis (Qalzy)
       Bye-bye.
@@ -12,4 +18,3 @@
       Thank you.
   00:14:31 - Speaker 1
       Thank you.    Cheers.    Have a good day.    Enjoy London.    Bye.
-

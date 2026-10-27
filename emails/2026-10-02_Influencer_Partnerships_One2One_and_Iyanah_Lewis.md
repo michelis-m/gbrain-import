@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Qalzy Creator Partnerships: One2One Diabetes Agreement Finalized & Iyanah
+  Lewis Counter-Offer
+date: '2026-10-02'
+---
+
 # Qalzy Creator Partnerships: One2One Diabetes Agreement Finalized & Iyanah Lewis Counter-Offer
 
 **Date:** 2026-10-02  

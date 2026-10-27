@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal'
+date: '2026-09-30'
+---
+
 # Redo Managed Returns: Influencer Order Capability & Outlet Workaround Proposal
 
 **Date:** 2026-09-30  

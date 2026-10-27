@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Ad Creative Strategy & Content Production Sync
+date: '2026-09-07'
+---
+
 # Qalzy Ad Creative Strategy & Content Production Sync
 
 **Date:** 2026-09-07  

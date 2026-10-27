@@ -1,3 +1,8 @@
+---
+type: person
+title: Rebecca McPherson
+---
+
 # Rebecca McPherson
 
 **Role:** Director of Customer Success  

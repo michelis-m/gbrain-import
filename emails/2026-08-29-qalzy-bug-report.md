@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Qalzy - Bug Report'
+date: '2026-08-29'
+---
+
 # Subject: Qalzy - Bug Report
 **Date:** Sat, 29 Aug 2026 08:56:16 +0300
 **From:** michael@qalzy.com

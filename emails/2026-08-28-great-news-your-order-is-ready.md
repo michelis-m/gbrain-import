@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Great news: Your order is ready'
+date: '2026-08-28'
+---
+
 # Subject: Great news: Your order is ready
 **Date:** Fri, 28 Aug 2026 21:04:36 +0000
 **From:** Fiverr <noreply@e.fiverr.com>

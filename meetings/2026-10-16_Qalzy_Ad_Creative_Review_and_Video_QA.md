@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Ad Creative Review & Video QA
+date: '2026-10-16'
+---
+
 # Qalzy Ad Creative Review & Video QA
 
 **Date:** 2026-10-16  

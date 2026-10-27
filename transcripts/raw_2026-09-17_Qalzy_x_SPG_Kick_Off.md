@@ -1,4 +1,10 @@
-﻿00:00:00 - Syed Hussain (Social Paradigm Group)
+---
+type: note
+title: raw 2026 09 17 Qalzy x SPG Kick Off
+date: '2026-09-17'
+---
+
+00:00:00 - Syed Hussain (Social Paradigm Group)
       Konstantinos.    Amazing. How about you?
   00:00:05 - Jess Brown (Social Paradigm Group)
       Yes, good, thank you.

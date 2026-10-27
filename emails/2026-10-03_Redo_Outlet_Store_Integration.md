@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Managed Returns: Custom Outlet Website Integration'
+date: '2026-10-03'
+---
+
 # Redo Managed Returns: Custom Outlet Website Integration
 
 **Date:** 2026-10-02 / 2026-10-03  

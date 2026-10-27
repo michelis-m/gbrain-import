@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Namzi Growing: Onboarding Invoice & Creator Outreach Update'
+date: '2026-09-09'
+---
+
 # Namzi Growing: Onboarding Invoice & Creator Outreach Update
 
 **Date:** 2026-09-09  

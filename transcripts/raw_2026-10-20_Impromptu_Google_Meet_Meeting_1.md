@@ -1,4 +1,10 @@
-  00:00:14 - Speaker 1
+---
+type: note
+title: raw 2026 10 20 Impromptu Google Meet Meeting 1
+date: '2026-10-20'
+---
+
+00:00:14 - Speaker 1
       Hi, good morning.
   00:00:15 - Michael Michelis (Qalzy)
       Good morning, not yet.
@@ -318,4 +324,3 @@
       Οκ.    Εξής, πρέπει να το κάνεις απόγευμα αυτό, γιατί είναι και στάτορα στον υγείο.    Εκεί και αλλιώς πρέπει να κάνουμε απευθείας contact με το patent office.    Οκ.    Είναι σημαντικό.
   00:37:07 - Michael Michelis (Qalzy)
       Ωραία, ευχαριστώ, ευχαριστώ.
-

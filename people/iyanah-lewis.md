@@ -1,3 +1,8 @@
+---
+type: person
+title: Iyanah Lewis
+---
+
 # Iyanah Lewis
 
 **Role:** Content Creator  

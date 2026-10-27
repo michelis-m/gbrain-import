@@ -1,3 +1,8 @@
+---
+type: person
+title: Ioanna Kourgiantaki
+---
+
 # Ioanna Kourgiantaki
 
 **Role:** Video Creator / Editor  

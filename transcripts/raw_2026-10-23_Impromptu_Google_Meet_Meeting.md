@@ -1,4 +1,10 @@
-﻿00:00:08 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 10 23 Impromptu Google Meet Meeting
+date: '2026-10-23'
+---
+
+00:00:08 - Michael Michelis (Qalzy)
       Eu.    Estou muito bem.
   00:00:16 - Konstantinos Koukoravas
       Οι θέλουν να return, σε έχουν καμιθεί.    Να σου πω κάτι, αρνούμε να πιστέψετε το προϊόν μας, δεν είναι user friendly, όχι επειδή είμαι κακός Finder, αλλά επειδή μπορεί να το χρησιμοποιήσει μάνα μου και πατέρας του.    Είναι πάρα πολύ καλό.    Είναι ικανοί να το χρησιμοποιήσουν, επειδή βάλανε το effort.    Όχι επειδή το προϊόν δεν είναι user friendly.    Και μάνα μου είπε στην αρχή, χώρουσα.    Οπότε πιστεύω ότι το πρόβλημα είναι education.    χρησιμοποιήσω.    να κάνουμε prioritize αυτό το guide που έλεγες, σαν τα τεχνίδια, if you cannot pass the test you don't use the scale, the scale is not enabled until you pass the test.    Βέρω, κάτι πρέπει να γίνει.

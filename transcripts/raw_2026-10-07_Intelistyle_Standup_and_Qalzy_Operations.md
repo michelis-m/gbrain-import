@@ -1,4 +1,10 @@
-﻿00:00:00 - John Karunungan
+---
+type: note
+title: raw 2026 10 07 Intelistyle Standup and Qalzy Operations
+date: '2026-10-07'
+---
+
+00:00:00 - John Karunungan
       First time this season.
   00:00:01 - Kostas Koukoravas
       Mm-hmm.

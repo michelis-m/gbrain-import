@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget
+  Scaling, and 3PL Logistics
+date: '2026-10-07'
+---
+
 # SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics
 
 **Date:** 2026-10-07  

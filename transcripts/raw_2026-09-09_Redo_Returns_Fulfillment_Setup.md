@@ -1,4 +1,10 @@
-  00:00:00 - Speaker 1
+---
+type: note
+title: raw 2026 09 09 Redo Returns Fulfillment Setup
+date: '2026-09-09'
+---
+
+00:00:00 - Speaker 1
       I to the conversation, he is confirming with one of our other return specialists right now about everything we need to do to make sure that this problem is resolved moving forward.    Confirmed with him, though, that there are two things that need to happen to make sure that the fulfillment isn't an issue.    Sorry, let me double check first.    Are there any other issues that have popped up since the last time we talked?
   00:00:31 - Michael Michelis (Qalzy)
       I think that's the main one.
@@ -80,4 +86,3 @@
       We too.    Bye.
   00:11:18 - Speaker 1
       Yeah.
-

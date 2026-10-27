@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled'
+date: '2026-10-07'
+---
+
 # Mahdi Aldashti: Sample Unit Received & Meeting Rescheduled
 
 **Date:** 2026-10-07  

@@ -1,3 +1,8 @@
+---
+type: person
+title: Dr. Vatsal Thakkar
+---
+
 # Dr. Vatsal Thakkar
 
 **Role:** Physician & Founder  

@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Mahdi Aldashti: Kuwait Wholesale Distribution Offer (250 Units @ $85)'
+date: '2026-09-11'
+---
+
 # Mahdi Aldashti: Kuwait Wholesale Distribution Offer (250 Units @ $85)
 
 **Date:** 2026-09-11  

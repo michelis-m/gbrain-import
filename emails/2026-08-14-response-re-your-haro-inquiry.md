@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Response re: your HARO inquiry"
-date: 2026-08-14
+title: 'Response re: your HARO inquiry'
+date: 2026-08-14T00:00:00.000Z
 thread_id: 19fffaa498f7f8d8
 source: gmail
 participants:

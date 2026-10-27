@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Impromptu Google Meet Meeting (Reddit Ads)
+date: '2026-08-26'
+---
+
 # Impromptu Google Meet Meeting (Reddit Ads)
 Date: 2026-08-26
 Attendees: [[people/michael-michelis]], [[people/kostas-koukoravas]]

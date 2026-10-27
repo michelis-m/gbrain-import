@@ -1,4 +1,10 @@
-  00:00:10 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 23 Qalzy Operations Redo Bug Creative Review and Unit Economics
+date: '2026-09-23'
+---
+
+00:00:10 - Michael Michelis (Qalzy)
       For your order I want to set some expectations about Qalzy, it's a new product so it needs some technical familiarity.
   00:00:12 - Speaker 2
       Δεν ξέρω τι θα κάνουμε με αυτόν τον τυπο.    Και πραγματικά δεν ξέρω τι θα μπορούσαμε να το πούμε για ένα μήνα αγοράσει.    Δεν ξέχνει.
@@ -758,4 +764,3 @@
       Κρατήστε άλλο ένα χρόνο.    Ναι.
   03:05:40 - Speaker 2
       Ε, ναι, δεν έχουμε στον Βάρο Μπέρ να με κρατήσει άλλο χρόνο, να με κρατήσει τον Γκέσ.    Ε, οκ, αυτά...
-

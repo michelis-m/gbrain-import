@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Problems with multiple orders in Greece"
-date: 2026-08-14
+title: Problems with multiple orders in Greece
+date: 2026-08-14T00:00:00.000Z
 thread_id: 19ff068095eb460a
 source: gmail
 participants:

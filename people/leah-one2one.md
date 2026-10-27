@@ -1,3 +1,8 @@
+---
+type: person
+title: Leah (One2One Diabetes)
+---
+
 # Leah (One2One Diabetes)
 
 **Role:** Founder, One2One Diabetes  

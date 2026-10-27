@@ -1,3 +1,9 @@
+---
+type: meeting
+title: 'Qalzy <> Mahdi Aldashti: Kuwait Retail Distribution Strategy'
+date: '2026-09-18'
+---
+
 # Qalzy <> Mahdi Aldashti: Kuwait Retail Distribution Strategy
 
 **Date:** 2026-09-18  

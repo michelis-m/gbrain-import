@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: Raw 2026 08 25 Impromptu Google Meet 1
+date: '2026-08-25'
+---
+
+00:00:00 - Speaker 1
       I love it.    I mean, I shouldn't have paid Namsi last night.    I mean, who the  is working with affiliates?
   00:00:06 - Michael Michelis (Qalzy)
       But it's a different type of campaign as you said.    The one you had like the date influencers, the other one you have affiliates basically.    So you could try both to see what works.

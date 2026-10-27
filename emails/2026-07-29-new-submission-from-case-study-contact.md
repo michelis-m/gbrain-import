@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: New submission from Case Study Contact"
-date: 2026-07-29
+title: 'Re: New submission from Case Study Contact'
+date: 2026-07-29T00:00:00.000Z
 thread_id: 19fadaa465d14e17
 source: gmail
 participants:

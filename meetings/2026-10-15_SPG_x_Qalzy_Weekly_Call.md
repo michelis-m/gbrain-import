@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and
+  Accuracy Positioning
+date: '2026-10-15'
+---
+
 # SPG x Qalzy Weekly Call: US 3PL Transition, Meta Spend Throttling, and Accuracy Positioning
 
 **Date:** 2026-10-15  

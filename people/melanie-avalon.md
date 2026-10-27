@@ -1,3 +1,8 @@
+---
+type: person
+title: Melanie Avalon
+---
+
 # Melanie Avalon
 
 **Role:** Podcast Host, Author, & Health Tech Entrepreneur  

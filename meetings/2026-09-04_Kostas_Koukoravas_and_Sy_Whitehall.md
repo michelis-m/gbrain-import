@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Strategy Session: Kostas Koukoravas, Michael Michelis & Sy Whitehall
+  (Socialproof Media)
+date: '2026-09-04'
+---
+
 # Strategy Session: Kostas Koukoravas, Michael Michelis & Sy Whitehall (Socialproof Media)
 **Date:** 2026-09-04
 **Attendees:** [[people/michael-michelis]], [[people/kostas-koukoravas]], [[people/sy-whitehall]]

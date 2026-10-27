@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Subject: Re: Just Launched: The world''s first AI kitchen scale'
+date: '2026-08-28'
+---
+
 # Subject: Re: Just Launched: The world's first AI kitchen scale
 **Date:** Fri, 28 Aug 2026 12:53:16 -0400
 **From:** Brian Gormley <brian.gormley@wsj.com>

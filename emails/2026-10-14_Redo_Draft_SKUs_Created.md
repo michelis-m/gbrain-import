@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Redo Managed Returns: Draft Shopify SKUs Created for Outlet Replacements'
+date: '2026-10-14'
+---
+
 # Redo Managed Returns: Draft Shopify SKUs Created for Outlet Replacements
 
 **Date:** 2026-10-14  

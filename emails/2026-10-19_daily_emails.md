@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-10-19'
+date: '2026-10-19'
+---
+
 # Daily Email Summary: 2026-10-19
 
 ## 1. Logistics, 3PL Fulfillment & Supply Chain

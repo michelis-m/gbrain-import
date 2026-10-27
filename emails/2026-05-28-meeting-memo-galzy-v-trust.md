@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Meeting Memo | Galzy & V-Trust"
-date: 2026-05-28
+title: Meeting Memo | Galzy & V-Trust
+date: 2026-05-28T00:00:00.000Z
 thread_id: 19d4d95d18d30a12
 source: gmail
 participants:

@@ -1,4 +1,10 @@
-  00:00:03 - Speaker 1
+---
+type: note
+title: raw 2026 08 20 Qalzy Sync 2
+date: '2026-08-20'
+---
+
+00:00:03 - Speaker 1
       Okay.
   00:00:09 - Michael Michelis (Qalzy)
       Ναι, για να τα κάνουμε κορεύτερα τα categories, εδώ έχει η ολοκροπράγνωμα.    Δεν είναι απλά λάζεις τα database.
@@ -248,4 +254,3 @@
       Ομαδύστη, ειναι.
   00:37:18 - Speaker 1
       Κουλ.    Bye.
-

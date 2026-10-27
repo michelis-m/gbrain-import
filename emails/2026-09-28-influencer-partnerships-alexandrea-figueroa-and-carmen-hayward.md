@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Influencer Partnerships: Alexandrea Figueroa Rate Card & Carmen Hayward
+  Campaign Sync
+date: '2026-09-28'
+---
+
 # Influencer Partnerships: Alexandrea Figueroa Rate Card & Carmen Hayward Campaign Sync
 
 **Date:** 2026-09-28  

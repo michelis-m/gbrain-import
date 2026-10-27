@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Blazer Agency: Final September Invoice Settled & Contract Closed'
+date: '2026-10-19'
+---
+
 # Blazer Agency: Final September Invoice Settled & Contract Closed
 
 **Date:** 2026-10-19  

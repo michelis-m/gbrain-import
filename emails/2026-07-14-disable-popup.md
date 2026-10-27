@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Disable Popup"
-date: 2026-07-14
+title: Disable Popup
+date: 2026-07-14T00:00:00.000Z
 thread_id: 19f5b7814019aeb0
 source: gmail
 participants:

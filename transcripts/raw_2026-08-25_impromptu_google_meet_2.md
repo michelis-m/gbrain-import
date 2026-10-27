@@ -1,4 +1,10 @@
-﻿00:00:00 - Speaker 1
+---
+type: note
+title: Raw 2026 08 25 Impromptu Google Meet 2
+date: '2026-08-25'
+---
+
+00:00:00 - Speaker 1
       For Guess, the Cuba, Epicule, and Twist, and I did Epicule and Twist shop the look, and the Cuba shop the look, and then the new IDs for Guess, and I'm still doing the new IDs still, and I'll keep on continuing until I finish the new IDs for Guess, and I'll do the re-approvals after that.
   00:00:22 - Michael Michelis (Qalzy)
       So we are not on track for this month for guests or you think no?

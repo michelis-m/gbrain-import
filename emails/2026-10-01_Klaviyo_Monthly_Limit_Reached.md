@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Klaviyo: 100% Monthly Email Profiles Limit Reached'
+date: '2026-10-01'
+---
+
 # Klaviyo: 100% Monthly Email Profiles Limit Reached
 
 **Date:** 2026-10-01  

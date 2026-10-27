@@ -1,3 +1,9 @@
+---
+type: meeting
+title: SPG <> Qalzy Quick Chat
+date: '2026-09-03'
+---
+
 # SPG <> Qalzy Quick Chat
 **Date:** 2026-09-03
 **Attendees:** [[people/michael-michelis]], [[people/charlie-williams]], [[people/kostas-koukoravas]]

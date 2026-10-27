@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Board Meeting
+date: '2026-09-02'
+---
+
 # Qalzy Board Meeting
 Date: 2026-09-02
 

@@ -1,3 +1,8 @@
+---
+type: person
+title: Tim Jung
+---
+
 # Tim Jung
 
 **Role:** Co-founder  

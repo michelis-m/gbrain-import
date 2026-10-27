@@ -1,3 +1,11 @@
+---
+type: note
+title: >-
+  Portless Invoicing: Overdue Notice (1085260915) & New Invoice Issued
+  (1085260922)
+date: '2026-09-22'
+---
+
 # Portless Invoicing: Overdue Notice (1085260915) & New Invoice Issued (1085260922)
 
 **Date:** 2026-09-22  

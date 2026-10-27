@@ -1,7 +1,7 @@
 ---
 type: email
-title: "URGENT: Return to sender - Multiple issues with orders without contact info"
-date: 2026-08-13
+title: 'URGENT: Return to sender - Multiple issues with orders without contact info'
+date: 2026-08-13T00:00:00.000Z
 thread_id: 19fe644f37b43d8f
 source: gmail
 participants:

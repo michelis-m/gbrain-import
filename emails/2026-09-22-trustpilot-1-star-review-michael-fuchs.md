@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Customer Support: 1-Star Trustpilot Review (Michael J. Fuchs)'
+date: '2026-09-22'
+---
+
 # Customer Support: 1-Star Trustpilot Review (Michael J. Fuchs)
 
 **Date:** 2026-09-22  

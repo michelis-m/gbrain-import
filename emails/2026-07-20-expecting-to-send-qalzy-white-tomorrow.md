@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Expecting to send Qalzy White tomorrow"
-date: 2026-07-20
+title: Expecting to send Qalzy White tomorrow
+date: 2026-07-20T00:00:00.000Z
 thread_id: 19f412ef133d8391
 source: gmail
 participants:

@@ -1,3 +1,9 @@
+---
+type: meeting
+title: Qalzy Meta Ads Consultation with Meta Marketing Pro
+date: '2026-09-29'
+---
+
 # Qalzy Meta Ads Consultation with Meta Marketing Pro
 
 **Date:** 2026-09-29  

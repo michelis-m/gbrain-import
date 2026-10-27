@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Namzi Growing: Setup Fee Refund Demand Escalation'
+date: '2026-10-24'
+---
+
 # Namzi Growing: Setup Fee Refund Demand Escalation
 
 **Date:** 2026-10-24  

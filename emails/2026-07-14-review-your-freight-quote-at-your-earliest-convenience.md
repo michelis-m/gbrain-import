@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Review Your Freight Quote at Your Earliest Convenience"
-date: 2026-07-14
+title: Review Your Freight Quote at Your Earliest Convenience
+date: 2026-07-14T00:00:00.000Z
 thread_id: 19f3c005c970a7dc
 source: gmail
 participants:

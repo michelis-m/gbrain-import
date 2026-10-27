@@ -1,4 +1,10 @@
-  00:00:00 - Michael Michelis (Qalzy)
+---
+type: note
+title: raw 2026 09 03 SPG Qalzy Chat
+date: '2026-09-03'
+---
+
+00:00:00 - Michael Michelis (Qalzy)
       you, you too.
   00:00:00 - Speaker 2
       Good, mate.    Thanks.    Thanks for jumping on.    Nice to meet you both.    Awesome.    Awesome.    How do you know, how do you guys know Stefan then?    So, Stefan's got the same investor as us.    And we were actually talking to our investors yesterday in a board meeting.    And we were talking about, yeah, what we're trying to do and how we're trying to scale marketing and create and test the creatives.    We're not really trying to scale it.    We're trying to jump stack it.    Let me be more clear.    So he said, hey, you know, Stefan has been on the same journey.    Why don't I connect you with Stefan?    So then we met Stefan and Stefan said, hey, those great guys.    So that's how we got to you.    Nice.    Nice.    Good to know.    It's good to know our name popped up in conversation.    Stefan's a great guy.    mean.    He's been with us for probably about maybe a month now, but we've been talking for quite some time.    And we did a podcast with him recently too.    He's a great guy, great brand, amazing story.    So yeah, it's good to know that he's recommending us.    I know that he's absolutely loving life since he partnered with us as well.
@@ -98,4 +104,3 @@
       Thank you much.
   00:25:42 - Speaker 2
       Athens.    Athens, nice.    Greece is it, it's a really cool place, really like good weather, good beaches, laid back.    I like it a lot.    It's cool.    Good for holiday.    That's what I was mainly good for.    Yeah.    I've spent way too much time in the UK, but I do like to be, to spend the summer here.    Although, you know, summer this year in the UK was fantastic.    Yeah, yeah.    We had a decent summer by our standards.    It wasn't too bad, but yeah, nice.    Cool.    Do you have any notice periods or anything with your agency that I need to be aware of?    It's one month, I believe.    Okay, cool.    Sounds good.    Well, I'll get everything sent over and then we can go.
-

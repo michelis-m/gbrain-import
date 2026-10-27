@@ -1,7 +1,7 @@
 ---
 type: email
-title: "Re: How Goldman Sachs Is Using Agentic AI For Software Engineering At Scale"
-date: 2026-08-14
+title: 'Re: How Goldman Sachs Is Using Agentic AI For Software Engineering At Scale'
+date: 2026-08-14T00:00:00.000Z
 thread_id: 19fff97f52475e41
 source: gmail
 participants:

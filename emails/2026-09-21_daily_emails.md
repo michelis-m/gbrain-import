@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Daily Email Summary: 2026-09-21'
+date: '2026-09-21'
+---
+
 # Daily Email Summary: 2026-09-21
 
 ## 1. Operational & Fulfillment Actions

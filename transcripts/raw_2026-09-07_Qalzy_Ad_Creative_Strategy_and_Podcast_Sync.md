@@ -1,4 +1,10 @@
-﻿00:00:01 - Speaker 1
+---
+type: note
+title: raw 2026 09 07 Qalzy Ad Creative Strategy and Podcast Sync
+date: '2026-09-07'
+---
+
+00:00:01 - Speaker 1
       Ήτανε αυτός ο τύπος ο founder που τα έχει κάνει όλα grow από μόνος του πράγματος.
   00:00:04 - Michael Michelis (Qalzy)
       Εγώ αυτό κοίταζα, κοίταζα το βουδιγραφή του και ήταν, είναι ακριβώς αυτός, CMO σε ένα που έλεγε, έκανα εγώ.

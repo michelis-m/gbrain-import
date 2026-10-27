@@ -1,6 +1,6 @@
 ---
 type: note
-title: "WhatsApp Contacts (J – L)"
+title: WhatsApp Contacts (J – L)
 tags:
   - contacts
   - whatsapp

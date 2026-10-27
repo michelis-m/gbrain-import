@@ -1,3 +1,11 @@
+---
+type: meeting
+title: >-
+  Qalzy Strategy & Intelistyle Operations: Meta Ad Scale Skepticism, Creator
+  Demographics, and BFCM Margins
+date: '2026-10-05'
+---
+
 # Qalzy Strategy & Intelistyle Operations: Meta Ad Scale Skepticism, Creator Demographics, and BFCM Margins
 
 **Date:** 2026-10-05  
