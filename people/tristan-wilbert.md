@@ -20,8 +20,11 @@ title: Tristan Wilbert
 - On 2026-10-05, [[people/kostas-koukoravas]] replied to Tristan's creator shortlist email, confirming Qalzy is happy to send scales to some of the creators, but requesting explicit clarification whether Namzi will deliver the full 30 creators included in the initial agreement before any monthly rolling contract begins.
 - On 2026-10-24, [[people/kostas-koukoravas]] escalated after another 20 days of complete silence, demanding an immediate full refund of the $2,000 setup fee and challenging whether Namzi takes any pride in their work or is solely collecting setup fees without delivery.
 - On 2026-10-26, replied to Kostas's escalation; apologized for communication delays, clarified that no monthly retainer fees apply until 30 creators are live, stated that 10 creators are ready for review, and offered an immediate 65% refund ($1,300 USD) on the $2,000 setup fee if Qalzy prefers to terminate.
+- On 2026-10-27, [[people/kostas-koukoravas]] formally rejected Tristan's 65% partial refund offer, issuing a final demand for a 100% full refund ($2,000 USD) and warning of imminent escalation to consumer protection and regulatory bodies for deceptive practices if refused.
 
 ## Referenced by
+- Referenced in [Namzi Growing: 65% Settlement Rejected & Full Refund Ultimatum](../emails/2026-10-27_Namzi_Growing_Full_Refund_Demand_and_Escalation)
+- Referenced in [Daily Email Summary: 2026-10-27](../emails/2026-10-27_daily_emails)
 - Referenced in [Namzi Growing: Billing Terms Clarification & 65% Refund Settlement Offer](../emails/2026-10-26_Namzi_Growing_Billing_Clarification_and_Refund_Offer)
 - Referenced in [Daily Email Summary: 2026-10-26](../emails/2026-10-26_daily_emails)
 - Referenced in [Namzi Growing: Setup Fee Refund Demand Escalation](../emails/2026-10-24_Namzi_Growing_Refund_Demand_Escalation)
