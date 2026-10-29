@@ -36,6 +36,8 @@ Comprehensive prosecution history and administrative record for Qalzy's core uti
 - **2026-10-20:** Michael Michelis contacted the USPTO Application Assistance Unit (AAU).
   - Confirmed: Application is fully intact, fee paid, and officially on-track for final grant issuance.
   - Service Request Number: **`2-01362236`** (special status inquiry placed by USPTO because issuance was delayed beyond standard 6–12 week timeframe).
+  - Transmitted 3-page facsimile to Central Fax `(571) 273-8300` containing Cover Sheet and Form `PTO/AIA/122` signed by both inventors (Michail Michelis & Konstantinos Koukoravas) requesting change of correspondence address to Chlois 3, Drosia, Athens 14572, Greece (`michael@qalzy.com`).
+  - Follow-up Call Reference Number: **`201376822`** (USPTO stated it will take up to **10 business days** for the correspondence address update to process in the system, target date ~November 3, 2026).
 
 ## Legal Representation & Attorney Contact
 
@@ -48,7 +50,7 @@ Comprehensive prosecution history and administrative record for Qalzy's core uti
 
 ## Immediate Action Items
 
-1. **Change of Correspondence Address (`PTO/AIA/122`):**
-   - File USPTO Form `PTO/AIA/122` signed by the inventors to redirect correspondence and ensure the physical ribbon-bound patent grant certificate and future maintenance fee notices are delivered directly to the founders, not Sam Pierce's address.
+1. **Correspondence Address Processing (Target: ~Nov 3, 2026):**
+   - Monitor for email confirmation / PALM update following the 10 business days processing window under Reference # **`201376822`**.
 2. **Monitor Issuance:**
    - Track USPTO Service Request **`2-01362236`** for the formal **Patent Number** and scheduled Tuesday **Issue Date**.
