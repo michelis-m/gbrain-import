@@ -25,8 +25,11 @@ Google Cloud Account Manager assigned to Qalzy, overseeing Google Cloud infrastr
 - Referenced in [Google Cloud: Gemini 429 Resolution and Project Telemetry](../emails/2026-10-16_Google_Cloud_Gemini_429_Resolution)
 - On 2026-10-19, followed up to inform Michael that Qalzy has $11,910 in Google Cloud Enhanced Support credits valid until 30 April 2027 from the Startups program, providing 24/7 engineer access and 1-hour response times. Provided step-by-step console instructions to activate against billing account 010A69-E01095-C382CF.
 - On 2026-10-26, contacted [[people/michael-michelis]] noting Qalzy has ~$50,800 in startup cloud credits remaining expiring in April 2027 and offered to arrange an extension through the Google for Startups program. Michael scheduled an alignment call for Tuesday, October 27 at 13:00 GMT+2.
+- On 2026-10-28, offered a 50% credit rebate incentive on Gemini 4 Argon Provisioned Throughput: committing 3-4 GSUs (~$10,000 capacity) gives $5,000 back in Google Cloud credits applied toward ongoing AI spend.
 
 ## Referenced by
+- Referenced in [Google Cloud: Gemini 4 Argon Provisioned Throughput 50% Credit Rebate](../emails/2026-10-28_Google_Cloud_Gemini_Provisioned_Throughput_Rebate)
+- Referenced in [Daily Email Summary: 2026-10-28](../emails/2026-10-28_daily_emails)
 - Referenced in [Google Cloud: $50,800 Startup Credits Extension Meeting Booked](../emails/2026-10-26_Google_Cloud_Startup_Credits_Extension)
 - Referenced in [Daily Email Summary: 2026-10-26](../emails/2026-10-26_daily_emails)
 - Referenced in [Qalzy Technical Sync: Session GUID Timestamp Fix, Gemini 3.5 Evaluation & Food Deduplication](../meetings/2026-10-26_Qalzy_Technical_Sync_Session_GUID_Fix_Gemini_Eval_and_Food_Bugs)

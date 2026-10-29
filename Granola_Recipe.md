@@ -1,7 +1,10 @@
 ---
 type: note
 title: Granola Recipe
-tags: [recipe, nutrition, food]
+tags:
+  - food
+  - nutrition
+  - recipe
 ---
 
 # Granola Recipe
