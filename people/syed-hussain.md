@@ -32,8 +32,10 @@ trust_tier: agent_written
 - On 2026-10-15, held weekly strategic sync with Michael and Kostas. Discussed US 3PL transition (modeled ~7% gross margin lift from lower domestic shipping rates). Agreed to throttle daily Meta ad spend back to $1,250 while landing page and variant tests run, and update bottom-of-funnel ad headlines to reflect current 42% discounts. Deep-dived into product return rate (4% vs 3% target) and customer expectations; proposed tackling accuracy doubts directly in ad creative ("Is this AI scale a scam?"), clarifying Gemini visual detection + USDA database lookup vs pixel estimation. Committed to briefing creative lead Saul next week on accuracy-focused video formats.
 
 - On 2026-10-22, conducted weekly ad performance sync with [[people/kostas-koukoravas]] and [[people/michael-michelis]]. Explained Meta's backend 'Entity ID' creative clustering causing fatigue, established the December 14 Christmas gifting shipping cutoff, and outlined the Black Friday playbook favoring bold, simple static text ads over complex video formats.
+- On 2026-10-29, participated in SPG x Qalzy sync. Reported strong performance from the new Meta Cost Cap campaign ($90 cap), which maintained stability while highest volume campaigns saw elevated CPAs (~$166). Increased budget from $250 to $300/day to test scaling potential. Noted Triple Whale reports lower blended CPA than Meta due to attribution delays. Pushing live Michael's creator ads, prepping creator whitelisting, and compiling new headline tests and Black Friday calendar.
 
 ## Referenced by
+- Referenced in [SPG x Qalzy Growth & Creative Sync: Holiday Gifting, Cost Caps & CRO](../meetings/2026-10-29_SPG_x_Qalzy_Growth_and_Creative_Sync)
 
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
 - Referenced in [SPG x Qalzy: Creative Persona Matrix, PDP Conversion Optimization, Ad Budget Scaling, and 3PL Logistics](../meetings/2026-10-07_SPG_x_Qalzy_Weekly_Call)

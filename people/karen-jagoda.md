@@ -21,8 +21,10 @@ Interviewing Qalzy leadership on building "the OURA of nutrition tracking."
 - On 2026-10-12, confirmed recording Zoom link for Tuesday, October 20, 2026 at 11:00 AM Pacific: `https://us06web.zoom.us/j/83723362481?pwd=A3rI6HrVHA3LKubwbGeJUbuwxUBNBy.1`. Requested interview questions and hashtags by Thursday, October 15.
 - On 2026-10-13, [[people/kostas-koukoravas]] provided the list of interview questions and suggested hashtags via Google Doc (`https://docs.google.com/document/d/1WJBa6sHtHDM7hXkyVEXg6Pqyv2rWlz12Nf6diADXRUM/edit?usp=sharing`). Karen confirmed receipt and expressed excitement for the upcoming recording.
 - On 2026-10-23, Karen connected [[people/alexander-tsiaras]] (founder of [[companies/storymd]]) with Kostas and Michael, coordinating open availability for a partnership and collaboration discussion the following week.
+- On 2026-10-29, facilitated and participated in the introductory partnership discussion between [[people/alexander-tsiaras]], [[people/kostas-koukoravas]], and [[people/michael-michelis]], focusing on clinical data integration, patient foundations, and healthcare trial distribution.
 
 ## Referenced by
+- Referenced in [StoryMD Partnership Exploration: Healthcare, Clinical Trial Data & Food as Medicine](../meetings/2026-10-29_StoryMD_Partnership_Meeting)
 - Referenced in [StoryMD Partnership Introduction & Background](../emails/2026-10-24_StoryMD_Partnership_Intro_Alexander_Tsiaras)
 - Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)
 

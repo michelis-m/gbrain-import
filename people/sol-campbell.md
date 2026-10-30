@@ -23,8 +23,10 @@ Creative Strategist at Social Paradigm Group (SPG) leading creative ideation, vi
 - Will participate in the bi-weekly client performance and strategy calls with Qalzy co-founders.
 - 2026-10-07: Presented comprehensive creative matrix aligning Meta targeting to distinct persona buckets (burnout weight loss trackers, GLP-1 protein maintenance, menopausal plateau, metabolic health/cholesterol, and gym macros). Formulating guided scripts for founder VSLs and curating Atria creative mood boards.
 - On 2026-10-26, [[people/kostas-koukoravas]] criticized Sol for repeatedly missing scheduled team meetings. Evaluated Sol's latest creative delivery ("how it works" video showing calorie counting/carving), finding it simplistic and inadequate (only showing pressing a button and 3 lines of text) when prospects require credible proof to overcome skepticism regarding accuracy. Sol had proposed prioritizing headline changes over subscription adjustments for website CRO, but founders prioritized subscription clarity first.
+- On 2026-10-29, participated in SPG x Qalzy sync. Outlined early holiday gifting creative strategy launching mid-November to warm up early Christmas shoppers through Black Friday. Requested POV, 3rd-person, and webcam-style unboxing videos and kitchen B-roll to anchor gift-focused ads targeting GLP-1 and fitness tracking personas.
 
 ## Referenced by
+- Referenced in [SPG x Qalzy Growth & Creative Sync: Holiday Gifting, Cost Caps & CRO](../meetings/2026-10-29_SPG_x_Qalzy_Growth_and_Creative_Sync)
 - Referenced in [Qalzy Standup: CRO Subscription A/B Test, Sol Campbell Creative Review, App Release & CES Pitch](../meetings/2026-10-26_Qalzy_Standup_CRO_Subscription_Test_App_Build_and_CES_Pitch)
 
 - Referenced in [Qalzy x SPG Kick Off Meeting](../meetings/2026-09-17_Qalzy_x_SPG_Kick_Off)
