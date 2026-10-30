@@ -24,8 +24,11 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - On 2026-10-05, sent Invoice #D112 / Order #2253 for the 50% upfront deposit ($125.00 USD). Michael paid the invoice, forwarded it to Xero, and confirmed the Qalzy scale unit has been dispatched to Colorado.
 - On 2026-10-17, confirmed safe delivery of the scale (arrived Oct 16). Accepted the proposed video outline focusing on carb counting and insulin management (modeled after Video 7 from Qalzy's brief), and inquired where to upload the final footage.
 - On 2026-10-29, delivered completed Reel draft demonstrating carb guessing vs Qalzy scale measurement for T1D meal insulin calculation. Following feedback from Michael on brand pronunciation ("Calzy"), refilmed ending cuts and recorded updated voiceover (`UPDATED_AUDIO`). Scheduled to publish the Reel as an Instagram Collaborator post on Thursday, November 5, 2026 at 9:00 AM MT.
+- On 2026-10-30, agreed with Michael to publish the original cut with the updated voiceover audio; accepted Meta partnership ad requests for both Instagram and Facebook.
 
 ## Referenced by
+- Referenced in [One2One Diabetes: Final Reel Approval, Collaborator Requests & Invoice Coordination](../emails/2026-10-30_One2One_Diabetes_Partnership_Ad_Approval_and_Invoice)
+- Referenced in [Daily Email Summary: 2026-10-30](../emails/2026-10-30_daily_emails)
 - Referenced in [Qalzy Founders Debrief: Leah (One2One Diabetes) UGC & Partnership Ads](../meetings/2026-10-29_Qalzy_Founders_Influencer_UGC_Debrief)
 - Referenced in [One2One Diabetes: Reel Draft, Pronunciation Correction & Instagram Collaborator Scheduling](../emails/2026-10-29_One2One_Diabetes_Reel_Draft_and_Pronunciation_Fix)
 - Referenced in [Qalzy Creator Partnerships: One2One Diabetes & Iyanah Lewis](../emails/2026-10-02_Influencer_Partnerships_One2One_and_Iyanah_Lewis)
