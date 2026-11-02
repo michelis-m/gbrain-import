@@ -29,6 +29,8 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - Referenced in [Daily Email Summary: 2026-10-23](../emails/2026-10-23_daily_emails)
 - On 2026-10-26, [[people/michael-michelis]] confirmed payment was completed, sent the scale guide link (`qalzy.com/pages/scale-guide`), and requested content focusing on her professional perspective as a nutritionist on effortless calorie tracking.
 - Referenced in [Daily Email Summary: 2026-10-26](../emails/2026-10-26_daily_emails)
+- On 2026-11-02, confirmed delivery of the Qalzy smart scale unit and started testing the device to create her dedicated Reel.
+- Referenced in [Daily Email Summary: 2026-11-02](../emails/2026-11-02_daily_emails)
 
 <!-- timeline -->
 

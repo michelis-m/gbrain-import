@@ -22,8 +22,10 @@ Interviewing Qalzy leadership on building "the OURA of nutrition tracking."
 - On 2026-10-13, [[people/kostas-koukoravas]] provided the list of interview questions and suggested hashtags via Google Doc (`https://docs.google.com/document/d/1WJBa6sHtHDM7hXkyVEXg6Pqyv2rWlz12Nf6diADXRUM/edit?usp=sharing`). Karen confirmed receipt and expressed excitement for the upcoming recording.
 - On 2026-10-23, Karen connected [[people/alexander-tsiaras]] (founder of [[companies/storymd]]) with Kostas and Michael, coordinating open availability for a partnership and collaboration discussion the following week.
 - On 2026-10-29, facilitated and participated in the introductory partnership discussion between [[people/alexander-tsiaras]], [[people/kostas-koukoravas]], and [[people/michael-michelis]], focusing on clinical data integration, patient foundations, and healthcare trial distribution.
+- On 2026-11-02, confirmed that the Empowered Patient Podcast interview episode with [[people/kostas-koukoravas]] has been scheduled for release on November 18, 2026.
 
 ## Referenced by
+- Referenced in [Daily Email Summary: 2026-11-02](../emails/2026-11-02_daily_emails)
 - Referenced in [StoryMD Partnership Exploration: Healthcare, Clinical Trial Data & Food as Medicine](../meetings/2026-10-29_StoryMD_Partnership_Meeting)
 - Referenced in [StoryMD Partnership Introduction & Background](../emails/2026-10-24_StoryMD_Partnership_Intro_Alexander_Tsiaras)
 - Referenced in [Daily Email Summary: 2026-10-24](../emails/2026-10-24_daily_emails)
