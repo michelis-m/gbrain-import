@@ -22,6 +22,8 @@ Host of the Healthcare Rap podcast covering consumer digital health, patient exp
 - On 2026-10-09/10, published Episode #535 ("Superpowered Nutrition Tracking") featuring [[people/kostas-koukoravas]] on YouTube, Apple, Spotify, and LinkedIn. Offered introductions to US hospital leaders.
 
 - On 2026-10-14, confirmed receipt of two Qalzy scale units and agreed to collaborate on video content and promotion following his podcast interview with [[people/kostas-koukoravas]].
+- On 2026-11-03, [[people/kostas-koukoravas]] checked in on his availability to film the planned product review video and sent a prepaid return shipping label for the second scale.
+- Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
 
 ## Referenced by
 

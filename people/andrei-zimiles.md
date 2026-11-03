@@ -20,6 +20,9 @@ Serial entrepreneur, investor, and digital health executive. Founder & CEO of [[
   - Requested Qalzy REST API access to sync food/macro logging data into Longevex clinician dashboards.
   - Advised Qalzy on B2B expansion into GLP-1 weight loss clinics, endocrinologists, and aesthetic medicine / plastic surgery practices.
   - Offered pitch deck feedback, investor introductions, and a complimentary full testing day (DEXA, VO2 max) at the NYC lab.
+- On 2026-11-03, [[people/michael-michelis]] created and dispatched dedicated REST API credentials (`app@longevix.com`) restricted specifically to user creation endpoints to enable Longevex patient onboarding.
+- Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
+- Referenced in [Qalzy Morning Sync: API Integration for Longevex, Delivery Exceptions, Influencer UGC & CRO Strategy](../meetings/2026-11-03_Qalzy_Morning_Sync_API_Returns_and_Influencer_Strategy)
 
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-10-16](../emails/2026-10-16_daily_emails)

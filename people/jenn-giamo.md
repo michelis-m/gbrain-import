@@ -22,6 +22,8 @@ Health and fitness creator and founder of a women's wellness group who partnered
 - Referenced in [Daily Email Summary: 2026-10-16](../emails/2026-10-16_daily_emails)
 - Referenced in [Influencer Partnership: Jennifer Giamo (Trainers in Transit)](../emails/2026-10-16_Influencer_Partnership_Jenn_Giamo)
 - On 2026-10-19, shared her agreement document for the creator partnership; [[people/michael-michelis]] requested her signature and shipping address to dispatch the scale.
+- On 2026-11-03, returned the signed collaboration agreement. [[people/michael-michelis]] dispatched a complimentary Qalzy smart scale to her Manhattan address and requested an invoice for the initial 50% payment ($87.50).
+- Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
 
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
