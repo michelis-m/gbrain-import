@@ -22,6 +22,8 @@ Sales and compliance specialist at Commenda, an AI-native global compliance and 
 - Confirmed that holding inventory at ShipBots in California creates immediate physical nexus, requiring California state registration and filings.
 - Quoted estimated annual costs: ~$1,500 one-time Delaware incorporation, ~$150 annual registered agent, and ~$6,000/year for accounting, bookkeeping (~300 monthly transactions), and federal/state tax filings.
 - On 2026-10-29, sent formal proposal for Qalzy's US entity via Wyoming LLC: $650 one-time incorporation/EIN, $600/year platform fee, $250/year registered agent/mailroom, $6,000/year corporate tax/accounting (Xero bookkeeping, Form 1120/5472, annual report), and $150 per state sales tax registration + $40/return. Total Year 1 cost: $7,500 ($6,850/yr ongoing). Advised that EIN turnaround is 6–7 weeks following 1-week LLC formation.
+- On 2026-11-04, checked in on project progress. [[people/kostas-koukoravas]] replied explaining that Qalzy is re-evaluating whether an LLC is viable due to UK HMRC treating US LLCs as opaque, causing severe double taxation and hybrid mismatch risks for UK companies, and indicating a Delaware C-Corp subsidiary may be required instead.
+- Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
 
 ## Referenced by
 - Referenced in [Commenda: US Wyoming LLC Formation & Compliance Quote](../emails/2026-10-29_Commenda_Wyoming_LLC_Quote_and_Setup)

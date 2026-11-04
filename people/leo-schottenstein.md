@@ -41,7 +41,9 @@ Partnerships lead at Truemed facilitating Letters of Medical Necessity (LMNs) an
 - On 2026-10-23, checked in with [[people/kostas-koukoravas]] and [[people/michael-michelis]] to see if the Wise USD account verification succeeded in Stripe Connect, urging completion ahead of BFCM and year-end FSA spend deadlines.
 - On 2026-10-27, followed up with [[people/kostas-koukoravas]] and [[people/michael-michelis]] with a significant concession: waived the standard $800 one-time onboarding fee outright ahead of BFCM, reaffirmed discounted commercial terms of $2 + 6.5% for one-time orders (reduced from 8%), and requested final signatory details to transmit the contract via Dropbox Sign.
 - On 2026-11-03, confirmed that another merchant evaluating Truemed with a Wise USD bank account successfully completed Stripe Connect onboarding, verifying that Wise USD is fully supported and not a technical blocker. Announced Truemed is officially live natively inside ShopPay as Shopify's exclusive HSA/FSA partner. Urged finalizing the partnership agreement ahead of BFCM (~3 weeks out; implementation takes ~1 week).
+- On 2026-11-04, [[people/kostas-koukoravas]] replied confirming Qalzy remains committed to launching with Truemed before BFCM and inquired whether their Revolut US USD business account (registered to Qalzy's UK entity with UK address) satisfies Stripe Connect onboarding requirements, or if establishing a US legal entity is mandatory.
 - Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
+- Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
 - Referenced in [Truemed: ShopPay HSA/FSA Integration & Wise USD Bank Support Confirmed](../emails/2026-11-03_Truemed_ShopPay_HSA_FSA_Wise_USD_Approved)
 
 ## Referenced by

@@ -32,7 +32,9 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - On 2026-11-02, confirmed delivery of the Qalzy smart scale unit and started testing the device to create her dedicated Reel.
 - Referenced in [Daily Email Summary: 2026-11-02](../emails/2026-11-02_daily_emails)
 - On 2026-11-03, pitched her creative concept for brand review prior to filming: *"I love making healthy food. I don't love logging every ingredient."* Outlined a short reel preparing a high-protein yogurt bowl, combining food prep, close-up scale demonstrations, and voiceover showing automatic ingredient recognition and macro logging as a certified nutritionist.
+- On 2026-11-04, [[people/michael-michelis]] confirmed creative approval and shared key filming guidelines, specifically requesting that she include the explicit phrase *"as a certified nutritionist"* in her hook to reinforce professional authority.
 - Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
+- Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
 
 <!-- timeline -->
 
