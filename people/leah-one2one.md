@@ -41,3 +41,4 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - Referenced in [Creator Partnerships: One2One Diabetes Briefing and Dr. Kaisa Outreach](../emails/2026-10-15_Influencer_Partnerships_One2One_Diabetes_and_Dr_Kaisa)
 - Referenced in [One2One Diabetes: Scale Delivery & Video Production Next Steps](../emails/2026-10-17_One2One_Diabetes_Scale_Delivery_and_Video_Production)
 - Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
+- On 2026-11-05, published her dedicated collaboration Reel on Instagram, sent the Meta collaboration invite to Qalzy, and issued Invoice #D115 ($125.00 USD) for the remaining 50% contract payment.
