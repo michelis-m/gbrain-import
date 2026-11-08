@@ -20,6 +20,7 @@ Cross-border compliance and tax remittance partner for [[companies/qalzy]], hand
 - Manages tax remittance for EU and Canadian sales. (Portless directly bills and remits US duties: $3.42 standalone per scale, $6.16 blended per order).
 - Active reconciliation underway regarding European Kickstarter backer orders to clarify remitted VAT/duties and prevent double-taxation on reshipments.
 - On 2026-10-08, Openborder notified Qalzy of a new €2 Union Handling Fee per unique customs item (HS code + Country of Origin) on B2C imports clearing EU customs on or after 2026-11-01 (collected at checkout starting 2026-10-26), levied in addition to the July 1 €3 fee.
+- On 2026-11-06, OpenBorder Operations announced a seasonal Peak Surcharge of $0.70 per parcel on cross-border shipments originating from US, UK, CN, and HK hubs, active from November 13, 2026 through January 12, 2027. Billed as a separate line item on invoices to account for peak carrier transport costs.
 
 ## Referenced by
 

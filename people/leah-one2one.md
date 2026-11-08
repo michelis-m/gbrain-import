@@ -42,3 +42,4 @@ Type 1 Diabetes advocate, community founder, and marathon runner (training for t
 - Referenced in [One2One Diabetes: Scale Delivery & Video Production Next Steps](../emails/2026-10-17_One2One_Diabetes_Scale_Delivery_and_Video_Production)
 - Referenced in [Daily Email Summary: 2026-10-17](../emails/2026-10-17_daily_emails)
 - On 2026-11-05, published her dedicated collaboration Reel on Instagram, sent the Meta collaboration invite to Qalzy, and issued Invoice #D115 ($125.00 USD) for the remaining 50% contract payment.
+- On 2026-11-06, [[people/michael-michelis]] paid the final $125.00 invoice via Shopify Order #2283. Leah confirmed receipt of payment, expressed how much she enjoys using the Qalzy scale and praised its measurement accuracy for T1D management, and agreed to keep in touch for future campaigns.

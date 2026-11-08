@@ -16,3 +16,4 @@ Health, coffee, and weight loss creator on Instagram collaborating with [[compan
 ## Facts & Notes
 - On 2026-11-04, [[people/michael-michelis]] reached out following an Instagram connection and provided the formal creator partnership agreement for review and signature.
 - Stacy confirmed receipt and indicated she is reviewing the contract to proceed with filming content for Qalzy.
+- On 2026-11-06, Stacy replied inquiring if the $250 fee (half upfront) listed in the contract was an expense she was required to pay Qalzy. Michael clarified that this is Qalzy's payment to her for her content creation, and requested she issue an invoice so Qalzy can remit payment.

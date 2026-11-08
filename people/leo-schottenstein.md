@@ -42,8 +42,11 @@ Partnerships lead at Truemed facilitating Letters of Medical Necessity (LMNs) an
 - On 2026-10-27, followed up with [[people/kostas-koukoravas]] and [[people/michael-michelis]] with a significant concession: waived the standard $800 one-time onboarding fee outright ahead of BFCM, reaffirmed discounted commercial terms of $2 + 6.5% for one-time orders (reduced from 8%), and requested final signatory details to transmit the contract via Dropbox Sign.
 - On 2026-11-03, confirmed that another merchant evaluating Truemed with a Wise USD bank account successfully completed Stripe Connect onboarding, verifying that Wise USD is fully supported and not a technical blocker. Announced Truemed is officially live natively inside ShopPay as Shopify's exclusive HSA/FSA partner. Urged finalizing the partnership agreement ahead of BFCM (~3 weeks out; implementation takes ~1 week).
 - On 2026-11-04, [[people/kostas-koukoravas]] replied confirming Qalzy remains committed to launching with Truemed before BFCM and inquired whether their Revolut US USD business account (registered to Qalzy's UK entity with UK address) satisfies Stripe Connect onboarding requirements, or if establishing a US legal entity is mandatory.
+- On 2026-11-07, Leo followed up after consulting Truemed's Solutions team: confirmed that Stripe Connect strictly requires a US entity, US business address, and US identity verification (passport or SSN). Stated that Qalzy's UK entity with US EIN cannot work with Stripe as currently constructed, halting the integration until a US entity is formalized.
 - Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
 - Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
+- Referenced in [Daily Email Summary: 2026-11-07](../emails/2026-11-07_daily_emails)
+- Referenced in [Truemed HSA/FSA: Stripe Rejection Due to UK Entity Structure](../emails/2026-11-07_Truemed_HSA_FSA_Stripe_Rejection_US_Entity_Required)
 - Referenced in [Truemed: ShopPay HSA/FSA Integration & Wise USD Bank Support Confirmed](../emails/2026-11-03_Truemed_ShopPay_HSA_FSA_Wise_USD_Approved)
 
 ## Referenced by

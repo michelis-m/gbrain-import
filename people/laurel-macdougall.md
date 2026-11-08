@@ -35,6 +35,8 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - On 2026-11-04, [[people/michael-michelis]] confirmed creative approval and shared key filming guidelines, specifically requesting that she include the explicit phrase *"as a certified nutritionist"* in her hook to reinforce professional authority.
 - Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
 - Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
+- On 2026-11-06, delivered her completed video creative draft (`copy_FD16AEE5-F270-487E-8EE9-E4A70E7FD227.mov`) via Google Drive for team review prior to publishing.
+- Referenced in [Daily Email Summary: 2026-11-07](../emails/2026-11-07_daily_emails)
 
 <!-- timeline -->
 

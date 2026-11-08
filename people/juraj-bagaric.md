@@ -13,6 +13,7 @@ trust_tier: agent_written
 **Facts:**
 - From Zagreb, Croatia. 
 - Pitched Hypefy's automated influencer sourcing and negotiation platform for a US test campaign.
+- On 2026-11-06, reached out via email pitching a holiday gifting creator campaign for Qalzy on Hypefy, emphasizing automated creator pricing based on past performance and audience data rather than creator-quoted rates, and offered to update the brief and creator list for holiday sales.
 
 ## Referenced by
 
