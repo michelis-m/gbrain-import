@@ -37,6 +37,7 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
 - On 2026-11-06, delivered her completed video creative draft (`copy_FD16AEE5-F270-487E-8EE9-E4A70E7FD227.mov`) via Google Drive for team review prior to publishing.
 - Referenced in [Daily Email Summary: 2026-11-07](../emails/2026-11-07_daily_emails)
+- On 2026-11-10, accepted the partnership invite on Instagram, granted access to her shared Google Drive folder ('Qalzy videos'), and confirmed readiness to publish the Reel. [[people/michael-michelis]] gave final approval to post and requested her final invoice. In internal syncs, the team agreed to polish minor lighting/counter differences in post-production.
 
 <!-- timeline -->
 

@@ -18,4 +18,4 @@ title: Dr. Omar Khokhar
   - Complimentary Qalzy scale ($199 value) provided for kitchen testing and long-term use.
   - $250 flat collaboration fee.
   - 60-day paid advertising usage rights via Meta Partnership Ad access.
-- Awaiting formal collaboration agreement signing and shipping address dispatch.
+- On 2026-11-10, [[people/michael-michelis]] shared the standard creator collaboration agreement Google Doc for review, feedback, and execution. Awaiting shipping address dispatch.
