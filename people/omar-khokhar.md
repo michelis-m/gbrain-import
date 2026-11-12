@@ -19,3 +19,6 @@ title: Dr. Omar Khokhar
   - $250 flat collaboration fee.
   - 60-day paid advertising usage rights via Meta Partnership Ad access.
 - On 2026-11-10, [[people/michael-michelis]] shared the standard creator collaboration agreement Google Doc for review, feedback, and execution. Awaiting shipping address dispatch.
+- On 2026-11-11, confirmed agreement to Qalzy's collaboration terms:
+  > *"looks solid my usual fee is 1k per reel, but i'm happy to support this initiative and help it grow!"*
+- Fulfilling 1 dedicated educational Reel for a $250 fee, complimentary scale, and 60-day Meta Partnership Ad rights.

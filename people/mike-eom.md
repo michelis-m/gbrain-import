@@ -43,3 +43,4 @@ Senior Officer at Familink Global, an agency and distribution firm facilitating 
 
 <!-- gbrain:materialized v1 d90e1dbc0518 -->
 - **2026-10-21** | extract-timeline-from-meetings:meetings/2026-10-21_familink_south_korea_distribution_strategy — Discussed in Familink: South Korea Wholesale Distribution Strategy
+- On 2026-11-10/11, notified [[people/kostas-koukoravas]] that while Familink appreciates Qalzy's product and team, they have determined that now is not the right time for them to pursue wholesale distribution in South Korea. Kostas thanked Mike for the clear communication and agreed to maintain contact for future expansion.
