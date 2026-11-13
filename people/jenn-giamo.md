@@ -24,6 +24,7 @@ Health and fitness creator and founder of a women's wellness group who partnered
 - On 2026-10-19, shared her agreement document for the creator partnership; [[people/michael-michelis]] requested her signature and shipping address to dispatch the scale.
 - On 2026-11-03, returned the signed collaboration agreement. [[people/michael-michelis]] dispatched a complimentary Qalzy smart scale to her Manhattan address and requested an invoice for the initial 50% payment ($87.50).
 - On 2026-11-04, confirmed tracking information was received, offered to feature Qalzy on her health and wellness podcast, and coordinated receiving the upfront deposit via PayPal.
+- On 2026-11-13, confirmed delivery of the Qalzy smart scale; out of town for the weekend and scheduled to shoot her dedicated Instagram Reel on Monday, November 16. Provided PayPal payout address (`jrgiamo@hotmail.com`). [[people/michael-michelis]] confirmed upfront payment sent and shared the creative direction script doc and hardware setup guide.
 - Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
 - Referenced in [Daily Email Summary: 2026-11-04](../emails/2026-11-04_daily_emails)
 

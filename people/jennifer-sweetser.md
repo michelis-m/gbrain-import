@@ -14,3 +14,4 @@ title: Jennifer Sweetser
 - On 2026-11-10, Jennifer accepted the partnership offer (*"Yes, Thankyou. I would love to create for you!!"*). Michael followed up to arrange contract execution and scale delivery.
 - On 2026-11-11, confirmed execution of the creator collaboration agreement (*"Great! Thankyou so much! I will get this signed"*) and submitted 36 inline edits/suggestions on the agreement document (`Qalzy_Influencer_Content_Creator_Jennifer_Sweetser.docx`). Awaiting final countersignature and scale dispatch.
 - On 2026-11-12, confirmed review and execution of the signed agreement (*"Hello, I reviewed and signed. Thankyou Jennifer"*). Collaboration active for 1 educational Reel ($175 flat fee) and 60-day paid usage rights.
+- On 2026-11-13, confirmed shipping address (1373 Mar Reef Cove 217, San Diego, CA 92154) and telephone number (619-997-7248) for carrier fulfillment; confirmed she is sending an invoice for the initial 50% deposit ($87.50).
