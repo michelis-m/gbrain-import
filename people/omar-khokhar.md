@@ -22,3 +22,4 @@ title: Dr. Omar Khokhar
 - On 2026-11-11, confirmed agreement to Qalzy's collaboration terms:
   > *"looks solid my usual fee is 1k per reel, but i'm happy to support this initiative and help it grow!"*
 - Fulfilling 1 dedicated educational Reel for a $250 fee, complimentary scale, and 60-day Meta Partnership Ad rights.
+- On 2026-11-12, reviewed, signed, and returned the executed creator contract. Provided shipping address for complimentary black scale (3 Smokey Court, Bloomington, IL 61704, phone 309-696-1294). Inquired about PayPal payment; [[people/michael-michelis]] confirmed scale order placed and requested first invoice for $125 (50% upfront).
