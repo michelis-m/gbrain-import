@@ -34,7 +34,11 @@ trust_tier: agent_written
 - On 2026-10-22, conducted weekly ad performance sync with [[people/kostas-koukoravas]] and [[people/michael-michelis]]. Explained Meta's backend 'Entity ID' creative clustering causing fatigue, established the December 14 Christmas gifting shipping cutoff, and outlined the Black Friday playbook favoring bold, simple static text ads over complex video formats.
 - On 2026-10-29, participated in SPG x Qalzy sync. Reported strong performance from the new Meta Cost Cap campaign ($90 cap), which maintained stability while highest volume campaigns saw elevated CPAs (~$166). Increased budget from $250 to $300/day to test scaling potential. Noted Triple Whale reports lower blended CPA than Meta due to attribution delays. Pushing live Michael's creator ads, prepping creator whitelisting, and compiling new headline tests and Black Friday calendar.
 
+- On 2026-11-16, led Meta ads catchup sync with [[people/michael-michelis]] and [[people/kostas-koukoravas]]. Scaled daily ad spend by $200 (to $1,600/day) ahead of Black Friday; reported Cost Cap campaign delivered $654 over the weekend. Launched redesigned Black Friday static creatives; agreed to remove raw price displays ($199) and retain '43% off' as the primary hook. Committed to overlaying Black Friday promotional banners across winning evergreen video creatives.
+
 ## Referenced by
+- Referenced in [SPG x Qalzy: Meta Ads Catchup, Budget Scaling ($1,600/day) & Black Friday Creatives](../meetings/2026-11-16_SPG_x_Qalzy_Ads_Catchup)
+
 - Referenced in [SPG x Qalzy Growth & Creative Sync: Holiday Gifting, Cost Caps & CRO](../meetings/2026-10-29_SPG_x_Qalzy_Growth_and_Creative_Sync)
 
 - Referenced in [SPG x Qalzy Weekly Call](../meetings/2026-09-30_SPG_x_Qalzy_Weekly_Call)
