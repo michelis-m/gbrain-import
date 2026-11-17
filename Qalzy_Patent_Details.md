@@ -37,7 +37,10 @@ Comprehensive prosecution history and administrative record for Qalzy's core uti
   - Confirmed: Application is fully intact, fee paid, and officially on-track for final grant issuance.
   - Service Request Number: **`2-01362236`** (special status inquiry placed by USPTO because issuance was delayed beyond standard 6–12 week timeframe).
   - Transmitted 3-page facsimile to Central Fax `(571) 273-8300` containing Cover Sheet and Form `PTO/AIA/122` signed by both inventors (Michail Michelis & Konstantinos Koukoravas) requesting change of correspondence address to Chlois 3, Drosia, Athens 14572, Greece (`michael@qalzy.com`).
-  - Follow-up Call Reference Number: **`201376822`** (USPTO stated it will take up to **10 business days** for the correspondence address update to process in the system, target date ~November 3, 2026).
+  - Follow-up Call Reference Number: **`201376822`** (USPTO stated it will take up to 10 business days for the correspondence address update to process in the system, target date ~November 3, 2026).
+- **2026-11-16:** Michael followed up with USPTO AAU.
+  - USPTO informed that the `PTO/AIA/122` correspondence address change **cannot be processed** because both applicants are domiciled outside the US. Under the **USPTO final rule effective July 20, 2026** (37 CFR 1.31(a)(2), *"Required Use by Foreign Applicants and Patent Owners of a Patent Practitioner"*), foreign-domiciled applicants must be represented by a USPTO-registered patent practitioner, and submissions signed only by foreign-domiciled applicants are rejected.
+  - Required path forward: Hire a registered US patent attorney or patent agent to file **Form `PTO/AIA/82`** (Power of Attorney to Registered Patent Practitioner), which automatically revokes Sam Pierce and updates the correspondence address / Patent Center access.
 
 ## Legal Representation & Attorney Contact
 
