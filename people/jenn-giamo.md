@@ -33,4 +33,9 @@ Health and fitness creator and founder of a women's wellness group who partnered
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 
-- On 2026-11-17, delivered her completed 45-second dedicated collaboration video () via Google Drive for team review.
+- On 2026-11-17, delivered her completed 45-second dedicated collaboration video (`Qalzy_Jenn_45s.mp4`) via Google Drive for team review.
+- On 2026-11-18, agreed to feedback edits from Michael, praised the scale ("The scale is very cool!"), and began editing the revised video cut.
+
+## Referenced by
+- Referenced in [Creator Operations: Lisa Moskovitz Logistics & Rogue Partnership Terms](../emails/2026-11-18_Influencer_Partnerships_Lisa_Moskovitz_and_Rogue)
+- Referenced in [Daily Email Summary: 2026-11-18](../emails/2026-11-18_daily_emails)

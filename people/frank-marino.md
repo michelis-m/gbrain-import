@@ -73,8 +73,12 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Daily Email Summary: 2026-11-02](../emails/2026-11-02_daily_emails)
 
 - On 2026-11-17, followed up on Redo managed returns questions regarding Order 2375, fulfillment of carrying cases graded as Open Packaging - Like New without original packaging, and destination address for the 90-day return timer.
+- On 2026-11-18, replied to urgent escalation regarding used returns (#2742, #2744, #2790) being graded "Factory Sealed" and shipped to new customers. Confirmed an immediate protocol freeze where all returned scales will be graded as opened to prevent restocking into sellable DTC SKUs, confirmed moving holding units to `QZ-01-WHT-REDO`, and proposed visual warehouse SOP rules.
 
 ## Referenced by
+- Referenced in [Redo Returns: Urgent Escalation on Used Returns Shipped to DTC Customers & Grading SOP Update](../emails/2026-11-18_Redo_Returns_Urgent_Used_Returns_and_Grading_SOP_Update)
+- Referenced in [Intelistyle Standup & Qalzy Founders Sync: Redo Used Returns Crisis, App Label Scan Bug, Patent Attorney & Court Prep](../meetings/2026-11-18_Intelistyle_Standup_and_Qalzy_Founders_Sync)
+- Referenced in [Daily Email Summary: 2026-11-18](../emails/2026-11-18_daily_emails)
 - Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)
 - Referenced in [Daily Email Summary: 2026-10-19](../emails/2026-10-19_daily_emails)
 
