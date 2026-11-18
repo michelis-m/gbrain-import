@@ -20,6 +20,8 @@ Portless support representative managing order exceptions, warehouse holds, cust
 - On 2026-10-17, intercepted customer order #2457 before picking/packing at the Shenzhen facility following [[people/kostas-koukoravas]]'s cancellation request, and reminded Qalzy to cancel the order on Shopify to keep inventory aligned.
 - On 2026-10-25, took ownership of the Kickstarter batch 11 order import (`portless_orders-20261021-080003.xlsx`) following [[people/kostas-koukoravas]]'s chase, coordinating with Portless operations to manually ingest orders while verifying address and phone formatting.
 
+- On 2026-11-17, investigated delayed customer orders #2770 and #2820 (past 48h SLA), confirmed both were in picking at Shenzhen warehouse with no system holds, and instructed the fulfillment team to expedite shipment.
+
 ## Referenced by
 
 - Referenced in [Portless: Kickstarter Import Batch 11 Manual Creation](../emails/2026-10-25_Portless_Kickstarter_Import_11)

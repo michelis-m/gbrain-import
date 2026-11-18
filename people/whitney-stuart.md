@@ -19,6 +19,8 @@ Registered Dietitian, Certified Diabetes Educator, and founder of Whitness Nutri
 - Whitney agreed to an amended contract with an updated fee of $500, a full 60-day Meta ad usage window (starting upon post publish), a dedicated Instagram Reel, and a website testimonial quote for Qalzy.
 - Provided her Dallas shipping address for scale fulfillment: 3795 Vinecrest Dr, Dallas, TX 75229 (Tel: 360-840-5880).
 
+- On 2026-11-17, submitted QuickBooks invoice #1175 for the initial 50% deposit (50.00), which was paid by [[people/michael-michelis]]. Complimentary scale dispatched to her Dallas address.
+
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-11-16](../emails/2026-11-16_daily_emails)
 - Referenced in [Whitney Stuart: Paid Partnership Agreement Signed ($500)](../emails/2026-11-16_Whitney_Stuart_Partnership_Agreement_Signed)

@@ -31,6 +31,8 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 
 - On 2026-10-14, clarified that Redo requires custom draft SKUs created directly on Qalzy's primary Shopify store for warranty replacement and returned unit routing. Confirmed receipt after [[people/kostas-koukoravas]] created draft product `16071809696125` with SKUs `QZ-01-BLK-REDO` and `QZ-01-WHT-REDO`.
 
+- On 2026-11-17, followed up on Redo managed returns questions regarding Order 2375, fulfillment of carrying cases graded as Open Packaging - Like New without original packaging, and destination address for the 90-day return timer.
+
 ## Referenced by
 
 - Referenced in [Daily Email Summary: 2026-10-09](../emails/2026-10-09_daily_emails)
@@ -69,6 +71,8 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - Referenced in [Redo Returns: Return #2289 Flagged Broken Dispute & Human Review](../emails/2026-10-22_Redo_Returns_Return_2289_Damage_Dispute)
 - Referenced in [Daily Email Summary: 2026-10-22](../emails/2026-10-22_daily_emails)
 - Referenced in [Daily Email Summary: 2026-11-02](../emails/2026-11-02_daily_emails)
+
+- On 2026-11-17, followed up on Redo managed returns questions regarding Order 2375, fulfillment of carrying cases graded as Open Packaging - Like New without original packaging, and destination address for the 90-day return timer.
 
 ## Referenced by
 - Referenced in [Redo Returns: Warehouse Processing Flow & Influencer SKU Mapping](../emails/2026-10-19_Redo_Returns_SKU_Mapping_and_Cosmetic_Damage_Agreement)

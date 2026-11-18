@@ -18,6 +18,8 @@ title: Jennifer Sweetser
 
 - On 2026-11-16, submitted her invoice for the initial 50% upfront deposit ($87.50). [[people/michael-michelis]] confirmed that a complimentary Qalzy smart scale has been ordered and dispatched to her San Diego residence.
 
+- On 2026-11-17, confirmed receipt of the upfront 50% payment (7.50) from [[people/michael-michelis]] and confirmed she is keeping an eye out for the scale delivery.
+
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-11-16](../emails/2026-11-16_daily_emails)
 - Referenced in [Jennifer Sweetser: Upfront Deposit Invoice Received ($87.50)](../emails/2026-11-16_Jennifer_Sweetser_Invoice_Received)
