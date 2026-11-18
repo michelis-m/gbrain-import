@@ -41,6 +41,7 @@ Comprehensive prosecution history and administrative record for Qalzy's core uti
 - **2026-11-16:** Michael followed up with USPTO AAU.
   - USPTO informed that the `PTO/AIA/122` correspondence address change **cannot be processed** because both applicants are domiciled outside the US. Under the **USPTO final rule effective July 20, 2026** (37 CFR 1.31(a)(2), *"Required Use by Foreign Applicants and Patent Owners of a Patent Practitioner"*), foreign-domiciled applicants must be represented by a USPTO-registered patent practitioner, and submissions signed only by foreign-domiciled applicants are rejected.
   - Required path forward: Hire a registered US patent attorney or patent agent to file **Form `PTO/AIA/82`** (Power of Attorney to Registered Patent Practitioner), which automatically revokes Sam Pierce and updates the correspondence address / Patent Center access.
+  - Hired **Rory Flanagan** (USPTO Registration No. **`85087`**) via Upwork to take over representation and file `PTO/AIA/82` + `PTO/AIA/122` (correspondence address update).
 
 ## Legal Representation & Attorney Contact
 
