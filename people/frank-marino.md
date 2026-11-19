@@ -94,3 +94,5 @@ Technical shipping and onboarding specialist at Redo handling reverse-logistics 
 - **2026-10-08** | extract-timeline-from-meetings:meetings/2026-10-08_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Redo Unlisted SKU, US 3PL Modeling, Awin Affiliate, and PDP CRO
 <!-- gbrain:materialized v1 e8ce3712fc29 -->
 - **2026-10-09** | extract-timeline-from-meetings:meetings/2026-10-09_intelistyle_standup_and_qalzy_operations — Discussed in Intelistyle Standup & Qalzy Operations: Ad Budget Scaling, Case Inventory Air Freight, Landing Page CRO, and Onboarding Education
+
+- On 2026-11-19, [[people/michael-michelis]] replied instructing Redo to ensure all returned orders map directly to `-REDO` SKUs to prevent any returned/used scales from ever shipping to new DTC customers, agreeing that warehouse staff can still tag genuine factory-sealed units internally for future review.

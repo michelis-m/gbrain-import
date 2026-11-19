@@ -20,3 +20,5 @@ title: Heather Grapperhaus
 - On 2026-11-06 (evening), Heather returned the fully executed and signed collaboration agreement images, officially activating the partnership.
 - On 2026-11-09, provided shipping details for scale dispatch (334 Allesandra Dr, Clayton, NC 27527, PH: 314-783-6404) and inquired regarding preferred invoice payment methods for the $150 deposit (PayPal, manual check, etc.).
 - On 2026-11-10, [[people/michael-michelis]] confirmed a Qalzy scale shipment has been arranged. Heather submitted her $150 invoice (Invoice #0001 under Heather Thixton via PayPal); Michael forwarded it to [[people/kostas-koukoravas]], who completed the payment.
+
+- On 2026-11-19, confirmed retrieving the scale from her mail locker, but informed Michael that she fractured her left wrist and is in a hard cast for ~4 weeks. [[people/michael-michelis]] agreed to pause filming until she recovers.

@@ -17,6 +17,7 @@ trust_tier: agent_written
 Venture capital investor at Jenson Ventures, a London-based early-stage fund focused on SEIS and EIS investments. Jenson has a history of backing UK early-stage hardware and consumer health tech startups.
 
 ## Facts & Notes
+- On 2026-11-19, attended the monthly board investor sync with [[people/kostas-koukoravas]] and [[people/michael-michelis]]. Reviewed strong Q4 performance metrics (ROAS 1.8x in Oct, 2.0x MTD in Nov; contribution margin expanded from 15% to 24%), agreed to pause US entity formation due to dual tax complexity, discussed inventory runway (~3,500 units remaining, stockout around June/July 2027), Batch 2 financing requirements ($150k–$250k), US 3PL transition, and CES 2027 Eureka Park booth acceptance.
 - On 2026-10-02, [[people/michael-michelis]] introduced [[people/humphrey-maddan]] (Founder of REMAKER) to Jeffrey via warm email introduction to explore SEIS/EIS investment into REMAKER's current seed funding round.
 
 ## Referenced by

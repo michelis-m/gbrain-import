@@ -24,3 +24,5 @@ Registered Dietitian, Certified Diabetes Educator, and founder of Whitness Nutri
 ## Referenced by
 - Referenced in [Daily Email Summary: 2026-11-16](../emails/2026-11-16_daily_emails)
 - Referenced in [Whitney Stuart: Paid Partnership Agreement Signed ($500)](../emails/2026-11-16_Whitney_Stuart_Partnership_Agreement_Signed)
+
+- On 2026-11-19, [[people/michael-michelis]] paid the $250 QuickBooks invoice via PayPal and confirmed scale dispatch, awaiting delivery confirmation before filming commences.

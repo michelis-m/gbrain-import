@@ -39,3 +39,5 @@ Health and fitness creator and founder of a women's wellness group who partnered
 ## Referenced by
 - Referenced in [Creator Operations: Lisa Moskovitz Logistics & Rogue Partnership Terms](../emails/2026-11-18_Influencer_Partnerships_Lisa_Moskovitz_and_Rogue)
 - Referenced in [Daily Email Summary: 2026-11-18](../emails/2026-11-18_daily_emails)
+
+- On 2026-11-19, delivered updated video revision `Qalzy_Jenn_45s_v5_scale_zoom.mp4` implementing Michael's feedback with an enhanced close-up zoom on the scale display at 0:30s.
