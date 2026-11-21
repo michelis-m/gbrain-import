@@ -45,6 +45,11 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
   - Analyzed qualitative user feedback on the product page: identified plate sizing doubts, missing counter dimensions, unhighlighted folding camera mechanism, and poor micronutrient/vitamin visibility; reaffirmed strict A/B testing methodology for all improvements.
   - Assessed buyer psychology on countdown banners, concluding that a 15-day countdown softens purchase urgency.
   - Evaluated the clinical research/trials market after consulting with an industry insider, determining that selling consumer scales into formal clinical trials is an uphill battle and deprioritizing it in favor of core DTC growth.
+- **2026-11-20 Operations, Influencer Terms & CES Logistics:**
+  - Reviewed landing page CRO A/B test results showing a 62% conversion loss from distracting interactive feature/recipe sections; agreed to stop the variant immediately.
+  - Noted surge in customer inquiries regarding HSA/FSA payment options and discussed VAT accounting accountability needs.
+  - Aligned on strict creator terms for GLP-1 influencer 3Cath: 60-day paid media rights and perpetual organic usage license (rejecting 90-day paid / 12-month limited organic).
+  - Reviewed CES 2026 logistics, confirming booth artwork submitted and remaining needs: iPad, router, flyers. Dispatched board meeting notes to Jeffrey Faustin at Jenson Ventures.
 
 ## Referenced by
 

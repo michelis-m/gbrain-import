@@ -28,6 +28,7 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - In the 2026-09-30 standup, reported completing category mapping and image quality for Epicure and Twist, and Twist/Epicure Shop the Look; coordinated with Michael and Kostas on Guess feed indexation timelines and outfit approval prerequisites.
 - In the 2026-10-06 standup, reported completing category mapping and image quality for Kiba, Ipekyol ("Epikill"), Twist, and Guess, plus Shop the Look for Kiba, Ipekyol, and Twist. Finalized Guess client email response. Transitioned to Guess queue with ~830 items remaining (including reapprovals), targeting ~150 items today. Confirmed Twist portal is now directly accessible; Ipekyol remains geo-blocked (advised to test Turkish VPN).
 - In the 2026-11-09 standup, reported completing Guess and De Cuba Shop the Look and Guess re-approvals on Friday. Focusing today on new Guess arrivals while Michael investigates the De Cuba queue.
+- In the 2026-11-20 standup, reported completing image quality for De Cuba and Guess, Guess re-approvals, De Cuba Shop the Look, and Guess Shop the Look; continuing with De Cuba new arrivals (~6-7 items) and finishing De Cuba tasks for the week.
 
 ## Referenced by
 

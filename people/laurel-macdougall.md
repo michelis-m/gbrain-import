@@ -39,6 +39,7 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - Referenced in [Daily Email Summary: 2026-11-07](../emails/2026-11-07_daily_emails)
 - On 2026-11-10, accepted the partnership invite on Instagram, granted access to her shared Google Drive folder ('Qalzy videos'), and confirmed readiness to publish the Reel. [[people/michael-michelis]] gave final approval to post and requested her final invoice. In internal syncs, the team agreed to polish minor lighting/counter differences in post-production.
 - On 2026-11-14, agreed to produce a second video ad for a $150 budget focusing on an "eat little vs. eat a lot" portion-comparison visual concept, requesting creative direction and storyboard guidance before filming.
+- On 2026-11-20, delivered a revised second video draft via Google Drive (`1dMjDMcmGqKCUqF1-QxF8FV_591hlHUxR`), explaining she re-shot with alternative ingredients after experiencing recognition issues with low-fat food items on the initial attempt.
 - Referenced in [Daily Email Summary: 2026-11-14](../emails/2026-11-14_daily_emails)
 - Referenced in [Influencer Partnership: Laurel Macdougall Agrees to Second Video Collaboration ("Eat Little vs. A Lot")](../emails/2026-11-14_Laurel_Macdougall_Second_Video_Partnership_Agreed)
 
