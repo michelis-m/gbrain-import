@@ -42,3 +42,8 @@ Health and fitness creator and founder of a women's wellness group who partnered
 
 - On 2026-11-19, delivered updated video revision `Qalzy_Jenn_45s_v5_scale_zoom.mp4` implementing Michael's feedback with an enhanced close-up zoom on the scale display at 0:30s.
 - On 2026-11-20, Michael approved the revised cut and requested posting with `@getqalzy` invited as collaborator; Jenn expressed excitement for ongoing collaboration and pitched a co-branded nutrition series. Final invoice pending post publication.
+- On 2026-11-22, submitted final invoice `QALZY INVOICE .pdf` for remaining balance of $87.50 USD for Product Social Content, payable within 30 days to Jennifer Giamo (27 W 72nd St #601, NY NY 10023, PayPal: `jrgiamo@hotmail.com`).
+
+## Referenced by
+- Referenced in [Creator Operations: Jennifer Giamo Final Invoice Received](../emails/2026-11-22_Jenn_Giamo_Final_Invoice)
+- Referenced in [Daily Email Summary: 2026-11-22](../emails/2026-11-22_daily_emails)
