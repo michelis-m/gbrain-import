@@ -50,6 +50,11 @@ Context: Handles customer support escalations, logistics/fulfillment (Portless s
   - Noted surge in customer inquiries regarding HSA/FSA payment options and discussed VAT accounting accountability needs.
   - Aligned on strict creator terms for GLP-1 influencer 3Cath: 60-day paid media rights and perpetual organic usage license (rejecting 90-day paid / 12-month limited organic).
   - Reviewed CES 2026 logistics, confirming booth artwork submitted and remaining needs: iPad, router, flyers. Dispatched board meeting notes to Jeffrey Faustin at Jenson Ventures.
+- **2026-11-23 Ad Creatives, CES Collateral & Operations:**
+  - Reviewed ad copy and mobile legibility: flagged that card text on 9:16 and 4:3 ads is unreadable for the 50+ target demographic; committed to resizing cards in Figma.
+  - Evaluated video cuts: discussed authentic hands-on product demos (cooking moussaka/spanakopita) vs AI-generated Fathom footage; confirmed need for strong 2-3 second visual hooks.
+  - Evaluated CES networking collateral: agreed to print 250 premium business cards each (incorporating QR code) rather than official badge scanning rentals or bulk low-quality stock; tasked with using Claude/AI to generate a modern template.
+  - Investigated weekend customer support escalation regarding an ambiguous user issue.
 
 ## Referenced by
 

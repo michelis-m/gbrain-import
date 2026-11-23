@@ -40,8 +40,11 @@ Nutritionist and health/wellness creator on Instagram focusing on clean eating, 
 - On 2026-11-10, accepted the partnership invite on Instagram, granted access to her shared Google Drive folder ('Qalzy videos'), and confirmed readiness to publish the Reel. [[people/michael-michelis]] gave final approval to post and requested her final invoice. In internal syncs, the team agreed to polish minor lighting/counter differences in post-production.
 - On 2026-11-14, agreed to produce a second video ad for a $150 budget focusing on an "eat little vs. eat a lot" portion-comparison visual concept, requesting creative direction and storyboard guidance before filming.
 - On 2026-11-20, delivered a revised second video draft via Google Drive (`1dMjDMcmGqKCUqF1-QxF8FV_591hlHUxR`), explaining she re-shot with alternative ingredients after experiencing recognition issues with low-fat food items on the initial attempt.
+- On 2026-11-23, following Michael's review and request for raw assets, uploaded the full raw video files to Google Drive (`1TLq8iaYQab0PPP42gSO_i5W5wqDFsRQR`) and submitted Invoice # CEM2026-05 (`Qalzy_Invoice_10222026`) for $150 USD covering 1 reel + raw format.
 - Referenced in [Daily Email Summary: 2026-11-14](../emails/2026-11-14_daily_emails)
 - Referenced in [Influencer Partnership: Laurel Macdougall Agrees to Second Video Collaboration ("Eat Little vs. A Lot")](../emails/2026-11-14_Laurel_Macdougall_Second_Video_Partnership_Agreed)
+- Referenced in [Laurel Macdougall Raw Videos & Invoice](../emails/2026-11-23_Laurel_Macdougall_Raw_Videos_and_Invoice)
+- Referenced in [Daily Email Summary: 2026-11-23](../emails/2026-11-23_daily_emails)
 
 <!-- timeline -->
 

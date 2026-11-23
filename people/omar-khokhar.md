@@ -24,3 +24,5 @@ title: Dr. Omar Khokhar
 - Fulfilling 1 dedicated educational Reel for a $250 fee, complimentary scale, and 60-day Meta Partnership Ad rights.
 - On 2026-11-12, reviewed, signed, and returned the executed creator contract. Provided shipping address for complimentary black scale (3 Smokey Court, Bloomington, IL 61704, phone 309-696-1294). Inquired about PayPal payment; [[people/michael-michelis]] confirmed scale order placed and requested first invoice for $125 (50% upfront).
 - On 2026-11-13, confirmed that his PayPal payout address matches his primary email (`okhokhar78@yahoo.com`) for the initial $125 upfront deposit invoice.
+- On 2026-11-23, confirmed receipt and setup of his Qalzy scale ("yep, I installed it and weighed a few things and I'll keep tinkering with it and make a video this week"). Michael offered content support and confirmed anticipation of the video.
+- Referenced in [Daily Email Summary: 2026-11-23](../emails/2026-11-23_daily_emails)
