@@ -18,3 +18,5 @@ Founder and CEO of BioElite Health (personalized 12-week health, nutrition, and 
 - On 2026-11-20, initiated an inbound affiliate partnership proposal with [[companies/qalzy]] to feature the Qalzy smart kitchen scale on bioelitehealth.com and integrate with partner clinics via Veritome.io.
 - Agreed to Qalzy partner program terms: 10% affiliate commission on sales, dedicated 10% customer discount code (`BIOELITE10`), 30-day tracking attribution window, and approved product assets.
 - Requested high-resolution scale renders and specs to build mockups of dedicated feature pages for review.
+- On 2026-11-24, shared the interactive client dashboard prototype for his platform Veritome (`https://vtdashboardprototype.netlify.app`), highlighting the "Plan" module where clinical nutrition and fitness plans are created from patient diagnostic testing, indicating Qalzy integration can be a major game changer.
+- Referenced in [Daily Email Summary: 2026-11-24](../emails/2026-11-24_daily_emails)

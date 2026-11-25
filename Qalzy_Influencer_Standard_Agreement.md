@@ -1,7 +1,12 @@
 ---
 type: note
 title: Qalzy Influencer & Content Creator Master Agreement (Standard)
-tags: [qalzy, influencer, agreement, legal, template]
+tags:
+  - agreement
+  - influencer
+  - legal
+  - qalzy
+  - template
 ---
 
 # Qalzy Influencer & Content Creator Master Agreement (Standard)
