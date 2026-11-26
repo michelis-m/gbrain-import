@@ -22,3 +22,4 @@ Canadian outdoor and food creator sharing realistic home cooking, wild game harv
   - 20.4M TikTok views (August 30 – October 28, 2026).
   - ~81% of audience located in Canada and the United States.
 - Demonstrated product conversion track record with kitchen/cooking equipment (e.g. Meatdryer hook kit reel).
+- On 2026-11-25, gently followed up with [[people/michael-michelis]] regarding her partnership pitch and media kit, highlighting recent performance metrics (23k+ followers, 4.78M 90-day Instagram views, recent cooking reel driving 20k+ views and direct kit sales). Requested guidance on the appropriate marketing contact for creator collaborations.

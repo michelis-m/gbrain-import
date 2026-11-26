@@ -24,6 +24,7 @@ Host of the Healthcare Rap podcast covering consumer digital health, patient exp
 - On 2026-10-14, confirmed receipt of two Qalzy scale units and agreed to collaborate on video content and promotion following his podcast interview with [[people/kostas-koukoravas]].
 - On 2026-11-03, [[people/kostas-koukoravas]] checked in on his availability to film the planned product review video and sent a prepaid return shipping label for the second scale.
 - On 2026-11-10, Jared replied apologizing for the recording delay due to recent travel and illness, stating he plans to work on the product review recording soon. [[people/kostas-koukoravas]] replied requesting his estimated timeframe to coordinate Qalzy's social media release schedule.
+- On 2026-11-25, Jared notified [[people/kostas-koukoravas]] that after 6 consecutive weeks on the road he is finally back home and shooting the Qalzy scale video test drive to post next week after Thanksgiving weekend. Confirmed he initiated the return of the second scale unit. Kostas wished him a Happy Thanksgiving and confirmed looking forward to the video.
 - Referenced in [Daily Email Summary: 2026-11-03](../emails/2026-11-03_daily_emails)
 
 ## Referenced by
