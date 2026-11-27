@@ -1,3 +1,9 @@
+---
+type: company
+title: Shiraki
+subtype: company
+---
+
 # Shiraki
 
 Japanese restaurant in Syntagma, Athens (sushi, sashimi, udon, donburi).

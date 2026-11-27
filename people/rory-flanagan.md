@@ -17,5 +17,7 @@ US patent practitioner engaged by [[companies/qalzy]] via Upwork to handle repre
 - Responsible for submitting Form `PTO/AIA/82` (Power of Attorney) to revoke former attorney Sam Pierce, update the official correspondence address, and manage patent issuance follow-up with Examiner Sherrie Y Hsia.
 - Accepted the contract on 2026-11-18.
 - On 2026-11-23, Upwork processed the weekly billing summary confirming the $200.00 USD fixed-price deposit charge for the contract *"USPTO-Registered Patent Agent/Attorney for Form PTO/AIA/82 & Issuance Follow-Up"*.
+- On 2026-11-26, contacted [[people/michael-michelis]] via Upwork offering to transfer patent application `19/297,002` to his Patent Center account and customer number for $325. Raised a regulatory issue: using USPTO as a receiving office requires an applicant to be a US citizen or permanent resident; non-qualifying foreign filings risk being transferred to WIPO or the appropriate receiving office with forwarding fees and potential clawbacks of micro/small entity fee discounts. Offered to audit the previous attorney's filings once the PCT arrives in his Patent Center.
 - Referenced in [Upwork: Rory Flanagan Patent Filing Deposit](../emails/2026-11-23_Upwork_Rory_Flanagan_Patent_Filing_Deposit)
 - Referenced in [Daily Email Summary: 2026-11-23](../emails/2026-11-23_daily_emails)
+- Referenced in [Daily Email Summary: 2026-11-26](../emails/2026-11-26_daily_emails)
