@@ -30,6 +30,7 @@ Team member handling brand catalogs, product mapping, new arrivals, and category
 - In the 2026-11-09 standup, reported completing Guess and De Cuba Shop the Look and Guess re-approvals on Friday. Focusing today on new Guess arrivals while Michael investigates the De Cuba queue.
 - In the 2026-11-20 standup, reported completing image quality for De Cuba and Guess, Guess re-approvals, De Cuba Shop the Look, and Guess Shop the Look; continuing with De Cuba new arrivals (~6-7 items) and finishing De Cuba tasks for the week.
 - In the 2026-11-23 standup, aligned with [[people/michael-michelis]] on establishing De Cuba as the standing priority for Mondays; confirmed running the 2:45 batch job and finishing task 5.1 before continuing with Guess.
+- In the 2026-11-27 standup, reported completing image quality for Guess, De Cuba, and Guess Shop the Look yesterday; started today with Guess Shop the Look, then continuing with De Cuba and Guess.
 
 ## Referenced by
 
